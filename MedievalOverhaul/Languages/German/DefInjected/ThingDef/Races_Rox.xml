@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Rox.label>Rox</DankPyon_Rox.label>
+	<DankPyon_Rox.description>Der Rox ist ein majestätisches, großes Geschöpf mit dickem, luxuriösem Fell und zwei beeindruckenden Hörnern, die seinen Kopf krönen. Dieses riesige Tier ist für sein sanftes Verhalten bekannt und liefert reichhaltige, cremige Milch, während sein geschorenes und zu feinem Garn gesponnenes Fell für seine Wärme und Weichheit hoch geschätzt wird. Die imposante Größe des Rox, kombiniert mit seinem wohlwollenden Wesen und den markanten Hörnern, macht ihn zu einem beliebten und unverzichtbaren Bestandteil jeder Siedlung.</DankPyon_Rox.description>
+	
+	<DankPyon_Rox.tools.0.label>Horn</DankPyon_Rox.tools.0.label>
+	<DankPyon_Rox.tools.2.label>linker Fuß</DankPyon_Rox.tools.2.label>
+	<DankPyon_Rox.tools.3.label>rechter Fuß</DankPyon_Rox.tools.3.label>
+	<DankPyon_Rox.tools.4.label>Kopf</DankPyon_Rox.tools.4.label>
+</LanguageData>

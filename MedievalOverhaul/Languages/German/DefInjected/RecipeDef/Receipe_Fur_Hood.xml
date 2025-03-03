@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_HoodBase.description>Stelle aus dem Fell eines Tieres eine Fellkapuze her.</DankPyon_HoodBase.description>
+	<DankPyon_HoodBase.jobString>Herstellung einer Fellkapuze.</DankPyon_HoodBase.jobString>
+	
+	<DankPyon_MakeHeadgear_WolfTimber.label>Wolfshaube (Timber) herstellen</DankPyon_MakeHeadgear_WolfTimber.label>
+	<DankPyon_MakeHeadgear_WolfArctic.label>Wolfshaube (Arktik) herstellen</DankPyon_MakeHeadgear_WolfArctic.label>
+	<DankPyon_MakeHeadgear_BearGrizzly.label>Wolfshaube (Grizzly) herstellen</DankPyon_MakeHeadgear_BearGrizzly.label>
+	<DankPyon_MakeHeadgear_BearPolar.label>Wolfshaube (Polar) herstellen</DankPyon_MakeHeadgear_BearPolar.label>
+	
+	<DankPyon_MakeHeadgear_Direwolf.label>Schattenwolffell herstellen</DankPyon_MakeHeadgear_Direwolf.label>
+	<DankPyon_MakeHeadgear_Direwolf.description>Stelle ein Schattenwolffell her.</DankPyon_MakeHeadgear_Direwolf.description>
+	<DankPyon_MakeHeadgear_Direwolf.jobString>Herstellung eines Schattenwolffells.</DankPyon_MakeHeadgear_Direwolf.jobString>
+	
+	<DankPyon_MakeHeadgear_HyenaPelt.label>Hyänenfell herstellen</DankPyon_MakeHeadgear_HyenaPelt.label>
+	<DankPyon_MakeHeadgear_HyenaPelt.description>Stelle ein Hyänenfell her.</DankPyon_MakeHeadgear_Direwolf.description>
+	<DankPyon_MakeHeadgear_HyenaPelt.jobString>Herstellung eines Hyänenfells.</DankPyon_MakeHeadgear_HyenaPelt.jobString>
+	
+	<DankPyon_Apparel_LindwurmCloak.label>Lindwurmumhang herstellen</DankPyon_Apparel_LindwurmCloak.label>
+	<DankPyon_Apparel_LindwurmCloak.description>Stelle einen Lindwurmumhang her.</DankPyon_Apparel_LindwurmCloak.description>
+	<DankPyon_Apparel_LindwurmCloak.jobString>Herstellung eines Lindwurmumhangs.</DankPyon_Apparel_LindwurmCloak.jobString>
+	
+	<DankPyon_Apparel_FurCloak.label>Fellumhang herstellen</DankPyon_Apparel_FurCloak.label>
+	<DankPyon_Apparel_FurCloak.description>Stelle einen Fellumhang her.</DankPyon_Apparel_FurCloak.description>
+	<DankPyon_Apparel_FurCloak.jobString>Herstellung eines Fellumhangs.</DankPyon_Apparel_FurCloak.jobString>
+	
+	<DankPyon_Apparel_BonePlating.label>Knochenplatte herstellen</DankPyon_Apparel_BonePlating.label>
+	<DankPyon_Apparel_BonePlating.description>Stelle eine Knochenplatte her.</DankPyon_Apparel_BonePlating.description>
+	<DankPyon_Apparel_BonePlating.jobString>Herstellung einer Knochenplatte.</DankPyon_Apparel_BonePlating.jobString>
+	
+	<DankPyon_Apparel_AdditionalFurPadding.label>Zusätzliche Fellpolsterung herstellen</DankPyon_Apparel_AdditionalFurPadding.label>
+	<DankPyon_Apparel_AdditionalFurPadding.description>Stelle eine zusätzliche Fellpolsterung her.</DankPyon_Apparel_AdditionalFurPadding.description>
+	<DankPyon_Apparel_AdditionalFurPadding.jobString>Herstellung einer zusätzliche Fellpolsterung.</DankPyon_Apparel_AdditionalFurPadding.jobString>
+	
+	<DankPyon_Apparel_RunesAndSigils.label>Runen und Siegel herstellen</DankPyon_Apparel_RunesAndSigils.label>
+	<DankPyon_Apparel_RunesAndSigils.description>Stelle Runen und Siegel her.</DankPyon_Apparel_RunesAndSigils.description>
+	<DankPyon_Apparel_RunesAndSigils.jobString>Herstellung von Runen und Siegeln.</DankPyon_Apparel_RunesAndSigils.jobString>
+
+</LanguageData>

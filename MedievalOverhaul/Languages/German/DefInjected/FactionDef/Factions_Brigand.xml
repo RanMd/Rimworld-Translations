@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_BrigandFactionBase.pawnSingular>Räuber</DankPyon_BrigandFactionBase.pawnSingular>
+	<DankPyon_BrigandFactionBase.pawnsPlural>Räuber</DankPyon_BrigandFactionBase.pawnsPlural>
+	<DankPyon_BrigandFactionBase.leaderTitle>Räuberführer</DankPyon_BrigandFactionBase.leaderTitle>
+	
+	<DankPyon_BrigandFaction.label>Räuber</DankPyon_BrigandFaction.label>
+	<DankPyon_BrigandFaction.description>Plünderer und Ausbeuter, die Gesetze sind nichts für sie. Es kommt häufig vor, dass Räuber mit bösen Absichten in nahegelegene Siedlungen eindringen.</DankPyon_BrigandFaction.description>
+</LanguageData>

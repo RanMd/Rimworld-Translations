@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Damage_BallistaBolt.label>Bolzenfragment</DankPyon_Damage_BallistaBolt.label>
+	<DankPyon_Damage_BallistaBolt.deathMessage>{0} wurde von einem Ballistenbolzen aufgespießt.</DankPyon_Damage_BallistaBolt.deathMessage>
+	
+	<DankPyon_Boulder.label>Felsblock</DankPyon_Boulder.label>
+	<DankPyon_Boulder.deathMessage>{0} wurde von einem Felsbrocken erdrückt.</DankPyon_Boulder.deathMessage>
+	
+	<DankPyon_BoulderTarred.label>Felsblock</DankPyon_BoulderTarred.label>
+	<DankPyon_BoulderTarred.deathMessage>{0} wurde von einem Felsbrocken erdrückt.</DankPyon_BoulderTarred.deathMessage>
+	
+	<DankPyon_SchratCollapse.label>Schrat-Zusammenbruch</DankPyon_SchratCollapse.label>
+	<DankPyon_SchratCollapse.deathMessage>{0} wurde vom Stamm eines Schrats zu Tode gequetscht.</DankPyon_SchratCollapse.deathMessage>
+	
+	<DankPyon_LindwurmAcid.label>Lindwurmbiss</DankPyon_LindwurmAcid.label>
+	<DankPyon_LindwurmAcidBurn.label>Lindwurm-Säureverbrennung</DankPyon_LindwurmAcidBurn.label>
+	
+	<DankPyon_Swallow.label>komplett verschluckt</DankPyon_Swallow.label>
+	<DankPyon_Swallow.deathMessage>{0} wurde tot gebissen.</DankPyon_Swallow.deathMessage>
+
+	<DankPyon_Daze.label>Benommenheit</DankPyon_Daze.label>
+</LanguageData>

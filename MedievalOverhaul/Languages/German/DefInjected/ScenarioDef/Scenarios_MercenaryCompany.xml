@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_MercenaryStart.label>Kampfbrüder</DankPyon_MercenaryStart.label>
+	<DankPyon_MercenaryStart.description>Dein Herr, dem du und deine Kameraden ewig treu geblieben sind, solange Geld vorhanden ist, ist in einer kurzen Schlacht gefallen. Frei von deinem Eid zog deine Söldnerbande in benachbarte Städte und Gemeinden auf der Suche nach Möglichkeiten für Silber und Ansehen, wurde aber enttäuscht, als sie friedliche Siedlungen voller Kopfgelder vorfand, die nur für einen Tageslohn reichten. Begierig auf einen Neuanfang besiedeln du und deine Kameraden Land in der Wildnis, in der Hoffnung, eines Tages Wohlstand zu erlangen und zu früherem Ruhm zurückzukehren.</DankPyon_MercenaryStart.description>
+	  
+	<DankPyon_MercenaryStart.scenario.summary>Fünf hartgesottene Krieger, die ihren früheren Ruhm zurückgewinnen.</DankPyon_MercenaryStart.scenario.summary>
+	<DankPyon_MercenaryStart.scenario.parts.2.structureLabel>Eine Burgruine</DankPyon_MercenaryStart.scenario.parts.2.structureLabel>
+	<DankPyon_MercenaryStart.scenario.name>Kampfbrüder</DankPyon_MercenaryStart.scenario.name>
+	<DankPyon_MercenaryStart.scenario.summary>Fünf hartgesottene Krieger, die ihren früheren Ruhm zurückgewinnen.</DankPyon_MercenaryStart.scenario.summary>
+	<DankPyon_MercenaryStart.scenario.description>Dein Herr, dem du und deine Kameraden ewig treu geblieben sind, solange Geld vorhanden ist, ist in einer kurzen Schlacht gefallen. Frei von deinem Eid zog deine Söldnerbande in benachbarte Städte und Gemeinden auf der Suche nach Möglichkeiten für Silber und Ansehen, wurde aber enttäuscht, als sie friedliche Siedlungen voller Kopfgelder vorfand, die nur für einen Tageslohn reichten. Begierig auf einen Neuanfang besiedeln du und deine Kameraden Land in der Wildnis, in der Hoffnung, eines Tages Wohlstand zu erlangen und zu früherem Ruhm zurückzukehren.</DankPyon_MercenaryStart.scenario.description>
+</LanguageData>

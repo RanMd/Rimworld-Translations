@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_MakeTallow.label>Talg herstellen</DankPyon_MakeTallow.label>
+	<DankPyon_MakeTallow.description>Fett zu Talg verarbeiten.</DankPyon_MakeTallow.description>
+	<DankPyon_MakeTallow.jobString>1 Talg herstellen.</DankPyon_MakeTallow.jobString>
+	
+	<DankPyon_MakeTallowBulk.label>Talg herstellen 5x</DankPyon_MakeTallowBulk.label>
+	<DankPyon_MakeTallowBulk.description>Fett zu Talg verarbeiten 5x.</DankPyon_MakeTallowBulk.description>
+	<DankPyon_MakeTallowBulk.jobString>5 Talg herstellen.</DankPyon_MakeTallowBulk.jobString>
+	
+	<DankPyon_MakeSpice.label>Gewürz herstellen</DankPyon_MakeSpice.label>
+	<DankPyon_MakeSpice.description>Stelle Gewürze aus rohen Kräutern her.</DankPyon_MakeSpice.description>
+	<DankPyon_MakeSpice.jobString>1 Gewürz herstellen.</DankPyon_MakeSpice.jobString>
+	
+	<DankPyon_MakeSpiceBulk.label>Gewürz herstellen 10x</DankPyon_MakeSpiceBulk.label>
+	<DankPyon_MakeSpiceBulk.description>Stelle Gewürze aus rohen Kräutern her 10x.</DankPyon_MakeSpiceBulk.description>
+	<DankPyon_MakeSpiceBulk.jobString>10 Gewürz herstellen.</DankPyon_MakeSpiceBulk.jobString>
+	
+	<DankPyon_CookMealBoneSoup.label>Knochensuppe kochen</DankPyon_CookMealBoneSoup.label>
+	<DankPyon_CookMealBoneSoup.description>Knochensuppe kochen.</DankPyon_CookMealBoneSoup.description>
+	<DankPyon_CookMealBoneSoup.jobString>Knochensuppe kochen.</DankPyon_CookMealBoneSoup.jobString>
+	
+	<DankPyon_CookMealBoneSoupBulk.label>Knochensuppe kochen 5x</DankPyon_CookMealBoneSoupBulk.label>
+	<DankPyon_CookMealBoneSoupBulk.description>Knochensuppe kochen 5x.</DankPyon_CookMealBoneSoupBulk.description>
+	<DankPyon_CookMealBoneSoupBulk.jobString>Knochensuppe kochen 5x.</DankPyon_CookMealBoneSoupBulk.jobString>
+	
+	<DankPyon_BakeBread.label>Brot backen x2</DankPyon_BakeBread.label>
+	<DankPyon_BakeBread.description>Brot aus Mehl backen x2.</DankPyon_BakeBread.description>
+	<DankPyon_BakeBread.jobString>Brot backen x2.</DankPyon_BakeBread.jobString>
+	
+	<DankPyon_BakeBreadBulk.label>Brot backen 10x</DankPyon_BakeBreadBulk.label>
+	<DankPyon_BakeBreadBulk.description>Brot aus Mehl backen 10x.</DankPyon_BakeBreadBulk.description>
+	<DankPyon_BakeBreadBulk.jobString>Brot backen 10x.</DankPyon_BakeBreadBulk.jobString>
+	
+	<DankPyon_BakeBreadMegaBulk.label>Brot backen 100x</DankPyon_BakeBreadMegaBulk.label>
+	<DankPyon_BakeBreadMegaBulk.description>Brot aus Mehl backen 100x.</DankPyon_BakeBreadMegaBulk.description>
+	<DankPyon_BakeBreadMegaBulk.jobString>Brot backen 100x.</DankPyon_BakeBreadMegaBulk.jobString>
+	
+	<DankPyon_MakeSausages.label>Würstchen herstellen</DankPyon_MakeSausages.label>
+	<DankPyon_MakeSausages.description>Aus rohem Fleisch Würstchen herstellen.</DankPyon_MakeSausages.description>
+	<DankPyon_MakeSausages.jobString>Würstchen herstellen.</DankPyon_MakeSausages.jobString>
+	
+	<DankPyon_MakeSausagesBulk.label>Würstchen herstellen 10x</DankPyon_MakeSausagesBulk.label>
+	<DankPyon_MakeSausagesBulk.description>Aus rohem Fleisch Würstchen herstellen 10x.</DankPyon_MakeSausagesBulk.description>
+	<DankPyon_MakeSausagesBulk.jobString>Würstchen herstellen 10x.</DankPyon_MakeSausagesBulk.jobString>
+	
+	<DankPyon_CookMealGrilledSausages.label>Würstchen grillen</DankPyon_CookMealGrilledSausages.label>
+	<DankPyon_CookMealGrilledSausages.description>Eine einfache Mahlzeit aus Würstchen zubereiten.</DankPyon_CookMealGrilledSausages.description>
+	<DankPyon_CookMealGrilledSausages.jobString>Würstchen grillen.</DankPyon_CookMealGrilledSausages.jobString>
+	
+	<DankPyon_CookMealGrilledSausagesBulk.label>Würstchen grillen 5x</DankPyon_CookMealGrilledSausagesBulk.label>
+	<DankPyon_CookMealGrilledSausagesBulk.description>Eine einfache Mahlzeit aus Würstchen zubereiten.</DankPyon_CookMealGrilledSausagesBulk.description>
+	<DankPyon_CookMealGrilledSausagesBulk.jobString>5 Würstchen grillen.</DankPyon_CookMealGrilledSausagesBulk.jobString>
+	
+	<DankPyon_CookMealFriedEggs.label>Spiegeleier braten</DankPyon_CookMealFriedEggs.label>
+	<DankPyon_CookMealFriedEggs.description>Eine einfache Mahlzeit aus Würstchen zubereiten.</DankPyon_CookMealFriedEggs.description>
+	<DankPyon_CookMealFriedEggs.jobString>Spiegeleier braten.</DankPyon_CookMealFriedEggs.jobString>
+	
+	<DankPyon_CookMealFriedEggsBulk.label>Spiegeleier braten 5x</DankPyon_CookMealFriedEggsBulk.label>
+	<DankPyon_CookMealFriedEggsBulk.description>Eine einfache Mahlzeit aus Würstchen zubereiten.</DankPyon_CookMealFriedEggsBulk.description>
+	<DankPyon_CookMealFriedEggsBulk.jobString>5 Spiegeleier braten.</DankPyon_CookMealFriedEggsBulk.jobString>
+	
+	<DankPyon_CookMealMashedPotatoes.label>Kartoffelpüree kochen</DankPyon_CookMealMashedPotatoes.label>
+	<DankPyon_CookMealMashedPotatoes.description>Eine einfache Mahlzeit aus Kartoffeln zubereiten.</DankPyon_CookMealMashedPotatoes.description>
+	<DankPyon_CookMealMashedPotatoes.jobString>Kartoffelpüree kochen.</DankPyon_CookMealMashedPotatoes.jobString>
+	
+	<DankPyon_CookMealMashedPotatoesBulk.label>Kartoffelpüree kochen 5x</DankPyon_CookMealMashedPotatoesBulk.label>
+	<DankPyon_CookMealMashedPotatoesBulk.description>Eine einfache Mahlzeit aus Kartoffeln zubereiten.</DankPyon_CookMealMashedPotatoesBulk.description>
+	<DankPyon_CookMealMashedPotatoesBulk.jobString>5 Kartoffelpüree kochen.</DankPyon_CookMealMashedPotatoesBulk.jobString>
+	
+	<DankPyon_CookMealWinterLentilSoup.label>Winterlinsensuppe kochen</DankPyon_CookMealWinterLentilSoup.label>
+	<DankPyon_CookMealWinterLentilSoup.description>Eine einfache Mahlzeit aus Linsen zubereiten.</DankPyon_CookMealWinterLentilSoup.description>
+	<DankPyon_CookMealWinterLentilSoup.jobString>Winterlinsensuppe kochen.</DankPyon_CookMealWinterLentilSoup.jobString>
+	
+	<DankPyon_CookMealWinterLentilSoupBulk.label>Winterlinsensuppe kochen 5x</DankPyon_CookMealWinterLentilSoupBulk.label>
+	<DankPyon_CookMealWinterLentilSoupBulk.description>Eine einfache Mahlzeit aus Linsen zubereiten.</DankPyon_CookMealWinterLentilSoupBulk.description>
+	<DankPyon_CookMealWinterLentilSoupBulk.jobString>5 Winterlinsensuppen kochen.</DankPyon_CookMealWinterLentilSoupBulk.jobString>
+	
+	<DankPyon_CookMealMushroomSoup.label>Pilzsuppe kochen</DankPyon_CookMealMushroomSoup.label>
+	<DankPyon_CookMealMushroomSoup.description>Eine einfache Mahlzeit aus Pilzen zubereiten.</DankPyon_CookMealMushroomSoup.description>
+	<DankPyon_CookMealMushroomSoup.jobString>Pilzsuppe kochen.</DankPyon_CookMealMushroomSoup.jobString>
+	
+	<DankPyon_CookMealMushroomSoupBulk.label>Pilzsuppe kochen 5x</DankPyon_CookMealMushroomSoupBulk.label>
+	<DankPyon_CookMealMushroomSoupBulk.description>Eine einfache Mahlzeit aus Pilzen zubereiten.</DankPyon_CookMealMushroomSoupBulk.description>
+	<DankPyon_CookMealMushroomSoupBulk.jobString>5 Pilzsuppen kochen.</DankPyon_CookMealMushroomSoupBulk.jobString>
+	
+	<DankPyon_CookMealVegetablePot.label>Gemüsetopf kochen</DankPyon_CookMealVegetablePot.label>
+	<DankPyon_CookMealVegetablePot.description>Gemüsetopf kochen.</DankPyon_CookMealVegetablePot.description>
+	<DankPyon_CookMealVegetablePot.jobString>Gemüsetopf kochen.</DankPyon_CookMealVegetablePot.jobString>
+	
+	<DankPyon_CookMealVegetablePotBulk.label>Gemüsetopf kochen 5x</DankPyon_CookMealVegetablePotBulk.label>
+	<DankPyon_CookMealVegetablePotBulk.description>Gemüsetopf kochen.</DankPyon_CookMealVegetablePotBulk.description>
+	<DankPyon_CookMealVegetablePotBulk.jobString>5 Gemüsetöpfe kochen.</DankPyon_CookMealVegetablePotBulk.jobString>
+	
+	<DankPyon_CookMealPumpkinFritters.label>Kürbisküchlein backen x3</DankPyon_CookMealPumpkinFritters.label>
+	<DankPyon_CookMealPumpkinFritters.description>Kürbisküchlein backen.</DankPyon_CookMealPumpkinFritters.description>
+	<DankPyon_CookMealPumpkinFritters.jobString>3 Kürbisküchlein backen.</DankPyon_CookMealPumpkinFritters.jobString>
+	
+	<DankPyon_CookMealPumpkinFrittersBulk.label>Kürbisküchlein backen x6</DankPyon_CookMealPumpkinFrittersBulk.label>
+	<DankPyon_CookMealPumpkinFrittersBulk.description>Kürbisküchlein backen.</DankPyon_CookMealPumpkinFrittersBulk.description>
+	<DankPyon_CookMealPumpkinFrittersBulk.jobString>6 Kürbisküchlein backen.</DankPyon_CookMealPumpkinFrittersBulk.jobString>
+	
+	<DankPyon_CookMealBoiledBeansAndOnion.label>Linsen mit Zwiebeln kochen</DankPyon_CookMealBoiledBeansAndOnion.label>
+	<DankPyon_CookMealBoiledBeansAndOnion.description>Linsen mit Zwiebeln kochen.</DankPyon_CookMealBoiledBeansAndOnion.description>
+	<DankPyon_CookMealBoiledBeansAndOnion.jobString>Linsen mit Zwiebeln kochen.</DankPyon_CookMealBoiledBeansAndOnion.jobString>
+	
+	<DankPyon_CookMealBoiledBeanAndOnionBulk.label>Linsen mit Zwiebeln kochen 5x</DankPyon_CookMealBoiledBeanAndOnionBulk.label>
+	<DankPyon_CookMealBoiledBeanAndOnionBulk.description>Linsen mit Zwiebeln kochen.</DankPyon_CookMealBoiledBeanAndOnionBulk.description>
+	<DankPyon_CookMealBoiledBeanAndOnionBulk.jobString>5x Linsen mit Zwiebeln kochen.</DankPyon_CookMealBoiledBeanAndOnionBulk.jobString>
+	
+	<DankPyon_CookMealGrilledSkewers.label>Grillspieße zubereiten</DankPyon_CookMealGrilledSkewers.label>
+	<DankPyon_CookMealGrilledSkewers.description>Grillspieße zubereiten.</DankPyon_CookMealGrilledSkewers.description>
+	<DankPyon_CookMealGrilledSkewers.jobString>Grillspieße zubereiten.</DankPyon_CookMealGrilledSkewers.jobString>
+	
+	<DankPyon_CookMealGrilledSkewersBulk.label>Grillspieße zubereiten 5x</DankPyon_CookMealGrilledSkewersBulk.label>
+	<DankPyon_CookMealGrilledSkewersBulk.description>Grillspieße zubereiten.</DankPyon_CookMealGrilledSkewersBulk.description>
+	<DankPyon_CookMealGrilledSkewersBulk.jobString>5 Grillspieße zubereiten.</DankPyon_CookMealGrilledSkewersBulk.jobString>
+	
+	
+	<DankPyon_CookMealBreadSoup.label>Brotsuppe kochen</DankPyon_CookMealBreadSoup.label>
+	<DankPyon_CookMealBreadSoup.description>Brotsuppe kochen.</DankPyon_CookMealBreadSoup.description>
+	<DankPyon_CookMealBreadSoup.jobString>Brotsuppe kochen.</DankPyon_CookMealBreadSoup.jobString>
+	
+	<DankPyon_CookMealBreadSoupBulk.label>Brotsuppe kochen 5x</DankPyon_CookMealBreadSoupBulk.label>
+	<DankPyon_CookMealBreadSoupBulk.description>Brotsuppe kochen.</DankPyon_CookMealBreadSoupBulk.description>
+	<DankPyon_CookMealBreadSoupBulk.jobString>5 Brotsuppen kochen.</DankPyon_CookMealBreadSoupBulk.jobString>
+	
+	<DankPyon_CookMealApplePie.label>Apfelkuchen backen</DankPyon_CookMealApplePie.label>
+	<DankPyon_CookMealApplePie.description>Einen feinen Apfelkuchen backen.</DankPyon_CookMealApplePie.description>
+	<DankPyon_CookMealApplePie.jobString>Apfelkuchen backen.</DankPyon_CookMealApplePie.jobString>
+	
+	<DankPyon_CookMealApplePieBulk.label>Apfelkuchen backen 5x</DankPyon_CookMealApplePieBulk.label>
+	<DankPyon_CookMealApplePieBulk.description>Einen feinen Apfelkuchen backen.</DankPyon_CookMealApplePieBulk.description>
+	<DankPyon_CookMealApplePieBulk.jobString>5 Apfelkuchen backen.</DankPyon_CookMealApplePieBulk.jobString>
+
+	<DankPyon_CookMealApplePieBulkier.label>Apfelkuchen backen 15x</DankPyon_CookMealApplePieBulkier.label>
+	<DankPyon_CookMealApplePieBulkier.description>Einen feinen Apfelkuchen backen.</DankPyon_CookMealApplePieBulkier.description>
+	<DankPyon_CookMealApplePieBulkier.jobString>15 Apfelkuchen backen.</DankPyon_CookMealApplePieBulkier.jobString>	
+	
+	<DankPyon_CookMealLemonCake.label>Zitronenkuchen backen</DankPyon_CookMealLemonCake.label>
+	<DankPyon_CookMealLemonCake.description>Einen feinen Zitronenkuchen backen.</DankPyon_CookMealLemonCake.description>
+	<DankPyon_CookMealLemonCake.jobString>Zitronenkuchen backen.</DankPyon_CookMealLemonCake.jobString>
+	
+	<DankPyon_CookMealLemonCakeBulk.label>Zitronenkuchen backen 5x</DankPyon_CookMealLemonCakeBulk.label>
+	<DankPyon_CookMealLemonCakeBulk.description>Einen feinen Zitronenkuchen backen.</DankPyon_CookMealLemonCakeBulk.description>
+	<DankPyon_CookMealLemonCakeBulk.jobString>5 Zitronenkuchen backen.</DankPyon_CookMealLemonCakeBulk.jobString>
+	
+	<DankPyon_CookMealLemonCakeBulkier.label>Zitronenkuchen backen 15x</DankPyon_CookMealLemonCakeBulkier.label>
+	<DankPyon_CookMealLemonCakeBulkier.description>Einen feinen Zitronenkuchen backen.</DankPyon_CookMealLemonCakeBulkier.description>
+	<DankPyon_CookMealLemonCakeBulkier.jobString>15 Zitronenkuchen backen.</DankPyon_CookMealLemonCakeBulkier.jobString>
+	
+	<DankPyon_CookMealHuntersStew.label>Jägereintopf kochen x4</DankPyon_CookMealHuntersStew.label>
+	<DankPyon_CookMealHuntersStew.description>Jägereintopf kochen.</DankPyon_CookMealHuntersStew.description>
+	<DankPyon_CookMealHuntersStew.jobString>4 Jägereintopf kochen.</DankPyon_CookMealHuntersStew.jobString>
+	
+	<DankPyon_CookMealHuntersStewBulk.label>Jägereintopf kochen x8</DankPyon_CookMealHuntersStewBulk.label>
+	<DankPyon_CookMealHuntersStewBulk.description>Jägereintopf kochen.</DankPyon_CookMealHuntersStewBulk.description>
+	<DankPyon_CookMealHuntersStewBulk.jobString>8 Jägereintopf kochen.</DankPyon_CookMealHuntersStewBulk.jobString>
+	
+	<DankPyon_CookMealGrilledCheese.label>Käse grillen</DankPyon_CookMealGrilledCheese.label>
+	<DankPyon_CookMealGrilledCheese.description>Käse grillen.</DankPyon_CookMealGrilledCheese.description>
+	<DankPyon_CookMealGrilledCheese.jobString>Käse grillen.</DankPyon_CookMealGrilledCheese.jobString>
+	
+	<DankPyon_CookMealGrilledCheeseBulk.label>Käse grillen x5</DankPyon_CookMealGrilledCheeseBulk.label>
+	<DankPyon_CookMealGrilledCheeseBulk.description>Käse grillen.</DankPyon_CookMealGrilledCheeseBulk.description>
+	<DankPyon_CookMealGrilledCheeseBulk.jobString>5 Käse grillen.</DankPyon_CookMealGrilledCheeseBulk.jobString>
+	
+	<DankPyon_CookMealQuiche.label>Quiche backen</DankPyon_CookMealQuiche.label>
+	<DankPyon_CookMealQuiche.description>Quiche backen.</DankPyon_CookMealQuiche.description>
+	<DankPyon_CookMealQuiche.jobString>Quiche backen.</DankPyon_CookMealQuiche.jobString>
+	
+	<DankPyon_CookMealQuicheBulk.label>Quiche backen 5c</DankPyon_CookMealQuicheBulk.label>
+	<DankPyon_CookMealQuicheBulk.description>Quiche backen.</DankPyon_CookMealQuicheBulk.description>
+	<DankPyon_CookMealQuicheBulk.jobString>5 Quiche backen.</DankPyon_CookMealQuicheBulk.jobString>
+	
+	<DankPyon_CookMealQuicheBulkier.label>Quiche backen x15</DankPyon_CookMealQuicheBulkier.label>
+	<DankPyon_CookMealQuicheBulkier.description>Quiche backen.</DankPyon_CookMealQuicheBulkier.description>
+	<DankPyon_CookMealQuicheBulkier.jobString>15 Quiche backen.</DankPyon_CookMealQuicheBulkier.jobString>
+	
+	<DankPyon_CookMealSweetPancakes.label>Süße Pfannkuchen kochen</DankPyon_CookMealSweetPancakes.label>
+	<DankPyon_CookMealSweetPancakes.description>süße Pfannkuchen kochen.</DankPyon_CookMealSweetPancakes.description>
+	<DankPyon_CookMealSweetPancakes.jobString>süße Pfannkuchen kochen.</DankPyon_CookMealSweetPancakes.jobString>
+	
+	<DankPyon_CookMealSweetPancakesBulk.label>Süße Pfannkuchen kochen 5x</DankPyon_CookMealSweetPancakesBulk.label>
+	<DankPyon_CookMealSweetPancakesBulk.description>süße Pfannkuchen kochen.</DankPyon_CookMealSweetPancakesBulk.description>
+	<DankPyon_CookMealSweetPancakesBulk.jobString>5 süße Pfannkuchen kochen.</DankPyon_CookMealSweetPancakesBulk.jobString>
+	
+	<DankPyon_CookMealTomatoOmelette.label>Tomatenomelett kochen</DankPyon_CookMealTomatoOmelette.label>
+	<DankPyon_CookMealTomatoOmelette.description>Tomatenomelett kochen.</DankPyon_CookMealTomatoOmelette.description>
+	<DankPyon_CookMealTomatoOmelette.jobString>Tomatenomelett kochen.</DankPyon_CookMealTomatoOmelette.jobString>
+	
+	<DankPyon_CookMealTomatoOmeletteBulk.label>Tomatenomelett kochen x3</DankPyon_CookMealTomatoOmeletteBulk.label>
+	<DankPyon_CookMealTomatoOmeletteBulk.description>Tomatenomelett kochen.</DankPyon_CookMealTomatoOmeletteBulk.description>
+	<DankPyon_CookMealTomatoOmeletteBulk.jobString>3 Tomatenomelett kochen.</DankPyon_CookMealTomatoOmeletteBulk.jobString>
+	
+	<DankPyon_CookMealPumpkinSoup.label>Kürbissuppe kochen x3</DankPyon_CookMealPumpkinSoup.label>
+	<DankPyon_CookMealPumpkinSoup.description>Kürbissuppe kochen.</DankPyon_CookMealPumpkinSoup.description>
+	<DankPyon_CookMealPumpkinSoup.jobString>3 Kürbissuppen kochen.</DankPyon_CookMealPumpkinSoup.jobString>
+	
+	<DankPyon_CookMealPumpkinSoupBulk.label>Kürbissuppe kochen x6</DankPyon_CookMealPumpkinSoupBulk.label>
+	<DankPyon_CookMealPumpkinSoupBulk.description>Kürbissuppe kochen.</DankPyon_CookMealPumpkinSoupBulk.description>
+	<DankPyon_CookMealPumpkinSoupBulk.jobString>6 Kürbissuppen kochen.</DankPyon_CookMealPumpkinSoupBulk.jobString>
+	
+	<DankPyon_CookMealPumpkinPie.label>Kürbiskuchen backen x3</DankPyon_CookMealPumpkinPie.label>
+	<DankPyon_CookMealPumpkinPie.description>Kürbiskuchen backen.</DankPyon_CookMealPumpkinPie.description>
+	<DankPyon_CookMealPumpkinPie.jobString>3 Kürbiskuchen backen.</DankPyon_CookMealPumpkinPie.jobString>
+	
+	<DankPyon_CookMealPumpkinPieBulk.label>Kürbiskuchen backen x6</DankPyon_CookMealPumpkinPieBulk.label>
+	<DankPyon_CookMealPumpkinPieBulk.description>Kürbiskuchen backen.</DankPyon_CookMealPumpkinPieBulk.description>
+	<DankPyon_CookMealPumpkinPieBulk.jobString>6 Kürbiskuchen backen.</DankPyon_CookMealPumpkinPieBulk.jobString>
+	
+	<DankPyon_CookMealPumpkinPieBulkier.label>Kürbiskuchen backen x18</DankPyon_CookMealPumpkinPieBulkier.label>
+	<DankPyon_CookMealPumpkinPieBulkier.description>Kürbiskuchen backen.</DankPyon_CookMealPumpkinPieBulkier.description>
+	<DankPyon_CookMealPumpkinPieBulkier.jobString>18 Kürbiskuchen backen.</DankPyon_CookMealPumpkinPieBulkier.jobString>
+	
+	<DankPyon_CookMealCarrotCake.label>Karottenkuchen backen x3</DankPyon_CookMealCarrotCake.label>
+	<DankPyon_CookMealCarrotCake.description>Karottenkuchen backen.</DankPyon_CookMealCarrotCake.description>
+	<DankPyon_CookMealCarrotCake.jobString>3 Karottenkuchen backen.</DankPyon_CookMealCarrotCake.jobString>
+	
+	<DankPyon_CookMealCarrotCakeBulk.label>Karottenkuchen backen x6</DankPyon_CookMealCarrotCakeBulk.label>
+	<DankPyon_CookMealCarrotCakeBulk.description>Karottenkuchen backen.</DankPyon_CookMealCarrotCakeBulk.description>
+	<DankPyon_CookMealCarrotCakeBulk.jobString>6 Karottenkuchen backen.</DankPyon_CookMealCarrotCakeBulk.jobString>
+	
+	<DankPyon_CookMealCarrotCakeBulkier.label>Karottenkuchen backen x18</DankPyon_CookMealCarrotCakeBulkier.label>
+	<DankPyon_CookMealCarrotCakeBulkier.description>Karottenkuchen backen.</DankPyon_CookMealCarrotCakeBulkier.description>
+	<DankPyon_CookMealCarrotCakeBulkier.jobString>18 Karottenkuchen backen.</DankPyon_CookMealCarrotCakeBulkier.jobString>
+	
+	<DankPyon_CookMealCheeseSoup.label>Käsesuppe kochen</DankPyon_CookMealCheeseSoup.label>
+	<DankPyon_CookMealCheeseSoup.description>Käsesuppe kochen.</DankPyon_CookMealCheeseSoup.description>
+	<DankPyon_CookMealCheeseSoup.jobString>Käsesuppe kochen.</DankPyon_CookMealCheeseSoup.jobString>
+	
+	<DankPyon_CookMealCheeseSoupBulk.label>Käsesuppe kochen x3</DankPyon_CookMealCheeseSoupBulk.label>
+	<DankPyon_CookMealCheeseSoupBulk.description>Käsesuppe kochen.</DankPyon_CookMealCheeseSoupBulk.description>
+	<DankPyon_CookMealCheeseSoupBulk.jobString>3 Käsesuppe kochen.</DankPyon_CookMealCheeseSoupBulk.jobString>
+	
+	<DankPyon_CookMealCheeseSoup.label>Käsesuppe kochen x3</DankPyon_CookMealCheeseSoup.label>
+	<DankPyon_CookMealCheeseSoup.description>Käsesuppe kochen.</DankPyon_CookMealCheeseSoup.description>
+	<DankPyon_CookMealCheeseSoup.jobString>3 Käsesuppe kochen.</DankPyon_CookMealCheeseSoup.jobString>
+	
+	<DankPyon_CookMealSteakWithWine.label>Steak in Weinsauce kochen</DankPyon_CookMealSteakWithWine.label>
+	<DankPyon_CookMealSteakWithWine.description>Steak in Weinsauce kochen.</DankPyon_CookMealSteakWithWine.description>
+	<DankPyon_CookMealSteakWithWine.jobString>Steak in Weinsauce kochen.</DankPyon_CookMealSteakWithWine.jobString>
+	
+	<DankPyon_CookMealSteakWithWineBulk.label>Steak in Weinsauce kochen x3</DankPyon_CookMealSteakWithWineBulk.label>
+	<DankPyon_CookMealSteakWithWineBulk.description>Steak in Weinsauce kochen.</DankPyon_CookMealSteakWithWineBulk.description>
+	<DankPyon_CookMealSteakWithWineBulk.jobString>3 Steaks in Weinsauce kochen.</DankPyon_CookMealSteakWithWineBulk.jobString>
+	
+	<DankPyon_CookMealRoxSteak.label>Rox-Steak kochen</DankPyon_CookMealRoxSteak.label>
+	<DankPyon_CookMealRoxSteak.description>Kocht ein extravagantes Steak aus einem Rox.</DankPyon_CookMealRoxSteak.description>
+	<DankPyon_CookMealRoxSteak.jobString>Rox-Steak kochen.</DankPyon_CookMealRoxSteak.jobString>
+	
+	<DankPyon_CookMealRoxSteakBulk.label>Rox-Steak kochen 5x</DankPyon_CookMealRoxSteakBulk.label>
+	<DankPyon_CookMealRoxSteakBulk.description>Kocht ein extravagantes Steak aus einem Rox.</DankPyon_CookMealRoxSteakBulk.description>
+	<DankPyon_CookMealRoxSteakBulk.jobString>5 Rox-Steak kochen.</DankPyon_CookMealRoxSteakBulk.jobString>
+	
+	<DankPyon_CookMealGriffonBerryPie.label>Greifenbeerenkuchen backen</DankPyon_CookMealGriffonBerryPie.label>
+	<DankPyon_CookMealGriffonBerryPie.description>Backe einen extravaganten Kuchen aus Greifbeeren.</DankPyon_CookMealGriffonBerryPie.description>
+	<DankPyon_CookMealGriffonBerryPie.jobString>Greifenbeerenkuchen backen.</DankPyon_CookMealGriffonBerryPie.jobString>
+	
+	<DankPyon_CookMealGriffonBerryPieBulk.label>Greifenbeerenkuchen backen x3</DankPyon_CookMealGriffonBerryPieBulk.label>
+	<DankPyon_CookMealGriffonBerryPieBulk.description>Backe einen extravaganten Kuchen aus Greifbeeren.</DankPyon_CookMealGriffonBerryPieBulk.description>
+	<DankPyon_CookMealGriffonBerryPieBulk.jobString>3 Greifenbeerenkuchen backen.</DankPyon_CookMealGriffonBerryPieBulk.jobString>
+	
+	<DankPyon_CookMealGriffonBerryPieBulkier.label>Greifenbeerenkuchen backen x9</DankPyon_CookMealGriffonBerryPieBulkier.label>
+	<DankPyon_CookMealGriffonBerryPieBulkier.description>Backe einen extravaganten Kuchen aus Greifbeeren.</DankPyon_CookMealGriffonBerryPieBulkier.description>
+	<DankPyon_CookMealGriffonBerryPieBulkier.jobString>9 Greifenbeerenkuchen backen.</DankPyon_CookMealGriffonBerryPie.jobString>
+	
+	<DankPyon_CookMealRations.label>Abgepackte Rationen kochen</DankPyon_CookMealRations.label>
+	<DankPyon_CookMealRations.description>Bereite eine abgepackte Ration aus einer Kombination von Fleisch- und Pflanzenzutaten zu. Bei der Konservierung gehen viele Zutaten verloren.</DankPyon_CookMealRations.description>
+	<DankPyon_CookMealRations.jobString>Abgepackte Rationen kochen.</DankPyon_CookMealRations.jobString>
+	
+	<DankPyon_CookMealRationsBulk.label>Abgepackte Rationen kochen x5</DankPyon_CookMealRationsBulk.label>
+	<DankPyon_CookMealRationsBulk.description>Bereite eine abgepackte Ration aus einer Kombination von Fleisch- und Pflanzenzutaten zu. Bei der Konservierung gehen viele Zutaten verloren.</DankPyon_CookMealRationsBulk.description>
+	<DankPyon_CookMealRationsBulk.jobString>5 Abgepackte Rationen kochen.</DankPyon_CookMealRationsBulk.jobString>
+	
+	<DankPyon_CookMealRationsVegan.label>Abgepackte, vegetarische Rationen kochen</DankPyon_CookMealRationsVegan.label>
+	<DankPyon_CookMealRationsVegan.description>Bereite eine abgepackte, vegetarische Ration aus Pflanzenzutaten zu. Bei der Konservierung gehen viele Zutaten verloren.</DankPyon_CookMealRationsVegan.description>
+	<DankPyon_CookMealRationsVegan.jobString>Abgepackte, vegetarische Rationen kochen.</DankPyon_CookMealRationsVegan.jobString>
+	
+	<DankPyon_CookMealRationsVeganBulk.label>Abgepackte, vegetarische Rationen kochen 5x</DankPyon_CookMealRationsVegan.label>
+	<DankPyon_CookMealRationsVeganBulk.description>Bereite eine abgepackte, vegetarische Ration aus Pflanzenzutaten zu. Bei der Konservierung gehen viele Zutaten verloren.</DankPyon_CookMealRationsVegan.description>
+	<DankPyon_CookMealRationsVeganBulk.jobString>5 Abgepackte, vegetarische Rationen kochen.</DankPyon_CookMealRationsVeganBulk.jobString>
+</LanguageData>

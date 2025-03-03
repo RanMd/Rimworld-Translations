@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RusticTorchLamp.label>Rustikale Fackel</DankPyon_RusticTorchLamp.label>
+	<DankPyon_RusticTorchLamp.description>Eine rustikale Holzfackel zum Beleuchten eines Bereichs. Menschen brauchen Licht, um sich mit voller Geschwindigkeit fortzubewegen und zu arbeiten. Kann automatisch mit Holz betankt werden. Erzeugt eine kleine Menge Wärme.</DankPyon_RusticTorchLamp.description>
+	
+	<DankPyon_WallTorch.label>Wandfackel</DankPyon_WallTorch.label>
+	<DankPyon_WallTorch.description>Eine Wandfackel zur Beleuchtung eines Bereichs. Menschen brauchen Licht, um sich mit voller Geschwindigkeit fortzubewegen und zu arbeiten. Kann automatisch mit Holz betankt werden. Erzeugt eine kleine Menge Wärme.</DankPyon_WallTorch.description>
+	
+	<DankPyon_WallLamp.label>Wandlampe</DankPyon_WallLamp.label>
+	<DankPyon_WallLamp.description>Eine Wandleuchte aus Metall zur Beleuchtung eines Bereichs. Menschen brauchen Licht, um sich mit voller Geschwindigkeit fortzubewegen und zu arbeiten. Kann automatisch mit Holz betankt werden. Erzeugt eine kleine Menge Wärme.</DankPyon_WallLamp.description>
+	
+	<DankPyon_LampPost.label>Laternenpfahl</DankPyon_LampPost.label>
+	<DankPyon_LampPost.description>Ein Laternenpfahl zur Beleuchtung eines Bereichs. Menschen brauchen Licht, um sich mit voller Geschwindigkeit fortzubewegen und zu arbeiten. Kann automatisch mit Holz betankt werden. Erzeugt eine kleine Menge Wärme.</DankPyon_LampPost.description>
+	
+	<DankPyon_LogTable1x2c.label>Blocktisch (1x2)</DankPyon_LogTable1x2c.label>
+	<DankPyon_LogTable1x3c.label>Blocktisch (1x3)</DankPyon_LogTable1x3c.label>
+	
+	<DankPyon_LogTable1x4c.label>Blocktisch (1x4)</DankPyon_LogTable1x4c.label>
+	<DankPyon_LogTable2x4c.label>Blocktisch (2x4)</DankPyon_LogTable2x4c.label>
+	
+	<DankPyon_LogChair.label>Blockstuhl</DankPyon_LogChair.label>
+	<DankPyon_LogChair.description>Ein bequemer und attraktiver Stuhl. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_LogChair.description>
+	
+	<DankPyon_LogBench1x2c.label>Blockbank (1x2)</DankPyon_LogBench1x2c.label>
+	<DankPyon_LogBench1x2c.description>Eine bequeme und attraktive Bank. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_LogBench1x2c.description>
+	
+	
+	<DankPyon_LogBench1x3c.label>Blockbank (1x3)</DankPyon_LogBench1x3c.label>
+	<DankPyon_LogBench1x3c.description>Eine bequeme und attraktive Bank. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_LogBench1x3c.description>
+	
+	<DankPyon_LogBench1x4c.label>Blockbank (1x4)</DankPyon_LogBench1x4c.label>
+	<DankPyon_LogBench1x4c.description>Eine bequeme und attraktive Bank. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_LogBench1x4c.description>
+	
+	<DankPyon_RusticStool.label>Rustikaler runder Hocker</DankPyon_RusticStool.label>
+	<DankPyon_RusticStool.description>Eine einfache Plattform zum Sitzen. Nicht sehr bequem, aber viel besser als nichts. Wird häufig in Tavernen und Gasthäusern gesehen. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_RusticStool.description>
+	
+	<DankPyon_RusticChair.label>Rustikaler Esszimmerstuhl</DankPyon_RusticChair.label>
+	<DankPyon_RusticChair.description>Ein bequemer und attraktiver Stuhl. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_RusticChair.description>
+	
+	<DankPyon_RusticNobleChair.label>Rustikaler edler Stuhl</DankPyon_RusticNobleChair.label>
+	<DankPyon_RusticNobleChair.description>Ein bequemer und attraktiver Stuhl. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_RusticNobleChair.description>
+	
+	<DankPyon_RusticEndTable.label>Beistelltisch</DankPyon_RusticEndTable.label>
+	<DankPyon_RusticEndTable.description>Ein kleiner Nachttisch, der die Betten in der Nähe etwas komfortabler macht. Muss direkt neben dem Kopfende des Bettes platziert werden. Das Platzieren von mehr als einem Beistelltisch neben demselben Bett hat keine Auswirkung.</DankPyon_RusticEndTable.description>
+	
+	
+	<DankPyon_RusticTallEndTable.label>Hoher Beistelltisch</DankPyon_RusticTallEndTable.label>
+	<DankPyon_RusticTallEndTable.description>Ein kleiner Nachttisch, der die Betten in der Nähe etwas komfortabler macht. Muss direkt neben dem Kopfende des Bettes platziert werden. Das Platzieren von mehr als einem Beistelltisch neben demselben Bett hat keine Auswirkung.</DankPyon_RusticTallEndTable.description>
+	
+	<DankPyon_RusticTable1x1c.label>Rustikaler Tisch (1x1)</DankPyon_RusticTable1x1c.label>
+	<DankPyon_ReinforcedRusticTable1x1c.label>Verstärkter Tisch (1x1)</DankPyon_ReinforcedRusticTable1x1c.label>
+	
+	<DankPyon_RusticTable1x2c.label>Rustikaler Tisch (1x2)</DankPyon_RusticTable1x2c.label>
+	<DankPyon_ReinforcedRusticTable1x2c.label>Verstärkter Tisch (1x2)</DankPyon_ReinforcedRusticTable1x2c.label>
+	
+	<DankPyon_RusticTable2x2c.label>Rustikaler Tisch (2x2)</DankPyon_RusticTable2x2c.label>
+	<DankPyon_ReinforcedRusticTable2x2c.label>Verstärkter Tisch (2x2)</DankPyon_ReinforcedRusticTable2x2c.label>
+	
+
+	<DankPyon_RusticRoundTable2x2c.label>Rustikaler. runder Tisch (2x2)</DankPyon_RusticRoundTable2x2c.label>
+	<DankPyon_Table2x4c.label>Rustikaler Tisch (2x4)</DankPyon_Table2x4c.label>
+	
+	<DankPyon_RusticCounter1x3c.label>Theke (1x1)</DankPyon_RusticCounter1x3c.label>
+	<DankPyon_ReinforcedTable2x4c.label>Verstärkter Tisch (2x4)</DankPyon_ReinforcedTable2x4c.label>
+	
+	<DankPyon_Candles.label>Kerzen</DankPyon_Candles.label>
+	<DankPyon_Candles.description>Eine Kerze, um zu verhindern, dass Dunkelheit in Ihr Zimmer eindringt. Kann mit Tiertalg betankt werden.</DankPyon_Candles.description>
+	
+	<DankPyon_Candles_Beeswax.label>Kerzen</DankPyon_Candles_Beeswax.label>
+	
+	<DankPyon_CandleStand.label>Kerzenständer (Talg)</DankPyon_CandleStand.label>
+	<DankPyon_CandleStand.description>Ein Kerzenständer, um zu verhindern, dass Dunkelheit in Ihr Zimmer eindringt. Kann mit Talg aufgetankt werden.</DankPyon_CandleStand.description>
+	
+	<DankPyon_CandleStand_Beeswax.label>Kerzenständer (Bienenwachs)</DankPyon_CandleStand_Beeswax.label>
+	
+
+	<DankPyon_RusticLamp.label>Lampe</DankPyon_RusticLamp.label>
+	<DankPyon_RusticLamp.description>Eine Kerze, um zu verhindern, dass Dunkelheit in Ihr Zimmer eindringt.</DankPyon_RusticLamp.description>
+	
+	<DankPyon_RusticChest.label>Rustikale Truhe</DankPyon_RusticChest.label>
+	<DankPyon_RusticChest.description>Eine zuverlässige Holztruhe zur Aufbewahrung deiner persönlichen Gegenstände. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht. Bei mehreren Truhen werden keine Komfortboni gestapelt.</DankPyon_RusticChest.description>
+	
+	<DankPyon_MetalStrongbox.label>Tresor aus Metall</DankPyon_MetalStrongbox.label>
+	<DankPyon_MetalStrongbox.description>Ein zuverlässiger Tresor aus Metall zur Aufbewahrung Ihrer persönlichen Gegenstände. Darin aufbewahrte Gegenstände haben keinen Einfluss auf die Schönheit des Raums und verschlechtern sich auch im Freien nicht. Bei mehreren Truhen werden keine Komfortboni gestapelt.</DankPyon_MetalStrongbox.description>
+	
+	<DankPyon_RoyalChest.label>Königliche Truhe</DankPyon_RoyalChest.label>
+	<DankPyon_RoyalChest.description>Eine reich verzierte Truhe der Adligen. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht. Bei mehreren Truhen werden keine Komfortboni gestapelt.</DankPyon_RoyalChest.description>
+	
+	<DankPyon_RusticDresser.label>Kommode</DankPyon_RusticDresser.label>
+	<DankPyon_RusticDresser.description>Eine Kommode. Verleiht allen Betten in der Nähe einen kleinen Komfortbonus. Das Platzieren von mehr als einer Kommode neben demselben Bett hat keine Auswirkung.</DankPyon_RusticDresser.description>
+	
+	<DankPyon_RusticCloset.label>Kleiderschrank</DankPyon_RusticCloset.label>
+	<DankPyon_RusticCloset.description>Ein Schrank zur effizienten und schönen Aufbewahrung von Kleidung. Platziere ihn in der Nähe von Betten, um einen leichten Komfortzuwachs zu erzielen.</DankPyon_RusticCloset.description>
+		
+	<DankPyon_RusticCloset1x2c.label>Kleiderschrank (1x2)</DankPyon_RusticCloset1x2c.label>
+	<DankPyon_RusticCloset1x2c.description>Ein Schrank zur effizienten und schönen Aufbewahrung von Kleidung. Platzieren Sie es in der Nähe von Betten, um einen leichten Komfortzuwachs zu erzielen.</DankPyon_RusticCloset1x2c.description>
+	
+	<DankPyon_RusticBookshelf.label>Kleines Bücherregal</DankPyon_RusticBookshelf.label>
+	<DankPyon_RusticBookshelf.description>Erhöht die Forschungsgeschwindigkeit, wenn es in der Nähe des Forschungstisches platziert wird. Jede Forschungsbank kann zwei kleine Bücherregale nutzen.</DankPyon_RusticBookshelf.description>
+	
+	<DankPyon_RusticBookshelf1x2c.label>Großes Bücherregal</DankPyon_RusticBookshelf1x2c.label>
+	<DankPyon_RusticBookshelf1x2c.description>Erhöht die Forschungsgeschwindigkeit, wenn es in der Nähe des Forschungstisches platziert wird. Jede Forschungsbank kann ein großes Bücherregal nutzen.</DankPyon_RusticBookshelf1x2c.description>
+	
+	<DankPyon_RusticEmptyShelf.label>Leeres Regal</DankPyon_RusticEmptyShelf.label>
+	<DankPyon_RusticEmptyShelf.description>Ein leeres Regal.</DankPyon_RusticEmptyShelf.description>
+		
+	<DankPyon_RusticEmptyShelf1x2c.label>Leeres großes Regal</DankPyon_RusticEmptyShelf1x2c.label>
+	<DankPyon_RusticEmptyShelf1x2c.description>Ein leeres Bücherregal.</DankPyon_RusticEmptyShelf1x2c.description>
+	
+	<DankPyon_BedLog.label>Blockbett</DankPyon_BedLog.label>
+	<DankPyon_BedLog.description>Ein einfach und schnell herzustellendes Blockbett.</DankPyon_BedLog.description>
+	
+	<DankPyon_BedWicker.label>Korbbett</DankPyon_BedWicker.label>
+	<DankPyon_BedWicker.description>Ein einfaches und schnell herzustellendes Korbbett.</DankPyon_BedWicker.description>
+	
+	<DankPyon_BedWickerDouble.label>Korbdoppelbett</DankPyon_BedWickerDouble.label>
+	<DankPyon_BedWickerDouble.description>Ein einfaches und schnell herzustellendes Korbbett.</DankPyon_BedWickerDouble.description>
+		
+	<DankPyon_StrawBed.label>Strohbett</DankPyon_StrawBed.label>
+	<DankPyon_StrawBed.description>Ein einfach und schnell herzustellendes Korbbett, gepolstert mit Stroh für zusätzlichen Komfort.</DankPyon_StrawBed.description>
+	
+	<DankPyon_StrawBedDouble.label>Strohdoppelbett</DankPyon_StrawBedDouble.label>
+	<DankPyon_StrawBedDouble.description>Ein einfach und schnell herzustellendes Korbbett, gepolstert mit Stroh für zusätzlichen Komfort.</DankPyon_StrawBedDouble.description>
+	
+	<DankPyon_BedFur.label>Fellbett</DankPyon_BedFur.label>
+	<DankPyon_BedFur.description>Ein gemütliches Bett aus weichen und bequemen Fellstücken.</DankPyon_BedFur.description>
+	
+	<DankPyon_BedFurDouble.label>Felldoppelbett</DankPyon_BedFurDouble.label>
+	<DankPyon_BedFurDouble.description>Ein gemütliches Bett mit doppelter Breite, das Platz für zwei Personen bietet.</DankPyon_BedFurDouble.description>
+	
+
+	<DankPyon_WoodBurningStove.label>Holzofen</DankPyon_WoodBurningStove.label>
+	<DankPyon_WoodBurningStove.description>Ein kleiner Holzofen zum Heizen eines kleinen Raumes.</DankPyon_WoodBurningStove.description>
+	
+	<DankPyon_RusticHearth.label>Feuerstelle</DankPyon_RusticHearth.label>
+	<DankPyon_RusticHearth.description>Eine Steinfeuerstelle für Wärme und eine heimelige Atmosphäre.</DankPyon_RusticHearth.description>
+
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<VCE_Beet.label>Chioggia-Rübenpflanze</VCE_Beet.label>
+	<VCE_Beet.description>Ein krautartiges Gemüse, das sowohl für Menschen als auch für Nutztiere weit verbreitet ist. Obwohl sie von außen wie gewöhnliche Rüben aussehen, haben sie im Inneren ein deutlich rot-weiß gestreiftes Fruchtfleisch. Diese sind auf der Süßeskala am höchsten. Obwohl Rüben einen nährstoffreichen Boden benötigen, sind sie ziemlich kerngesättigt und wachsen auch im Winter sehr langsam weiter. Sie müssen jedoch während der Vegetationsperiode gepflanzt werden.</VCE_Beet.description>
+	
+	<VCE_RawBeets.label>Chioggia-Rüben</VCE_RawBeets.label>
+	<VCE_RawBeets.description>Ein krautartiges Gemüse, das sowohl für Menschen als auch für Nutztiere weit verbreitet ist. Obwohl sie von außen wie gewöhnliche Rüben aussehen, haben sie im Inneren ein deutlich rot-weiß gestreiftes Fruchtfleisch. Diese sind auf der Süßeskala am höchsten.</VCE_RawBeets.description>
+	
+	<VCE_Cabbage.label>Blumenkohlpflanze</VCE_Cabbage.label>
+	<VCE_Cabbage.description>Ein großes, rundes Gemüse mit einer harten, weißen Mitte, umgeben von grünen Blättern, das von Natur aus reich an Ballaststoffen und B-Vitaminen ist. Diese besondere Sorte scheint sehr resistent gegen in der Luft befindliche Giftstoffe und Strahlung zu sein.</VCE_Cabbage.description>
+	
+	<VCE_RawCabbage.label>Blumenkohl</VCE_RawCabbage.label>
+	<VCE_RawCabbage.description>Ein großes, rundes Gemüse mit einer harten, weißen Mitte, umgeben von grünen Blättern, das von Natur aus reich an Ballaststoffen und B-Vitaminen sind.</VCE_RawCabbage.description>
+	
+	<VCE_Onion.label>weiße Zwiebelpflanze</VCE_Onion.label>
+	<VCE_Onion.description>Eine kräftige und scharfe Zwiebelsorte, perfekt für aromatische Salate oder für allgemeine Kochanwendungen, wenn kräftige Aromen gewünscht sind. Kann die Auswirkungen der Seuche nicht ertragen.</VCE_Onion.description>
+	
+	<VCE_RawOnion.label>weiße Zwiebeln</VCE_RawOnion.label>
+	<VCE_RawOnion.description>Eine kräftige und scharfe Zwiebelsorte, perfekt für aromatische Salate oder für allgemeine Kochanwendungen, wenn kräftige Aromen gewünscht sind.</VCE_RawOnion.description>
+	
+	<VCE_Pumpkin.label>Mammutgold-Kürbispflanze</VCE_Pumpkin.label>
+	<VCE_Pumpkin.description>Als eine der größten Kürbissorten kann der Mammutgold ein Gewicht zwischen 25 und 50 kg erreichen. Technisch gesehen handelt es sich bei Kürbissen um riesige Beeren, die dafür bekannt sind, dass sie sich sowohl leicht säen als auch ernten lassen. Ihre Haltbarkeit bedeutet jedoch zusätzliches Gewicht und Masse – zu unhandlich für Hydrokulturbecken.</VCE_Pumpkin.description>
+	
+	<VCE_RawPumpkin.label>Mammut-Goldkürbisse</VCE_RawPumpkin.label>
+	<VCE_RawPumpkin.description>Als eine der größten Kürbissorten kann der Mammutgold ein Gewicht zwischen 25 und 50 kg erreichen. Technisch gesehen handelt es sich bei Kürbissen um riesige Beeren, die dafür bekannt sind, dass sie sich sowohl leicht säen als auch ernten lassen.</VCE_RawPumpkin.description>
+	
+	<VCE_Tomato.label>Rote Fleischtomatenpflanze</VCE_Tomato.label>
+	<VCE_Tomato.description>Eine Tomatensorte mit fester, fleischiger, kräftiger und leuchtend roter Farbe. Ihr Geschmack ist im Vergleich zu anderen Sorten mild, saftig und ausgewogen. Tomaten lassen sich leicht von der Rebe entfernen, ohne dass die Pflanze entwurzelt werden muss.</VCE_Tomato.description>
+	
+	<VCE_RawTomatoes.label>rote Fleischtomaten</VCE_RawTomatoes.label>
+	<VCE_RawTomatoes.description>Eine Tomatensorte mit fester, fleischiger, kräftiger und leuchtend roter Farbe. Ihr Geschmack ist im Vergleich zu anderen Sorten mild, saftig und ausgewogen.</VCE_RawTomatoes.description>
+	
+	<VCE_AppleTree.label>Granny-Smith-Apfelbaum</VCE_AppleTree.label>
+	<VCE_AppleTree.description>Ein Baum, der harte Äpfel mit hellgrüner Schale und knackigem, saftigem Fruchtfleisch trägt. Der Geschmack ist herb und säuerlich. Beim Backen bleibt er fest, was ihn zu einem sehr beliebten Kochapfel macht, der in Kuchen verwendet wird und dort gesüßt werden kann.</VCE_AppleTree.description>
+	
+	<VCE_RawApple.label>Granny-Smith-Äpfel</VCE_RawApple.label>
+	<VCE_RawApple.description>Harte Äpfel mit hellgrüner Schale und knackigem, saftigem Fruchtfleisch. Der Geschmack ist herb und säuerlich. Beim Backen bleibt er fest, was ihn zu einem sehr beliebten Kochapfel macht, der in Kuchen verwendet wird und dort gesüßt werden kann.</VCE_RawApple.description>
+	
+	<VCE_Fruit.label>Rohe Biomfrüchte</VCE_Fruit.label>
+</LanguageData>

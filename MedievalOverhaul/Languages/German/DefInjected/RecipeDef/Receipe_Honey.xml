@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Extract_Honey.label>Honig extrahieren</DankPyon_Extract_Honey.label>
+	<DankPyon_Extract_Honey.description>Extrahiere den süßen Nektar aus den Waben. Honig kann zur Herstellung von Met verwendet werden, ist aber auch allein eine nahrhafte und genussvolle Mahlzeit.</DankPyon_Extract_Honey.description>
+	<DankPyon_Extract_Honey.jobString>Honig extrahieren.</DankPyon_Extract_Honey.jobString>
+	
+	<DankPyon_Extract_HoneyBulk.label>Honig extrahieren x5</DankPyon_Extract_HoneyBulk.label>
+	<DankPyon_Extract_HoneyBulk.description>Extrahiere den süßen Nektar aus den Waben. Honig kann zur Herstellung von Met verwendet werden, ist aber auch allein eine nahrhafte und genussvolle Mahlzeit x5.</DankPyon_Extract_HoneyBulk.description>
+	<DankPyon_Extract_HoneyBulk.jobString>Honig extrahieren x5.</DankPyon_Extract_HoneyBulk.jobString>
+</LanguageData>

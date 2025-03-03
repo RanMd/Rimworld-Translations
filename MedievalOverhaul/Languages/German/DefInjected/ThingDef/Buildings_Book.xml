@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Lecturn.label>Rednerpult</DankPyon_Lecturn.label>
+	<DankPyon_Lecturn.description>Ein einfaches Rednerpult, um Schriften oder Bücher so zu platzieren, dass sie leicht gelesen werden können.</DankPyon_Lecturn.description>
+
+	<DankPyon_BookBuildingBase.description>Baupläne sind wichtige Blaupausen, die es Ihnen ermöglichen, bestimmte Forschungsprojekte in Medieval Overhaul zu erforschen. Um sie mit einer Forschungsbank zu verbinden, platzieren Sie sie einfach um diese herum. Sobald die Verbindung hergestellt ist, können Sie mit der Recherche des entsprechenden Projekts beginnen.
+
+Wie erhalte ich Baupläne?
+
+KAUF
+Die einfachste Methode besteht darin, Allianzen mit einem der vier Häuser (Oswin, Hesse, Amboisse, Soren) zu schmieden.
+Sobald Sie den Alliiertenstatus erreicht haben, können Sie mit den Transportvögeln und dem Schreibertisch eine Gelehrtenkarawane anfordern. Diese Wohnwagen bieten immer Schaltpläne.
+
+PLÜNDERN
+Alternativ können Sie Baupläne durch Plündern von Ruinen erhalten.
+Gelegentlich erhalten Sie Quests, um kleine Außenposten oder Ruinen zu überfallen. Diese Orte enthalten oft wertvolle Beute, einschließlich Bauplänen. Mit etwas Glück stoßen Sie bei diesen Expeditionen möglicherweise auf Schaltpläne.
+Denken Sie daran, dass Sie die Einrichtungsgegenstände in diesen Ruinen aktiv durchsuchen müssen, um sie zu finden.</DankPyon_BookBuildingBase.description>
+	
+	<DankPyon_Book_MilitaryBlades.label>Bauplan für militärische Klingen</DankPyon_Book_MilitaryBlades.label>	
+	<DankPyon_Book_NobleBlades.label>Bauplan für edle Klingen</DankPyon_Book_NobleBlades.label>
+	<DankPyon_Book_MilitaryMaces.label>Bauplan eines militärischen Streitkolbens</DankPyon_Book_MilitaryMaces.label>	
+	<DankPyon_Book_NobleMaces.label>Bauplan für einen edlen Streitkolben</DankPyon_Book_NobleMaces.label>
+	
+	<DankPyon_Book_MilitaryPolearms.label>Bauplan für militärische Stangenwaffen</DankPyon_Book_MilitaryPolearms.label>	
+	<DankPyon_Book_NoblePolearms.label>Bauplan für edle Stangenwaffen</DankPyon_Book_NoblePolearms.label>
+	<DankPyon_Book_Crossbow.label>Bauplan für eine Armbrust</DankPyon_Book_Crossbow.label>	
+	<DankPyon_Book_HeavyCrossbow.label>Bauplan für eine Arbelest</DankPyon_Book_HeavyCrossbow.label>
+	
+	<DankPyon_Book_Steel.label>Metallurgie-Baupläne</DankPyon_Book_Steel.label>	
+	<DankPyon_Book_Gunpowder.label>Bauplan für Schießpulver</DankPyon_Book_Gunpowder.label>
+	<DankPyon_Book_Tar.label>Bauplan für Teer</DankPyon_Book_Tar.label>	
+	<DankPyon_Book_GreatBow.label>Bauplan für eine Langbögen</DankPyon_Book_GreatBow.label>
+	
+	<DankPyon_Book_WarBow.label>Baupläne für Kriegsbögen</DankPyon_Book_WarBow.label>	
+	<DankPyon_Book_IntermediateCooking.label>Kochrezepte für Fortgeschrittene</DankPyon_Book_IntermediateCooking.label>
+	<DankPyon_Book_AdvancedCooking.label>Kochrezepte für Experten</DankPyon_Book_AdvancedCooking.label>	
+	<DankPyon_Book_BallistaRepeater.label>Bauplan für einen Ballisten-Repeater</DankPyon_Book_BallistaRepeater.label>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_AncientTroll.label>Alter Troll</DankPyon_AncientTroll.label>
+	<DankPyon_AncientTroll.description>Schwerfälliger Riese, locker so groß wie drei Männer,sogar den Größten. Es frisst ganze Schafe als Snack und leert einen Teich, um es abzuspülen.</DankPyon_AncientTroll.description>
+	
+	<DankPyon_AncientTroll.tools.0.label>linke Klaue</DankPyon_AncientTroll.tools.0.label>
+	<DankPyon_AncientTroll.tools.1.label>linke Faust</DankPyon_AncientTroll.tools.1.label>
+	<DankPyon_AncientTroll.tools.2.label>rechte Klaue</DankPyon_AncientTroll.tools.2.label>
+	<DankPyon_AncientTroll.tools.3.label>rechte Faust</DankPyon_AncientTroll.tools.3.label>
+	<DankPyon_AncientTroll.tools.4.label>Stoßzähne</DankPyon_AncientTroll.tools.4.label>
+	<DankPyon_AncientTroll.tools.5.label>Zähne</DankPyon_AncientTroll.tools.5.label>
+	<DankPyon_AncientTroll.tools.6.label>Kopf</DankPyon_AncientTroll.tools.6.label>
+</LanguageData>

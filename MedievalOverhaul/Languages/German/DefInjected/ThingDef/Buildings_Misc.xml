@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_ToolRack.label>Werkzeugregal</DankPyon_ToolRack.label>
+	<DankPyon_ToolRack.description>Eine Sammlung von Schmiedewerkzeugen. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird.</DankPyon_ToolRack.description>
+	
+	<DankPyon_QuenchingBucket.label>Abschreckeimer</DankPyon_QuenchingBucket.label>
+	<DankPyon_QuenchingBucket.description>Ein Eimer voller Öl, das zum Abkühlen glimmender Metalle verwendet wird. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird..</DankPyon_QuenchingBucket.description>
+	
+	<DankPyon_Grinder.label>Schleifrad</DankPyon_Grinder.label>
+	<DankPyon_Grinder.description>Wird zum Schärfen von Waffen verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird.</DankPyon_Grinder.description>
+	
+	<DankPyon_Bellows.label>Blasebalg</DankPyon_Bellows.label>
+	<DankPyon_Bellows.description>Wird verwendet, um einen starken Luftstoß zu erzeugen. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird.</DankPyon_Bellows.description>
+	
+	<DankPyon_VialsTable.label>Fläschchentisch</DankPyon_VialsTable.label>
+	<DankPyon_VialsTable.description>Wird zum Ordnen von Rezepten und Fläschchen verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe einer Alchemiebank oder eines Alchemiekessels platziert wird.</DankPyon_VialsTable.description>
+	
+	<DankPyon_HerbTable.label>Kräutertisch</DankPyon_HerbTable.label>
+	<DankPyon_HerbTable.description>Wird zum Mahlen von Kräutern und Zutaten verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe einer Alchemiebank oder eines Alchemiekessels platziert wird.</DankPyon_HerbTable.description>
+	
+	
+	<DankPyon_Alembic.label>Destillierkolben</DankPyon_Alembic.label>
+	<DankPyon_Alembic.description>Wird zum Destillieren von Gemischen verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe einer Alchemiebank oder eines Alchemiekessels platziert wird.</DankPyon_Alembic.description>
+	
+	<DankPyon_RusticCookingTools.label>Kochutensilien</DankPyon_RusticCookingTools.label>
+	<DankPyon_RusticCookingTools.description>Ein Tisch voller nützlicher Kochutensilien. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe eines rustikalen Kochtisches platziert wird.</DankPyon_RusticCookingTools.description>
+	
+	<DankPyon_TableBaking.label>Backutensilien</DankPyon_TableBaking.label>
+	<DankPyon_TableBaking.description>Ein Tisch voller nützlicher Backutensilien. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe eines Ofens platziert wird.</DankPyon_TableBaking.description>
+	
+	<DankPyon_BirdPost.label>Vogelpost</DankPyon_BirdPost.label>
+	<DankPyon_BirdPost.description>Einige Vögel sind, wenn sie von erfahrenen Trainern unterrichtet werden, in der Lage, zu einem bestimmten Ort zu fliegen, bevor sie zu ihrem Heimatquartier zurückkehren. Dies ermöglicht die Kommunikation mit benachbarten Fraktionen, vorausgesetzt, man kann sich die kostspieligen Anforderungen für die Anschaffung und Ausbildung des Vogels sowie die Fütterung der Tiere mit Fleisch leisten. Erfordert Schreibertisch für die Korrespondenz.</DankPyon_BirdPost.description>
+	
+	<DankPyon_ScribeTable.label>Schreibertisch</DankPyon_ScribeTable.label>
+	<DankPyon_ScribeTable.description>Ein Tisch mit Wachstafeln, die Aufzeichnungen und Quittungen enthalten. Neben den Tafeln lagen Pergamente, ein Siegel, Federn und Tinte, um die Korrespondenz zu ermöglichen. Zusammen mit dem Vogelposten können die geschriebenen Briefe weit entfernte Länder schneller erreichen als ein Bote. Man kann Verbündete zu Festen, Rivalen zu einer Herausforderung oder neutrale Fraktionen zum Handel einladen.</DankPyon_ScribeTable.description>
+	
+	<DankPyon_Cart.label>Wagon</DankPyon_Cart.label>
+	<DankPyon_Cart.description>Ein zuverlässiger Wagon, der Neuheiten, Artefakte und Waren durch die unbarmherzigen Randgebiete transportiert. \n\nFür den Fernhandel erforderlich. Sie können Waren nur an andere Fraktionen verkaufen, wenn diese sich in der Nähe eines Wagons befinden.</DankPyon_Cart.description>
+
+</LanguageData>

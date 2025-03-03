@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RugBase.description>Stelle einen geflickten Teppich aus verschiedenen Lederarten her.</DankPyon_RugBase.description>
+	<DankPyon_RugBase.jobString>Herstellung eines Flickenteppichs.</DankPyon_RugBase.jobString>
+	
+	<DankPyon_MakeRugPatched1x1c.label>Flickenteppich (1x1) herstellen</DankPyon_MakeRugPatched1x1c.label>
+	
+	<DankPyon_MakeRugPatched2x2c.label>Flickenteppich (2x2) herstellen</DankPyon_MakeRugPatched2x2c.label>
+	
+	<DankPyon_MakeRugPatched3x3c.label>Flickenteppich (3x3) herstellen</DankPyon_MakeRugPatched3x3c.label>/
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_MendApparel.label>Kleidung reparieren</DankPyon_MendApparel.label>
+	<DankPyon_MendApparel.description>Repariere beschädigte Kleidung.</DankPyon_MendApparel.description>
+	<DankPyon_MendApparel.jobString>Ausbessern beschädigter Kleidung.</DankPyon_MendApparel.jobString>
+	
+	<DankPyon_MendWeapon.label>Waffe reparieren</DankPyon_MendWeapon.label>
+	<DankPyon_MendWeapon.description>Beschädigte Waffe reparieren.</DankPyon_MendWeapon.description>
+	<DankPyon_MendWeapon.jobString>Beschädigte Waffe reparieren.</DankPyon_MendWeapon.jobString>
+	
+	<DankPyon_MendArmor.label>Rüstung reparieren</DankPyon_MendArmor.label>
+	<DankPyon_MendArmor.description>Beschädigte Rüstung reparieren.</DankPyon_MendArmor.description>
+	<DankPyon_MendArmor.jobString>Beschädigte Rüstung reparieren.</DankPyon_MendArmor.jobString>
+</LanguageData>

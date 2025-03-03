@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_AlpBody.label>menschlich</DankPyon_AlpBody.label>
+	<DankPyon_AlpBody.corePart.parts.6.customLabel>linke Lunge</DankPyon_AlpBody.corePart.parts.6.customLabel>
+	<DankPyon_AlpBody.corePart.parts.7.customLabel>rechte Lunge</DankPyon_AlpBody.corePart.parts.7.customLabel>
+	<DankPyon_AlpBody.corePart.parts.8.customLabel>linke Niere</DankPyon_AlpBody.corePart.parts.8.customLabel>
+	<DankPyon_AlpBody.corePart.parts.9.customLabel>rechte Niere</DankPyon_AlpBody.corePart.parts.9.customLabel>
+	<DankPyon_AlpBody.corePart.parts.11.parts.0.parts.1.customLabel>linkes Auge</DankPyon_AlpBody.parts.11.parts.0.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.11.parts.0.parts.2.customLabel>rechtes Auge</DankPyon_AlpBody.parts.11.parts.0.parts.2.customLabel>
+	<DankPyon_AlpBody.corePart.parts.11.parts.0.parts.3.customLabel>linkes Ohr</DankPyon_AlpBody.parts.11.parts.0.parts.3.customLabel>
+	<DankPyon_AlpBody.corePart.parts.11.parts.0.parts.4.customLabel>rechtes Ohr</DankPyon_AlpBody.parts.11.parts.0.parts.4.customLabel>
+	
+	<DankPyon_AlpBody.corePart.parts.12.customLabel>linke Schulter</DankPyon_AlpBody.corePart.parts.12.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.0.customLabel>linkes Schlüsselbein</DankPyon_AlpBody.corePart.parts.12.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.customLabel>linker Arm</DankPyon_AlpBody.corePart.parts.12.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.0.customLabel>linker Humerus</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.1.customLabel>linker Radius</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.customLabel>linke Hand</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.customLabel>	
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>linker kleiner Finger</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>linker Ringfinger</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>linker Mittelfinger</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>linker Zeigefinger</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+	<DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>linker Daumen</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+
+	<DankPyon_AlpBody.corePart.parts.13.customLabel>rechte Schulter</DankPyon_AlpBody.corePart.parts.13.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.0.customLabel>rechtes Schlüsselbein</DankPyon_AlpBody.corePart.parts.13.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.customLabel>rechter Arm</DankPyon_AlpBody.corePart.parts.13.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.0.customLabel>rechter Humerus</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.1.customLabel>rechter Radius</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.customLabel>rechte Hand</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.customLabel>	
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>rechter kleiner Finger</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>rechter Ringfinger</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>rechter Mittelfinger</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>rechter Zeigefinger</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+	<DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>rechter Daumen</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>	
+	
+	<DankPyon_AlpBody.corePart.parts.14.customLabel>linkes Bein</DankPyon_AlpBody.corePart.parts.14.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.0.customLabel>linker Oberschenkel</DankPyon_AlpBody.corePart.parts.14.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.1.customLabel>linkes Schienbein</DankPyon_AlpBody.corePart.parts.14.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.2.customLabel>linker Fuß</DankPyon_AlpBody.corePart.parts.14.parts.2.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.2.parts.0.customLabel>linker kleiner Zeh</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.2.parts.1.customLabel>linker vierter Zeh</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.2.parts.3.customLabel>linker mittlerer Zeh</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.3.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.2.parts.4.customLabel>linker zweiter Zeh</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.4.customLabel>
+	<DankPyon_AlpBody.corePart.parts.14.parts.2.parts.5.customLabel>linker großer Zeh</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.5.customLabel>
+	
+	<DankPyon_AlpBody.corePart.parts.15.customLabel>rechter Bein</DankPyon_AlpBody.corePart.parts.15.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.0.customLabel>rechter Oberschenkel</DankPyon_AlpBody.corePart.parts.15.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.1.customLabel>rechtes Schienbein</DankPyon_AlpBody.corePart.parts.15.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.2.customLabel>rechter Fuß</DankPyon_AlpBody.corePart.parts.15.parts.2.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.2.parts.0.customLabel>rechter kleiner Zeh</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.0.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.2.parts.1.customLabel>rechter vierter Zeh</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.1.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.2.parts.3.customLabel>rechter mittlerer Zeh</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.3.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.2.parts.4.customLabel>rechter zweiter Zeh</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.4.customLabel>
+	<DankPyon_AlpBody.corePart.parts.15.parts.2.parts.5.customLabel>rechter großer Zeh</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.5.customLabel>
+</LanguageData>

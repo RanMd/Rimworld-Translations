@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_MineableCoal.label>Kohlenerz</DankPyon_MineableCoal.label>
+	<DankPyon_MineableCoal.description>Stein, der Kohlebrocken enthält.</DankPyon_MineableCoal.description>
+	
+	<DankPyon_MineableSalt.label>Salzerz</DankPyon_MineableSalt.label>
+	<DankPyon_MineableSalt.description>Stein mit Salzbrocken.</DankPyon_MineableSalt.description>
+	
+	<DankPyon_MineableGold.label>Golderz</DankPyon_MineableGold.label>
+	<DankPyon_MineableGold.description>Stein, der Goldstücke enthält.</DankPyon_MineableGold.description>
+	
+	<DankPyon_MineableIron.label>Eisenerz</DankPyon_MineableIron.label>
+	<DankPyon_MineableIron.description>Stein, der Eisenstücke enthält.</DankPyon_MineableIron.description>
+	
+	<DankPyon_MineableCitrine.label>Citrinvorkommen</DankPyon_MineableCitrine.label>
+	<DankPyon_MineableCitrine.description>Stein mit Citrinstückchen.</DankPyon_MineableCitrine.description>
+	
+	<DankPyon_MineableAmber.label>Bernsteinvorkommen</DankPyon_MineableAmber.label>
+	<DankPyon_MineableAmber.description>Stein, der Bernsteinstücke enthält.</DankPyon_MineableAmber.description>
+	
+	
+	<DankPyon_MineableOnyx.label>Onyxvorkommen</DankPyon_MineableOnyx.label>
+	<DankPyon_MineableOnyx.description>Stein mit Onyxstückchen.</DankPyon_MineableOnyx.description>
+	
+	<DankPyon_MineableEmerald.label>Smaragdvorkommen</DankPyon_MineableEmerald.label>
+	<DankPyon_MineableEmerald.description>Stein mit Smaragdstückchen.</DankPyon_MineableEmerald.description>
+	
+	<DankPyon_MineableSapphire.label>Saphirvorkommen</DankPyon_MineableSapphire.label>
+	<DankPyon_MineableSapphire.description>Stein, der Saphirstücke enthält.</DankPyon_MineableSapphire.description>
+	
+	<DankPyon_MineableRuby.label>Rubinvorkommen</DankPyon_MineableRuby.label>
+	<DankPyon_MineableRuby.description>Stein mit Rubinstücken.</DankPyon_MineableRuby.description>
+	
+	<DankPyon_TarPit.label>Teergrube</DankPyon_TarPit.label>
+	<DankPyon_TarPit.description>Eine natürliche Teerquelle. \n\nZerlegen, um Ressourcen zu ernten.</DankPyon_TarPit.description>
+	
+	<DankPyon_BeeHive.label>Bienenstock</DankPyon_BeeHive.label>
+	<DankPyon_BeeHive.description>Ein Bienenstock. \n\nZerlegen, um eine Bienenkönigin zu erhalten.</DankPyon_BeeHive.description>
+	
+	
+	<DankPyon_HornetNest.label>Hornissennest</DankPyon_HornetNest.label>
+	<DankPyon_HornetNest.description>Ein Bienenstock riesiger Insekten. Wenn es aktiviert wird, bringt es mit der Zeit weitere Insekten und Bienenstöcke sowie wertvollen Hornissenhonig hervor.</DankPyon_HornetNest.description>
+	
+	<DankPyon_GolemRock_Iron_MapGen.label>Ungewöhnliche Eisenformation</DankPyon_GolemRock_Iron_MapGen.label>
+	<DankPyon_GolemRock_Iron_MapGen.description>Eine ungewöhnliche Eisenformation, man hört, wie sich darin etwas bewegt.</DankPyon_GolemRock_Iron_MapGen.description>
+	
+	<DankPyon_GolemRock_Silver_MapGen.label>Ungewöhnliche Silberformation</DankPyon_GolemRock_Silver_MapGen.label>
+	<DankPyon_GolemRock_Silver_MapGen.description>Eine ungewöhnliche Silberformation, man hört, wie sich darin etwas bewegt.</DankPyon_GolemRock_Silver_MapGen.description>
+	
+	<DankPyon_GolemRock_Iron_Incident.label>Ungewöhnliche Eisenformation</DankPyon_GolemRock_Iron_Incident.label>
+	<DankPyon_GolemRock_Iron_Incident.description>Eine ungewöhnlicher Eisenformation, es ist im Inneren ruhig.</DankPyon_GolemRock_Iron_Incident.description>
+
+	
+	<DankPyon_GolemRock_Silver_Incident.label>Ungewöhnliche Silberformation</DankPyon_GolemRock_Silver_Incident.label>
+	<DankPyon_GolemRock_Silver_Incident.description>Eine ungewöhnlicher Silberformation, es ist im Inneren ruhig.</DankPyon_GolemRock_Silver_Incident.description>
+	
+	<DankPyon_GolemRock_Gold_Incident.label>Ungewöhnliche Goldformation</DankPyon_GolemRock_Gold_Incident.label>
+	<DankPyon_GolemRock_Gold_Incident.description>Eine ungewöhnliche Goldformation, es ist im Inneren ruhig.</DankPyon_GolemRock_Gold_Incident.description>
+
+</LanguageData>

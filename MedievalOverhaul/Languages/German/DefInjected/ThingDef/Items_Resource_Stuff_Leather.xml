@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Leather_Rox.label>Roxleder</DankPyon_Leather_Rox.label>
+	<DankPyon_Leather_Rox.description>Das sagenumwobene Leder eines Ochsen, hergestellt aus der Häutung eines der mächtigen Tiere. Obwohl es in seiner rohen Form etwas rau ist, kann niemand seine unglaublichen Isolierfähigkeiten aufgrund der schieren Dichte der Rox-Haare leugnen. Die gleiche Dichte und die natürliche Zusammensetzung machen es überraschend schwer entflammbar und verhindern, dass Sauerstoff an die glimmende Glut auf dem Fell gelangt. Allerdings ist es ein schweres Material, mit dem man arbeiten kann.</DankPyon_Leather_Rox.description>
+	
+	<DankPyon_Leather_Griffon.label>Greifenleder</DankPyon_Leather_Griffon.label>
+	<DankPyon_Leather_Griffon.description>Das sagenumwobene Leder eines Greifen, hergestellt aus der Häutung eines der mächtigen Tiere. Es verfügt über eine einzigartige Mischung aus Stärke und Geschmeidigkeit, durchdrungen von der majestätischen Aura der Kreatur. Mit seinen komplizierten Mustern und seiner außergewöhnlichen Haltbarkeit wird Greifen Leder von Kunsthandwerkern für seine Fähigkeit geschätzt, Kleidungsstücke und Waren von unvergleichlicher Qualität und Prestige herzustellen.</DankPyon_Leather_Griffon.description>
+
+	<DankPyon_Leather_Direwolf.label>Wolfsleder</DankPyon_Leather_Direwolf.label>
+	<DankPyon_Leather_Direwolf.description>Ein starkes, pelziges Fell, das von einem bösartigen Schattenwolf gehäutet wurde. Härter als normales Wolfsfell und isoliert gut gegen Kälte.</DankPyon_Leather_Direwolf.description>
+	
+	
+	<DankPyon_Leather_DireBoar.label>Wildschweinleder</DankPyon_Leather_DireBoar.label>
+	<DankPyon_Leather_DireBoar.description>Ein starkes, pelziges Fell, das von einem bösartigen Schatteneber gehäutet wurde. Härter als normales Eberfell und isoliert gut gegen Kälte.</DankPyon_Leather_DireBoar.description>
+	
+	<DankPyon_Leather_Hyena.label>Hyänenfell</DankPyon_Leather_Hyena.label>
+	<DankPyon_Leather_Hyena.description>Ein weiches, pelziges Fell, das einer Hyäne entnommen wurde. Es lässt sich nur schwer durchstechen und isoliert gut gegen Hitze.</DankPyon_Leather_Hyena.description>
+
+	<DankPyon_Leather_Troll.label>Trollleder</DankPyon_Leather_Troll.label>
+	<DankPyon_Leather_Troll.description>Gegerbte, getrocknete, geschabte Trollhaut.</DankPyon_Leather_Troll.description>
+	
+	
+	<DankPyon_Leather_Daer.label>Daerleder</DankPyon_Leather_Daer.label>
+	<DankPyon_Leather_Daer.description>Das sagenumwobene Leder eines Daers, hergestellt aus der Häutung eines der mächtigen Tiere. Obwohl es in seiner rohen Form etwas rau ist, kann niemand seine unglaublichen Isolierfähigkeiten leugnen, die auf die schiere Dichte der Daer-Haare zurückzuführen sind. Die gleiche Dichte und die natürliche Zusammensetzung machen es überraschend schwer entflammbar und verhindern, dass Sauerstoff an die glimmende Glut auf dem Fell gelangt. Allerdings ist es ein schweres Material, mit dem man arbeiten kann.</DankPyon_Leather_Daer.description>
+	
+	<DankPyon_Leather_Lindwurm.label>Lindwurmschuppen</DankPyon_Leather_Lindwurm.label>
+	<DankPyon_Leather_Lindwurm.description>Eine breite, handgroße grüne Schale färbt das reflektierte Licht smaragdgrün. Das Material ist sowohl langlebig als auch elegant und zieht neidische Blicke auf sich.</DankPyon_Leather_Lindwurm.description>
+
+	<DankPyon_WoolRox.label>Roxwolle</DankPyon_WoolRox.label>
+	<DankPyon_WoolRox.description>Dick, grob und sehr gut isolierend. Rox-Wollkleidung kann den Körper auch bei sehr kalten Bedingungen warm halten.</DankPyon_WoolRox.description>
+</LanguageData>

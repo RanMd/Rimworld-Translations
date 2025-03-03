@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_DireBoar.label>Schreckenseber</DankPyon_DireBoar.label>
+	<DankPyon_DireBoar.description>Ein bösartiger Allesfresser, der mit zwei tödlichen Stoßzähnen ausgestattet ist, die Bedrohungen durchbohren können. Schreckensschweine reisen regelmäßig in Herden umher und es wird befürchtet, dass sie gefährlich sind, wenn sie einmal angetroffen werden.\n\nDer Kadaver eines Schreckensschweins enthält Stoßzähne, die durch Schlachten gewonnen werden können.</DankPyon_DireBoar.description>
+	
+	<DankPyon_Golem_Iron.tools.0.label>Stoßzahn</DankPyon_Golem_Iron.tools.0.label>
+	<DankPyon_Golem_Iron.tools.2.label>linker Huf</DankPyon_Golem_Iron.tools.2.label>
+	<DankPyon_Golem_Iron.tools.3.label>rechter Huf</DankPyon_Golem_Iron.tools.3.label>
+	<DankPyon_Golem_Iron.tools.4.label>Kopf</DankPyon_Golem_Iron.tools.4.label>
+</LanguageData>

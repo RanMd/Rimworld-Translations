@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_NobleHouseFactionBase.pawnSingular>Untertan</DankPyon_NobleHouseFactionBase.pawnSingular>
+	<DankPyon_NobleHouseFactionBase.pawnsPlural>Untertanen</DankPyon_NobleHouseFactionBase.pawnsPlural>
+	
+	<DankPyon_NobleHouseCivil.label>Bürgerliches Adelshaus</DankPyon_NobleHouseCivil.label>
+	<DankPyon_NobleHouseCivil.description>Diese Leute sind schon sehr lange hier. Vielleicht sind ihre Vorfahren vor tausend Jahren hier abgestürzt. Vielleicht haben sie eine Katastrophe überlebt, die hier eine technologische Zivilisation zerstört hat. Auf jeden Fall handelt es sich bei den Stammesangehörigen größtenteils um Nomadenvölker, die vom Land leben und primitive Werkzeuge und Waffen verwenden.\n\nTrotz ihrer offensichtlichen technologischen Schwäche können die Stammesangehörigen gefährliche Feinde und wertvolle Freunde sein, da sie über Fähigkeiten in der Low-Tech-Kriegsführung verfügen Zahlen und ihre Widerstandskraft.\n\nDieser besondere Stamm verfolgt eine sanfte Lebensweise, wo er kann. Sie sind durchaus offen für Handel und Allianzen, auch mit fremden Völkern.</DankPyon_NobleHouseCivil.description>
+	<DankPyon_NobleHouseCivil.fixedName>Haus Amboise</DankPyon_NobleHouseCivil.fixedName>
+	
+	<DankPyon_NobleHouseCivil2.label>Bürgerliches Adelshaus</DankPyon_NobleHouseCivil2.label>
+	<DankPyon_NobleHouseCivil2.description>Diese Leute sind schon sehr lange hier. Vielleicht sind ihre Vorfahren vor tausend Jahren hier abgestürzt. Vielleicht haben sie eine Katastrophe überlebt, die hier eine technologische Zivilisation zerstört hat. Auf jeden Fall handelt es sich bei den Stammesangehörigen größtenteils um Nomadenvölker, die vom Land leben und primitive Werkzeuge und Waffen verwenden.\n\nTrotz ihrer offensichtlichen technologischen Schwäche können die Stammesangehörigen gefährliche Feinde und wertvolle Freunde sein, da sie über Fähigkeiten in der Low-Tech-Kriegsführung verfügen Zahlen und ihre Widerstandskraft.\n\nDieser besondere Stamm verfolgt eine sanfte Lebensweise, wo er kann. Sie sind durchaus offen für Handel und Allianzen, auch mit fremden Völkern.</DankPyon_NobleHouseCivil2.description>
+	<DankPyon_NobleHouseCivil2.fixedName>Haus Soren</DankPyon_NobleHouseCivil2.fixedName>
+	
+	<DankPyon_NobleHouseFierce.label>Grimmiges Adelshaus</DankPyon_NobleHouseFierce.label>
+	<DankPyon_NobleHouseFierce.description>Diese Leute sind schon sehr lange hier. Vielleicht sind ihre Vorfahren vor tausend Jahren hier abgestürzt. Vielleicht haben sie eine Katastrophe überlebt, die hier eine technologische Zivilisation zerstört hat. Auf jeden Fall handelt es sich bei den Stammesangehörigen größtenteils um Nomadenvölker, die vom Land leben und primitive Werkzeuge und Waffen verwenden.\n\nTrotz ihrer offensichtlichen technologischen Schwäche können die Stammesangehörigen gefährliche Feinde und wertvolle Freunde sein, da sie über Fähigkeiten in der Low-Tech-Kriegsführung verfügen Zahlen und ihre Widerstandskraft.\n\nDieser besondere Stamm verfolgt eine sanfte Lebensweise, wo er kann. Sie sind durchaus offen für Handel und Allianzen, auch mit fremden Völkern.</DankPyon_NobleHouseFierce.description>
+	<DankPyon_NobleHouseFierce.fixedName>Haus Oswin</DankPyon_NobleHouseFierce.fixedName>
+	
+	<DankPyon_NobleHouseSavage.label>Grausames Adelshaus</DankPyon_NobleHouseSavage.label>
+	<DankPyon_NobleHouseSavage.description>Diese Leute sind schon sehr lange hier. Vielleicht sind ihre Vorfahren vor tausend Jahren hier abgestürzt. Vielleicht haben sie eine Katastrophe überlebt, die hier eine technologische Zivilisation zerstört hat. Auf jeden Fall handelt es sich bei den Stammesangehörigen größtenteils um Nomadenvölker, die vom Land leben und primitive Werkzeuge und Waffen verwenden.\n\nTrotz ihrer offensichtlichen technologischen Schwäche können die Stammesangehörigen gefährliche Feinde und wertvolle Freunde sein, da sie über Fähigkeiten in der Low-Tech-Kriegsführung verfügen Zahlen und ihre Widerstandskraft.\n\nDieser besondere Stamm verfolgt eine sanfte Lebensweise, wo er kann. Sie sind durchaus offen für Handel und Allianzen, auch mit fremden Völkern.</DankPyon_NobleHouseSavage.description>
+	<DankPyon_NobleHouseSavage.fixedName>Haus Hesse</DankPyon_NobleHouseSavage.fixedName>
+</LanguageData>

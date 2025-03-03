@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- Presser -->
+	<DankPyon_InsertResourceDesc>Ressource zur Presse hinzufügen.</DankPyon_InsertResourceDesc>
+	<DankPyon_InsertResource>Ressource einfügen</DankPyon_InsertResource>
+	<DankPyon_InsertResourceVariable>Füge {0} ein</DankPyon_InsertResourceVariable>
+	<DankPyon_NoResourcesFound>Keine pressbare Ressource auf dieser Karte verfügbar.</DankPyon_NoResourcesFound>
+	<DankPyon_SelectResource>Wähle einen Ressourcentypen zum Pressen aus</DankPyon_SelectResource>
+	<DankPyon_StartInsertionResource>Ressource bringen</DankPyon_StartInsertionResource>
+	<DankPyon_StartInsertionResourceDesc>Bringe Ressource zur Presse um den Pressvorgang zu starten</DankPyon_StartInsertionResourceDesc>
+	<DankPyon_RemoveResource>Ressource entfernen</DankPyon_RemoveResource>
+	<DankPyon_RemoveResourceDesc>Entferne die Ressource von der Presse. Dies funktioniert nur, wenn der Pressvorgang noch nicht gestartet wurde.</DankPyon_RemoveResourceDesc>	
+	<DankPyon_CancelBringingResource>Ressourcenlieferung abbrechen</DankPyon_CancelBringingResource>
+	<DankPyon_CancelBringingResourceDesc>Bricht die Ressourcenlieferung für die Presse ab.</DankPyon_CancelBringingResourceDesc>
+	<DankPyon_WaitTillJobsEndResource>Warte bis die Ressource zur Presse gebracht wurde oder brich die Anlieferung ab.</DankPyon_WaitTillJobsEndResource>
+	<DankPyon_EngageResource>Starte pressen der Ressource</DankPyon_EngageResource>
+	<DankPyon_EngageResourceDesc>Beginnt mit dem Pressen der Ressource. Dieser Vorgang dauert 5 Tage und kann nicht unterbrochen werden, da sonst die Ressource zerstört wird.</DankPyon_EngageResourceDesc>
+	<DankPyon_ResourceFinished>Die Verarbeitung einer Ressource in der Presse ist abgeschlossen</DankPyon_ResourceFinished>
+	<DankPyon_ResourceInProgress>{0} ist am pressen. Fertig in {1}</DankPyon_ResourceInProgress>
+	<DankPyon_ResourceReady>Eine Ressource hat den Pressvorgang abgeschlossen und wartet auf die Abholung</DankPyon_ResourceReady>
+	<DankPyon_ResourceImproperlyDefined>Diese Ressource wurde für die Arbeit mit der Presse nicht ordnungsgemäß definiert. Wenden sich an den Autor des Ressourcen-Mods</DankPyon_ResourceImproperlyDefined>
+	<DankPyon_RemoveProduct>Entferne Produkt ({0})</DankPyon_RemoveProduct>
+	<DankPyon_RemoveProductDesc>Entferne das Produkt aus der Presse.</DankPyon_RemoveProductDesc>
+	
+	<DankPyon_PressEmpty>Zur Zeit ist die Presse leer.</DankPyon_PressEmpty>
+	<DankPyon_PressFilled>Die Presse ist gefüllt mit {0}</DankPyon_PressFilled>
+	<DankPyon_PressWorking>Presse funktioniert:</DankPyon_PressWorking>
+	<DankPyon_ResourcePercentage> (gefüllt mit {0} von {1})</DankPyon_ResourcePercentage>
+
+	<!-- Smoker -->
+	<DankPyon_InsertMeatDesc>Fleisch zum Räuchern einlegen.</DankPyon_InsertMeatDesc>
+	<DankPyon_InsertMeat>Lege Fleisch ein</DankPyon_InsertMeat>
+	<DankPyon_InsertMeatVariable>{0} einlegen</DankPyon_InsertMeatVariable>
+	<DankPyon_NoMeatsFound>Es wurde auf der Karte kein Fleisch gefunden.</DankPyon_NoMeatsFound>
+	<DankPyon_SelectMeat>Wählen Sie eine Fleischsorte zum Räuchern aus</DankPyon_SelectMeat>
+	<DankPyon_StartInsertionMeat>Fleisch bringen</DankPyon_StartInsertionMeat>
+	<DankPyon_StartInsertionMeatDesc>Bringe das Fleisch zum Räucherofen, um mit dem Räuchern zu beginnen</DankPyon_StartInsertionMeatDesc>
+	<DankPyon_RemoveMeat>Entferne Fleisch</DankPyon_RemoveMeat>
+	<DankPyon_RemoveMeatDesc>Nimm das Fleisch aus dem Räucherofen. Dies kann nur erfolgen, bevor mit dem Räuchern begonnen wurde.</DankPyon_RemoveMeatDesc>	
+	<DankPyon_CancelBringingMeat>Fleisch bringen abbrechen</DankPyon_CancelBringingMeat>
+	<DankPyon_CancelBringingMeatDesc>Brich ab, Fleisch zum Räucherofen zu bringen.</DankPyon_CancelBringingMeatDesc>
+	<DankPyon_WaitTillJobsEndMeat>Warte bis das Fleisch zum Räucherofen gebracht wurde, oder brich den Auftrag ab.</DankPyon_WaitTillJobsEndMeat>
+	<DankPyon_EngageMeat>Fleisch räuchern</DankPyon_EngageMeat>
+	<DankPyon_EngageMeatDesc>Fange an, Fleisch zu räuchern. Dieser Vorgang dauert einen Tag und kann nicht unterbrochen werden, da sonst das Fleisch zerstört wird.</DankPyon_EngageMeatDesc>
+	<DankPyon_SmokedMeatFinished>Das geräucherte Fleisch ist im Räucherofen fertig gegart</DankPyon_SmokedMeatFinished>
+	<DankPyon_SmokedMeatInProgress>{0} wird geräuchert. Fertigstellung in {1}</DankPyon_SmokedMeatInProgress>
+	<DankPyon_SmokedMeatReady>Das Fleisch ist fertig geräuchert und wartet auf die Abholung</DankPyon_SmokedMeatReady>
+	<DankPyon_RemoveSmokedMeat>Entferne geräuchertes Fleisch ({0})</DankPyon_RemoveSmokedMeat>
+	
+	<DankPyon_SmokerEmpty>Räucherofen ist im Moment leer</DankPyon_SmokerEmpty>
+	<DankPyon_SmokerFilled>Räucherofen ist mit {0} gefüllt</DankPyon_SmokerFilled>
+	<DankPyon_SmokerWorking>Räucherofen funktioniert:</DankPyon_SmokerWorking>
+
+	<!-- Drying Rack Meat -->
+	<DankPyon_InsertMeatRackDesc>Fleisch zum Trocknen einlegen.</DankPyon_InsertMeatRackDesc>
+	<DankPyon_InsertRackMeat>Lege Fleisch ein</DankPyon_InsertRackMeat>
+	<DankPyon_InsertMeatRackVariable>Lege {0} ein</DankPyon_InsertMeatRackVariable>
+	<DankPyon_StartInsertionMeatRackDesc>Bring das Fleisch zum Trocknen auf den Trockenstand</DankPyon_StartInsertionMeatRackDesc>
+	<DankPyon_RemoveMeatRackDesc>Nimm das Fleisch vom Trockenstand. Dies kann nur erfolgen, bevor mit dem Trocknen begonnen wurde.</DankPyon_RemoveMeatRackDesc>	
+	<DankPyon_CancelBringingMeatRackDesc>Fleisch zum Trockenstand bringen abbrechen.</DankPyon_CancelBringingMeatRackDesc>
+	<DankPyon_WaitTillJobsEndMeatRack>Warte bis das Fleisch zum Trockenstand gebracht wurde, oder brich den Vorgang ab.</DankPyon_WaitTillJobsEndMeatRack>
+	<DankPyon_EngageMeatRack>Räuchere Fleisch</DankPyon_EngageMeatRack>
+	<DankPyon_EngageMeatRackDesc>Beginne mit dem Trocknen von Fleisch. Dieser Vorgang dauert einen Tag und kann nicht unterbrochen werden, da sonst das Fleisch zerstört wird.</DankPyon_EngageMeatRackDesc>
+	<DankPyon_DriedMeatFinished>Das Trockenfleisch ist im Trockenstand fertig getrocknet</DankPyon_DriedMeatFinished>
+	<DankPyon_DriedMeatInProgress>Das {0} wird getrocknet. Es wird in {1} fertig sein</DankPyon_DriedMeatInProgress>
+	<DankPyon_DriedMeatRackReady>Das Fleisch ist fertig getrocknet und wartet auf die Abholung</DankPyon_DriedMeatRackReady>
+	<DankPyon_RemoveDriedMeat>Entferne Trockenfleisch ({0})</DankPyon_RemoveDriedMeat>
+	<DankPyon_DryingRackEmpty>Trockenstand ist jetzt leer</DankPyon_DryingRackEmpty>
+	<DankPyon_DryingRackFilled>Trockenstand gefüllt mit {0}</DankPyon_DryingRackFilled>
+	<DankPyon_DryingRackWorking>Trockenstand funktioniert:</DankPyon_DryingRackWorking>
+
+	<!-- Hay Rack Meat -->
+	<DankPyon_InsertHayDesc>Lege Heu zum Trocknen ein.</DankPyon_InsertHayDesc>
+	<DankPyon_InsertHay>Heu einlegen</DankPyon_InsertHay>
+	<DankPyon_InsertHayVariable>Lege {0} ein</DankPyon_InsertHayVariable>
+	<DankPyon_NoHayFound>Auf dieser Karte wurde kein Heu gefunden.</DankPyon_NoHayFound>
+	<DankPyon_SelectHay>Wähle Heu zum Trocknen aus</DankPyon_SelectHay>
+	<DankPyon_StartInsertionHay>Liefere Heu</DankPyon_StartInsertionHay>
+	<DankPyon_StartInsertionHayDesc>Bringe Heu zum Gestell, um mit dem Trocknen zu beginnen</DankPyon_StartInsertionHayDesc>
+	<DankPyon_RemoveHay>Entferne Heu</DankPyon_RemoveHay>
+	<DankPyon_RemoveHayDesc>Nimm das Heu aus dem Trockengestell. Dies kann nur erfolgen, wenn mit dem Trocknen noch nicht begonnen wurde.</DankPyon_RemoveHayDesc>	
+	<DankPyon_CancelBringingHay>Breche Heulieferung ab</DankPyon_CancelBringingHay>
+	<DankPyon_CancelBringingHayDesc>Brich das Liefern von Heu zum Trockengestell ab.</DankPyon_CancelBringingHayDesc>
+	<DankPyon_WaitTillJobsEndHay>Warte, bis das Heu zum Trockengestell gebracht wurde, oder brich den Auftrag ab.</DankPyon_WaitTillJobsEndHay>
+	<DankPyon_EngageHay>Zu Stroh trocknen</DankPyon_EngageHay>
+	<DankPyon_EngageHayDesc>Fange an, Heu zu trocknen. Dieser Vorgang dauert 3 Tage.</DankPyon_EngageHayDesc>
+	<DankPyon_StrawFinished>Das Stroh ist im Trockengestell fertig getrocknet</DankPyon_StrawFinished>
+	<DankPyon_StrawInProgress>{0} wird getrocknet. Es wird in {1} fertig sein</DankPyon_StrawInProgress>
+	<DankPyon_StrawReady>Das Heu ist fertig getrocknet und wartet auf die Abholung</DankPyon_StrawReady>
+	<DankPyon_RemoveStraw>Entferne Stroh ({0})</DankPyon_RemoveStraw>
+
+
+	<!-- Ale -->
+	<DankPyon_InsertAleOrMustDesc>Würze oder Most zum Einsetzen</DankPyon_InsertAleOrMustDesc>
+	<DankPyon_StartInsertionAleOrMust>Liefere Würze oder Most</DankPyon_StartInsertionAleOrMust>
+	<DankPyon_StartInsertionAleOrMustDesc>Bringe Würze oder Most in das Gärfass, um die Gärung zu starten</DankPyon_StartInsertionAleOrMustDesc>
+	<DankPyon_CancelBringingAleOrMust>Brich die Lieferung von Würze oder Most ab</DankPyon_CancelBringingAleOrMust>
+	<DankPyon_CancelBringingAleOrMustDesc>Brich das Liefern von Würze oder Most an das Gärfass ab.</DankPyon_CancelBringingAleOrMustDesc>
+
+	<DankPyon_JuiceAppleMaturing>Apfelsaft reift</DankPyon_JuiceAppleMaturing>
+	<DankPyon_JuiceAppleCurrentlyFrozen>Dieser unvergorene Apfelsaft ist gefroren und reift nicht zu Apfelwein</DankPyon_JuiceAppleCurrentlyFrozen>
+	<DankPyon_JuiceAppleCurrentlyRefrigerated>Dieser unvergorene Apfelsaft wird gekühlt und reift nicht so schnell zu Apfelwein, wie er könnte (reift in {0})</DankPyon_JuiceAppleCurrentlyRefrigerated>
+	<DankPyon_JuiceAppleMaturingCorrectly>Dieser unvergorene Apfelsaft reift zu Apfelwein (reift in {0})</DankPyon_JuiceAppleMaturingCorrectly>
+	
+	<MO.EnableMultiTileMeleeAttacks>Aktiviere Nahkampfangriffe über mehrere Felder</MO.EnableMultiTileMeleeAttacks>
+
+	<!-- UI -->
+	<DankPyon_GizmoSearch>Suche nach Beute</DankPyon_GizmoSearch>
+
+	<!-- Production Chains -->
+	<DankPyon_Hide_Description>Diese rohen Häute und Felle wurden einem Lebewesen entnommen und konnten mit den richtigen Fähigkeiten und Werkzeugen zu gegerbtem Leder verarbeitet werden.</DankPyon_Hide_Description>
+	<DankPyon_Hide>{0} Felle</DankPyon_Hide>
+	<DankPyon_PlainHide>Einfaches Fell</DankPyon_PlainHide>
+	<DankPyon_Plank_Description>Nützlich zum Bau von Strukturen und Waffen. Es ist ein guter Brennstoff für Lagerfeuer.</DankPyon_Plank_Description>
+	<DankPyon_Log>{0} Baumstamm</DankPyon_Log>
+	<DankPyon_Timber>{0} Planke</DankPyon_Timber>
+	<DankPyon_Plank>Planke</DankPyon_Plank>
+
+	<!-- Misc -->
+	<DankPyon_Gossamer_Desc>Webknecht hauchdünne Produktion:</DankPyon_Gossamer_Desc>
+	<DankPyon_TrollSwallowDesc>Der uralte Troll hat einen deiner Kolonisten verschluckt! Stelle sicher, dass ihn rechtzeitig töten, um den Kolonisten lebend zurückzuholen.</DankPyon_TrollSwallowDesc>
+	<DankPyon_TrollSwallLabel>Lecker!</DankPyon_TrollSwallLabel>
+	<DankPyon_StewMealAmount>Mahlzeiten verfügbar</DankPyon_StewMealAmount>
+
+	<!-- Medieval Nutrient Pots -->
+	<DankPyon_MealSlop_RefueledWithStat>mit Nährstoffen versorgt</DankPyon_MealSlop_RefueledWithStat>
+	<DankPyon_MealSlop_CommandSetTargetFuelLevel>Lege die Zielfuttermenge fest</DankPyon_MealSlop_CommandSetTargetFuelLevel>
+  	<DankPyon_CommandSetTargetFuelLevelDesc>Lege die Zielfuttermenge fest. Die Kolonisten werden versuchen, diese bis zur Zielnahrungsmenge aufzufüllen.</DankPyon_CommandSetTargetFuelLevelDesc>
+	<DankPyon_MealSlop_CommandToggleAllowAutoRefuel>Schalten Sie die Nährstoffzufuhr um</DankPyon_MealSlop_CommandToggleAllowAutoRefuel>
+	<DankPyon_MealSlop_CommandToggleAllowAutoRefuelDesc>Legt fest, ob automatisches Auftanken erlaubt ist oder nicht.</DankPyon_MealSlop_CommandToggleAllowAutoRefuelDesc>
+	<DankPyon_StewPot_Itab>Nährstoff</DankPyon_StewPot_Itab>
+	<DankPyon_MealSlop_Spoiled>Ein Schmortopf ist verdorben.</DankPyon_MealSlop_Spoiled>
+	<DankPyon_StewPot_NutritionStored>Nährstoffe gelagert</DankPyon_StewPot_NutritionStored>
+	<DankPyon_SlopRotting>Aufgrund von Treibstoffmangel fängt es an, schlecht zu werden.</DankPyon_SlopRotting>
+	<DankPyon_SlopFuel>Benötigt einen befeuerten Topf.</DankPyon_SlopFuel>
+	
+	<!-- Ice Stuff -->
+	<DankPyon_Melted>Vollständig eingeschmolzen</DankPyon_Melted>
+	<DankPyon_GatherIce>Sammle Eis/Wasser</DankPyon_GatherIce>
+	<DankPyon_GatherIceDesc>Sammel Eis oder Wasser aus geeignetem Gelände.</DankPyon_GatherIceDesc>
+	<DankPyon_MustBeIce>Das Gelände muss aus Eis oder Wasser bestehen</DankPyon_MustBeIce>
+	<DankPyon_MustBeOnSoil>Gelände muss Erde sein</DankPyon_MustBeOnSoil>
+	<DankPyon_MeltedAwayInStorage>{1_label} ist bei der Lagerung geschmolzen.</DankPyon_MeltedAwayInStorage>
+
+</LanguageData>

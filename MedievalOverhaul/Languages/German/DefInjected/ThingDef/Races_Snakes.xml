@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_LargeCobraCave.label>Große Kobra</DankPyon_LargeCobraCave.label>
+	<DankPyon_LargeCobraCave.description>Große Kobras sind größer als ihre Artgenossen und widerstandsfähiger und erweisen sich auf der Jagd nach Beute als tödlicher und aggressiver. Ihr Biss injiziert giftiges Gift in das Opfer.</DankPyon_LargeCobraCave.description>
+	
+	<DankPyon_LargeCobraForest.tools.0.label>Giftzähne</DankPyon_LargeCobraForest.tools.0.label>
+	<DankPyon_LargeCobraForest.tools.1.label>Kopf</DankPyon_LargeCobraForest.tools.1.label>
+	
+	<DankPyon_LargeCobraForest.label>Große Kobra</DankPyon_LargeCobraForest.label>
+	<DankPyon_LargeCobraForest.description>Eine giftige Schlange mit einer Kapuze am Kopf, die sie bei Gefahr aufrichtet. Diese riesige Kreatur lebt in Höhlen und zögert nicht, ihr Territorium zu schützen.</DankPyon_LargeCobraForest.description>
+	
+
+	
+	<DankPyon_GiantConstrictorForest.label>Riesige Würgeschlange</DankPyon_GiantConstrictorForest.label>
+	<DankPyon_GiantConstrictorForest.description>Eine Urschlange, gigantisch groß und alt wie die verlassenen Bäume.</DankPyon_GiantConstrictorForest.description>
+	
+	<DankPyon_GiantConstrictorForest.tools.1.label>Kopf</DankPyon_GiantConstrictorForest.tools.1.label>
+	
+	<DankPyon_GiantConstrictorCave.label>Riesige Höhlenwürgeschlange</DankPyon_GiantConstrictorCave.label>
+	<DankPyon_GiantConstrictorCave.description>Diese Kreatur ist eine der größten Schlangenvarianten und verfügt über einen Kiefer, der sich weit genug öffnen kann, um einen ganzen Menschen zu verschlingen.</DankPyon_GiantConstrictorCave.description>
+	
+
+	<DankPyon_LindwurmForest.label>Waldlindwurm</DankPyon_LindwurmForest.label>
+	<DankPyon_LindwurmForest.description>Ein riesiges Reptil, auf halbem Weg zwischen Schlangen und Drachen. Eines der wenigen Lebewesen, das wirklich nicht in der Lage ist, Angst zu empfinden. Jeder Draufgänger, der es schafft, an dem mächtigen, aber flinken Schwanz vorbeizukommen und eine robuste Schuppe zu durchbohren, wird mit ätzendem Blut bespritzt. Lindwurmblut ist die stärkste Säure, die es je gab – sie löst selbst den dicksten Stahl auf und frisst sich in Sekundenschnelle durch das Fleisch.</DankPyon_LindwurmForest.description>
+	
+	<DankPyon_LindwurmForest.tools.0.label>Giftzähne</DankPyon_LindwurmForest.tools.0.label>
+	<DankPyon_LindwurmForest.tools.1.label>Kopf</DankPyon_LindwurmForest.tools.1.label>
+	<DankPyon_LindwurmForest.tools.2.label>Linke Klaue</DankPyon_LindwurmForest.tools.2.label>
+	<DankPyon_LindwurmForest.tools.3.label>Rechte Klaue</DankPyon_LindwurmForest.tools.3.label>
+	<DankPyon_LindwurmForest.tools.4.label>Schwanz</DankPyon_LindwurmForest.tools.4.label>
+	
+	<DankPyon_LindwurmForest.race.meatLabel>Lindwurmfleisch</DankPyon_LindwurmForest.tools.meatLabel>
+	
+
+	<DankPyon_LindwurmCave.label>Höhlenlindwurm</DankPyon_LindwurmCave.label>
+	
+</LanguageData>

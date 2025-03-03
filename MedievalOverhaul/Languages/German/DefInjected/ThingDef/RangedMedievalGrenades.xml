@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Weapon_PotFire.label>Feuertöpfe</DankPyon_Weapon_PotFire.label>
+	<DankPyon_Weapon_PotFire.description>Ein explosiver Tontopf, der mit seiner ölgefüllten Hülle dazu bestimmt ist, einen Bereich in Brand zu setzen.</DankPyon_Weapon_PotFire.description>
+	
+	<DankPyon_Proj_PotFire.label>Feuertopf</DankPyon_Proj_PotFire.label>
+	
+	<DankPyon_Weapon_PotFlash.label>Blitztöpfe</DankPyon_Weapon_PotFlash.label>
+	<DankPyon_Weapon_PotFlash.description>Ein explosiver Tontopf, der Opfer mit einem hellen Blitz und einem lauten, scharfen Geräusch desorientieren soll.</DankPyon_Weapon_PotFlash.description>
+	
+	<DankPyon_Proj_PotFlash.label>Blitztopf</DankPyon_Proj_PotFlash.label>
+
+
+	<DankPyon_Weapon_PotFlashSmoke.label>Rauchtopf</DankPyon_Weapon_PotFlashSmoke.label>
+	<DankPyon_Weapon_PotFlashSmoke.description>Ein explosiver Tontopf, der eine Rauchwand erzeugen soll, um visionären Schutz zu bieten.</DankPyon_Weapon_PotFlashSmoke.description>
+	
+	<DankPyon_Proj_PotSmoke.label>Rauchtopf</DankPyon_Proj_PotSmoke.label>
+	
+	<DankPyon_Weapon_AcidFlask.label>Säurefläschchen</DankPyon_Weapon_AcidFlask.label>
+	<DankPyon_Weapon_AcidFlask.description>PLATZHALTER</DankPyon_Weapon_AcidFlask.description>
+	<DankPyon_Weapon_AcidFlask.verbs.0.label>Säurefläschchen werfen</DankPyon_Weapon_AcidFlask.verbs.>
+	
+	<DankPyon_Proj_AcidFlask.label>Säurefläschchen</DankPyon_Proj_AcidFlask.label>	
+	
+</LanguageData>

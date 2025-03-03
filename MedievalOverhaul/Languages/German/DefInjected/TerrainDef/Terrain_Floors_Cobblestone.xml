@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Floor_CobblestoneBase.description>Raues Kopfsteinpflaster in angepassten Mustern platziert. Sie sind hübsch anzusehen, aber das Verlegen dauert lange.</DankPyon_Floor_CobblestoneBase.description>
+	
+	<DankPyon_Floor_Cobblestone_Sandstone.label>Kopfsteinpflaster aus Sandstein</DankPyon_Floor_Cobblestone_Sandstone.label>
+	<DankPyon_Floor_Cobblestone_Granite.label>Kopfsteinpflaster aus Granit</DankPyon_Floor_Cobblestone_Granite.label>
+	<DankPyon_Floor_Cobblestone_Limestone.label>Kopfsteinpflaster aus Kalkstein</DankPyon_Floor_Cobblestone_Limestone.label>
+	<DankPyon_Floor_Cobblestone_Slate.label>Kopfsteinpflaster aus Schiefer</DankPyon_Floor_Cobblestone_Slate.label>
+	<DankPyon_Floor_Cobblestone_Marble.label>Kopfsteinpflaster aus Marmor</DankPyon_Floor_Cobblestone_Marble.label>
+</LanguageData>

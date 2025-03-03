@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RawFlax.label>Flachs</DankPyon_RawFlax.label>
+	<DankPyon_RawFlax.description>Stängel aus Pflanzenfasern. Die Fasern können wegen ihrer fadenziehenden Eigenschaften genutzt werden und eignen sich hervorragend für die Herstellung von Stoffen.</DankPyon_RawFlax.description>
+	
+	<DankPyon_Silkworm.label>Seidenraupe</DankPyon_Silkworm.label>
+	<DankPyon_Silkworm.description>Kleine wurmige Tiere, die Seide für ihre Kokons produzieren, die geerntet werden können, um feine Seide herzustellen.</DankPyon_Silkworm.description>
+
+	<DankPyon_RawCotton.label>Baumwolle</DankPyon_RawCotton.label>
+	<DankPyon_RawCotton.description>Baumwolle.</DankPyon_RawCotton.description>
+	
+	
+	<DankPyon_RawWheat.label>Weizen</DankPyon_RawWheat.label>
+	<DankPyon_RawWheat.description>Weizen ist eine lebenswichtige Ernte für die Bauernschaft, seine goldenen Halme reifen unter der Sonne und sind bereit für die Ernte für den Lebensunterhalt und den Handel. Der Anbau auf riesigen Feldern sorgt dafür, dass die Dörfer gedeihen, die Menschen gut ernährt bleiben und den Lebensunterhalt der hart arbeitenden Bauern sichern.</DankPyon_RawWheat.description>
+	
+	<DankPyon_RawGrapes.label>Trauben</DankPyon_RawGrapes.label>
+	<DankPyon_RawGrapes.description>Leckere Trauben, die roh verzehrt werden können. Nützlich für die Weinherstellung.</DankPyon_RawGrapes.description>
+
+	<DankPyon_Sugarcane.label>Zuckerrohr</DankPyon_Sugarcane.label>
+	<DankPyon_Sugarcane.description>Rohes Zuckerrohr. Muss zu Zucker gemahlen werden, um verwendbar zu sein.</DankPyon_Sugarcane.description>
+	
+	
+	<DankPyon_RawHerb.label>Rohe Kräuter</DankPyon_RawHerb.label>
+	<DankPyon_RawHerb.description>Rohe Kräuter.</DankPyon_RawHerb.description>
+	
+	<DankPyon_RawTomatoes.label>Tomaten</DankPyon_RawTomatoes.label>
+	<DankPyon_RawTomatoes.description>Rohe Tomaten.</DankPyon_RawTomatoes.description>
+
+	<DankPyon_RawApples.label>Äpfel</DankPyon_RawApples.label>
+	<DankPyon_RawApples.description>Rohe Äpfel.</DankPyon_RawApples.description>
+	
+	
+	<DankPyon_RawLemons.label>Zitronen</DankPyon_RawLemons.label>
+	<DankPyon_RawLemons.description>Rohe Zitronen.</DankPyon_RawLemons.description>
+	
+	<DankPyon_RawMulberry.label>Maulbeere</DankPyon_RawMulberry.label>
+	<DankPyon_RawMulberry.description>Rohe Maulbeeren.</DankPyon_RawMulberry.description>
+
+	<DankPyon_RawCabbages.label>Kohlköpfe</DankPyon_RawCabbages.label>
+	<DankPyon_RawCabbages.description>Rohe Kohlköpfe.</DankPyon_RawCabbages.description>
+	
+	<DankPyon_RawCarrots.label>Karotten</DankPyon_RawCarrots.label>
+	<DankPyon_RawCarrots.description>Rohe Karotten.</DankPyon_RawCarrots.description>
+	
+	<DankPyon_RawGarlic.label>Knoblauch</DankPyon_RawGarlic.label>
+	<DankPyon_RawGarlic.description>Roher Knoblauch.</DankPyon_RawGarlic.description>
+
+	<DankPyon_RawOnions.label>Zwiebeln</DankPyon_RawOnions.label>
+	<DankPyon_RawOnions.description>Rohe Zwiebeln.</DankPyon_RawOnions.description>
+	
+	<DankPyon_RawPumpkins.label>Kürbisse</DankPyon_RawPumpkins.label>
+	<DankPyon_RawPumpkins.description>Rohe Kürbisse.</DankPyon_RawPumpkins.description>
+
+	<DankPyon_RawLentils.label>Linsen</DankPyon_RawLentils.label>
+	<DankPyon_RawLentils.description>Rohe Linsen.</DankPyon_RawLentils.description>
+
+	<DankPyon_GriffonBerry.label>Greifenbeeren</DankPyon_GriffonBerry.label>
+	<DankPyon_GriffonBerry.description>Rohe Greifenbeeren.</DankPyon_GriffonBerry.description>
+	
+	<DankPyon_RawMacci.label>Macci</DankPyon_RawMacci.label>
+	<DankPyon_RawMacci.description>Rohes Macci.</DankPyon_RawMacci.description>
+</LanguageData>

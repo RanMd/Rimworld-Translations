@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<VCE_Wheat.label>Dinkelpflanze</VCE_Wheat.label>
+	<VCE_Wheat.description>Dinkel ist eine Weizenart, die seit etwa 5000 v. Chr. angebaut wird. Eine gute Quelle für Ballaststoffe, Protein (von dem es mehr als Weichweizen enthält) sowie Vitamine und Mineralien. Es dauert fast eine ganze Vegetationsperiode, bis Dinkel Früchte trägt. Obwohl dieses Getreide zerbrechlich und zeitaufwändig ist, wurde es gentechnisch so verändert, dass es durch bloße Berührung sanft zu Mehl zerfällt.</VCE_Wheat.description>
+	
+	<VCE_Flour.label>Dinkelmehl</VCE_Flour.label>
+	<VCE_Flour.description>Dinkelmehl, ideal zum Backen. Es dauert sehr lange, bis Dinkelmehl schlecht wird, wenn es trocken gelagert wird. Es wurde aus Dinkel hergestellt, der gentechnisch so verändert wurde, dass er bei bloßer Berührung sanft zu Mehl zerfällt.</VCE_Flour.description>
+	
+	<VCE_Cheese.label>Kuhkäse</VCE_Cheese.label>
+	
+	<VCE_Sugarcane.label>Uba-Zuckerrohrpflanze</VCE_Sugarcane.label>
+	<VCE_Onion.description>Ein dichtes, hohes tropisches Gras mit gegliederten Stängeln. Die Uba-Sorte ist viel widerstandsfähiger, aber weniger ertragreich als gewöhnliches Zuckerrohr. Dieses gentechnisch veränderte Zuckerrohr ist zwar nicht gerade das nahrhafteste Nahrungsmittel, lässt sich aber leicht zu braunem Zucker mahlen und dann für eine Vielzahl kulinarischer Kreationen verwenden – insbesondere für Desserts.</VCE_Onion.description>
+	
+	<VCE_RawSugar.label>Brauner Zucker</VCE_RawSugar.label>
+	<VCE_RawSugar.description>Brauner Zucker ist ein Saccharosezuckerprodukt mit einer charakteristischen braunen Farbe aufgrund der Anwesenheit von Zuckerrohrmelasse und sorgt für die gewünschte Süße. Während Zucker gut für die Zunge ist, ist er nicht so gut für die Nieren und kann in großen Mengen schnell zu Diabetes führen. Zucker wird vom Körper leicht in Energie umgewandelt, was zu einem schönen Energieschub führen kann.</VCE_RawSugar.description>
+</LanguageData>

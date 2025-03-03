@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Ring_Holding.label>Ring der Tragkraft</DankPyon_Ring_Holding.label>
+	<DankPyon_Ring_Holding.description>Dieser Ring ist ein Schatz für Händler und reisende Krieger gleichermaßen und bietet eine erhöhte Tragfähigkeit für lange Feldzüge und Handelskarawanen.</DankPyon_Ring_Holding.description>
+	
+	<DankPyon_Ring_Haste.label>Ring der Eile</DankPyon_Ring_Haste.label>
+	<DankPyon_Ring_Haste.description>Ein verzauberter Ring, der seinem Träger zusätzliche Bewegungsgeschwindigkeit verleiht – perfekt für Entdecker, die schnell Boden zurücklegen und gefährlichen Expeditionen entkommen möchten.</DankPyon_Ring_Haste.description>
+	
+	<DankPyon_Ring_Tending.label>Ring der Pflege</DankPyon_Ring_Tending.label>
+	<DankPyon_Ring_Tending.description>Der Grundring eines Heilers, der an diesem Kleidungsstück befestigt wird, verleiht den Händen eine bessere Pflegequalität und erhöht gleichzeitig die Vitalität des Trägers.</DankPyon_Ring_Tending.description>
+	
+	<DankPyon_Ring_Research.label>Ring der Forschung</DankPyon_Ring_Research.label>
+	<DankPyon_Ring_Research.description>Durch Ausdauer und Witz bringt er die Wunder der Welt hervor. Das Tragen dieses Rings wird die Erleuchtung segnen und den Geist für die Tiefen des Wahnsinns und des Einfallsreichtums öffnen.</DankPyon_Ring_Research.description>
+
+	<DankPyon_Ring_StunImmunity.label>Ring der Betäubungsimmunität</DankPyon_Ring_StunImmunity.label>
+	<DankPyon_Ring_StunImmunity.description>PLATZHALTER.</DankPyon_Ring_StunImmunity.description>	
+	
+</LanguageData>

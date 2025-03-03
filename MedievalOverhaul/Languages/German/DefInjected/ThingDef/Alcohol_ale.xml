@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Ale.label>Bier</DankPyon_Ale.label>
+	<DankPyon_Ale.description>Vergorenes Getränk von tiefgoldener Farbe, ein wahres Lebenselixier des gesellschaftlichen Lebens in diesen Gegenden. Wenige Tassen in der Taverne genügen, um die Strapazen der Feldarbeit, die Gefahren auf der Straße oder unüberlegte Eheversprechen zu vergessen. Lassen Sie sich vom warmen Dunst der Trunkenheit umarmen, ohne sich um irgendetwas Sorgen machen zu müssen. Nicht heute.</DankPyon_Ale.description>
+	
+	<DankPyon_WortAle.label>Bierwürze</DankPyon_WortAle.label>
+	<DankPyon_WortAle.description>Unvergorenes Bier. Dieser Stoff muss in einem Gärfass gären, bevor er zu trinkbarem Bier wird.</DankPyon_WortAle.description>
+</LanguageData>

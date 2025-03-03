@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Need_BattleElixir.label>Kampfelixier</DankPyon_Need_BattleElixir.label>
+	<DankPyon_Need_BattleElixir.description>Aufgrund einer Kampfelixiersucht muss diese Person das Medikament regelmäßig konsumieren, um Entzugserscheinungen zu vermeiden.</DankPyon_Need_BattleElixir.description>
+	
+	<DankPyon_Need_HappyPowder.label>Glückspulver</DankPyon_Need_HappyPowder.label>
+	<DankPyon_Need_HappyPowder.description>Aufgrund einer Glückspulversucht muss diese Person das Medikament regelmäßig konsumieren, um Entzugserscheinungen zu vermeiden.</DankPyon_Need_HappyPowder.description>
+	
+	<DankPyon_Chemical_HornetHoney.label>Hornissenhonig</DankPyon_Chemical_HornetHoney.label>
+	<DankPyon_Chemical_HornetHoney.description>Aufgrund einer Hornissenhonig muss diese Person das Medikament regelmäßig konsumieren, um Entzugserscheinungen zu vermeiden.</DankPyon_Chemical_HornetHoney.description>
+	
+	<DankPyon_Need_Luhix.label>Luhix</DankPyon_Need_Luhix.label>
+	<DankPyon_Need_Luhix.description>Aufgrund einer Luhix-Sucht muss diese Person die Droge regelmäßig konsumieren, um Entzugserscheinungen zu vermeiden.</DankPyon_Need_Luhix.description>
+	
+	<DankPyon_Need_Stardust.label>Sternenstaub</DankPyon_Need_Stardust.label>
+	<DankPyon_Need_Stardust.description>Aufgrund einer Sternenstaub muss diese Person das Medikament regelmäßig konsumieren, um Entzugserscheinungen zu vermeiden.</DankPyon_Need_Stardust.description>
+	
+	<DankPyon_Need_VigorPill.label>Vitalitätspille</DankPyon_Need_VigorPill.label>
+	<DankPyon_Need_VigorPill.description>Aufgrund einer Vitalitätspille muss diese Person das Medikament regelmäßig konsumieren, um Entzugserscheinungen zu vermeiden.</DankPyon_Need_VigorPill.description>
+</LanguageData>

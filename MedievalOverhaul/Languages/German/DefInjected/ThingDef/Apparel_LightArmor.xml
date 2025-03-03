@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Apparel_Sackcloth.label>Sackleinen</DankPyon_Apparel_Sackcloth.label>
+	<DankPyon_Apparel_Sackcloth.description>Ein schnell gefertigtes, zerlumptes Kleidungsstück, genäht aus Teilen verschiedener Lederarten.DankPyon_Apparel_Leather_Tunic</DankPyon_Apparel_Sackcloth.description>
+	
+	<DankPyon_Apparel_Leather_Tunic.label>Weste</DankPyon_Apparel_Leather_Tunic.label>
+	<DankPyon_Apparel_Leather_Tunic.description>Eine schlichte Weste aus behandeltem und gegerbtem Leder, bequem und pragmatisch zugleich. Das dicke Leder bietet ein gutes Gleichgewicht zwischen Schutz und Belastung.</DankPyon_Apparel_Leather_Tunic.description>
+	
+	<DankPyon_Apparel_Padded_Surcoat.label>Gepolsterter Wappenrock</DankPyon_Apparel_Padded_Surcoat.label>
+	<DankPyon_Apparel_Padded_Surcoat.description>Eine Mantelweste aus Stoff, ähnlich einem Gambeson genäht, mit dicker Wollfüllung. Bietet beim Tragen zusätzliche Polsterung, wehrt Speerstöße unter Schilden jedoch nicht ab.</DankPyon_Apparel_Padded_Surcoat.description>
+	
+	<Dankpyon_Apparel_Gambeson.label>Gambeson</Dankpyon_Apparel_Gambeson.label>
+	<Dankpyon_Apparel_Gambeson.description>Ein leichtes Schutzkleidungsstück mit Lagen aus straff genähtem Leinen, zwischen denen eine dichte Füllung aus Eichenholz oder Wolle liegt. Ziemlich isolierend und bietet guten Schutz gegen Schnitte und Schläge.</Dankpyon_Apparel_Gambeson.description>
+
+
+	<DankPyon_Apparel_Padded_Leather.label>Gepolsterte Rüstung</DankPyon_Apparel_Padded_Leather.label>
+	<DankPyon_Apparel_Padded_Leather.description>Eine dick gepolsterte Kapuze, die am häufigsten unter schwereren Helmen getragen wird und eine zusätzliche Schutzschicht bietet. Sehr isolierend und bietet allein schon ein wenig stumpfen Schutz.</DankPyon_Apparel_Padded_Leather.description>
+	
+	<DankPyon_Apparel_Light_Lamellar.label>Leichte Lamellenrüstung</DankPyon_Apparel_Light_Lamellar.label>
+	<DankPyon_Apparel_Light_Lamellar.description>Eine Lederlamelle aus überlappenden Lederplatten, die ein erhebliches Maß an Schutz bieten kann.</DankPyon_Apparel_Light_Lamellar.description>		
+	
+</LanguageData>

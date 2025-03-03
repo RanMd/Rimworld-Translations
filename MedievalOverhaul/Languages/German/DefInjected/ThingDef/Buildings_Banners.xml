@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_BannerBase.description>Ein verziertes Leinenbanner zur Darstellung der Farben der Kolonie.</DankPyon_BannerBase.description>
+	<DankPyon_NonBuildableBanners.description>Ein verziertes Leinenbanner zur Darstellung der Farben der Kolonie.</DankPyon_NonBuildableBanners.description>
+	
+	<DankPyon_BannerMoonCult.label>Banner (Mondkult)</DankPyon_BannerMoonCult.label>
+	<DankPyon_BannerSoren.label>Banner (Soren)</DankPyon_BannerSoren.label>
+	<DankPyon_BannerAmboise.label>Banner (Amboise)</DankPyon_BannerAmboise.label>
+	<DankPyon_BannerHesse.label>Banner (Hesse)</DankPyon_BannerHesse.label>
+	<DankPyon_BannerOswin.label>Banner (Oswin)</DankPyon_BannerOswin.label>
+	
+	<DankPyon_BannerPlain.label>Banner (Einfach)</DankPyon_BannerPlain.label>
+	<DankPyon_BannerCrow.label>Banner (Krähe)</DankPyon_BannerCrow.label>
+	<DankPyon_BannerArrow.label>Banner (Pfeil)</DankPyon_BannerArrow.label>
+	<DankPyon_BannerHand.label>Banner (Hand)</DankPyon_BannerHand.label>
+	<DankPyon_BannerAxe.label>Banner (Axt)</DankPyon_BannerAxe.label>
+	
+	<DankPyon_BannerSun.label>Banner (Sonne)</DankPyon_BannerSun.label>
+	<DankPyon_BannerLindwurm.label>Banner (Lindwurm)</DankPyon_BannerLindwurm.label>
+</LanguageData>

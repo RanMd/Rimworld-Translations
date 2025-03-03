@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_PlayerKingdom.pawnSingular>Untertan</DankPyon_PlayerKingdom.pawnSingular>
+	<DankPyon_PlayerKingdom.pawnsPlural>Untertanen</DankPyon_PlayerKingdom.pawnsPlural>
+	
+	<DankPyon_PlayerKingdom.label>Neues Königreich</DankPyon_PlayerKingdom.label>
+	<DankPyon_PlayerKingdom.description>Ein kleines Königreich.</DankPyon_PlayerKingdom.description>
+	
+	<DankPyon_LoneWolf.pawnSingular>Untertan</DankPyon_LoneWolf.pawnSingular>
+	<DankPyon_LoneWolf.pawnsPlural>Untertanen</DankPyon_LoneWolf.pawnsPlural>
+	
+	<DankPyon_LoneWolf.label>Neues Königreich</DankPyon_LoneWolf.label>
+	<DankPyon_LoneWolf.description>Ein kleines Königreich.</DankPyon_LoneWolf.description>
+	
+
+	<DankPyon_MercenaryCompany.pawnSingular>Söldner</DankPyon_MercenaryCompany.pawnSingular>
+	<DankPyon_MercenaryCompany.pawnsPlural>Söldner</DankPyon_MercenaryCompany.pawnsPlural>
+	
+	<DankPyon_MercenaryCompany.label>Neue Söldnerkompanie</DankPyon_MercenaryCompany.label>
+	<DankPyon_MercenaryCompany.description>Eine kleine Söldnerkompanie.</DankPyon_MercenaryCompany.description>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_High_HappyPowder.label>Aufgepuscht durch Glückspulver</DankPyon_High_HappyPowder.label>
+	<DankPyon_High_HappyPowder.labelNoun>ein Glückspulver-Rausch</DankPyon_High_HappyPowder.labelNoun>
+	<DankPyon_High_HappyPowder.description>Glückspulver im Blutkreislauf. Erzeugt ein intensives euphorisches Glücksgefühl.</DankPyon_High_HappyPowder.description>
+	
+	<DankPyon_Addiction_BattleElixir.label>Kampfelixier-Sucht</DankPyon_Addiction_BattleElixir.label>
+	<DankPyon_Addiction_BattleElixir.description>Eine chemische Sucht nach Kampfelixier. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
+	\nOhne regelmäßige Dosen des Kampfelixiers treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_Addiction_BattleElixir.description>
+	
+	<DankPyon_Tolerance_BattleElixir.label>Kampfelixier-Toleranz</DankPyon_Tolerance_BattleElixir.label>
+	<DankPyon_Tolerance_BattleElixir.description>Eine aufgebaute Toleranz gegenüber dem Kampfelixier. Je strenger diese Toleranz ist, desto mehr Kampfelixier ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_Tolerance_BattleElixir.description>
+</LanguageData>

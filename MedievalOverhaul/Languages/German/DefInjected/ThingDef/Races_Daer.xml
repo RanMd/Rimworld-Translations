@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Daer.label>Daer</DankPyon_Daer.label>
+	<DankPyon_Daer.description>Eine sagenumwobene Legende unter dem Volk, ein riesiger Hirsch mit dem Körper eines Bären ... oder war es ein Bär mit den Hörnern eines Hirsches, doch sein Schlund erkennt nicht, wann das Tier nach Beute hungert.\n\nA Daer-Kadaver enthalten majestätische Geweihe, die durch Schlachten gewonnen werden können, und liefern Fleisch, das für einen Stimmungsbonus sorgt.</DankPyon_Daer.description>
+	
+	<DankPyon_Golem_Iron.tools.1.label>linke Klaue</DankPyon_Golem_Iron.tools.1.label>
+	<DankPyon_Golem_Iron.tools.2.label>rechte Klaue</DankPyon_Golem_Iron.tools.2.label>
+	<DankPyon_Golem_Iron.tools.3.label>Kopf</DankPyon_Golem_Iron.tools.3.label>
+</LanguageData>

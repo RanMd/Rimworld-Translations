@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Ghoul_Stage_One.label>Ghul</DankPyon_Ghoul_Stage_One.label>
+	<DankPyon_Ghoul_Stage_One.description>Ein Ghul wird oft als wiederbelebte Leiche mit einem unstillbaren Appetit auf Menschenfleisch beschrieben. Legenden zufolge fühlt er sich besonders zu Grabstätten und verlassenen Orten hingezogen.</DankPyon_Ghoul_Stage_One.description>
+	
+	<DankPyon_Golem_Iron.tools.0.label>linke Klaue</DankPyon_Golem_Iron.tools.0.label>
+	<DankPyon_Golem_Iron.tools.1.label>rechte Klaue</DankPyon_Golem_Iron.tools.1.label>
+	<DankPyon_Golem_Iron.tools.3.label>Kopf</DankPyon_Golem_Iron.tools.3.label>
+	
+	<DankPyon_Ghoul_Stage_Two.label>Ghul</DankPyon_Ghoul_Stage_Two.label>
+	<!--<DankPyon_Ghoul_Stage_Two.description>Ein gerissenes Raubtier, das Merkmale von Katzen und Caniden gleichermaßen besitzt. Eine leicht zu unterschätzende Kreatur von denen, die ihr eigenartiges kicherndes Gurgeln als spielerisches Zeichen der Harmlosigkeit betrachten. Während ein Hyänenrudel zögern könnte, eine Gruppe Menschen im Freien anzugreifen, werden sie einem einsamen Vagabunden gegenüber keine Gnade zeigen. Bei lebendigem Leibe und zufriedenem Kichern gefressen zu werden, muss ein schreckliches Ende sein.</DankPyon_Ghoul_Stage_Two.description> -->
+	
+	<DankPyon_Ghoul_Stage_Two.tools.0.label>linke Klaue</DankPyon_Ghoul_Stage_Two.tools.0.label>
+	<DankPyon_Ghoul_Stage_Two.tools.1.label>rechte Klaue</DankPyon_Ghoul_Stage_Two.tools.1.label>
+	<DankPyon_Ghoul_Stage_Two.tools.3.label>Kopf</DankPyon_Ghoul_Stage_Two.tools.3.label>
+	
+	<DankPyon_Ghoul_Stage_Three.label>Ghul</DankPyon_Ghoul_Stage_Three.label>
+	<!--<DankPyon_Ghoul_Stage_Three.description>Ein Golem aus Stahl.</DankPyon_Ghoul_Stage_Three.description>-->
+	
+	<DankPyon_Ghoul_Stage_Three.tools.0.label>linke Klaue</DankPyon_Ghoul_Stage_Three.tools.0.label>
+	<DankPyon_Ghoul_Stage_Three.tools.1.label>rechte Klaue</DankPyon_Ghoul_Stage_Three.tools.1.label>
+	<DankPyon_Ghoul_Stage_Three.tools.3.label>Mund</DankPyon_Ghoul_Stage_Three.tools.3.label>
+	<DankPyon_Ghoul_Stage_Three.tools.4.label>Kopf</DankPyon_Ghoul_Stage_Three.tools.4.label>
+	
+	<DankPyon_Golem_Silver.label>Silbergolem</DankPyon_Golem_Silver.label>
+	<DankPyon_Golem_Silver.description>Ein Golem aus Silber.</DankPyon_Golem_Silver.description>
+	
+	<DankPyon_Golem_Silver.tools.0.label>linke Hand</DankPyon_Golem_Silver.tools.0.label>
+	<DankPyon_Golem_Silver.tools.1.label>rechte Hand</DankPyon_Golem_Silver.tools.1.label>
+	<DankPyon_Golem_Silver.tools.2.label>Kopf</DankPyon_Golem_Silver.tools.2.label>
+</LanguageData>

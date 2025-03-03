@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_High_BattleElixir.label>Aufgepuscht von Kampfelixier</DankPyon_High_BattleElixir.label>
+	<DankPyon_High_BattleElixir.labelNoun>ein Kampfelixier-Rausch</DankPyon_High_BattleElixir.labelNoun>
+	<DankPyon_High_BattleElixir.description>Kampfelixier im Blutkreislauf. Es verbessert die kampfbezogenen Fähigkeiten erheblich und erhöht beim ersten Trinken sofort den Psyfokus.</DankPyon_High_BattleElixir.description>
+	
+	<DankPyon_Addiction_BattleElixir.label>Kampfelixier-Sucht</DankPyon_Addiction_BattleElixir.label>
+	<DankPyon_Addiction_BattleElixir.description>Eine chemische Sucht nach Kampfelixier. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
+	\nOhne regelmäßige Dosen des Kampfelixiers treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_Addiction_BattleElixir.description>
+	
+	<DankPyon_Tolerance_BattleElixir.label>Kampfelixier-Toleranz</DankPyon_Tolerance_BattleElixir.label>
+	<DankPyon_Tolerance_BattleElixir.description>Eine aufgebaute Toleranz gegenüber dem Kampfelixier. Je strenger diese Toleranz ist, desto mehr Kampfelixier ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_Tolerance_BattleElixir.description>
+	
+	<DankPyon_High_HappyPowder.label>Aufgepuscht durch Glückspulver</DankPyon_High_HappyPowder.label>
+	<DankPyon_High_HappyPowder.labelNoun>ein Glückspulver-Rausch</DankPyon_High_HappyPowder.labelNoun>
+	<DankPyon_High_HappyPowder.description>Glückspulver im Blutkreislauf. Erzeugt ein intensives euphorisches Glücksgefühl.</DankPyon_High_HappyPowder.description>
+	
+	<DankPyon_Addiction_HappyPowder.label>Glückspulver-Sucht</DankPyon_Addiction_HappyPowder.label>
+	<DankPyon_Addiction_HappyPowder.description>Eine chemische Sucht nach Glückspulver. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
+	\nOhne regelmäßige Dosen des Glückspulvers treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_Addiction_HappyPowder.description>
+	
+	<DankPyon_Tolerance_HappyPowder.label>Glückspulver-Toleranz</DankPyon_Tolerance_HappyPowder.label>
+	<DankPyon_Tolerance_HappyPowder.description>Eine aufgebaute Toleranz gegenüber dem Glückspulver. Je strenger diese Toleranz ist, desto mehr Glückspulver ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_Tolerance_HappyPowder.description>
+
+	<DankPyon_HornetHoneyHigh.label>Aufgepuscht durch Hornissenhonig</DankPyon_HornetHoneyHigh.label>
+	<DankPyon_HornetHoneyHigh.labelNoun>ein Hornissenhonig-Rausch</DankPyon_HornetHoneyHigh.labelNoun>
+	<DankPyon_HornetHoneyHigh.description>Hornissenhonig im Blutkreislauf. Es steigert kampfbezogene Fähigkeiten und erhöht beim ersten Verzehr sofort den Psyfokus.</DankPyon_HornetHoneyHigh.description>
+	
+	<DankPyon_HornetHoneyAddiction.label>Hornissenhonig-Sucht</DankPyon_HornetHoneyAddiction.label>
+	<DankPyon_HornetHoneyAddiction.description>Eine chemische Sucht nach Hornissenhonig. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
+	\nOhne regelmäßige Dosen des Hornissenhonigs treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_HornetHoneyAddiction.description>
+	
+	<DankPyon_HornetHoneyTolerance.label>Hornissenhonig-Toleranz</DankPyon_HornetHoneyTolerance.label>
+	<DankPyon_HornetHoneyTolerance.description>Eine aufgebaute Toleranz gegenüber dem Hornissenhonig. Je strenger diese Toleranz ist, desto mehr Hornissenhonig ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_HornetHoneyTolerance.description>
+	
+	<DankPyon_HornetHoneyTolerance.label>Unangenehme Folgen</DankPyon_HornetHoneyTolerance.label>
+	<DankPyon_HornetHoneyTolerance.description>Eine unangenehme Spätfolge einer Drogenvergiftung.</DankPyon_HornetHoneyTolerance.description>
+	
+
+	<DankPyon_High_Luhix.label>Aufgepuscht durch Luhix</DankPyon_High_Luhix.label>
+	<DankPyon_High_Luhix.labelNoun>ein Luhix-Rausch</DankPyon_High_Luhix.labelNoun>
+	<DankPyon_High_Luhix.description>Luhix im Blutkreislauf. Es verbessert das Gedächtnis und die Lernfähigkeit erheblich und erhöht beim ersten Trinken leicht den Psyfokus.</DankPyon_High_Luhix.description>
+	
+	<DankPyon_Addiction_Luhix.label>Luhix-Sucht</DankPyon_Addiction_Luhix.label>
+	<DankPyon_Addiction_Luhix.description>Eine chemische Sucht nach Luhix. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
+	\nOhne regelmäßige Dosen des Luhix´ treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_Addiction_Luhix.description>
+	
+	<DankPyon_Tolerance_Luhix.label>Luhix-Toleranz</DankPyon_Tolerance_Luhix.label>
+	<DankPyon_Tolerance_Luhix.description>Eine aufgebaute Toleranz gegenüber dem Luhix. Je strenger diese Toleranz ist, desto mehr Luhix ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_Tolerance_Luhix.description>
+	
+	
+	<DankPyon_High_Miracle.label>Aufgepuscht durch "Wunder der Apotheker"</DankPyon_High_Miracle.label>
+	<DankPyon_High_Miracle.labelNoun>ein "Wunder der Apotheker"-Rausch</DankPyon_High_Miracle.labelNoun>
+	<DankPyon_High_Miracle.description>"Wunder der Apotheker" im Blutkreislauf.</DankPyon_High_Miracle.description>
+	
+
+	<DankPyon_High_Paregoric.label>Aufgepuscht durch Paregorika</DankPyon_High_Paregoric.label>
+	<DankPyon_High_Paregoric.labelNoun>ein Paregorika-Rausch</DankPyon_High_Paregoric.labelNoun>
+	<DankPyon_High_Paregoric.description>Paregorika im Blutkreislauf.</DankPyon_High_Paregoric.description>
+	
+	
+	<DankPyon_High_Stardust.label>Aufgepuscht durch Sternenstaub</DankPyon_High_Stardust.label>
+	<DankPyon_High_Stardust.labelNoun>ein Sternenstaub-Rausch</DankPyon_High_Stardust.labelNoun>
+	<DankPyon_High_Stardust.description>Sternenstaub im Blutkreislauf. Es verbessert das Gedächtnis und die Lernfähigkeit erheblich und erhöht beim ersten Trinken leicht den Psyfokus.</DankPyon_High_Stardust.description>
+	
+	<DankPyon_Addiction_Stardust.label>Sternenstaub-Sucht</DankPyon_Addiction_Stardust.label>
+	<DankPyon_Addiction_Stardust.description>Eine chemische Sucht nach Sternenstaub. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
+	\nOhne regelmäßige Dosen des Sternenstaub´ treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_Addiction_Stardust.description>
+	
+	<DankPyon_Tolerance_Stardust.label>Sternenstaub-Toleranz</DankPyon_Tolerance_Stardust.label>
+	<DankPyon_Tolerance_Stardust.description>Eine aufgebaute Toleranz gegenüber dem Sternenstaub. Je strenger diese Toleranz ist, desto mehr Sternenstaub ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_Tolerance_Stardust.description>
+	
+	
+	<DankPyon_High_VigorPill.label>Aufgepuscht durch Vitalitätspille</DankPyon_High_VigorPill.label>
+	<DankPyon_High_VigorPill.labelNoun>ein Vitalitätspille-Rausch</DankPyon_High_VigorPill.labelNoun>
+	<DankPyon_High_VigorPill.description>Vitalitätspille im Blutkreislauf. Es stillt das Bedürfnis nach Ruhe, indem es das Gehirn stimuliert, die Konzentration erhöht und ein schnelleres Arbeiten ermöglicht. Es erhöht auch die Psyfocus-Gewinne durch Meditation.</DankPyon_High_VigorPill.description>
+	
+	<DankPyon_Addiction_VigorPill.label>Vitalitätspille-Sucht</DankPyon_Addiction_VigorPill.label>
+	<DankPyon_Addiction_VigorPill.description>Eine chemische Sucht nach Vitalitätspille. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
+	\nOhne regelmäßige Dosen des Vitalitätspille´ treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_Addiction_VigorPill.description>
+	
+	<DankPyon_Tolerance_VigorPill.label>Vitalitätspille-Toleranz</DankPyon_Tolerance_VigorPill.label>
+	<DankPyon_Tolerance_VigorPill.description>Eine aufgebaute Toleranz gegenüber dem Vitalitätspille. Je strenger diese Toleranz ist, desto mehr Vitalitätspille ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_Tolerance_VigorPill.description>
+	
+
+
+</LanguageData>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_QuestFinder.label>Werkbank des Entdeckers</DankPyon_QuestFinder.label>
+	<DankPyon_QuestFinder.description>Mit Hilfe der Werkbank des Entdeckers kann ein Wissenschaftler nach versteckten Orten und abbaubaren Steinen und Erzen suchen, dafür benötigt er jedoch zerrissene Notizen.
+		
+Abhängig davon, was mit der Werkbank des Entdeckers verknüpft ist, können verschiedene Orte freigeschaltet werden.
+
+Weitere Informationen finden Sie im Wälzer des Wissens</DankPyon_QuestFinder.description>
+	
+	<DankPyon_CultBook.label>Wälzer des Wissens</DankPyon_CultBook.label>
+	<DankPyon_CultBook.description>Dieses Buch enthält wertvolle Informationen über die Anforderungen an versteckte Orte und deren Inhalt.
+		
+Stufe 0: Abbaubare Klumpen
+Merkmale:
+*) Mineraladern erscheinen auf der Karte
+
+Anforderungen:
+*) Keiner
+--------------------------------------
+Hinweis: Jedes Versteck enthält 1 Explorer-Archiv.
+--------------------------------------
+Stufe 1: Kleines Versteck
+Merkmale:
+*) 1 Antikes Rednerpult
+*) 3 zerrissene Notizen
+*) 2 rustikale Truhen
+-) 60 % Chance, zusätzliche zerrissene Notizen fallen zu lassen
+*) Ein seltsames Buch mit einem garantierten Forschungsschema:
+-) Armbrust
+-) Langbogen
+-) Fortgeschrittenes Kochen
+-) Militärklingen
+-) Militärstreitkolben
+-) Militärische Stangenwaffen
+
+Anforderungen:
+*) 1 insgesamt verlinkbar:
+-) Bei diesem Linkable muss es sich um einen angetriebenen Transportvogel handeln
+--------------------------------------
+Stufe 2: Mittleres Versteck
+Merkmale:
+*) 1 Antike Kugel
+*) 2 zerrissene Notizen
+*) 2 rustikale Truhen
+-) 60 %, um zusätzliche zerrissene Banknoten fallen zu lassen
+*) 1 königliche Truhe
+-) 65 %, um zusätzliche zerrissene Banknoten fallen zu lassen
+*) Ein seltsames Buch mit einem garantierten Forschungsplan:
+-) Schießpulver
+-) Metallurgie
+-) Teer
+
+Anforderungen:
+*) Insgesamt 5 verlinkbar:
+-) 1 muss das Antike Rednerpult sein
+-) Der Rest kann einer der folgenden sein:
+--) 3 Entdeckerarchiv und 1 Postvogel
+--) 4 Entdeckerarchiv
+--------------------------------------
+Stufe 3: Großes Versteck
+Merkmale:
+*) 2 zerrissene Scheine
+*) 2 rustikale Truhen
+-) 60 % Chance, zusätzliche zerrissene Notizen fallen zu lassen
+*) 2 königliche Truhen
+-) 65 % Chance, zusätzliche zerrissene Notizen fallen zu lassen
+*) Ein seltsames Buch mit einem garantierten Forschungsschema:
+-) Fortgeschrittenes Kochen
+-) Ballisten-Repeater
+-) Schwere Armbrust
+-) Edle Klingen
+-) Edle Streitkolben
+-) Edle Stangenwaffen
+-) Kriegsbogen
+
+Anforderungen:
+*) Insgesamt 9 verlinkbar:
+-) 1 muss die antike Kugel sein
+-) Der Rest kann einer der folgenden sein:
+--) 6 Entdeckerarchiv UND 1 Postvogel UND 1 Antikes Rednerpult
+--) 7 Entdeckerarchiv UND 1 Postvogel ODER 1 Antikes Rednerpult
+--) 8 Entdeckerarchiv</DankPyon_CultBook.description>
+	
+	<DankPyon_CultPedestal.label>Alter Sockel</DankPyon_CultPedestal.label>
+	<DankPyon_CultPedestal.description>Dieser antike Sockel besteht aus grob behauenen Granitblöcken und ist mit geheimnisvollen Markierungen und Symbolen verziert. Es scheint sehr alt zu sein und wird wahrscheinlich seit Jahrhunderten vom Schattenkult verwendet. Der Sockel scheint an strategischen Stellen in den Ruinen angebracht worden zu sein, möglicherweise als Markierung oder Leitfaden für die Mitglieder des Kults. Es ist möglich, dass man durch die Untersuchung dieser Sockel die Standorte größerer und wichtigerer Kultstätten aufdecken kann. Der Sockel ist schwer und lässt sich nicht bewegen.</DankPyon_CultPedestal.description>
+	
+	<DankPyon_CultOrb.label>Antike Kugel</DankPyon_CultOrb.label>
+	<DankPyon_CultOrb.description>Dieses antike Artefakt ist eine leuchtend grüne Kugel, die von einem vierbeinigen Granitsockel umgeben ist. Die Oberfläche der Kugel ist glatt und reflektierend und scheint mit einer jenseitigen Energie zu pulsieren. Der Sockel ist mit Symbolen und Gravuren verziert, die mit dem Schattenkult in Verbindung gebracht werden, und scheint mit großer Sorgfalt und Geschick gefertigt worden zu sein. Der Zweck und die Macht dieses mysteriösen Artefakts sind nicht bekannt, aber es ist klar, dass es für den Kult von großer Bedeutung ist. Diejenigen, die dieses Artefakt besitzen, müssen bereit sein, sich dem Zorn des Schattenkults zu stellen, der vor nichts zurückschreckt, um es zu schützen.</DankPyon_CultOrb.description>
+	
+	<DankPyon_CultShelf.label>Entdeckerarchiv</DankPyon_CultShelf.label>
+	<DankPyon_CultShelf.description>Das Entdeckerarchiv kann mit der Werkbank des Entdeckers verknüpft werden./nAbhängig von der Stufe der Verstecke, die du finden möchtest, müssen möglicherweise bis zu 8 Gegenstände mit der Werkbank verknüpft werden./nEs kann auch zum Lagern von bis zu 9 zerrissenen Notizen verwendet werden.</DankPyon_CultShelf.description>
+</LanguageData>

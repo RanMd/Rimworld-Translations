@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Deathstinger.label>Todesstachel</DankPyon_Deathstinger.label>
+	<DankPyon_Deathstinger.description>Eine normalerweise große und bösartige Wespe, die in einem kollektiven Schwarm Beute jagt. Sein dicker Panzer und sein tödlicher Stachel machen ihn im Kampf gefährlich. Da es sich um ein eusoziales Lebewesen handelt, kann es sich nicht individuell fortpflanzen.</DankPyon_Deathstinger.description>
+	
+	<DankPyon_Deathstinger.tools.0.label>Mandibeln</DankPyon_Deathstinger.tools.0.label>
+	<DankPyon_Deathstinger.tools.1.label>Kopf</DankPyon_Deathstinger.tools.1.label>
+</LanguageData>

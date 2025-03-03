@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_LargeCobraForest.label>Große Waldkobra</DankPyon_LargeCobraForest.label>
+	<DankPyon_LargeCobraCave.label>Große Höhlenkobra</DankPyon_LargeCobraCave.label>
+	<DankPyon_GiantConstrictorForest.label>Riesige Waldwürgeschlange</DankPyon_GiantConstrictorForest.label>
+	<DankPyon_GiantConstrictorCave.label>Riesige Höhlenwürgeschlange</DankPyon_GiantConstrictorCave.label>
+	
+	<DankPyon_LindwurmForest.label>Lindwurm</DankPyon_LindwurmForest.label>
+	<DankPyon_LindwurmForest.lifeStages.0.label>Lindwurm-Jungtier</DankPyon_LindwurmForest.lifeStages.0.label>
+	<DankPyon_LindwurmForest.lifeStages.0.labelPlural>Lindwurm-Jungtiere</DankPyon_LindwurmForest.lifeStages.0.labelPlural>
+	
+	<DankPyon_LindwurmCave.label>Lindwurm</DankPyon_LindwurmCave.label>
+	<DankPyon_LindwurmCave.lifeStages.0.label>Lindwurm-Jungtier</DankPyon_LindwurmCave.lifeStages.0.label>
+	<DankPyon_LindwurmCave.lifeStages.0.labelPlural>Lindwurm-Jungtiere</DankPyon_LindwurmCave.lifeStages.0.labelPlural>
+
+</LanguageData>

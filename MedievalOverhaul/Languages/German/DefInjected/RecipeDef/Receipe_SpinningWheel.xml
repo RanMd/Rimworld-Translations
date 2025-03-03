@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_MakeClothBase.jobString>Baumwolle spinnen.</DankPyon_MakeClothBase.jobString>
+	
+	<DankPyon_MakeCloth.label>Baumwolle spinnen</DankPyon_MakeCloth.label>
+	<DankPyon_MakeCloth.description>Rohe Baumwolle zu Stoff verspinnen.</DankPyon_MakeCloth.description>
+	
+	<DankPyon_MakeClothBulk.label>Baumwolle spinnen x50</DankPyon_MakeClothBulk.label>
+	<DankPyon_MakeClothBulk.description>Rohe Baumwolle zu 50 Stoff verspinnen.</DankPyon_MakeClothBulk.description>
+	
+	<DankPyon_MakeLinen.label>Leinen spinnen</DankPyon_MakeLinen.label>
+	<DankPyon_MakeLinen.description>Rohen Flachs zu Leinenstoff verspinnen.</DankPyon_MakeLinen.description>
+	<DankPyon_MakeLinen.jobString>Spinnen von Flachs.</DankPyon_MakeLinen.jobString>
+	
+	<DankPyon_MakeLinenBulk.label>Leinen spinnen 50x</DankPyon_MakeLinenBulk.label>
+	<DankPyon_MakeLinenBulk.description>Rohen Flachs zu 50 Leinenstoff verspinnen.</DankPyon_MakeLinenBulk.description>
+	<DankPyon_MakeLinenBulk.jobString>Spinnen von Flachs.</DankPyon_MakeLinenBulk.jobString>
+	
+	<DankPyon_MakeClothFromWool.label>Wolle spinnen</DankPyon_MakeClothFromWool.label>
+	<DankPyon_MakeClothFromWool.description>Wolle zu Wollstoff verspinnen.</DankPyon_MakeClothFromWool.description>
+	<DankPyon_MakeClothFromWool.jobString>Wolle spinnen.</DankPyon_MakeClothFromWool.jobString>
+	
+	<DankPyon_Make50ClothFromWool.label>Wolle spinnen 50x</DankPyon_Make50ClothFromWool.label>
+	<DankPyon_Make50ClothFromWool.description>Wolle zu 50 Wollstoff verspinnen.</DankPyon_Make50ClothFromWool.description>
+	<DankPyon_Make50ClothFromWool.jobString>Wolle spinnen.</DankPyon_Make50ClothFromWool.jobString>
+</LanguageData>

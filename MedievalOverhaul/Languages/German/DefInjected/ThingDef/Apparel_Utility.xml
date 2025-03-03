@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Apparel_Quiver.label>Köcher</DankPyon_Apparel_Quiver.label>
+	<DankPyon_Apparel_Quiver.description>Ein tragbarer Lederbehälter zur Aufbewahrung von Pfeilen. Das Tragen des Köchers verkürzt die Zeit, die zum Schießen mit Bögen und Armbrüsten benötigt wird.</DankPyon_Apparel_Quiver.description>
+	
+	<DankPyon_Apparel_FlashPotBelt.label>BlitztopfGürtel</DankPyon_Apparel_FlashPotBelt.label>
+	<DankPyon_Apparel_FlashPotBelt.description>PLATZHALTER</DankPyon_Apparel_FlashPotBelt.description>
+	<DankPyon_Apparel_FlashPotBelt.verbs.0.label>Blitztopf werfen</DankPyon_Apparel_FlashPotBelt.verbs.0.label>
+	
+	<DankPyon_Apparel_FirePotBelt.label>Feuertopfgürtel</DankPyon_Apparel_FirePotBelt.label>
+	<DankPyon_Apparel_FirePotBelt.description>PLATZHALTER</DankPyon_Apparel_FirePotBelt.description>
+	<DankPyon_Apparel_FirePotBelt.verbs.0.label>Feuertopf werfen</DankPyon_Apparel_FirePotBelt.verbs.0.label>
+	
+	<DankPyon_Apparel_SmokePotBelt.label>Rauchtopfgürtel</DankPyon_Apparel_SmokePotBelt.label>
+	<DankPyon_Apparel_SmokePotBelt.description>PLATZHALTER</DankPyon_Apparel_SmokePotBelt.description>
+	<DankPyon_Apparel_SmokePotBelt.verbs.0.label>Rauchtopf werfen</DankPyon_Apparel_SmokePotBelt.verbs.0.label>
+	
+	<DankPyon_Apparel_AcidFlaskBelt.label>Säuretopfgürtel</DankPyon_Apparel_AcidFlaskBelt.label>
+	<DankPyon_Apparel_AcidFlaskBelt.description>PLATZHALTER</DankPyon_Apparel_AcidFlaskBelt.description>
+	<DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>Säuretopf werfen</DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>
+	
+</LanguageData>

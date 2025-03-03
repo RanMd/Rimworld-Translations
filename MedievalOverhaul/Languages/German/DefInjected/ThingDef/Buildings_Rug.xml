@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RugPatched1x1c.label>Flickenteppich (1x1)</DankPyon_RugPatched1x1c.label>
+	<DankPyon_RugPatched1x1c.description>Ein grob genähter Teppich, der aus einzelnen Lederflicken besteht.</DankPyon_RugPatched1x1c.description>
+	
+	<DankPyon_RugPatched2x2c.label>Flickenteppich (2x2)</DankPyon_RugPatched2x2c.label>
+	<DankPyon_RugPatched2x2c.description>Ein grob genähter Teppich, der aus einzelnen Lederflicken besteht.</DankPyon_RugPatched2x2c.description>
+	
+	<DankPyon_RugPatched3x3c.label>Flickenteppich (3x3)</DankPyon_RugPatched3x3c.label>
+	<DankPyon_RugPatched3x3c.description>Ein grob genähter Teppich, der aus einzelnen Lederflicken besteht.</DankPyon_RugPatched3x3c.description>
+	
+	<DankPyon_RugHyena2x2c.label>Hyänenteppich (2x2)</DankPyon_RugHyena2x2c.label>
+	<DankPyon_RugHyena2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Hyänen-Teppiche sind klein, aber die üppigen Muster, von Streifen bis zu Punkten, machen das Stück zu einer schönen Ergänzung für die Inneneinrichtung.</DankPyon_RugHyena2x2c.description>
+	
+	<DankPyon_RugWolfTimber2x2c.label>Timberwolf-Teppich (2x2)</DankPyon_RugWolfTimber2x2c.label>
+	<DankPyon_RugWolfTimber2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Das ergraute, graubraune Fell des Timberwolfs mag ein wertvoller Teppich sein, ist aber mit hohen Kosten verbunden, da der Jäger dem Biest wahrscheinlich in einem Rudel gegenübersteht.</DankPyon_RugWolfTimber2x2c.description>
+	
+	<DankPyon_RugWolfArctic2x2c.label>Polarwolf-Teppich (2x2)</DankPyon_RugWolfArctic2x2c.label>
+	<DankPyon_RugWolfArctic2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Arktische Wolfsteppiche sind eine Variante des Wolfes und erzählen die Geschichte eines Jägers, der gefährlichen Temperaturen trotzte und hungernde Raubtiere besiegte, die biologisch auf das Überleben ausgelegt waren.</DankPyon_RugWolfArctic2x2c.description>
+	
+	<DankPyon_RugCougar2x2c.label>Puma-Teppich (2x2)</DankPyon_RugCougar2x2c.label>
+	<DankPyon_RugCougar2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Pumas werden für ihr luxuriöses Fell geschätzt, das wiederum eine wertvolle Alternative zu einfachen Teppichen darstellt.</DankPyon_RugCougar2x2c.description>
+	
+	<DankPyon_RugPanther2x2c.label>Pantherteppich (2x2)</DankPyon_RugPanther2x2c.label>
+	<DankPyon_RugPanther2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Pantherteppiche fallen, ähnlich wie die Tiere selbst, nachts in den Schatten, aber marmorierte Augen leuchten in der Dunkelheit.</DankPyon_RugPanther2x2c.description>
+	
+	
+	<DankPyon_RugGrizzlyBear3x3c.label>Grizzlybär-Teppich (3x3)</DankPyon_RugGrizzlyBear3x3c.label>
+	<DankPyon_RugGrizzlyBear3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Das tolle Fell des Bären ist eines der gefragtesten Materialien für Teppiche mit Tierfellen, was den Grizzlybären-Teppich zu einer würdigen Wahl für den mutigen Kolonisten macht, der mutig genug ist, sich der Jagd zu stellen.</DankPyon_RugGrizzlyBear3x3c.description>
+	
+	<DankPyon_RugPolarBear3x3c.label>Eisbärenteppich (3x3)</DankPyon_RugPolarBear3x3c.label>
+	<DankPyon_RugPolarBear3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Die in gefrorenen Klimazonen vorkommenden Eisbären haben ein tolles weißes Fell, das für kältebeständige Teppiche sorgt. Besonders wertvoll für Gehöfte bei kalten Temperaturen.</DankPyon_RugPolarBear3x3c.description>
+	
+	<DankPyon_RugRox3x3c.label>Rox-Teppich (3x3)</DankPyon_RugRox3x3c.label>
+	<DankPyon_RugRox3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Die in gefrorenen Klimazonen vorkommenden Eisbären haben ein tolles weißes Fell, das für kältebeständige Teppiche sorgt. Besonders wertvoll für Gehöfte bei kalten Temperaturen.</DankPyon_RugRox3x3c.description>
+	
+	<DankPyon_RugThrumbo3x3c.label>Thrumbo-Teppich (3x3)</DankPyon_RugThrumbo3x3c.label>
+	<DankPyon_RugThrumbo3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Nur wenige Jäger können eine Trophäe mit einem raffinierteren und widerstandsfähigeren Fell als dem Thrumbo-Teppich herstellen. Sein langes Fell kann jedem Kolonisten ins Auge fallen, aber das starke Fell erfordert viel Arbeit beim Zuschneiden. Achten Sie beim Gehen auf die Hupe.</DankPyon_RugThrumbo3x3c.description>
+	
+	<DankPyon_RugDaer4x4c.label>Daer-Teppich (4x4)</DankPyon_RugDaer4x4c.label>
+	<DankPyon_RugDaer4x4c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Nur wenige Jäger können eine Trophäe mit einem raffinierteren und widerstandsfähigeren Fell als dem Thrumbo-Teppich herstellen. Sein langes Fell kann jedem Kolonisten ins Auge fallen, aber das starke Fell erfordert viel Arbeit beim Zuschneiden. Achten Sie beim Gehen auf die Hupe.</DankPyon_RugDaer4x4c.description>
+	
+	<DankPyon_RugHuman1x2c.label>Humanoider Teppich (1x2)</DankPyon_RugHuman1x2c.label>
+	<DankPyon_RugHuman1x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Menschliche Teppiche sind wertvolle Trophäen, die von manchen bewundert und von anderen verabscheut werden, aber gleichgesinnte Kannibalen werden in ihrem Dekor Trost finden.</DankPyon_RugHuman1x2c.description>
+
+</LanguageData>

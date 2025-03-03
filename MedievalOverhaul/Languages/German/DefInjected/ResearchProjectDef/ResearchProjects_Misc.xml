@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Lumber.label>Grundlegende Holzbearbeitung</DankPyon_Lumber.label>
+	<DankPyon_Lumber.description>Dieses Forschungsprojekt konzentriert sich auf die Verbesserung grundlegender Holzbearbeitungstechniken zur Herstellung fortschrittlicher Holzobjekte. Nach Abschluss des Projekts können komplexere Möbel, Bögen und Holzrohlinge hergestellt werden und so das Holzbearbeitungsrepertoire erweitert werden.</DankPyon_Lumber.description>
+	<DankPyon_Lumber.generalRules.rulesStrings.0>subject->Holzbearbeitung</DankPyon_Lumber.generalRules.rulesStrings.0>
+	
+	<DankPyon_RusticFurniture.label>Rustikale Möbel</DankPyon_RusticFurniture.label>
+	<DankPyon_RusticFurniture.description>Konstruiere einfache rustikale Möbel wie Heubetten, Beistelltische, Kommoden und mehr.</DankPyon_RusticFurniture.description>
+	<DankPyon_RusticFurniture.generalRules.rulesStrings.0>subject->Rustikale Möbel</DankPyon_RusticFurniture.generalRules.rulesStrings.0>
+	
+	<DankPyon_RoyalRusticFurniture.label>Königliche Architektur</DankPyon_RoyalRusticFurniture.label>
+	<DankPyon_RoyalRusticFurniture.description>Konstruiere elegante und luxuriöse Möbel, die mit Gold verziert sind, wie es sich für Adlige gehört.</DankPyon_RoyalRusticFurniture.description>
+	<DankPyon_RoyalRusticFurniture.generalRules.rulesStrings.0>subject->Königliche rustikale Möbel</DankPyon_RoyalRusticFurniture.generalRules.rulesStrings.0>
+	
+	<DankPyon_RusticStorage.label>Rustikale Lagerung</DankPyon_RusticStorage.label>
+	<DankPyon_RusticStorage.description>Erstelle Gebäude, in denen Gegenstände effizienter und platzsparender gelagert werden können.</DankPyon_RusticStorage.description>
+	<DankPyon_RusticStorage.generalRules.rulesStrings.0>subject->Rustikale Lagerung</DankPyon_RusticStorage.generalRules.rulesStrings.0>
+
+	<DankPyon_Presser.label>Presse</DankPyon_Presser.label>
+	<DankPyon_Presser.description>Baue eine Pressmaschine, um den Saft aus Früchten oder die Molke aus Quark zu pressen.</DankPyon_Presser.description>
+	<DankPyon_Presser.generalRules.rulesStrings.0>subject->Lebensmittelpresse</DankPyon_Presser.generalRules.rulesStrings.0>
+	
+	<DankPyon_CarrierBirds.label>Postvögel</DankPyon_CarrierBirds.label>
+	<DankPyon_CarrierBirds.description>Trainiere Vögel, um Nachrichten zu übermitteln, die es dir ermöglichen, mit anderen Fraktionen zu kommunizieren.</DankPyon_CarrierBirds.description>
+	<DankPyon_CarrierBirds.generalRules.rulesStrings.0>subject->Postvögel</DankPyon_CarrierBirds.generalRules.rulesStrings.0>
+	
+	<DankPyon_Exploration.label>Erkundung</DankPyon_Exploration.label>
+	<DankPyon_Exploration.description>Erkunde die Welt und finden wertvolle Mineralien oder versteckte Orte.</DankPyon_Exploration.description>
+	<DankPyon_Exploration.generalRules.rulesStrings.0>subject->Erkundung</DankPyon_Exploration.generalRules.rulesStrings.0>
+	
+	<DankPyon_LeatherTanning.label>Ledergerbung</DankPyon_LeatherTanning.label>
+	<DankPyon_LeatherTanning.description>Erfahren wie man rohe Tierfelle zu Leder verarbeitet.</DankPyon_LeatherTanning.description>
+	<DankPyon_LeatherTanning.generalRules.rulesStrings.0>subject->Ledergerbung</DankPyon_LeatherTanning.generalRules.rulesStrings.0>
+	
+	<DankPyon_TextileSpinning.label>Textilspinnen</DankPyon_TextileSpinning.label>
+	<DankPyon_TextileSpinning.description>Erfahren wie man Baumwolle anbaut und erntet, um daraus Kleidung herzustellen.</DankPyon_TextileSpinning.description>
+	<DankPyon_TextileSpinning.generalRules.rulesStrings.0>subject->Textilspinnen</DankPyon_TextileSpinning.generalRules.rulesStrings.0>
+	
+	<DankPyon_Silk.label>Seide</DankPyon_Silk.label>
+	<DankPyon_Silk.description>Ernte feines fadenförmiges Material von Seidenraupen.</DankPyon_Silk.description>
+	<DankPyon_Silk.generalRules.rulesStrings.0>subject->Seidenherstellung</DankPyon_Silk.generalRules.rulesStrings.0>
+	
+	<DankPyon_CandleMaking.label>Kerzenherstellung</DankPyon_CandleMaking.label>
+	<DankPyon_CandleMaking.description>Stelle Kerzen her, um Ihre Kolonie zu erhellen, und baue wunderschöne Kronleuchter.</DankPyon_CandleMaking.description>
+	<DankPyon_CandleMaking.generalRules.rulesStrings.0>subject->Kerzenherstellung</DankPyon_CandleMaking.generalRules.rulesStrings.0>
+	
+	<DankPyon_Jewelry.label>Schmuck</DankPyon_Jewelry.label>
+	<DankPyon_Jewelry.description>Veredel wertvolle Juwelen zu tragbaren Accessoires.</DankPyon_Jewelry.description>
+	<DankPyon_Jewelry.generalRules.rulesStrings.0>subject->Schmuckherstellung</DankPyon_Jewelry.generalRules.rulesStrings.0>
+	
+	<!--=========================== Engineering ==============================-->
+	<DankPyon_Engineering.label>Maschinenbau</DankPyon_Engineering.label>
+	<DankPyon_Engineering.description>Erforschen wie grundlegende Komponenten hergestellt werden, um komplexe Geräte zu bauen.</DankPyon_Engineering.description>
+	<DankPyon_Engineering.generalRules.rulesStrings.0>subject->Maschinenbau</DankPyon_Engineering.generalRules.rulesStrings.0>
+	
+	<DankPyon_Mining.label>Bergbau</DankPyon_Mining.label>
+	<DankPyon_Mining.description>Lerne Sicherheitsvorkehrungen und die richtige Art und Weise kennen, um einen Minenschacht zum Abbau von Ressourcen und Steinen zu bauen.</DankPyon_Mining.description>
+	<DankPyon_Mining.generalRules.rulesStrings.0>subject->Bergbau</DankPyon_Mining.generalRules.rulesStrings.0>
+	
+	<DankPyon_Windmill.label>Windmühle</DankPyon_Windmill.label>
+	<DankPyon_Windmill.description>Nutze die Kraft des Windes, um das Mahlen weizenähnlicher Produkte zu automatisieren.</DankPyon_Windmill.description>
+	<DankPyon_Windmill.generalRules.rulesStrings.0>subject->Windmühlenbau</DankPyon_Windmill.generalRules.rulesStrings.0>
+	
+
+	<DankPyon_Crossbow.label>Armbrust</DankPyon_Crossbow.label>
+	<DankPyon_Crossbow.description>Stelle einen mechanisch kompakten Bogen her. Der Umgang erfordert weniger Geschick, lässt sich aber lange nachladen.</DankPyon_Crossbow.description>
+	<DankPyon_Crossbow.generalRules.rulesStrings.0>subject->Armbrust bauen</DankPyon_Crossbow.generalRules.rulesStrings.0>
+	
+	<DankPyon_HeavyCrossbow.label>Arbalest</DankPyon_HeavyCrossbow.label>
+	<DankPyon_HeavyCrossbow.description>Stelle eine schwerere Version der Armbrust her, um deine Feinde zu dezimieren.</DankPyon_HeavyCrossbow.description>
+	<DankPyon_HeavyCrossbow.generalRules.rulesStrings.0>subject->Arbalest bauen</DankPyon_HeavyCrossbow.generalRules.rulesStrings.0>
+	
+	<DankPyon_Ballista.label>Balliste</DankPyon_Ballista.label>
+	<DankPyon_Ballista.description>Erforschen wie man eine riesige Balliste baut. Feuert riesige Ballistebolzen mit mittlerer Feuerrate ab.</DankPyon_Ballista.description>
+	<DankPyon_Ballista.generalRules.rulesStrings.0>subject->Balliste bauen</DankPyon_Ballista.generalRules.rulesStrings.0>
+	
+	<DankPyon_Trebuchet.label>Trebuchet</DankPyon_Trebuchet.label>
+	<DankPyon_Trebuchet.description>Erforsche wie man ein riesiges Trebuchet baut. Kraftvoll und tödlich, aber das Nachladen dauert lange.</DankPyon_Trebuchet.description>
+	<DankPyon_Trebuchet.generalRules.rulesStrings.0>subject->Trebuchet bauen</DankPyon_Trebuchet.generalRules.rulesStrings.0>
+	
+	<DankPyon_RepeaterBallista.label>Ballisten-Repeater</DankPyon_RepeaterBallista.label>
+	<DankPyon_RepeaterBallista.description>Erforsche wie man einen riesigen Balliste-Repeater baut. Feuert kraftvolle und tödliche Schüsse in schneller Folge ab, das Nachladen dauert jedoch lange.</DankPyon_RepeaterBallista.description>
+	<DankPyon_RepeaterBallista.generalRules.rulesStrings.0>subject->Balliste-Repeater bauen</DankPyon_RepeaterBallista.generalRules.rulesStrings.0>
+	
+	<!--=========================== Alchemy ==============================-->
+	<DankPyon_Alchemy.label>Alchemie</DankPyon_Alchemy.label>
+	<DankPyon_Alchemy.description>WIP. Forschung, um eine erweiterte Forschungstabelle zu erhalten</DankPyon_Alchemy.description>
+	<DankPyon_Alchemy.generalRules.rulesStrings.0>subject->Alchemie</DankPyon_Alchemy.generalRules.rulesStrings.0>
+	
+	<DankPyon_Steel.label>Stahl</DankPyon_Steel.label>
+	<DankPyon_Steel.description>Entdecke neue Techniken der Metallurgie und Stahlherstellung.</DankPyon_Steel.description>
+	<DankPyon_Steel.generalRules.rulesStrings.0>subject->Stahl Produktion</DankPyon_Steel.generalRules.rulesStrings.0>
+	
+	<DankPyon_Plasteel.label>Plasteel</DankPyon_Plasteel.label>
+	<DankPyon_Plasteel.description>Entdecke fortschrittliche Techniken der Metallurgie und Plasteel-Herstellung.</DankPyon_Plasteel.description>
+	<DankPyon_Plasteel.generalRules.rulesStrings.0>subject->Plasteel Produktion</DankPyon_Plasteel.generalRules.rulesStrings.0>
+	
+	<DankPyon_Tar.label>Teer</DankPyon_Tar.label>
+	<DankPyon_Tar.description>Entdecke wie man Teer herstellt.</DankPyon_Tar.description>
+	<DankPyon_Tar.generalRules.rulesStrings.0>subject->Teer Herstellung</DankPyon_Tar.generalRules.rulesStrings.0>
+	
+	<DankPyon_Gunpowder.label>Schießpulver</DankPyon_Gunpowder.label>
+	<DankPyon_Gunpowder.description>Entdecke die perfekte Formel für die Verwendung von Schießpulver für Waffen.</DankPyon_Gunpowder.description>
+	<DankPyon_Gunpowder.generalRules.rulesStrings.0>subject->Schießpulver</DankPyon_Gunpowder.generalRules.rulesStrings.0>
+	
+	<!--=========================== Apparel ==============================-->	
+	<DankPyon_Tailoring.label>Schneiderei</DankPyon_Tailoring.label>
+	<DankPyon_Tailoring.description>Erfahre wie alltägliche, zivile Kleidungsstücke genäht werden.</DankPyon_Tailoring.description>
+	<DankPyon_Tailoring.generalRules.rulesStrings.0>subject->Schneiderei</DankPyon_Tailoring.generalRules.rulesStrings.0>
+	
+	<DankPyon_ProtectiveClothing.label>Schutzkleidung</DankPyon_ProtectiveClothing.label>
+	<DankPyon_ProtectiveClothing.description>Erfahre wie gepolsterte Kleidung genäht wird, um einen besseren Schutz vor physischen Bedrohungen zu gewährleisten.</DankPyon_ProtectiveClothing.description>
+	<DankPyon_ProtectiveClothing.generalRules.rulesStrings.0>subject->Schutzkleidung</DankPyon_ProtectiveClothing.generalRules.rulesStrings.0>
+	
+	<DankPyon_ChainArmor.label>Kettenrüstung</DankPyon_ChainArmor.label>
+	<DankPyon_ChainArmor.description>Erlerne die Techniken zum Verbinden von Ketten, um beeindruckende Kettenrüstungen zu schmieden.</DankPyon_ChainArmor.description>
+	<DankPyon_ChainArmor.generalRules.rulesStrings.0>subject->Kettenrüstung</DankPyon_ChainArmor.generalRules.rulesStrings.0>
+	
+	<!--=========================== Ranged Weapons ==============================-->
+	<DankPyon_HuntingBow.label>Jagdbogen</DankPyon_HuntingBow.label>
+	<DankPyon_HuntingBow.description>Baue einen Jagdbogen, einen starken Bogen, der zum Fangen von Wild verwendet wird.</DankPyon_HuntingBow.description>
+	<DankPyon_HuntingBow.generalRules.rulesStrings.0>subject->Jagdbögen</DankPyon_HuntingBow.generalRules.rulesStrings.0>
+	
+	<DankPyon_WarBow.label>Kriegsbogen</DankPyon_WarBow.label>
+	<DankPyon_WarBow.description>Stelle den ultimativen Langbogen her, der besonders auf große Entfernungen gefährlich ist.</DankPyon_WarBow.description>
+	<DankPyon_WarBow.generalRules.rulesStrings.0>subject->Kriegsbögen</DankPyon_WarBow.generalRules.rulesStrings.0>
+	
+	<!--=========================== Melee Weapons ==============================-->	
+	<DankPyon_BasicPolearms.label>Grundlegende Stangenwaffen</DankPyon_BasicPolearms.label>
+	<DankPyon_BasicPolearms.description>Erfahre wie man einfache Stangenwaffen herstellt.</DankPyon_BasicPolearms.description>
+	<DankPyon_BasicPolearms.generalRules.rulesStrings.0>subject->Grundlegende Stangenwaffen</DankPyon_BasicPolearms.generalRules.rulesStrings.0>
+	
+	<DankPyon_MilitaryPolearms.label>Militärische Stangenwaffen</DankPyon_MilitaryPolearms.label>
+	<DankPyon_MilitaryPolearms.description>Erfahre wie man militärische Stangenwaffen herstellt.</DankPyon_MilitaryPolearms.description>
+	<DankPyon_MilitaryPolearms.generalRules.rulesStrings.0>subject->Militärische Stangenwaffen</DankPyon_MilitaryPolearms.generalRules.rulesStrings.0>
+	
+	<DankPyon_NoblePolearms.label>Edle Stangenwaffen</DankPyon_NoblePolearms.label>
+	<DankPyon_NoblePolearms.description>WIP. wird bald edle Stangenwaffen herstellen. Erfahre wie man edle Stangenwaffen herstellt.</DankPyon_NoblePolearms.description>
+	<DankPyon_NoblePolearms.generalRules.rulesStrings.0>subject->Edle Stangenwaffen</DankPyon_NoblePolearms.generalRules.rulesStrings.0>
+	
+
+	<DankPyon_BasicMaces.label>Einfache Streitkolben</DankPyon_BasicMaces.label>
+	<DankPyon_BasicMaces.description>Erfahre wie man einfache Streitkolben herstellt.</DankPyon_BasicMaces.description>
+	<DankPyon_BasicMaces.generalRules.rulesStrings.0>subject->Einfache Streitkolben</DankPyon_BasicMaces.generalRules.rulesStrings.0>
+	
+	<DankPyon_MilitaryMaces.label>Militärische Streitkolben</DankPyon_MilitaryMaces.label>
+	<DankPyon_MilitaryMaces.description>Erfahre wie man Streitkolben für den Kampf herstellt.</DankPyon_MilitaryMaces.description>
+	<DankPyon_MilitaryMaces.generalRules.rulesStrings.0>subject->Militärische Streitkolben</DankPyon_MilitaryMaces.generalRules.rulesStrings.0>
+	
+	<DankPyon_NobleMaces.label>Edle Streitkolben</DankPyon_NobleMaces.label>
+	<DankPyon_NobleMaces.description>Erfahre wie Sdu stärkere und bessere Streitkolben herstellst, die für einen Adligen geeignet sind.</DankPyon_NobleMaces.description>
+	<DankPyon_NobleMaces.generalRules.rulesStrings.0>subject->Edle Streitkolben</DankPyon_NobleMaces.generalRules.rulesStrings.0>
+	
+	<DankPyon_BasicBlades.label>Einfache Schwerter</DankPyon_BasicBlades.label>
+	<DankPyon_BasicBlades.description>Erfahre wie man einfache Schwerter herstellt.</DankPyon_BasicBlades.description>
+	<DankPyon_BasicBlades.generalRules.rulesStrings.0>subject->Einfache Schwerter</DankPyon_BasicBlades.generalRules.rulesStrings.0>
+	
+	<DankPyon_MilitaryBlades.label>Militärische Schwerter</DankPyon_MilitaryBlades.label>
+	<DankPyon_MilitaryBlades.description>Erfahre wie man Schwerter für den Kampf herstellt.</DankPyon_MilitaryBlades.description>
+	<DankPyon_MilitaryBlades.generalRules.rulesStrings.0>subject->Militärische Schwerter</DankPyon_MilitaryBlades.generalRules.rulesStrings.0>
+	
+	<!--=========================== Agriculture ==============================-->
+	<DankPyon_BasicAgriculture.label>Grundlegende Landwirtschaft</DankPyon_BasicAgriculture.label>
+	<DankPyon_BasicAgriculture.description>Erforsche wie man Grundpflanzen sät.</DankPyon_BasicAgriculture.description>
+	<DankPyon_BasicAgriculture.generalRules.rulesStrings.0>subject->Grundlegende Landwirtschaft</DankPyon_BasicAgriculture.generalRules.rulesStrings.0>
+	
+	<DankPyon_IntermediateAgriculture.label>Erweiterte Landwirtschaft</DankPyon_IntermediateAgriculture.label>
+	<DankPyon_IntermediateAgriculture.description>Lerne etwas über die Aussaat von weiteren Pflanzen.</DankPyon_IntermediateAgriculture.description>
+	<DankPyon_IntermediateAgriculture.generalRules.rulesStrings.0>subject->Erweiterte Landwirtschaft</DankPyon_IntermediateAgriculture.generalRules.rulesStrings.0>
+	
+	<DankPyon_AdvancedAgriculture.label>Fortgeschrittene Landwirtschaft</DankPyon_AdvancedAgriculture.label>
+	<DankPyon_AdvancedAgriculture.description>Lerne über die Aussaat von fortgeschrittenen Pflanzen.</DankPyon_AdvancedAgriculture.description>
+	<DankPyon_AdvancedAgriculture.generalRules.rulesStrings.0>subject->Einfache Schwerter</DankPyon_AdvancedAgriculture.generalRules.rulesStrings.0>
+	
+	<DankPyon_TreeGriffonBerry.label>Greifbeere</DankPyon_TreeGriffonBerry.label>
+	<DankPyon_TreeGriffonBerry.description>Eine seltene, köstliche Frucht, die auf kleinen Bäumen wächst. Wie der Name schon sagt, ist die rote Frucht eine Delikatesse für Greifen und wird normalerweise von ihnen bewacht.</DankPyon_TreeGriffonBerry.description>
+	<DankPyon_TreeGriffonBerry.generalRules.rulesStrings.0>subject->Anbau von Greifbeerenbäumen</DankPyon_TreeGriffonBerry.generalRules.rulesStrings.0>	
+	
+	<!--=========================== Cooking ==============================-->
+	<DankPyon_BasicCooking.label>Grundlegendes Kochen</DankPyon_BasicCooking.label>
+	<DankPyon_BasicCooking.description>Lerne grundlegende Rezepte zum Kochen von Gerichten.</DankPyon_BasicCooking.description>
+	<DankPyon_BasicCooking.generalRules.rulesStrings.0>subject->Grundlegendes Kochen</DankPyon_BasicCooking.generalRules.rulesStrings.0>
+	
+	<DankPyon_IntermediateCooking.label>Erweitertes Kochen</DankPyon_IntermediateCooking.label>
+	<DankPyon_IntermediateCooking.description>Lerne erweiterte Rezepte zum Kochen von Gerichten.</DankPyon_IntermediateCooking.description>
+	<DankPyon_IntermediateCooking.generalRules.rulesStrings.0>subject->Erweitertes Kochen</DankPyon_IntermediateCooking.generalRules.rulesStrings.0>
+	
+	<DankPyon_AdvancedCooking.label>Fortgeschrittenes Kochen</DankPyon_AdvancedCooking.label>
+	<DankPyon_AdvancedCooking.description>Lerne fortgeschrittene Rezepte zum Kochen von Gerichten.</DankPyon_AdvancedCooking.description>
+	<DankPyon_AdvancedCooking.generalRules.rulesStrings.0>subject->Fortgeschrittenes Kochen</DankPyon_AdvancedCooking.generalRules.rulesStrings.0>	
+
+	<DankPyon_Smoker.label>Räuchern</DankPyon_Smoker.label>
+	<DankPyon_Smoker.description>Erfahre wie frisches Fleisch zu getrockneten Dörrfleischstücken geräuchert werden, um die Haltbarkeit zu verlängern und den Mahlzeiten rustikale Aromen zu verleihen.</DankPyon_Smoker.description>
+	<DankPyon_Smoker.generalRules.rulesStrings.0>subject->Räucherkonstruktion</DankPyon_Smoker.generalRules.rulesStrings.0>
+
+	<!--=========================== Food Production Tables ==============================-->
+	<DankPyon_Grill.label>Grill</DankPyon_Grill.label>
+	<DankPyon_Grill.description>Erfahre wie man Fleisch am offenen Feuer grillt, beispielsweise gegrillte Würstchen und gegrilltes Fleisch.</DankPyon_Grill.description>
+	<DankPyon_Grill.generalRules.rulesStrings.0>subject->Grillen von Speisen</DankPyon_Grill.generalRules.rulesStrings.0>
+
+	<DankPyon_StewPot.label>Eintöpfe</DankPyon_StewPot.label>
+	<DankPyon_StewPot.description>Erfahre wie herzhafte und nahrhafte Eintöpfe wie Kürbis- und Linsensuppen zubereitet werden.</DankPyon_StewPot.description>
+	<DankPyon_StewPot.generalRules.rulesStrings.0>subject->Eintopfproduktion</DankPyon_StewPot.generalRules.rulesStrings.0>	
+	
+	<DankPyon_Oven.label>Backen</DankPyon_Oven.label>
+	<DankPyon_Oven.description>Erfahre wie Mahlzeiten wie Brot oder sogar luxuriöse Desserts wie Apfelkuchen gebacken werden können.</DankPyon_Oven.description>
+	<DankPyon_Oven.generalRules.rulesStrings.0>subject->Backen</DankPyon_Oven.generalRules.rulesStrings.0>
+	
+	<!--=========================== 1.4 New Additions based off image ==============================-->
+
+	<DankPyon_AdornedArmor.label>Verzierte Rüstung</DankPyon_AdornedArmor.label>
+	<DankPyon_AdornedArmor.description>Vorlage</DankPyon_AdornedArmor.description>
+	<DankPyon_AdornedArmor.generalRules.rulesStrings.0>subject->Verzierte Rüstung</DankPyon_AdornedArmor.generalRules.rulesStrings.0>	
+</LanguageData>

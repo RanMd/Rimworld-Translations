@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Bone.label>Knochen</DankPyon_Bone.label>
+	<DankPyon_Bone.description>Als allgemeines Material können Knochen von Tieren, einschließlich Menschen, verwendet werden. Knochenwaffen und -rüstungen bieten eine geringe Haltbarkeit, aber zugänglichen Schutz. Mit Knochen eingelegte Gebäude und Kunstwerke schmücken ansonsten schlechte oder langweilige Materialien. Auch wenn Knochen leicht zu erfassen sind, sollte mit Vorsicht vorgegangen werden, wenn Knochen als ganze Strukturen wie eine Wand oder eine Tür verwendet werden. Die beste Verwendung von Knochen, sei es für Rüstungen oder Kunstwerke, sollte die Aufwertung anderer Materialien sein.</DankPyon_Bone.description>
+	
+	<DankPyon_Linen.label>Leinen</DankPyon_Linen.label>
+	<DankPyon_Linen.description>Ein elastischer Stoff aus getrockneten Flachsfasern.</DankPyon_Linen.description>
+
+	<DankPyon_Silk.label>Seide</DankPyon_Silk.label>
+	<DankPyon_Silk.description>Ein weicher und luxuriöser Stoff, der häufig für edle Kleidung hergestellt wird.</DankPyon_Silk.description>
+</LanguageData>

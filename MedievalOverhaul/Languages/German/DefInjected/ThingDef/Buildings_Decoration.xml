@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Fountain1x1c.label>Kleiner Brunnen</DankPyon_Fountain1x1c.label>
+	<DankPyon_Fountain2x2c.label>Großer Brunnen</DankPyon_Fountain2x2c.label>
+	
+	<DankPyon_BarrelWater.label>Wassergefülltes Fass</DankPyon_BarrelWater.label>
+	<DankPyon_BarrelWater.description>Ein mit Wasser gefülltes Fass, um sich selbst oder die Umgebung zu reinigen.</DankPyon_BarrelWater.description>
+	
+	<DankPyon_RusticRoomDivider1x2c.label>Raumteiler (1x2)</DankPyon_RusticRoomDivider1x2c.label>
+	<DankPyon_RusticRoomDivider1x2c.description>Ein einfacher Raumteiler, der die Privatsphäre deinerv Mitbewohner schützt.</DankPyon_RusticRoomDivider1x2c.description>
+	
+	<DankPyon_Sign_Tavern.label>Schild "Gasthaus"</DankPyon_Sign_Tavern.label>
+	<DankPyon_Sign_Tavern.description>Ein hölzernes Hängeschild symbolisiert den Zweck eines Raumes.</DankPyon_Sign_Tavern.description>
+	
+	<DankPyon_Sign_Bread.label>Schild "Bäckerei"</DankPyon_Sign_Bread.label>
+	<DankPyon_Sign_Butcher.label>Schild "Fleischerei"</DankPyon_Sign_Butcher.label>
+	
+	<DankPyon_Sign_Smith.label>Schild "Schmiede"</DankPyon_Sign_Smith.label>
+	<DankPyon_Sign_Apothecary.label>Schild "Apotheke"</DankPyon_Sign_Apothecary.label>
+	
+	<DankPyon_Sign_Jewelry.label>Schild "Juwelier"</DankPyon_Sign_Jewelry.label>
+	<DankPyon_Sign_Library.label>Schild "Bibliothek"</DankPyon_Sign_Library.label>
+	
+	<DankPyon_Sign_Tailor.label>Schild "Schneiderei"</DankPyon_Sign_Tailor.label>
+	<DankPyon_Sign_Woodworking.label>Schild "Holzverarbeitung"</DankPyon_Sign_Woodworking.label>
+		
+	<DankPyon_Sign_Barn.label>Schild "Stall"</DankPyon_Sign_Barn.label>
+	<DankPyon_Sign_Winery.label>Schild "Weingut"</DankPyon_Sign_Winery.label>
+	
+	<DankPyon_Sign_Scribe.label>Schild "Schreibstube"</DankPyon_Sign_Scribe.label>
+
+</LanguageData>

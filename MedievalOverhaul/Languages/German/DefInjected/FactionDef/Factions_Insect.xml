@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Hornets.pawnSingular>Insekt</DankPyon_Hornets.pawnSingular>
+	<DankPyon_Hornets.pawnsPlural>Insekten</DankPyon_Hornets.pawnsPlural>
+	<DankPyon_Hornets.fixedName>Hornissen</DankPyon_Hornets.fixedName>
+	
+	<DankPyon_Hornets.label>Hornissen</DankPyon_Hornets.label>
+	<DankPyon_Hornets.description>Diese riesigen insektenähnlichen Kreaturen leben unter der Erde und graben sich ein, um anzugreifen, wenn sie von Lärm oder Pheromonsignalen angezogen werden.</DankPyon_Hornets.description>
+</LanguageData>

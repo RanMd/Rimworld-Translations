@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Floor_RuinedStoneTile.description>Zerstörte Steinfliesen. Sie sind hübsch anzusehen, aber das Verlegen dauert lange.</DankPyon_Floor_RuinedStoneTile.description>
+	
+	<DankPyon_Floor_RuinedStoneTile_Sandstone.label>Zerstörte Sandsteinfliese</DankPyon_Floor_RuinedStoneTile_Sandstone.label>
+	<DankPyon_Floor_RuinedStoneTile_Granite.label>Zerstörte Granitfliese</DankPyon_Floor_RuinedStoneTile_Granite.label>
+	<DankPyon_Floor_RuinedStoneTile_Limestone.label>Zerstörte Kalksteinfliese</DankPyon_Floor_RuinedStoneTile_Limestone.label>
+	<DankPyon_Floor_RuinedStoneTile_Slate.label>Zerstörte Schieferfliese</DankPyon_Floor_RuinedStoneTile_Slate.label>
+	<DankPyon_Floor_RuinedStoneTile_Marble.label>Zerstörte Marmorfliese</DankPyon_Floor_RuinedStoneTile_Marble.label>
+</LanguageData>

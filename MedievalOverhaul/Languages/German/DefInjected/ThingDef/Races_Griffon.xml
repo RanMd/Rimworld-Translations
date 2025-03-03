@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Griffon.label>Greif</DankPyon_Griffon.label>
+	<DankPyon_Griffon.description>Der Greif ist eine majestätische Kreatur, die die Merkmale eines Adlers und eines Löwen vereint. Er verkörpert Stärke, Beweglichkeit und räuberische Instinkte, was ihn zu einer beeindruckenden Präsenz in der Wildnis macht.</DankPyon_Griffon.description>
+	
+	<DankPyon_Griffon.tools.0.label>linke Klaue</DankPyon_Griffon.tools.0.label>
+	<DankPyon_Griffon.tools.1.label>rechte Klaue</DankPyon_Griffon.tools.1.label>
+	<DankPyon_Griffon.tools.2.label>Schnabel</DankPyon_Griffon.tools.2.label>
+	<DankPyon_Griffon.tools.3.label>Kopf</DankPyon_Griffon.tools.3.label>
+</LanguageData>

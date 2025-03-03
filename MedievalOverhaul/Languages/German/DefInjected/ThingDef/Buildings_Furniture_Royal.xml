@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RoyalCloset.label>Königlicher Schrank</DankPyon_RoyalCloset.label>
+	<DankPyon_RoyalCloset.description>Ein Schrank zur effizienten und schönen Aufbewahrung von Kleidung. Platzieren Sie es in der Nähe von Betten, um einen leichten Komfortzuwachs zu erzielen.</DankPyon_RoyalCloset.description>
+	
+	<DankPyon_RoyalBookshelf.label>Königliches Bücherregal</DankPyon_RoyalBookshelf.label>
+	<DankPyon_RoyalBookshelf.description>Erhöht die Forschungsgeschwindigkeit, wenn es in der Nähe des Forschungstisches platziert wird. Jede Forschungsbank kann zwei Bücherregale nutzen.</DankPyon_RoyalBookshelf.description>
+	
+	<DankPyon_RoyalArmchair.label>Königlicher Sessel</DankPyon_RoyalArmchair.label>
+	<DankPyon_RoyalArmchair.description>Ein luxuriöser, großer, weicher und bequemer Sitz. Ideal zum Entspannen. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_RoyalArmchair.description>
+	
+	<DankPyon_RoyalTable2x2c.label>Königlicher Tisch (2x2)</DankPyon_RoyalTable2x2c.label>
+	<DankPyon_RoyalTable2x4c.label>Königlicher Tisch (2x4)</DankPyon_RoyalTable2x4c.label>
+	
+	<DankPyon_RoyalEndTable.label>Königlicher Beistelltisch</DankPyon_RoyalEndTable.label>
+	<DankPyon_RoyalEndTable.description>Ein kleiner luxuriöser vergoldeter Nachttisch, der die Betten in der Nähe bequemer macht. Muss direkt neben dem Kopfende des Bettes platziert werden. Das Platzieren von mehr als einem Beistelltisch neben demselben Bett hat keine Auswirkung.</DankPyon_RoyalEndTable.description>
+	
+	<DankPyon_RoyalDresser.label>Königliche Kommode</DankPyon_RoyalDresser.label>
+	<DankPyon_RoyalDresser.description>Eine elegante Kommode mit Goldrahmen. Verleiht allen Betten in der Nähe einen Komfortbonus. Das Platzieren von mehr als einer Kommode neben demselben Bett hat keine Auswirkung.</DankPyon_RoyalDresser.description>
+	
+	<DankPyon_RoyalTudorBed.label>Königliches Tudor-Bett</DankPyon_RoyalTudorBed.label>
+	<DankPyon_RoyalTudorBed.description>Ein luxuriöses Bett mit Goldintarsien, passend für die Hochgeborenen. Sehr bequem und schön, es ist ein Kunstwerk für sich. Passt zu zweit.</DankPyon_RoyalTudorBed.description>
+
+</LanguageData>

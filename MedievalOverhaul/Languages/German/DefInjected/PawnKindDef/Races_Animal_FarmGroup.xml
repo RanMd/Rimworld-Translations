@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Hampshire.label>Hampshire</DankPyon_Hampshire.label>
+	<DankPyon_Hampshire.lifeStages.0.label>Hampshire-Ferkel</DankPyon_Hampshire.lifeStages.0.label>
+	
+	<DankPyon_Gloucestershire.label>Gloucestershire</DankPyon_Gloucestershire.label>
+	<DankPyon_Gloucestershire.lifeStages.0.label>Gloucestershire-Ferkel</DankPyon_Gloucestershire.lifeStages.0.label>
+	
+	<DankPyon_NorthernBoar.label>Wildeber</DankPyon_NorthernBoar.label>
+	
+	<DankPyon_Ravelder.label>Ravelder</DankPyon_Ravelder.label>
+	<DankPyon_Ravelder.labelMale>Ravelder Bulle</DankPyon_Ravelder.labelMale>
+	<DankPyon_Ravelder.lifeStages.0.label>Ravelder Kalb</DankPyon_Ravelder.lifeStages.0.label>
+	<DankPyon_Ravelder.lifeStages.0.labelPlural>Kälber</DankPyon_Ravelder.lifeStages.0.labelPlural>
+	
+	<DankPyon_Angus.label>Angus</DankPyon_Angus.label>
+	<DankPyon_Angus.labelMale>Angus Bulle</DankPyon_Angus.labelMale>
+	<DankPyon_Angus.lifeStages.0.label>Angus Kalb</DankPyon_Angus.lifeStages.0.label>
+	<DankPyon_Angus.lifeStages.0.labelPlural>Kälber</DankPyon_Angus.lifeStages.0.labelPlural>
+</LanguageData>

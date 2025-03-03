@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_BrokenWeapons.label>Kaputte Waffen</DankPyon_BrokenWeapons.label>
+	<DankPyon_BrokenWeapons.description>Metallwaffenreste sind kaputt und unbrauchbar. Kann geschmolzen werden, um Ressourcen zurückzugewinnen.</DankPyon_BrokenWeapons.description>
+	
+	<DankPyon_Book.label>Buch</DankPyon_Book.label>
+	<DankPyon_Book.description>Ein Buch voller Informationen zu einem bestimmten Thema. Kann an interessierte Händler verkauft werden.</DankPyon_Book.description>
+
+	<DankPyon_Book_TheBeginning.label>Der Anfang</DankPyon_Book_TheBeginning.label>
+	<DankPyon_Book_TheBeginning.description>Der Anfang
+            \nEin Überlebensführer in der Wildnis
+            \n\n1.Häute und Leder
+            \nBrauchbares Leder kann durch die Behandlung von Häuten mit Gerbflüssigkeit in einem Gerbgestell gewonnen werden.
+             Nach einer ausreichenden Wartezeit ist das behandelte Leder gebrauchsfertig
+            
+            \n\n2.Wo ist mein Essen? 
+            \nFrisches Fleisch verdirbt schnell, also handeln Sie besser schnell! Fleisch kann konserviert werden, indem man es in Trockengestelle legt, wodurch die erwartete Haltbarkeit verlängert wird.
+             Später können abgepackte Rationen oder die vegetarische Alternative, Macci, zubereitet werden, um das Problem des Verderbens zu beseitigen.
+             
+             \n\n3.Metallurgie \nGute Schwerter brauchen gutes Eisen, die Veredelung roher Metallerze ist für die Herstellung von Waffen notwendig. 
+             Rohe Erze können im Ofen geschmolzen werden, um Barren herzustellen, die zum Basteln und Schmieden verwendet werden können.
+             
+             \n\n4.Wo ist Stahl?
+             \nWarum gibt es auf der Karte nur Eisen? Um Stahl produzieren zu können, müssen Sie zunächst Alchemie erforschen
+              ganz rechts auf der Registerkarte „Forschung“. Anschließend können Sie Eisenstücke in Stahl umwandeln.</DankPyon_Book_TheBeginning.description>
+	
+	
+	<DankPyon_Book_IntoTheRuins.label>In die Ruinen</DankPyon_Book_IntoTheRuins.label>
+	<DankPyon_Book_IntoTheRuins.description>In die Ruinen.
+            \nEin Leitfaden zum Dungeoneering.
+            \n\n1. Was noch vor uns liegt
+            \nTief im Inneren der Kerker verbergen sich Schätze und Beute, die so alt sind wie die großen Unterreiche.
+             Das goldene Zeitalter des unüberwundenen Zeitalters der Produktivität und vor allem des Wohlstands.
+             \n\n2.Kreaturen der Dunkelheit
+             \nWährend der Erkundung der Dungeons kann man Monstern von unverhältnismäßiger Größe begegnen. 
+             Schlangen, Trolle und Drachen bewohnen die Ruinen, um Nester für ihren Nachwuchs zu bauen. Boshaft
+              Auch Banditen besetzen die Ruinen und dienen ihnen als Operationsbasis, um die umliegenden Städte zu plündern und zu überfallen.</DankPyon_Book_IntoTheRuins.description>
+	
+	<DankPyon_Book_AncientCodex.label>Uralter Kodex</DankPyon_Book_AncientCodex.label>
+	<DankPyon_Book_AncientCodex.description>Ein alter Wälzer, aufwendig gefertigt mit goldenem Rahmen. Enthält Schriften, die die historischen Berichte der Unterreiche detailliert beschreiben. /n/nKann für interessierte Sammler und dergleichen für ein hübsches Sümmchen verkauft werden.</DankPyon_Book_AncientCodex.description>
+
+	<DankPyon_TornNote_Song1c.label>Das Erbe des Künstlers</DankPyon_TornNote_Song1c.label>
+	<DankPyon_TornNote_Song1c.description>Band 1
+            \n\nEr war ein Krebs, sie war ein Krebs
+            \nkonnten sie noch ahnungsloser sein?
+            \nEr war eine Drohne, sie war eine Königin
+            \nSie wollten nur eine Szene machen
+            \nEr wollte sie, sie wollte Eier
+            \nInsgeheim bewunderte sie seine Beine
+            \nAber alle Krabben mussten einen Antrag machen
+            \nSie mochten seine mürrischen Zehen nicht
+
+            \n\ner hatte eine größere Klaue, sie hatte einen Hummerschwanz 
+            \nEr wurde für sie gebuttert
+            \nSie war nicht sehr sanftmütig und konnte zweimal pro Woche häuten
+            \nSie hatte die Thiccist-Rüstung
+
+            \n\nIn ein paar Monaten ist sie ganz allein
+            \nfüttert die Eier mit ihrem Bioschaum
+            \nSie wartet den ganzen Tag und wartet darauf, es zu sehen
+            \nwas ihre Drohne sagen würde
+            \nDie ganze Zeit über lächelte sie
+            \nRüstung für mich herstellen
+
+            \n\nEr hatte eine größere Klaue, sie hatte einen Hummerschwanz 
+            \nEr wurde für sie gebuttert
+            \nJetzt trägt er eine dicke Rüstung
+            \ntöte einige Randweltler
+            \nkönnte es jetzt besser sein?
+            \nIch verstehe wirklich nicht wie
+            \nDie beste Rasse ist die Brachyura.</DankPyon_TornNote_Song1c.description>
+	
+	
+	<DankPyon_ChaliceSilver.label>Schmutzbedeckter silberner Kelch</DankPyon_ChaliceSilver.label>
+	<DankPyon_ChaliceSilver.description>Ein Kelch, der am häufigsten zum Weintrinken verwendet wird; Dieser Pokal mit Fuß besteht aus Silber und bietet eine kostengünstige Möglichkeit, die Ästhetik eines Saals zu verbessern. 
+		
+		Reinige ihn unbedingt mit dem Reinigungstisch, bevor du ihn auf deinen Tisch stellst!</DankPyon_ChaliceSilver.description>
+	
+	<DankPyon_ChaliceGold.label>Schmutzbedeckter goldener Kelch</DankPyon_ChaliceGold.label>
+	<DankPyon_ChaliceGold.description>Ein Kelch, der am häufigsten zum Weintrinken verwendet wird; Dieser Kelch mit Fuß ist aus Gold gefertigt und wertet die Ästhetik eines Saals noch mehr auf, um seinen Reichtum zur Schau zu stellen. 
+		
+		Reinige ihn unbedingt mit dem Reinigungstisch, bevor du ihn auf deinen Tisch stellst!</DankPyon_ChaliceGold.description>
+
+	<DankPyon_BowlSilver.label>Schmutzbedeckte Silberschale</DankPyon_BowlSilver.label>
+	<DankPyon_BowlSilver.description>Eine kunstvolle, mit Schmutz bedeckte Silberschale. 
+		
+		Reinige sie unbedingt mit dem Reinigungstisch, bevor du sie auf deinen Tisch stellst!</DankPyon_BowlSilver.description>
+	
+	
+	<DankPyon_BowlGold.label>Schmutzbedeckte Goldschale</DankPyon_BowlGold.label>
+	<DankPyon_BowlGold.description>Eine kunstvolle, mit Schmutz bedeckte Goldschale. 
+		
+		Reinige sie unbedingt mit dem Reinigungstisch, bevor du sie auf deinen Tisch stellst!</DankPyon_BowlGold.description>
+	
+	<DankPyon_SkullGold.label>Schmutzbedeckter goldener Totenkopf</DankPyon_SkullGold.label>
+	<DankPyon_SkullGold.description>Der in den Tiefen der Ruinen gefundene goldene Schädel weist auf einen kunstvollen Schatz hin, der von jenen gehalten wird, die als Untote wandeln. 
+		
+		Reinige ihn unbedingt mit dem Reinigungstisch, bevor du ihn auf deinen Tisch stellst!</DankPyon_SkullGold.description>
+
+	<DankPyon_SkullEmerald.label>Schmutzbedeckter Smaragdschädel</DankPyon_SkullEmerald.label>
+	<DankPyon_SkullEmerald.description>Ein Schädel aus den Materialien eines seltenen und prestigeträchtigen Edelsteins. Auch wenn sie wertvoll sind, sollten Ruinenforscher vorsichtig vorgehen, denn solch ein reicher Schatz würde nicht ungeschützt bleiben.
+		
+		Reinige ihn unbedingt mit dem Reinigungstisch, bevor du ihn auf deinen Tisch stellst!</DankPyon_SkullEmerald.description>
+	
+	<DankPyon_SkullSapphire.label>Schmutzbedeckter Saphirschädel</DankPyon_SkullSapphire.label>
+	<DankPyon_SkullSapphire.description>Der blau schimmernde Schädel aus Saphir strahlt mit jeder Krümmung seines Kopfes. Ein Schatz wie dieser würde sicherlich viel Reichtum einbringen oder gut in einer großen Halle ausgestellt werden.
+		
+		Reinige ihn unbedingt mit dem Reinigungstisch, bevor du ihn auf deinen Tisch stellst!</DankPyon_SkullSapphire.description>
+	
+	<DankPyon_SkullRuby.label>Schmutzbedeckter Rubinschädel</DankPyon_SkullRuby.label>
+	<DankPyon_SkullRuby.description>Der Rubinschädel ist ein Hauptpreis wertvoller Edelsteine ​​und zieht die Aufmerksamkeit jedes Lords, Kriegers, Entdeckers und Händlers gleichermaßen auf sich. Ein wertvolles Sammlerstück.
+		
+		Reinige ihn unbedingt mit dem Reinigungstisch, bevor du ihn auf deinen Tisch stellst!</DankPyon_SkullRuby.description>
+
+	<DankPyon_DiceGold.label>Goldene Würfel</DankPyon_DiceGold.label>
+	<DankPyon_DiceGold.description>Ein Würfelset mit unterschiedlich wertvollen Edelsteinen; Obwohl klein, ist jeder Würfel mehr wert als eine hübsche Münze.</DankPyon_DiceGold.description>
+	
+	<DankPyon_TreatiseBase.description>Ein verzauberter Wälzer aus dem Goldenen Zeitalter. Jede Seite scheint unermesslich von Mehrdeutigkeit durchdrungen und von Zeichen der Magie durchdrungen zu sein. Seine unverständlichen Phrasen verwandeln sich beim Betrachten langsam in eine erkennbare Sprache. Das Aussprechen seiner Worte wird jedoch sicherlich eine Veränderung herbeiführen und das Buch unbrauchbar machen.</DankPyon_TreatiseBase.description>
+	<DankPyon_Treatise_Shooting.label>Abhandlung (Fernkampf)</DankPyon_Treatise_Shooting.label>
+	<DankPyon_Treatise_Melee.label>Abhandlung (Nahkampf)</DankPyon_Treatise_Melee.label>
+	<DankPyon_Treatise_Construction.label>Abhandlung (Bauen)</DankPyon_Treatise_Construction.label>
+	<DankPyon_Treatise_Mining.label>Abhandlung (Bergbau)</DankPyon_Treatise_Mining.label>
+	<DankPyon_Treatise_Cooking.label>Abhandlung (Kochen)</DankPyon_Treatise_Cooking.label>
+	<DankPyon_Treatise_Plants.label>Abhandlung (Pflanzen)</DankPyon_Treatise_Plants.label>
+	<DankPyon_Treatise_Animals.label>Abhandlung (Tiere)</DankPyon_Treatise_Animals.label>
+	<DankPyon_Treatise_Crafting.label>Abhandlung (Handwerk)</DankPyon_Treatise_Crafting.label>
+	<DankPyon_Treatise_Artistic.label>Abhandlung (Kunst)</DankPyon_Treatise_Artistic.label>
+	<DankPyon_Treatise_Medicine.label>Abhandlung (Medizin)</DankPyon_Treatise_Medicine.label>
+	<DankPyon_Treatise_Social.label>Abhandlung (Sozial)</DankPyon_Treatise_Social.label>
+	<DankPyon_Treatise_Intellectual.label>Abhandlung (Intelligenz)</DankPyon_Treatise_Intellectual.label>
+
+	<DankPyon_TornNote_Hideout.label>Zerrissene Notiz</DankPyon_TornNote_Hideout.label>
+	<DankPyon_TornNote_Hideout.description>Zerrissene Notizen können am Tisch des Entdeckers verwendet werden (als Treibstoff). Sie enthalten Informationen über Verstecke und andere Orte, beispielsweise abbaubare Erzadern. 
+Du kannst sie in Verstecken finden oder bei Massenwarenhändlern oder Gelehrtenkarawanen kaufen, allerdings nur, wenn die Karawane zu einem der Adelshäuser MOs gehört.
+		
+Darüber hinaus können sie im Explorer-Archiv aufbewahrt werden, einem Regal in Verstecken. Nimm sie also unbedingt mit!</DankPyon_TornNote_Hideout.description>
+</LanguageData>

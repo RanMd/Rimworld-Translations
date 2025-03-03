@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_HatchedClutch.label>Großes, bereits geschlüpftes Eiergelege</DankPyon_HatchedClutch.label>
+	<DankPyon_HatchedClutch.description>Ein riesiges Ei, das geschlüpft ist, was auch immer sich darin befand, ein riesiges Biest.</DankPyon_HatchedClutch.description>
+	
+	<DankPyon_HatchedClutchSmall.label>Bald schlüpfendes Eiergelege</DankPyon_HatchedClutchSmall.label>
+	<DankPyon_HatchedClutchSmall.description>Eine Gruppe von Schlangeneiern, die so weit überlebt haben, dass sie schlüpfen können.</DankPyon_HatchedClutchSmall.description>
+
+</LanguageData>

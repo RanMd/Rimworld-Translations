@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_SchratBody.label>Schrat</DankPyon_SchratBody.label>
+	<DankPyon_SchratBody.corePart.parts.0.parts.0.parts.0.customLabel>linkes Auge</DankPyon_SchratBody.corePart.parts.0.parts.0.parts.0.customLabel>
+	<DankPyon_SchratBody.corePart.parts.0.parts.0.parts.1.customLabel>rechtes Auge</DankPyon_SchratBody.corePart.parts.0.parts.0.parts.1.customLabel>
+	<DankPyon_SchratBody.corePart.parts.1.customLabel>linke Schulter</DankPyon_SchratBody.corePart.parts.1.customLabel>
+	<DankPyon_SchratBody.corePart.parts.1.parts.0.customLabel>linker Astarm</DankPyon_SchratBody.corePart.parts.1.parts.0.customLabel>
+	<DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.customLabel>linke Asthand</DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.customLabel>
+	<DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>linker Zweig</DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+	<DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>linker Mittelzweig</DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+	<DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>linker Zeigezweig</DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+	<DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>linker Zweig</DankPyon_SchratBody.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+
+	<DankPyon_SchratBody.corePart.parts.2.customLabel>rechte Schulter</DankPyon_SchratBody.corePart.parts.2.customLabel>
+	<DankPyon_SchratBody.corePart.parts.2.parts.0.customLabel>rechter Astarm</DankPyon_SchratBody.corePart.parts.2.parts.0.customLabel>
+	<DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.customLabel>rechte Asthand</DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.customLabel>
+	<DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>rechter Zweig</DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+	<DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>rechter Mittelzweig</DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+	<DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>rechter Zeigezweig</DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+	<DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>rechter Zweig</DankPyon_SchratBody.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+	
+
+	<DankPyon_SchratBody.corePart.parts.3.customLabel>linkes Astbein</DankPyon_SchratBody.corePart.parts.3.customLabel>
+	<DankPyon_SchratBody.corePart.parts.3.parts.0.customLabel>linker Astfuß</DankPyon_SchratBody.corePart.parts.3.parts.0.customLabel>
+	
+	<DankPyon_SchratBody.corePart.parts.4.customLabel>rechtes Astbein</DankPyon_SchratBody.corePart.parts.4.customLabel>
+	<DankPyon_SchratBody.corePart.parts.4.parts.0.customLabel>rechter Astfuß</DankPyon_SchratBody.corePart.parts.4.parts.0.customLabel>
+	
+	<DankPyon_SchratBody.corePart.parts.6.customLabel>magische Reben</DankPyon_SchratBody.corePart.parts.6.customLabel>
+	<DankPyon_SchratBody.corePart.parts.7.customLabel>magische Reben</DankPyon_SchratBody.corePart.parts.7.customLabel>
+
+
+	
+</LanguageData>

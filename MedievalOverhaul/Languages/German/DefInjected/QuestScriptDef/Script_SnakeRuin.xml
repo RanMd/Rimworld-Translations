@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.0>questName->Das [bandit] [camp]</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.0>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.2>questName->[asker_nameDef] und das [camp]</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.2>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.3>camp->Lager</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.3>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.4>camp->Wrack</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.4>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.5>camp->Versteck</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.5>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.6>camp->Labyrinth</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.6>
+
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.7>bandit->Banditen</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.7>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.8>bandit->Raider</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.8>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.9>bandit->Geächteten</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.9>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.10>bandit->Desperado</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.10>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.11>bandit->Flüchtigen</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.11>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.12>bandit->Rumtreiber</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.12>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.13>bandit->Räuber</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.13>
+	<DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.14>bandit->Plünderer</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.14>
+		
+	<DankPyon_OpportunitySite_Snake_BigRuin.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] von [asker_faction_name], hat uns eine Nachricht gesendet. Anscheinend haben [siteFaction_pawnsPlural], die in einer nahegelegenen Ruine leben, ihre Karawanen überfallen. Die Ruine wird von [siteFaction_name] kontrolliert.
+\n[asker_nameDef] bittet uns, die Ruinen zu räumen, was bedeutet, dass wir alle Feinde eliminieren müssen. [asker_label] sagt, dass [sitePart0_description].</DankPyon_OpportunitySite_Snake_BigRuin.questDescriptionRules.rulesStrings.0>
+	<DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.13.node.nodes.0.label>Quest abgelaufen: [resolvedQuestName]</DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.13.node.nodes.0.label>
+	<DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.13.node.nodes.0.text>Die Banditen haben die Ruinen geplündert und sind weitergezogen. Die Quest [resolvedQuestName] ist abgelaufen.</DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.13.node.nodes.0.text>
+	<DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.14.node.nodes.0.label>Quest fehlgeschlagen: [resolvedQuestName]</DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.14.node.nodes.0.label>
+	<DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.14.node.nodes.0.text>Nachdem das Banditenlager entdeckt wurde, hat es sich aufgelöst. Die Quest [resolvedQuestName] ist beendet.</DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.14.node.nodes.0.text>
+	<DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.15.node.nodes.1.customLetterLabel>Die Zahlung ist eingetroffen</DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.15.node.nodes.1.customLetterLabel>
+	<DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.15.node.nodes.1.customLetterText>Du hast die Ruine geräumt!\n\nDie Zahlung von [asker_faction_name] ist angekommen.</DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.15.node.nodes.1.customLetterText>
+	<DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text>Diese Kolonisten waren am Sieg für die Quest [resolvedQuestName] beteiligt. [asker_definite] möchte wissen, wer den [royalFavorReward_amount] [asker_faction_royalFavorLabel] für diesen Service erhalten soll.</DankPyon_OpportunitySite_Snake_BigRuin.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text>
+
+</LanguageData>

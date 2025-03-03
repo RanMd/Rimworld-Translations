@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Hyena.label>Hyäne</DankPyon_Hyena.label>
+	<DankPyon_Hyena.description>Ein gerissenes Raubtier, das Merkmale von Katzen und Caniden gleichermaßen besitzt. Eine leicht zu unterschätzende Kreatur, von denen die ihr eigenartiges kicherndes Gurgeln als spielerisches Zeichen der Harmlosigkeit betrachten. Während ein Hyänenrudel zögern könnte, eine Gruppe Menschen im Freien anzugreifen, werden sie einem einsamen Vagabunden gegenüber keine Gnade zeigen. Bei lebendigem Leibe und zufriedenem Kichern gefressen zu werden, muss ein schreckliches Ende sein.</DankPyon_Hyena.description>
+	
+	<DankPyon_Hyena.tools.0.label>linke Klaue</DankPyon_Hyena.tools.0.label>
+	<DankPyon_Hyena.tools.1.label>rechte Klaue</DankPyon_Hyena.tools.1.label>
+	<DankPyon_Hyena.tools.3.label>Kopf</DankPyon_Hyena.tools.3.label>
+</LanguageData>

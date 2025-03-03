@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Golem.label>Golem</DankPyon_Golem.label>
+	<DankPyon_Golem.corePart.parts.1.parts.0.customLabel>linkes Kristallauge</DankPyon_Golem.corePart.parts.1.parts.0.customLabel>
+	<DankPyon_Golem.corePart.parts.1.parts.1.customLabel>rechtes Kristallauge</DankPyon_Golem.corePart.parts.1.parts.1.customLabel>
+	
+	<DankPyon_Golem.corePart.parts.2.customLabel>linke Schulter</DankPyon_Golem.corePart.parts.2.customLabel>
+	<DankPyon_Golem.corePart.parts.2.parts.0.customLabel>linker Arm</DankPyon_Golem.corePart.parts.2.parts.0.customLabel>
+	<DankPyon_Golem.corePart.parts.2.parts.0.parts.0.customLabel>linke Hand</DankPyon_Golem.corePart.parts.2.parts.0.customLabel>
+	<DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>linker kleiner Finger</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+	<DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>linker Ringfinger</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+	<DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>linker Mittelfinger</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+	<DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>linker Zeigefinger</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+	<DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>linker Daumen</DankPyon_Golem.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>
+	
+	<DankPyon_Golem.corePart.parts.3.customLabel>rechte Schulter</DankPyon_Golem.corePart.parts.3.customLabel>
+	<DankPyon_Golem.corePart.parts.3.parts.0.customLabel>rechter Arm</DankPyon_Golem.corePart.parts.3.parts.0.customLabel>
+	<DankPyon_Golem.corePart.parts.3.parts.0.parts.0.customLabel>rechte Hand</DankPyon_Golem.corePart.parts.3.parts.0.customLabel>
+	<DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>rechter kleiner Finger</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.0.customLabel>
+	<DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>rechter Ringfinger</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.1.customLabel>
+	<DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>rechter Mittelfinger</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.2.customLabel>
+	<DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>rechter Zeigefinger</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.3.customLabel>
+	<DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.4.customLabel>rechter Daumen</DankPyon_Golem.corePart.parts.3.parts.0.parts.0.parts.4.customLabel>
+	
+	<DankPyon_Golem.corePart.parts.5.customLabel>linkes Bein</DankPyon_Golem.corePart.parts.5.customLabel>
+	<DankPyon_Golem.corePart.parts.5.parts.0.customLabel>linker Fuß</DankPyon_Golem.corePart.parts.5.parts.0.customLabel>
+	
+	<DankPyon_Golem.corePart.parts.6.customLabel>rechtes Bein</DankPyon_Golem.corePart.parts.6.customLabel>
+	<DankPyon_Golem.corePart.parts.6.parts.0.customLabel>rechter Fuß</DankPyon_Golem.corePart.parts63.parts.0.customLabel>
+	
+</LanguageData>

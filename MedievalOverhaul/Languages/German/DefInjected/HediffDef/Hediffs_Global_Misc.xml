@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_AteRoxSteak.label>aß Rox-Steak</DankPyon_AteRoxSteak.label>
+	<DankPyon_AteRoxSteak.description>Ein meisterhaft zubereitetes Gericht mit intensiv aromatischen Aromen.</DankPyon_AteRoxSteak.description>
+	
+	<DankPyon_AteGriffonBerryPie.label>aß Greifenbeerenkuchen</DankPyon_AteGriffonBerryPie.label>
+	<DankPyon_AteGriffonBerryPie.description>Ein meisterhaft zubereitetes Gericht mit intensiv aromatischen Aromen.</DankPyon_AteGriffonBerryPie.description>
+	
+	<DankPyon_AteSteakWithWine.label>aß Steak mit Weinsauce</DankPyon_AteSteakWithWine.label>
+	<DankPyon_AteSteakWithWine.description>Ich habe Steak mit Weinsauce gegessen und den Körper mit Energie versorgt. Erhöht die Arbeitsgeschwindigkeit erheblich und bringt das Blut in Schwung.</DankPyon_AteSteakWithWine.description>
+	
+	<DankPyon_AteTomatoOmelette.label>aß Tomatenomelett</DankPyon_AteTomatoOmelette.label>
+	<DankPyon_AteTomatoOmelette.description>Tomatenomeletts sind eine sättigende Mahlzeit, die den Hunger effektiv stillt.</DankPyon_AteTomatoOmelette.description>
+	
+	<DankPyon_AteSweetPancakes.label>aß süße Pfannkuchen</DankPyon_AteSweetPancakes.label>
+	<DankPyon_AteSweetPancakes.description>Süße Pfannkuchen haben einen dichten, zuckerhaltigen Sirup, der den Körper mit Energie versorgt und insgesamt zu einer höheren Bewegungsgeschwindigkeit führt.</DankPyon_AteSweetPancakes.description>
+	
+	<DankPyon_AteFriedEggs.label>aß Spiegeleier</DankPyon_AteFriedEggs.label>
+	<DankPyon_AteFriedEggs.description>Ich habe Spiegeleier gegessen und es belebte den Körper. Erhöht leicht die Arbeitsgeschwindigkeit und bringt das Blut in Schwung.</DankPyon_AteFriedEggs.description>
+	
+	<DankPyon_AteMashedPotatoes.label>aß Kartoffelpüree</DankPyon_AteMashedPotatoes.label>
+	<DankPyon_AteMashedPotatoes.description>Ich habe Kartoffelpüree gegessen und den Körper mit Energie versorgt. Erhöht leicht die Arbeitsgeschwindigkeit und reduziert die Hungerrate.</DankPyon_AteMashedPotatoes.description>
+	
+	<DankPyon_AtePumpkinFritters.label>aß Kürbisküchlein</DankPyon_AtePumpkinFritters.label>
+	<DankPyon_AtePumpkinFritters.description>Ich habe Kürbisküchlein gegessen, die den Körper mit Energie versorgten. Erhöht leicht die Arbeitsgeschwindigkeit und bringt das Blut in Schwung.</DankPyon_AtePumpkinFritters.description>
+	
+	<!-- ===== Tiers ===== -->	
+	
+	<DankPyon_AteBake.label>aß Gebackenes</DankPyon_AteBake.label>
+	<DankPyon_AteBake.description>Eine gebackene Mahlzeit gegessen, die dem Körper Energie spendet. Erhöht leicht die Arbeitsgeschwindigkeit und reduziert die Hungerrate.</DankPyon_AteBake.description>
+	
+	<DankPyon_AteBakeFine.label>aß feines Gebackenes</DankPyon_AteBakeFine.label>
+	<DankPyon_AteBakeFine.description>Eine feine gebackene Mahlzeit gegessen, die den Körper mit Energie versorgt. Steigert die Arbeitsgeschwindigkeit und reduziert die Hungerrate.</DankPyon_AteBakeFine.description>
+	
+	<DankPyon_AteBakeLavish.label>aß üppiges Gebackenes</DankPyon_AteBakeLavish.label>
+	<DankPyon_AteBakeLavish.description>Eine üppige gebackene Mahlzeit gegessen, die den Körper mit Energie versorgt. Erhöht die Arbeitsgeschwindigkeit erheblich und reduziert die Hungerrate.</DankPyon_AteBakeLavish.description>
+	
+	<DankPyon_AteGrill.label>aß Grillmahlzeit</DankPyon_AteGrill.label>
+	<DankPyon_AteGrill.description>Eine Mahlzeit vom Grill gegessen und dem Körper neue Energie gegeben haben. Erhöht leicht die Arbeitsgeschwindigkeit und bringt das Blut in Schwung.</DankPyon_AteGrill.description>
+	
+	<DankPyon_AteGrillFine.label>aß feine Grillmahlzeit</DankPyon_AteGrillFine.label>
+	<DankPyon_AteGrillFine.description>Eine Mahlzeit vom Grill gegessen und dem Körper neue Energie gegeben haben. Steigert die Arbeitsgeschwindigkeit und bringt das Blut in Schwung.</DankPyon_AteGrillFine.description>
+	
+	<DankPyon_AteGrillLavish.label>aß üppige Grillmahlzeit</DankPyon_AteGrillLavish.label>
+	<DankPyon_AteGrillLavish.description>Eine üppige Grillmahlzeit gegessen, die den Körper mit Energie versorgt. Erhöht die Arbeitsgeschwindigkeit erheblich und bringt das Blut in Schwung.</DankPyon_AteGrillLavish.description>
+	
+	<DankPyon_AteSoup.label>aß Suppe</DankPyon_AteSoup.label>
+	<DankPyon_AteSoup.description>Aß eine Suppe, die Wärme und Nährstoffe spendete. Stärkt leicht das Immunsystem und bringt das Blut in Schwung.</DankPyon_AteSoup.description>
+	
+	<DankPyon_AteSoupFine.label>aß feine Suppe</DankPyon_AteSoupFine.label>
+	<DankPyon_AteSoupFine.description>Habe eine feine Suppe voller Wärme und Nährstoffe gegessen. Stärkt das Immunsystem und bringt das Blut in Schwung.</DankPyon_AteSoupFine.description>
+	
+	<DankPyon_AteSoupLavish.label>aß üppige Suppe</DankPyon_AteSoupLavish.label>
+	<DankPyon_AteSoupLavish.description>Habe eine üppige Suppe voller Wärme und Nährstoffe gegessen. Stärkt das Immunsystem enorm und bringt das Blut in Schwung.</DankPyon_AteSoupLavish.description>
+	
+	<DankPyon_LindwurmAcid.label>Lindwurmsäure</DankPyon_LindwurmAcid.label>
+	<DankPyon_LindwurmAcid.description>Kraftvolle Säure aus dem Blut eines Lindwurms. Korrodiert die Haltbarkeit der Rüstung.</DankPyon_LindwurmAcid.description>
+
+	<!-- Daze -->	
+	<DankPyon_Daze.label>Benommen</DankPyon_Daze.label>
+	<DankPyon_Daze.description>PLATZHALTER</DankPyon_Daze.description>
+	
+	<DankPyon_LindwurmAcidImmune.label>Lindwurm-Säure-Immunität</DankPyon_LindwurmAcidImmune.label>
+	<DankPyon_LindwurmAcidImmune.description>PLATZHALTER</DankPyon_LindwurmAcidImmune.description>
+	
+	<DankPyon_StunImmune.label>Betäubungsimmunität</DankPyon_StunImmune.label>
+	<DankPyon_StunImmune.description>PLATZHALTER</DankPyon_StunImmune.description>
+	
+	<DankPyon_DazeImmune.label>Benommenheit Immunität</DankPyon_DazeImmune.label>
+	<DankPyon_DazeImmune.description>PLATZHALTER</DankPyon_DazeImmune.description>
+	
+	<DankPyon_SigilMood.label>Runensiegel</DankPyon_SigilMood.label>
+	<DankPyon_SigilMood.description>PLATZHALTER</DankPyon_SigilMood.description>
+</LanguageData>

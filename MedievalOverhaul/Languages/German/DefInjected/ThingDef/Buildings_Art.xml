@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Bust.label>Büste</DankPyon_Bust.label>
+	<DankPyon_Bust.description>Ein torsogroßes Stück Material, das zu einer künstlerischen Form geformt wurde.</DankPyon_Bust.description>
+	
+	<DankPyon_Pedestal.label>Sockel</DankPyon_Pedestal.label>
+	<DankPyon_Pedestal.description>Ein Ständer, der als Basis für die Präsentation Ihrer Artikel dient.</DankPyon_Pedestal.description>
+	
+	<DankPyon_ArmorStatue.label>Rüstungsstatue</DankPyon_ArmorStatue.label>
+	<DankPyon_ArmorStatue.description>Eine lebensgroße Nachbildung eines Ritters.</DankPyon_ArmorStatue.description>
+	
+	<DankPyon_Ancient_Column.label>Alte Säule</DankPyon_Ancient_Column.label>
+	<DankPyon_Ancient_Column.description>Eine hohe Säule mit kunstvollem Design.</DankPyon_Ancient_Column.description>
+	
+	<DankPyon_RNGLarge2x2c.label>Große Würfelgottskulptur</DankPyon_RNGLarge2x2c.label>
+	<DankPyon_RNGLarge2x2c.description>Eine der vielen Gottheiten, die das Unterreich verehrt. Es ist bekannt, dass der Würfelgott manchmal barmherzig ist, aber meistens ist er rücksichtslos.</DankPyon_RNGLarge2x2c.description>
+	
+	<DankPyon_RNG2x2c.label>Große Würfelgott-Obelisk-Skulptur</DankPyon_RNG2x2c.label>
+	<DankPyon_RNG2x2c.description>Eine der vielen Gottheiten, die das Unterreich verehrt. Es ist bekannt, dass der Würfelgott manchmal barmherzig ist, aber meistens ist er rücksichtslos.</DankPyon_RNG2x2c.description>
+	
+	<DankPyon_ArchonSculpture2x2c.label>Große Archon-Skulptur</DankPyon_ArchonSculpture2x2c.label>
+	<DankPyon_ArchonSculpture2x2c.description>Ein Avatar eines einst prominenten Herrschers.</DankPyon_ArchonSculpture2x2c.description>
+	
+	<DankPyon_ArchonObeliskSculpture2x2c.label>Große Archon-Obelisk-Skulptur</DankPyon_ArchonObeliskSculpture2x2c.label>
+	<DankPyon_ArchonObeliskSculpture2x2c.description>Ein Avatar eines einst prominenten Herrschers.</DankPyon_ArchonObeliskSculpture2x2c.description>
+	
+	
+	<DankPyon_Obelisk2x2c.label>Großer Obelisk</DankPyon_Obelisk2x2c.label>
+	<DankPyon_Obelisk2x2c.description>Ein antikes Denkmal mit Inschriften einer unbekannten Sprache.</DankPyon_Obelisk2x2c.description>
+	
+	<DankPyon_Brazier2x2c.label>Altes Obelisk-Kohlenbecken</DankPyon_Brazier2x2c.label>
+	<DankPyon_Brazier2x2c.description>Ein antikes Denkmal mit einer Kohlenpfanne darauf, die sehr hell brennt.</DankPyon_Brazier2x2c.description>
+	
+	<DankPyon_Brazier1x1c.label>Alte Kohlenpfanne</DankPyon_Brazier1x1c.label>
+	<DankPyon_Brazier1x1c.description>Eine alte Kohlenpfanne, die sehr hell brennt.</DankPyon_Brazier1x1c.description>
+
+</LanguageData>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RawWood.label>Rohholz</DankPyon_RawWood.label>
+	<DankPyon_RawWood.description>Holz von Bäumen oder anderen Faserpflanzen. Nützlich zum Bau von Strukturen und Waffen. Es ist ein guter Brennstoff für Lagerfeuer und Generatoren und kann zu chemischem Treibstoff raffiniert werden. Im Notfall kann ein Stück Holz als Waffe oder Bein verwendet werden.</DankPyon_RawWood.description>
+	<DankPyon_RawWood.stuffProps.stuffAdjective>hölzern</DankPyon_RawWood.stuffProps.stuffAdjective>
+	
+	<DankPyon_RawDarkWood.label>Dunkles Holz</DankPyon_RawDarkWood.label>
+	<DankPyon_RawDarkWood.description>Eine dunkle, harte und alte Holzart, die dem Zahn der Zeit standgehalten hat. Nützlich zum Bau von Strukturen und Waffen. Es ist ein guter Brennstoff für Lagerfeuer.</DankPyon_RawDarkWood.description>
+
+	<DankPyon_Coal.label>Kohlebrocken</DankPyon_Coal.label>
+	<DankPyon_Coal.description>Kohle ist ein schwarzer, brennbarer Gesteinsbrocken, der hauptsächlich aus Kohlenstoff besteht. Eine gute Brennstoffquelle für Öfen und Öfen.</DankPyon_Coal.description>
+	
+	
+	<DankPyon_IceBlock.label>Eis</DankPyon_IceBlock.label>
+	<DankPyon_IceBlock.description>Wasser, das zu Eisblöcken gefroren wurde. Schmilzt bei Temperaturen über dem Gefrierpunkt.</DankPyon_IceBlock.description>
+	
+	<DankPyon_Waterskin.label>Wasserschlauch</DankPyon_Waterskin.label>
+	<DankPyon_Waterskin.description>Wasser, das gesammelt und in einen Beutel gegeben wurde.</DankPyon_Waterskin.description>
+
+	<DankPyon_Wax.label>Wachs</DankPyon_Wax.label>
+	<DankPyon_Wax.description>Eine organische Verbindung, die bei Raumtemperatur fest ist und daher über einen längeren Zeitraum gelagert werden kann. Kann zu Kerzen verarbeitet werden.</DankPyon_Wax.description>
+	
+	
+	<DankPyon_QueenBee.label>Oswin Königin</DankPyon_QueenBee.label>
+	<DankPyon_QueenBee.description>Die Matriarchin einer Geierbienenkolonie, die aus den Regionen des Hauses Oswin stammt. Im Gegensatz zu typischen Bienen fressen sie Aas und produzieren einen rauchigen und herzhaften Honig.</DankPyon_QueenBee.description>
+	
+	<DankPyon_Honey.label>Rauchiger Honig</DankPyon_Honey.label>
+	<DankPyon_Honey.description>Eine rauchige und herzhafte flüssige Substanz, die von Geierbienen hergestellt wird und als Konservierungsmittel verwendet oder zu einem alkoholischen Getränk fermentiert werden kann.</DankPyon_Honey.description>
+
+	<DankPyon_Honeycomb.label>Rauchige Wabe</DankPyon_Honeycomb.label>
+	<DankPyon_Honeycomb.description>Rohe, rauchige Waben, die Geierbienenhonig enthalten. \n\nKann extrahiert werden, um Wachs und rauchigen Honig zu gewinnen.</DankPyon_Honeycomb.description>
+	
+	
+	<DankPyon_IronOre.label>Eisenerz</DankPyon_IronOre.label>
+	<DankPyon_IronOre.description>Ein rohes Eisenerz muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_IronOre.description>
+	
+	<DankPyon_IronIngot.label>Eisenbarren</DankPyon_IronIngot.label>
+	<DankPyon_IronIngot.description>Ein würzig schmeckender Käselaib, der durch ein spezielles Verfahren der gezielten Gerinnung von Tiermilch entsteht. Er ist sowohl ein pur ein Leckerbissen als auch eine vielseitige Zutat in Mahlzeiten.</DankPyon_IronIngot.description>
+
+	<DankPyon_SilverOre.label>Silbererz</DankPyon_SilverOre.label>
+	<DankPyon_SilverOre.description>Ein rohes Silbererz muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_SilverOre.description>
+	
+	<DankPyon_GoldOre.label>Golderz</DankPyon_GoldOre.label>
+	<DankPyon_GoldOre.description>Ein rohes Golderz muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_GoldOre.description>
+	
+	<DankPyon_PlasteelOre.label>Rohes Plasteel</DankPyon_PlasteelOre.label>
+	<DankPyon_PlasteelOre.description>Roher Plaststahl muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_PlasteelOre.description>
+
+	<DankPyon_Citrine.label>Citrin</DankPyon_Citrine.label>
+	<DankPyon_Citrine.description>Der als Citrin bekannte blassgelbe Quarz ist einer der Kristalle mit dem niedrigsten Wert. Das Verzieren von Schmuck mit diesem Edelstein erhöht den Wohlstand, wenn auch in geringerem Maße als mit wertvolleren Edelsteinen.</DankPyon_Citrine.description>
+	
+	<DankPyon_Amber.label>Bernstein</DankPyon_Amber.label>
+	<DankPyon_Amber.description>Ein gehärteter Edelstein aus versteinertem Baumharz. Wird allgemein wegen seines natürlichen gelb-orangen Farbtons bewundert und häufig für Ornamente und Dekorationen verwendet. Allerdings ist es zu weich, um für Waffen verwendet zu werden.</DankPyon_Amber.description>
+
+	<DankPyon_Onyx.label>Onyx</DankPyon_Onyx.label>
+	<DankPyon_Onyx.description>Dieses schwarz-weiße Mineral wechselt seine Farben durch parallele Bänder, manchmal in Harmonie und manchmal in Unordnung. Die chaotischen Farben entwerten diesen Edelstein jedoch nicht, sondern steigern vielmehr seinen Wert, insbesondere in Schnitzereien und Schmuck.</DankPyon_Onyx.description>
+
+	<DankPyon_Emerald.label>Smaragd</DankPyon_Emerald.label>
+	<DankPyon_Emerald.description>Ein robuster Edelstein mit überwiegend grüner Farbe. Der Wert dieses Kristalls wertet jedes Schmuckstück auf, sei es ein Edelstein am Schwertgriff oder eine Verzierung in einem Ring.</DankPyon_Emerald.description>
+	
+	<DankPyon_Sapphire.label>Saphir</DankPyon_Sapphire.label>
+	<DankPyon_Sapphire.description>Aufgrund seiner kristallinen Facette einer der wertvollsten und begehrtesten Edelsteine. Sein Blauton und sein Glanz sorgen für ästhetischen Schmuck, obwohl selbst der Edelstein genug Wert hat, um die Aufmerksamkeit gefährlicher Landstreicher auf sich zu ziehen.</DankPyon_Sapphire.description>
+	
+	<DankPyon_Ruby.label>Rubin</DankPyon_Ruby.label>
+	<DankPyon_Ruby.description>Der begehrteste Edelstein mit einer Farbe, die so blutig ist wie die Opfer, die die Menschen bringen, um ihn zu erhalten. Kulturen im ganzen Land fühlen sich von dem ästhetisch reichen Edelstein angezogen, der für den Handel, die Schmuckherstellung und sogar zur Präsentation verwendet wird.</DankPyon_Ruby.description>
+
+</LanguageData>

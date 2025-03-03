@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_FeastPeasant.spectatorsLabel>Teilnehmer</DankPyon_FeastPeasant.spectatorsLabel>
+	<DankPyon_FeastPeasant.spectatorGerund>nimmt teil</DankPyon_FeastPeasant.spectatorGerund>
+	
+	<DankPyon_FeastNoble.spectatorsLabel>Teilnehmer</DankPyon_FeastNoble.spectatorsLabel>
+	<DankPyon_FeastNoble.spectatorGerund>nimmt teil</DankPyon_FeastNoble.spectatorGerund>
+</LanguageData>

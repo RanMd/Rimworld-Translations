@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RusticMimic.label>Mimik</DankPyon_RusticMimic.label>
+	<DankPyon_RusticMimic.description>Mimik</DankPyon_RusticMimic.description>
+	
+	<DankPyon_RusticMimic.tools.0.label>linke Seite</DankPyon_RusticMimic.tools.0.label>
+	<DankPyon_RusticMimic.tools.1.label>rechte Seite</DankPyon_RusticMimic.tools.1.label>
+	<DankPyon_RusticMimic.tools.3.label>Deckel</DankPyon_RusticMimic.tools.3.label>
+	<DankPyon_RusticMimic.tools.4.label>Mund</DankPyon_RusticMimic.tools.4.label>
+	
+	<DankPyon_RoyalMimic.label>Königliche Mimik</DankPyon_RusticMimic.label>
+	<DankPyon_RoyalMimic.description>Mimik</DankPyon_RusticMimic.description>
+	
+	<DankPyon_RoyalMimic.tools.0.label>linke Seite</DankPyon_RoyalMimic.tools.0.label>
+	<DankPyon_RoyalMimic.tools.1.label>rechte Seite</DankPyon_RoyalMimic.tools.1.label>
+	<DankPyon_RoyalMimic.tools.3.label>Deckel</DankPyon_RoyalMimic.tools.3.label>
+	<DankPyon_RoyalMimic.tools.4.label>Mund</DankPyon_RoyalMimic.tools.4.label>
+</LanguageData>

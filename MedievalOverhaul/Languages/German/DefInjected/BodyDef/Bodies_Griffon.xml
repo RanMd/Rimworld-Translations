@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_GriffonBody.label>vierfüßiges Tier mit Schwanz und Schnabel</DankPyon_GriffonBody.label>
+	<DankPyon_GriffonBody.corePart.parts.10.customLabel>vorderes linkes Bein</DankPyon_GriffonBody.corePart.parts.10.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.10.parts.0.customLabel>vordere linke Pfote</DankPyon_GriffonBody.corePart.parts.10.parts.0.customLabel>
+
+	<DankPyon_GriffonBody.corePart.parts.11.customLabel>vorderes rechtes Bein</DankPyon_GriffonBody.corePart.parts.11.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.11.parts.0.customLabel>vordere rechte Pfote</DankPyon_GriffonBody.corePart.parts.11.parts.0.customLabel>
+
+	<DankPyon_GriffonBody.corePart.parts.12.customLabel>hinteres linkes Bein</DankPyon_GriffonBody.corePart.parts.12.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.12.parts.0.customLabel>hintere linke Pfote</DankPyon_GriffonBody.corePart.parts.12.parts.0.customLabel>
+
+	<DankPyon_GriffonBody.corePart.parts.13.customLabel>hinteres rechtes Bein</DankPyon_GriffonBody.corePart.parts.13.customLabel>
+	<DankPyon_GriffonBody.corePart.parts.13.parts.0.customLabel>hintere rechte Pfote</DankPyon_GriffonBody.corePart.parts.13.parts.0.customLabel>
+	
+</LanguageData>

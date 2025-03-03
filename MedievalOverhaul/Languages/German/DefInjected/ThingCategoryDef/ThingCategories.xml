@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Condiments.label>Gewürze</DankPyon_Condiments.label>
+	<DankPyon_Hides.label>Felle</DankPyon_Hides.label>
+	<DankPyon_Metallic.label>Metalle</DankPyon_Metallic.label>
+	<DankPyon_RawOres.label>Rohes Erz</DankPyon_RawOres.label>
+	<DankPyon_RawWood.label>Holzstämme</DankPyon_RawWood.label>
+	<DankPyon_Wood.label>Holz</DankPyon_Wood.label>
+	<DankPyon_Handwear.label>Handbekleidung</DankPyon_Handwear.label>
+	<DankPyon_Legwear.label>Beinbekleidung</DankPyon_Legwear.label>
+	
+	<DankPyon_Footwear.label>Schuhwerk</DankPyon_Footwear.label>
+	<DankPyon_Shields.label>Schilde</DankPyon_Shields.label>
+	<DankPyon_NonAlcoholic.label>Alkoholfrei</DankPyon_NonAlcoholic.label>
+	<DankPyon_Milk.label>Milch</DankPyon_Milk.label>
+	<DankPyon_Cheese.label>Käse</DankPyon_Cheese.label>
+	<DankPyon_Flour.label>Mehl</DankPyon_Flour.label>
+	<DankPyon_Treatise.label>Abhandlung</DankPyon_Treatise.label>
+	<DankPyon_Loot.label>Beute</DankPyon_Loot.label>
+	
+	<DankPyon_AlchemyIngredients.label>Beute</DankPyon_AlchemyIngredients.label>
+	<DankPyon_ApparelJewelry.label>Schmuck</DankPyon_ApparelJewelry.label>
+	<DankPyon_BuildingsLoot.label>Polierte Beute</DankPyon_BuildingsLoot.label>
+	<DankPyon_BuildingsBook.label>Bücher</DankPyon_BuildingsBook.label>
+	<DankPyon_TrebuchetAmmo.label>Trebuchet-Munition</DankPyon_TrebuchetAmmo.label>
+	<DankPyon_CorpsesMonsters.label>Monsterleichen</DankPyon_CorpsesMonsters.label>
+	<DankPyon_WeaponsMeleeNamed.label>Besondere Waffen</DankPyon_WeaponsMeleeNamed.label>
+	<DankPyon_GemStones.label>Edelsteine</DankPyon_GemStones.label>
+	<DankPyon_QuestStuff.label>Quest-Sachen</DankPyon_QuestStuff.label>
+	
+</LanguageData>

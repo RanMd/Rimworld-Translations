@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_MakeTimberBase.jobString>Holz aus Baumstämmen sägen.</DankPyon_MakeTimberBase.jobString>
+
+
+	<DankPyon_Make_TimberAny.label>Holz herstellen 2x</DankPyon_Make_TimberAny.label>
+	<DankPyon_Make_TimberAny.description>Rohes Holz in Bauholz schneiden.</DankPyon_Make_TimberAny.description>
+	<DankPyon_Make_TimberAny.jobString>Holz aus rohem Holz schneiden.</DankPyon_Make_TimberAny.jobString>
+	
+	<DankPyon_Make_TimberAny_Bulk.label>Holz herstellen 40x</DankPyon_Make_TimberAny_Bulk.label>
+	<DankPyon_Make_TimberAny_Bulk.description>Rohes Holz in Bauholz schneiden.</DankPyon_Make_TimberAny_Bulk.description>
+	<DankPyon_Make_TimberAny_Bulk.jobString>40 Holz aus rohem Holz schneiden.</DankPyon_Make_TimberAny_Bulk.jobString>
+	
+	<DankPyon_Make_TimberAny_Bulkier.label>Holz herstellen 400x</DankPyon_Make_TimberAny_Bulkier.label>
+	<DankPyon_Make_TimberAny_Bulkier.description>Rohes Holz in Bauholz schneiden.</DankPyon_Make_TimberAny_Bulkier.description>
+	<DankPyon_Make_TimberAny_Bulkier.jobString>Holz aus rohem Holz schneiden.</DankPyon_Make_TimberAny_Bulkier.jobString>
+	
+	<DankPyon_Make_TimberAny_Tribal.label>Beliebiges Holz herstellen</DankPyon_Make_TimberAny_Tribal.label>
+	<DankPyon_Make_TimberAny_Tribal.description>Rohes Holz in Bauholz schneiden.</DankPyon_Make_TimberAny_Tribal.description>
+	<DankPyon_Make_TimberAny_Tribal.jobString>Holz aus rohem Holz schneiden.</DankPyon_Make_TimberAny_Tribal.jobString>
+</LanguageData>

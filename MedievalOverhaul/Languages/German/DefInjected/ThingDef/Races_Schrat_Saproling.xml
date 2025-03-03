@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Schrat_Sapling.label>Schrat-Schössling</DankPyon_Schrat_Sapling.label>
+	<DankPyon_Schrat_Sapling.description>Ein knorriges Gewirr aus Ästen, Wurzeln und Schlamm, grob geformt nach dem Vorbild eines Menschen. Ausgestattet mit einem verdrehten, finsteren Willen schlendern Schrate langsam durch das Unterholz auf der Suche nach den Lebenden. Man sagt, dass Waldschrate das Blut aufdringlicher Holzfäller und übereifriger Jäger genießen.</DankPyon_Schrat_Sapling.description>
+	
+	<DankPyon_Schrat_Sapling.tools.0.label>linke Faust</DankPyon_Schrat_Sapling.tools.0.label>
+	<DankPyon_Schrat_Sapling.tools.1.label>rechte Faust</DankPyon_Schrat_Sapling.tools.1.label>
+	<DankPyon_Schrat_Sapling.tools.2.label>Kopf</DankPyon_Schrat_Sapling.tools.2.label>
+	
+</LanguageData>

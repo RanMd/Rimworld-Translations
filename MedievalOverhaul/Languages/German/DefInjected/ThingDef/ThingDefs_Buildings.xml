@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<EGG_AdvancedWell.label>Brunnen</EGG_AdvancedWell.label>
+	<EGG_AdvancedWell.description>Greift auf das Grundwasser zu, das durch Wasserpumpen gepumpt werden kann. Das Vorhandensein von Abwasser oder anderen Verschmutzungen verringert die Wasserqualität und kann zu Verunreinigungen führen.</EGG_AdvancedWell.description>
+	
+	<DankPyon_LogBoiler.label>Scheitholzkessel</DankPyon_LogBoiler.label>
+	<DankPyon_LogBoiler.description>Produziert 2000 Heizeinheiten für Rohrheizkörper und Warmwasserspeicher. Beheizt den Raum und die angrenzenden Bäder. Benötigt Holzscheite als Brennstoff.</DankPyon_LogBoiler.description>
+	
+	<DankPyon_HotWaterTank.label>Heißwassertank</DankPyon_HotWaterTank.label>
+	<DankPyon_HotWaterTank.description>Speichert fließend heißes Wasser zum Duschen und Baden. Zum Heizen an einen beliebigen Heizkessel anschließen.</DankPyon_HotWaterTank.description>
+	
+	<DankPyon_BurnPit.label>Brenngrube</DankPyon_BurnPit.label>
+	<DankPyon_BurnPit.description>Beseitigt Fäkalienschlamm durch Verbrennung als Brennstoff. Kann auch zur Entsorgung von Leichen oder anderen Abfällen verwendet werden. Kolonisten können krank werden, wenn sie sich zu lange in der Nähe brennender Abfälle aufhalten.</DankPyon_BurnPit.description>
+	
+	<DankPyon_SewageSepticTank.label>Klärgrube</DankPyon_SewageSepticTank.label>
+	<DankPyon_SewageSepticTank.description>Reinigt das Abwasser im Laufe der Zeit langsam. Das Abwasser wird zunächst in Klärgruben geleitet. Wenn die volle Kapazität erreicht ist, wird überschüssiges Abwasser in die Abwasserentsorgung geleitet.</DankPyon_SewageSepticTank.description>
+</LanguageData>

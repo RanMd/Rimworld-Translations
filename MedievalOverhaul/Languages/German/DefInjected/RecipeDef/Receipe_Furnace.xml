@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_ExtractMetalFromScrap.label>Metall aus Schrott schmelzen</DankPyon_ExtractMetalFromScrap.label>
+	<DankPyon_ExtractMetalFromScrap.description>Nutze Hitze und starke Elektromagnete, um nützliches Metall aus Schrott zu extrahieren.</DankPyon_ExtractMetalFromScrap.description>
+	<DankPyon_ExtractMetalFromScrap.jobString>Metall aus Schlacke schmelzen.</DankPyon_ExtractMetalFromScrap.jobString>
+	
+	<DankPyon_Make_Tar.label>Teer aus Holz herstellen x5</DankPyon_Make_Tar.label>
+	<DankPyon_Make_Tar.description>Selle eine Menge Teer her, indem du Holz verbrennst.</DankPyon_Make_Tar.description>
+	<DankPyon_Make_Tar.jobString>10 Holz zu 5 Teer verbrennen.</DankPyon_Make_Tar.jobString>
+	
+	<DankPyon_Make_TarBulk.label>Teer aus Holz herstellen x25</DankPyon_Make_TarBulk.label>
+	<DankPyon_Make_TarBulk.description>Selle eine Menge Teer her, indem du Holz verbrennst.</DankPyon_Make_TarBulk.description>
+	<DankPyon_Make_TarBulk.jobString>50 Holz zu 25 Teer verbrennen.</DankPyon_Make_TarBulk.jobString>
+	
+	<DankPyon_MakeChunk_Coal.label>Holzkohle aus Holz herstellen</DankPyon_MakeChunk_Coal.label>
+	<DankPyon_MakeChunk_Coal.description>Stelle eine Menge Kohle her, indem du Holz verbrennst.</DankPyon_MakeChunk_Coal.description>
+	<DankPyon_MakeChunk_Coal.jobString>Holz zu Kohle verbrennen.</DankPyon_MakeChunk_Coal.jobString>
+	
+	<DankPyon_SmelterBase.description>Verhüttet Roherze zu verwendbaren Barren.</DankPyon_SmelterBase.description>
+	<DankPyon_MakeIngots_Iron.label>1 Eisenerz zu einem Barren schmelzen</DankPyon_MakeIngots_Iron.label>
+	<DankPyon_MakeIngots_Iron.jobString>Ein Eisenerz zu einem Barren schmelzen..</DankPyon_MakeIngots_Iron.jobString>
+	
+	<DankPyon_MakeIngots_IronBulk.label>Eisenerz zu Barren verhütten x30</DankPyon_MakeIngots_IronBulk.label>
+	<DankPyon_MakeIngots_IronBulk.jobString>Schmelzen von Eisenerzen in 30 Barren.</DankPyon_MakeIngots_IronBulk.jobString>
+	
+	<DankPyon_MakeIngots_IronExtraBulk.label>Eisenerz zu Barren verhütten 60</DankPyon_MakeIngots_IronExtraBulk.label>
+	<DankPyon_MakeIngots_IronExtraBulk.jobString>Schmelzen von Eisenerzen in 60 Barren.</DankPyon_MakeIngots_IronExtraBulk.jobString>
+	
+	<DankPyon_MakeIngots_Silver.label>Silbererz zu 1 Barren schmelzen</DankPyon_MakeIngots_Silver.label>
+	<DankPyon_MakeIngots_Silver.jobString>Silbererz zu 1 Barren schmelzen.</DankPyon_MakeIngots_Silver.jobString>
+	
+	<DankPyon_MakeCoins_SilverBulk.label>Silbererz zu Münzen verhütten x30</DankPyon_MakeCoins_SilverBulk.label>
+	<DankPyon_MakeCoins_SilverBulk.jobString>Verhüttung von Silbererzen zu 30 Münzen.</DankPyon_MakeCoins_SilverBulk.jobString>
+	
+	<DankPyon_MakeCoin_SilverExtraBulk.label>Silbererz zu Münzen verhütten x60</DankPyon_MakeCoin_SilverExtraBulk.label>
+	<DankPyon_MakeCoin_SilverExtraBulk.jobString>Verhüttung von Silbererzen zu 60 Münzen.</DankPyon_MakeCoin_SilverExtraBulk.jobString>
+	
+	<DankPyon_MakeIngots_Gold.label>Golderz zu 1 Barren schmelzen</DankPyon_MakeIngots_Gold.label>
+	<DankPyon_MakeIngots_Gold.jobString>Golderz zu 1 Barren schmelzen.</DankPyon_MakeIngots_Gold.jobString>
+	
+	<DankPyon_MakeIngots_GoldBulk.label>Golderz zu Barren schmelzen 30x</DankPyon_MakeIngots_GoldBulk.label>
+	<DankPyon_MakeIngots_GoldBulk.jobString>Golderz zu 30 Barren schmelzen.</DankPyon_MakeIngots_GoldBulk.jobString>
+	
+	<DankPyon_MakeIngots_GoldExtraBulk.label>Golderz zu Barren schmelzen 60</DankPyon_MakeIngots_GoldExtraBulk.label>
+	<DankPyon_MakeIngots_GoldExtraBulk.jobString>Golderz zu 60 Barren schmelzen.</DankPyon_MakeIngots_GoldExtraBulk.jobString>
+	
+	<DankPyon_MakeIngots_Steel.label>Eisenbarren zu 1 Stahlbarren veredeln</DankPyon_MakeIngots_Steel.label>
+	<DankPyon_MakeIngots_Steel.jobString>Veredelung von Eisenbarren in einen Stahlbarren.</DankPyon_MakeIngots_Steel.jobString>
+	
+	<DankPyon_MakeIngots_SteelBulk.label>Eisenbarren zu Stahlbarren veredeln 30x</DankPyon_MakeIngots_SteelBulk.label>
+	<DankPyon_MakeIngots_SteelBulk.jobString>Veredelung von Eisenbarren in 30x Stahlbarren.</DankPyon_MakeIngots_SteelBulk.jobString>
+	
+	<DankPyon_MakeIngots_SteelExtraBulk.label>Eisenbarren zu Stahlbarren veredeln 60x</DankPyon_MakeIngots_SteelExtraBulk.label>
+	<DankPyon_MakeIngots_SteelExtraBulk.jobString>Veredelung von Eisenbarren in 60x Stahlbarren.</DankPyon_MakeIngots_SteelExtraBulk.jobString>
+	
+	<DankPyon_MakeIngots_Plasteel.label>Rohen Plastahl zu 1 Barren veredeln</DankPyon_MakeIngots_Plasteel.label>
+	<DankPyon_MakeIngots_Plasteel.jobString>Veredelung von rohem Plastahl zu einem Plasteel-Barren.</DankPyon_MakeIngots_Plasteel.jobString>
+	
+	<DankPyon_MakeIngots_PlasteelBulk.label>Verfeiner rohen Plastahl zu Barren 30x</DankPyon_MakeIngots_PlasteelBulk.label>
+	<DankPyon_MakeIngots_PlasteelBulk.jobString>Veredelung von rohem Plasteel zu 30x Plastahl-Barren.</DankPyon_MakeIngots_PlasteelBulk.jobString>
+	
+	<DankPyon_MakeIngots_PlasteelExtraBulk.label>Verfeiner rohen Plastahl zu Barren 60x</DankPyon_MakeIngots_PlasteelExtraBulk.label>
+	<DankPyon_MakeIngots_PlasteelExtraBulk.jobString>Veredelung von rohem Plastahl zu 60x Plastahl-Barren.</DankPyon_MakeIngots_PlasteelExtraBulk.jobString>
+</LanguageData>

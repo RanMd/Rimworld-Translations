@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Headgear_WolfTimber.label>Wolfshaube (Timber)</DankPyon_Headgear_WolfTimber.label>
+	<DankPyon_Headgear_WolfTimber.description>Ein warmer, robuster Mantel, genäht aus dem Fell eines Wolfes. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen wilden Wolf getötet hat, um die Trophäe anzulegen.</DankPyon_Headgear_WolfTimber.description>
+	
+	<DankPyon_Headgear_WolfArctic.label>Wolfshaube (Arktik)</DankPyon_Headgear_WolfArctic.label>
+	
+	<DankPyon_Headgear_BearGrizzly.label>Bärenhaube (Grizzly)</DankPyon_Headgear_BearGrizzly.label>
+	<DankPyon_Headgear_BearGrizzly.description>Ein warmer, robuster Mantel, genäht aus dem Fell eines Bären. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen wilden Bären getötet hat, um die Trophäe anzulegen.</DankPyon_Headgear_BearGrizzly.description>
+	
+	<DankPyon_Headgear_BearPolar.label>Bärenhaube (Polar)</DankPyon_Headgear_ArmingCap.label>
+
+
+	<DankPyon_Apparel_DirewolfPelt.label>Schattenwolffell</DankPyon_Apparel_DirewolfPelt.label>
+	<DankPyon_Apparel_DirewolfPelt.description>Ein warmer, robuster Mantel, genäht aus dem Fell eines Schattenwolfs. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen wilden Wolf getötet hat, um die Trophäe anzulegen.</DankPyon_Apparel_DirewolfPelt.description>
+	
+	<DankPyon_Apparel_HyenaPelt.label>Hyänenfell</DankPyon_Apparel_HyenaPelt.label>
+	<DankPyon_Apparel_HyenaPelt.description>Ein warmer, robuster Mantel, genäht aus dem Fell einer Hyäne. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er eine wilde Hyäne getötet hat, um die Trophäe anzulegen. Das Fell schüchtert zwar die Ängstlichen ein, verleiht ihm aber auch Stärke und Selbstvertrauen im Kampf.</DankPyon_Apparel_HyenaPelt.description>
+	
+	<DankPyon_Apparel_LindwurmCloak.label>Lindwurmschuppen-Umhang</DankPyon_Apparel_LindwurmCloak.label>
+	<DankPyon_Apparel_LindwurmCloak.description>Ein schuppiger, robuster Umhang, genäht aus den Schuppen eines Lindwurms. Das Tragen des Umhangs zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen gefährlichen Lindwurm getötet hat, um die Trophäe anzulegen. \n\nGewährt Immunität gegen Lindwurmsäure.</DankPyon_Apparel_LindwurmCloak.description>
+	
+	<DankPyon_Apparel_FurCloak.label>Pelzumhang</DankPyon_Apparel_FurCloak.label>
+	<DankPyon_Apparel_FurCloak.description>Ein warmer, robuster Mantel, genäht aus dickem, festem Fell. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen Unhold getötet hat, um die Trophäe anzulegen. Der Umhang schüchtert zwar die Ängstlichen ein, verleiht ihm aber auch die Fähigkeit, schwere Treffer abzuwehren.</DankPyon_Apparel_FurCloak.description>
+	
+	<DankPyon_Apparel_BonePlating.label>Knochenplattierung</DankPyon_Apparel_BonePlating.label>
+	<DankPyon_Apparel_BonePlating.description>Spezielle Panzerung aus Unhold-Knochen. Der Umhang schüchtert zwar die Ängstlichen ein, verleiht ihm aber auch die Fähigkeit, schwere Treffer abzuwehren.</DankPyon_Apparel_BonePlating.description>
+	
+	<DankPyon_Apparel_AdditionalFurPadding.label>Zusätzliche Fellpolsterung</DankPyon_Apparel_AdditionalFurPadding.label>
+	<DankPyon_Apparel_AdditionalFurPadding.description>Zusätzliche Polsterung aus Unhold-Fell und der Haut eines Schattenwolfs. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen Unhold getötet hat, um die Trophäe anzulegen. Während sie die Ängstlichen einschüchtern, wirken die zusätzlichen Polsterkissen auf den Träger ein.</DankPyon_Apparel_AdditionalFurPadding.description>
+	
+	<DankPyon_Apparel_RunesAndSigils.label>Runen und Siegel</DankPyon_Apparel_RunesAndSigils.label>
+	<DankPyon_Apparel_RunesAndSigils.description>PLATZHALTER.</DankPyon_Apparel_RunesAndSigils.description>		
+	
+</LanguageData>

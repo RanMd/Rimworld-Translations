@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_HideoutWoodLogs1x1c.label>Rohholzstapel</DankPyon_HideoutWoodLogs1x1c.label>
+	<DankPyon_HideoutWoodLogs1x1c.description>Baumstämme, die auf effiziente Weise gestapelt werden, um mehr Platz zu sparen.</DankPyon_HideoutWoodLogs1x1c.description>
+	
+	<DankPyon_HideoutWoodLogs1x2c.label>Rohholz (1x2)</DankPyon_HideoutWoodLogs1x2c.label>
+	<DankPyon_HideoutWoodLogs1x2c.description>Baumstämme, die auf effiziente Weise gestapelt werden, um mehr Platz zu sparen.</DankPyon_HideoutWoodLogs1x2c.description>
+	
+	<DankPyon_HideoutWoodLogs2x2c.label>Rohholz (2x2)</DankPyon_HideoutWoodLogs2x2c.label>
+	<DankPyon_HideoutWoodLogs2x2c.description>Baumstämme, die auf effiziente Weise gestapelt werden, um mehr Platz zu sparen.</DankPyon_HideoutWoodLogs2x2c.description>
+	
+	<DankPyon_HideoutTimber1x1c.label>Holz (1x1)</DankPyon_HideoutTimber1x1c.label>
+	<DankPyon_HideoutTimber1x1c.description>Effizient gestapeltes Holz, um mehr Platz zu sparen.</DankPyon_HideoutTimber1x1c.description>
+	
+	<DankPyon_HideoutTimber1x2c.label>Holz (1x2)</DankPyon_HideoutTimber1x2c.label>
+	<DankPyon_HideoutTimber1x2c.description>Effizient gestapeltes Holz, um mehr Platz zu sparen.</DankPyon_HideoutTimber1x2c.description>
+	
+	<DankPyon_HideoutTimber2x2c.label>Holz (2x2)</DankPyon_HideoutTimber2x2c.label>
+	<DankPyon_HideoutTimber2x2c.description>Effizient gestapeltes Holz, um mehr Platz zu sparen.</DankPyon_HideoutTimber2x2c.description>
+	
+	<DankPyon_HideoutBricks1x1c.label>Ziegel (1x1)</DankPyon_HideoutBricks1x1c.label>
+	<DankPyon_HideoutBricks1x1c.description>Ziegelsteine, die auf effiziente Weise gestapelt werden, um mehr Platz zu sparen.</DankPyon_HideoutBricks1x1c.description>
+	
+	<DankPyon_HideoutBricks1x2c.label>Ziegel (1x2)</DankPyon_HideoutBricks1x2c.label>
+	<DankPyon_HideoutBricks1x2c.description>Ziegelsteine, die auf effiziente Weise gestapelt werden, um mehr Platz zu sparen.</DankPyon_HideoutBricks1x2c.description>
+	
+	<DankPyon_HideoutBricks2x2c.label>Ziegel (2x2)</DankPyon_HideoutBricks2x2c.label>
+	<DankPyon_HideoutBricks2x2c.description>Ziegelsteine, die auf effiziente Weise gestapelt werden, um mehr Platz zu sparen.</DankPyon_HideoutBricks2x2c.description>
+	
+	<DankPyon_HideoutRusticCupboardEmpty.label>Küchenschrank</DankPyon_HideoutRusticCupboardEmpty.label>
+	<DankPyon_HideoutRusticCupboardEmpty.description>Ein offener Schrank zur effizienten Aufbewahrung und Präsentation von Gegenständen.</DankPyon_HideoutRusticCupboardEmpty.description>
+	
+	<DankPyon_HideoutRusticCupboardBread.label>Brotschrank</DankPyon_HideoutRusticCupboardBread.label>
+	<DankPyon_HideoutRusticCupboardBread.description>Ein offener Schrank zur effizienten Aufbewahrung und Präsentation von Gegenständen.</DankPyon_HideoutRusticCupboardBread.description>
+	
+	<DankPyon_HideoutRusticCupboardCheese.label>Käseschrank</DankPyon_HideoutRusticCupboardCheese.label>
+	<DankPyon_HideoutRusticCupboardCheese.description>Ein offener Schrank zur effizienten Aufbewahrung und Präsentation von Gegenständen.</DankPyon_HideoutRusticCupboardCheese.description>
+	
+	
+	<DankPyon_HideoutRusticCupboardWine.label>Weinschrank</DankPyon_HideoutRusticCupboardWine.label>
+	<DankPyon_HideoutRusticCupboardWine.description>Ein offener Schrank zur effizienten Aufbewahrung und Präsentation von Gegenständen.</DankPyon_HideoutRusticCupboardWine.description>
+		
+	<DankPyon_HideoutRusticBarrelBigClosed.label>Großes Fass</DankPyon_HideoutRusticBarrelBigClosed.label>
+	<DankPyon_HideoutRusticBarrelBigClosed.description>Ein zylindrisches Fass zur allgemeinen Aufbewahrung. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutRusticBarrelBigClosed.description>
+	
+	<DankPyon_HideoutRusticBarrelBigGrape.label>Großes Traubenfass</DankPyon_HideoutRusticBarrelBigGrape.label>
+	<DankPyon_HideoutRusticBarrelBigGrape.description>Ein zylindrisches Fass zur allgemeinen Aufbewahrung. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutRusticBarrelBigGrape.description>
+	
+
+	<DankPyon_HideoutRusticBarrelBigClosedDown.label>Großes Weinmostfass</DankPyon_HideoutRusticBarrelBigClosedDown.label>
+	<DankPyon_HideoutRusticBarrelBigClosedDown.description>Ein zylindrisches Fass zur allgemeinen Aufbewahrung. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutRusticBarrelBigClosedDown.description>
+	
+	<DankPyon_HideoutRusticBarrelStack.label>Fassregal</DankPyon_HideoutRusticBarrelStack.label>
+	<DankPyon_HideoutRusticBarrelStack.description>Ein zylindrisches Fass zur allgemeinen Aufbewahrung. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutRusticBarrelStack.description>
+	
+	<DankPyon_HideoutRusticBarrelClosed.label>Fass</DankPyon_HideoutRusticBarrelClosed.label>
+	<DankPyon_HideoutRusticBarrelClosed.description>Ein zylindrisches Fass zur allgemeinen Aufbewahrung. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutRusticBarrelClosed.description>
+	
+	<DankPyon_HideOutBarrelBase.description>Ein zylindrisches Fass, das aus Platzgründen für Holzerz reserviert ist. Kann bis zu 4 Stapel aufnehmen. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideOutBarrelBase.description>
+	
+	<DankPyon_HideoutBarrelWoodLog.label>Fass mit Holz</DankPyon_HideoutBarrelWoodLog.label>	
+	<DankPyon_HideoutBarrelIronOre.label>Fass mit Eisenerz</DankPyon_HideoutBarrelIronOre.label>
+	<DankPyon_HideoutBarrelSilverOre.label>Fass mit Silbererz</DankPyon_HideoutBarrelSilverOre.label>	
+	<DankPyon_HideoutBarrelGoldOre.label>Fass mit Golderz</DankPyon_HideoutBarrelGoldOre.label>
+	<DankPyon_HideoutBarrelCoalOre.label>Fass mit Kohlenerz</DankPyon_HideoutBarrelCoalOre.label>	
+	<DankPyon_HideoutBarrelTextiles.label>Fass mit Textilien</DankPyon_HideoutBarrelTextiles.label>
+	<DankPyon_HideoutBarrelLeather.label>Fass mit Leder</DankPyon_HideoutBarrelLeather.label>	
+	<DankPyon_HideoutBarrelLeather.description>Ein zylindrisches Fass, das aus Platzgründen für Eisenerz reserviert ist. Kann bis zu 5 Stapel Eisenerz aufnehmen. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutBarrelLeather.description>
+	
+
+	<DankPyon_HideoutBarrelComponentBasic.label>Fass mit Grundkomponente</DankPyon_HideoutBarrelComponentBasic.label>
+	<DankPyon_HideoutBarrelGrape.label>Fass mit Trauben</DankPyon_HideoutBarrelGrape.label>
+	
+	<DankPyon_HideoutLargeShelfBase.description>Eine große quadratische Plattform zum Aufbewahren von Gegenständen, damit diese sauber und vom Boden ferngehalten werden.</DankPyon_HideoutLargeShelfBase.description>
+	<DankPyon_HideoutLargeShelfEmpty.label>Großes leeres Regal</DankPyon_HideoutLargeShelfEmpty.label>	
+	<DankPyon_HideoutLargeShelf_Bread.label>Großes Brotregal</DankPyon_HideoutLargeShelf_Bread.label>
+	<DankPyon_HideoutLargeShelf_Grain.label>Großes Getreideregal</DankPyon_HideoutLargeShelf_Grain.label>	
+	<DankPyon_HideoutLargeShelf_Meats.label>Großes Fleischregal</DankPyon_HideoutLargeShelf_Meats.label>
+	<DankPyon_HideoutLargeShelf_Cheese.label>Großes Käseregal</DankPyon_HideoutLargeShelf_Cheese.label>	
+	<DankPyon_HideoutLargeShelf_Wine.label>Großes Weinregal</DankPyon_HideoutLargeShelf_Wine.label>
+	<DankPyon_HideoutLargeShelf_Mead.label>Großes Metregal</DankPyon_HideoutLargeShelf_Mead.label>	
+	<DankPyon_HideoutLargeShelf_Vegetables.label>Großes Gemüseregal</DankPyon_HideoutLargeShelf_Vegetables.label>
+	
+	<DankPyon_HideoutSackBase.description>Eine robuste Stofftasche zur effizienteren Aufbewahrung von Gegenständen.</DankPyon_HideoutSackBase.description>	
+	<DankPyon_HideoutSackClosed.label>Geschlossener Sack</DankPyon_HideoutSackClosed.label>	
+	<DankPyon_HideoutSackFlour.label>Mehlsack</DankPyon_HideoutSackFlour.label>
+	<DankPyon_HideoutSackWheat.label>Weizensack</DankPyon_HideoutSackWheat.label>	
+	<DankPyon_HideoutSackPotato.label>Kartoffelsack</DankPyon_HideoutSackPotato.label>
+	<DankPyon_HideoutSackApple.label>Apfelsack</DankPyon_HideoutSackApple.label>
+	
+	<DankPyon_HideoutCrate1x1c.label>Kiste (1x1)</DankPyon_HideoutCrate1x1c.label>
+	gtfzhh<DankPyon_HideoutCrate1x1c.description>Eine Holzkiste aus Brettern zur Aufbewahrung von Ressourcen. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutCrate1x1c.description>	
+	<DankPyon_HideoutCrate1x2c.label>Kiste (1x2)</DankPyon_HideoutCrate1x2c.label>
+	<DankPyon_HideoutCrate1x2c.description>Eine Holzkiste aus Brettern zur Aufbewahrung von Ressourcen. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutCrate1x2c.description>	
+	
+	<DankPyon_HideOutBuildingBaseRackBase.description>Ein Regal zur Aufbewahrung verschiedener Gegenstände. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideOutBuildingBaseRackBase.description>
+	
+	<DankPyon_HideoutRackEmpty.label>Leerer Ständer</DankPyon_HideoutRackEmpty.label>	
+	<DankPyon_HideoutRackSword.label>Schwertständer</DankPyon_HideoutRackSword.label>
+	<DankPyon_HideoutRackSpear.label>Speerständer</DankPyon_HideoutRackSpear.label>
+	<DankPyon_HideoutRackMixed.label>Waffenständer</DankPyon_HideoutRackMixed.label>	
+	
+	<DankPyon_HideoutShelfBase.description>Ein Regal zur Aufbewahrung verschiedener Gegenstände. Darin aufbewahrte Gegenstände beeinträchtigen nicht die Schönheit des Raumes und verschlechtern sich auch im Freien nicht.</DankPyon_HideoutShelfBase.description>
+	<DankPyon_HideoutShelfEmpty.label>Leeres Regal</DankPyon_HideoutShelfEmpty.label>	
+	<DankPyon_HideoutShelfFilledEmerald.label>Regal mit Smaragden</DankPyon_HideoutShelfFilledEmerald.label>
+	<DankPyon_HideoutShelfFilledSapphire.label>Regal mit Saphiren</DankPyon_HideoutShelfFilledSapphire.label>
+	<DankPyon_HideoutShelfFilledRuby.label>Regal mit Rubinen</DankPyon_HideoutShelfFilledRuby.label>	
+	<DankPyon_HideoutShelfFilledSilverware.label>Regal mit Silberware</DankPyon_HideoutShelfFilledSilverware.label>
+	<DankPyon_HideoutShelfFilledGoldware.label>Regal mit Goldware</DankPyon_HideoutShelfFilledGoldware.label>
+	<DankPyon_HideoutShelfFilledChaliceSilver.label>Regal mit Silberkelchen</DankPyon_HideoutShelfFilledChaliceSilver.label>
+	<DankPyon_HideoutShelfFilledWine.label>Regal mit Wein</DankPyon_HideoutShelfFilledWine.label>
+	<DankPyon_HideoutShelfFilledFood.label>Regal mit Lebensmitteln</DankPyon_HideoutShelfFilledFood.label>
+	<DankPyon_HideoutShelfFilledIngot.label>Regal mit Barren</DankPyon_HideoutShelfFilledIngot.label>
+	<DankPyon_HideoutShelfFilledBook.label>Regal mit Büchern</DankPyon_HideoutShelfFilledBook.label>
+		
+	<DankPyon_HideoutStrawPile.label>Strohhaufen</DankPyon_HideoutStrawPile.label>
+	<DankPyon_HideoutStrawPile.description>Warum liegt hier Stroh?</DankPyon_HideoutStrawPile.description>
+
+	<DankPyon_HideoutCartBase.description>Ein zuverlässiger Wagen, der Neuheiten, Artefakte und Waren durch die unbarmherzigen Randgebiete transportiert. Kann zur Aufbewahrung von Gegenständen verwendet werden.</DankPyon_HideoutCartBase.description>
+	
+	<DankPyon_HideOutBuildingBase_Cart_Empty.label>Leerer Wagen</DankPyon_HideOutBuildingBase_Cart_Empty.label>
+	<DankPyon_HideOutBuildingBase_Cart_Assorted.label>Sortierter Wagen</DankPyon_HideOutBuildingBase_Cart_Assorted.label>
+		
+	<DankPyon_HideOutBuildingBase_Cart_Ore.label>Erzwagen</DankPyon_HideOutBuildingBase_Cart_Ore.label>
+	<DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>Wagen mit rohen Pflanzen</DankPyon_HideOutBuildingBase_Cart_PlantRaw.label>
+	
+	<DankPyon_HideOutBuildingBase_Cart_Textiles.label>Wagen mit Textilien</DankPyon_HideOutBuildingBase_Cart_Textiles.label>
+	<DankPyon_HideOutBuildingBase_Cart_RawWood.label>Rohholzwagen</DankPyon_HideOutBuildingBase_Cart_RawWood.label>
+	
+	<DankPyon_Hideout_RusticChest.label>Rustikale Truhe</DankPyon_Hideout_RusticChest.label>
+	<DankPyon_Hideout_RusticChest.description>Eine Truhe zur Aufbewahrung von Schätzen und Müll.</DankPyon_Hideout_RusticChest.description>
+	
+	<DankPyon_Hideout_RoyalChest.label>Königliche Truhe</DankPyon_Hideout_RoyalChest.label>
+	<DankPyon_Hideout_RoyalChest.description>Eine Truhe zur Aufbewahrung von Schätzen und Müll.</DankPyon_Hideout_RoyalChest.description>
+		
+	<DankPyon_LootableTornNote_Hideout.label>Zerrissene Notiz</DankPyon_LootableTornNote_Hideout.label>
+	<DankPyon_LootableTornNote_Hideout.description>Zerrissene Notitz für den Erkundungstisch.</DankPyon_LootableTornNote_Hideout.description>
+	
+	<DankPyon_HideoutBook.label>Ein seltsames Buch</DankPyon_HideoutBook.label>
+	<DankPyon_HideoutBook.description>Bei näherer Betrachtung scheint dieses Buch ziemlich alt zu sein. Der Einband besteht aus rauem, abgenutztem Leder und der Rücken wird durch eine Reihe komplizierter Messingverschlüsse zusammengehalten. Die darin enthaltenen Seiten sind vom Alter vergilbt und voller seltsamer Symbole und geheimnisvoller Diagramme. Bei näherer Betrachtung wird deutlich, dass dieses Buch eine Sammlung von Forschungsplänen für Kochrezepte für Fortgeschrittene, Militärwaffen wie Klingen, Streitkolben und Stangenwaffen sowie leichte Armbrüste enthält. Es ist unklar, wer es geschrieben hat und zu welchem ​​Zweck, aber eines ist sicher: Dieses Buch birgt Geheimnisse, die im Laufe der Zeit verloren gegangen sind, und könnte für diejenigen von großem Nutzen sein, die seine Geheimnisse lüften wollen.</DankPyon_HideoutBook.description>
+	
+	<DankPyon_HideoutBook_2T.label>Der antike Wälzer der Materialkunst</DankPyon_HideoutBook_2T.label>
+	<DankPyon_HideoutBook_2T.description>Dieser antike Wälzer ist in Leder gebunden und der Buchrücken wird durch Messingverschlüsse zusammengehalten. Seine Seiten sind vom Alter vergilbt und voller komplizierter Diagramme und seltsamer Symbole. Bei näherer Betrachtung wird deutlich, dass dieses Buch eine Fülle von Wissen über fortgeschrittene Materialverarbeitungstechniken enthält, einschließlich der Herstellung von Stahl, Teer und Schießpulver. Es ist unklar, wer es geschrieben hat oder warum, aber eines ist sicher: Dieses Buch birgt Geheimnisse, die der Zeit verloren gegangen sind und für diejenigen, die sein Wissen erschließen wollen, von großem Wert sein könnten.</DankPyon_HideoutBook_2T.description>
+	
+	<DankPyon_HideoutBook_3T.label>Der antike Wälzer über Krieg, Verteidigung und köstliches Essen</DankPyon_HideoutBook_3T.label>
+	<DankPyon_HideoutBook_3T.description>Dieser alte Wälzer ist in feinstes Leder gebunden und der Buchrücken wird von komplizierten goldenen Verschlüssen zusammengehalten. Die Seiten sind gestochen scharf und gut erhalten, gefüllt mit detaillierten Diagrammen und alter Schrift. Bei näherer Betrachtung wird deutlich, dass dieses Buch eine Fülle von Wissen über die Herstellung edler Waffen wie Klingen, Streitkolben, Stangenwaffen und schwere Armbrüste enthält. Es enthält auch Informationen zum Einsatz von Armbrüsten für Verteidigungsanlagen sowie die Geheimnisse zur Herstellung der saftigsten Lebensmittel, die man sich vorstellen kann. Es ist unklar, wer es geschrieben hat und warum, aber es ist sicher, dass dieses Buch das wertvollste seiner Art ist und für diejenigen, die seine Geheimnisse lüften wollen, von großem Nutzen sein könnte.</DankPyon_HideoutBook_3T.description>
+
+</LanguageData>

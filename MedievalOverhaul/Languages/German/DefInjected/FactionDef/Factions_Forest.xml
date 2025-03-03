@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Forest_Faction.pawnSingular>Baum</DankPyon_Forest_Faction.pawnSingular>
+	<DankPyon_Forest_Faction.pawnsPlural>Bäume</DankPyon_Forest_Faction.pawnsPlural>
+	<DankPyon_Forest_Faction.fixedName>Kreaturen des Waldes</DankPyon_Forest_Faction.fixedName>
+	
+	<DankPyon_Forest_Faction.label>Der Wald</DankPyon_Forest_Faction.label>
+	<DankPyon_Forest_Faction.description>Monster und unmenschliche Kreaturen, die in den Tiefen des Waldes leben. Bekannt dafür, wahllos Menschen zu jagen und dennoch friedlich Tiere der Natur zu beherbergen.</DankPyon_Forest_Faction.description>
+	
+	<DankPyon_Witch_Faction.pawnSingular>Baum</DankPyon_Witch_Faction.pawnSingular>
+	<DankPyon_Witch_Faction.pawnsPlural>Bäume</DankPyon_Witch_Faction.pawnsPlural>
+	<DankPyon_Witch_Faction.fixedName>Verzauberte Hexen</DankPyon_Witch_Faction.fixedName>
+	
+	<DankPyon_Witch_Faction.label>Verzauberte Hexen</DankPyon_Witch_Faction.label>
+	<DankPyon_Witch_Faction.description>Monster und unmenschliche Kreaturen, die in den Tiefen des Waldes leben. Bekannt dafür, wahllos Menschen zu jagen und dennoch friedlich Tiere der Natur zu beherbergen.</DankPyon_Witch_Faction.description>
+</LanguageData>

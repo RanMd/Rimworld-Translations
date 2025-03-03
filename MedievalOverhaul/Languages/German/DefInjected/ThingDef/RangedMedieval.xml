@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Crossbow.label>Armbrust</DankPyon_Crossbow.label>
+	<DankPyon_Crossbow.description>Eine Waffe zum Abfeuern von Projektilen, die, ähnlich wie der Bogen, auf einer zur Spannung zurückgezogenen Sehne beruht und beim Loslassen ein Projektil antreibt. Allerdings ermöglicht die Armbrust dem Träger, dank des Verriegelungsmechanismus der Armbrust, den Zug aufrechtzuerhalten, wodurch die Fernkampfwaffe sowohl für Anfänger zugänglich ist, als auch im Kampf kraftvoll ist.</DankPyon_Crossbow.description>
+	
+	<DankPyon_Arrow_Crossbow.label>Armbrustbolzen</DankPyon_Arrow_Crossbow.label>
+	
+	<DankPyon_CrossbowHeavy.label>Arbalest</DankPyon_CrossbowHeavy.label>
+	<DankPyon_CrossbowHeavy.description>Obwohl die schwere Armbrust umständlich zu tragen ist, kann sie schweren Schaden anrichten und gepanzerte Gegner durchbohren. Größere Reichweite und höherer Schaden als die Armbrust, aber das Nachladen dauert länger. Dies macht die schwere Armbrust zu einer beeindruckenden Verteidigungswaffe und ist ansonsten in einer Gruppe am effektivsten.</DankPyon_CrossbowHeavy.description>
+	
+	<DankPyon_Arrow_CrossbowHeavy.label>Armbrustbolzen</DankPyon_Arrow_CrossbowHeavy.label>
+
+
+	<DankPyon_Handgonne.label>Handkanone</DankPyon_Handgonne.label>
+	<DankPyon_Handgonne.description>Der Krieg verändert sich, als die Handkanone das Feld betreten; Durch Pulver und Zündung feuern Krieger heiße Schrapnelle nach vorne, um mehrere Ziele zu durchbohren. Der lange Griff und der schwere Lauf erschweren das Tragen der Waffe, aber ein geschickter Schuss kann im Handumdrehen das Blatt wenden.</DankPyon_Handgonne.description>
+	
+	<DankPyon_Bullet_Handgonne.label>Handkanonen-Explosion</DankPyon_Bullet_Handgonne.label>		
+	
+</LanguageData>

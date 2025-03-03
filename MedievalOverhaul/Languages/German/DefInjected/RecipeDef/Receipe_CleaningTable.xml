@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_CleanLoot_ChaliceSilver.label>Silberneren Kelch reinigen</DankPyon_CleanLoot_ChaliceSilver.label>
+	<DankPyon_CleanLoot_ChaliceSilver.jobString>Silberkelch reinigen.</DankPyon_CleanLoot_ChaliceSilver.jobString>
+	
+	<DankPyon_CleanLoot_ChaliceGold.label>Goldenen Kelch reinigen</DankPyon_CleanLoot_ChaliceGold.label>
+	<DankPyon_CleanLoot_ChaliceGold.jobString>Goldkelch reinigen.</DankPyon_CleanLoot_ChaliceGold.jobString>
+	
+	<DankPyon_CleanLoot_BowlSilver.label>Silberne Schale reinigen</DankPyon_CleanLoot_BowlSilver.label>
+	<DankPyon_CleanLoot_BowlSilver.jobString>Silberschale reinigen.</DankPyon_CleanLoot_BowlSilver.jobString>
+	
+	<DankPyon_CleanLoot_BowlGold.label>Goldene Schale reinigen</DankPyon_CleanLoot_BowlGold.label>
+	<DankPyon_CleanLoot_BowlGold.jobString>Goldschale reinigen.</DankPyon_CleanLoot_BowlGold.jobString>
+	
+	<DankPyon_CleanLoot_SkullGold.label>Goldenen Schädel reinigen</DankPyon_CleanLoot_SkullGold.label>
+	<DankPyon_CleanLoot_SkullGold.jobString>Goldschädel reinigen.</DankPyon_CleanLoot_SkullGold.jobString>
+	
+	<DankPyon_CleanLoot_SkullEmerald.label>Smaragdschädel reinigen</DankPyon_CleanLoot_SkullEmerald.label>
+	<DankPyon_CleanLoot_SkullEmerald.jobString>Smaragdschädel reinigen.</DankPyon_CleanLoot_SkullEmerald.jobString>
+	
+	<DankPyon_CleanLoot_SkullSapphire.label>Saphirschädel reinigen</DankPyon_CleanLoot_SkullSapphire.label>
+	<DankPyon_CleanLoot_SkullSapphire.jobString>Saphirschädel reinigen.</DankPyon_CleanLoot_SkullSapphire.jobString>
+	
+	<DankPyon_CleanLoot_SkullRuby.label>Rubinschädel reinigen</DankPyon_CleanLoot_SkullRuby.label>
+	<DankPyon_CleanLoot_SkullRuby.jobString>Rubinschädel reinigen.</DankPyon_CleanLoot_SkullRuby.jobString>
+</LanguageData>

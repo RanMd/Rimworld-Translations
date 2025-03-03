@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_SchratHeart.label>Herz des Waldes</DankPyon_SchratHeart.label>
+	<DankPyon_SchratHeart.description>Eine Sphäre voller Lebensenergie, die noch immer einige sich windende Ranken nährt. Seine Pulsfrequenz erhöht sich, wenn er in der Hand gehalten wird, und entzieht dem Glied gierig Wärme. Ein wichtiger Bestandteil zahlreicher okkulter Rituale, sicherlich ein wertvoller Besitz.</DankPyon_SchratHeart.description>
+	
+	<DankPyon_AncientWood.label>Uraltes Holz</DankPyon_AncientWood.label>
+	<DankPyon_AncientWood.description>Ein dunkler Eichenwald, so uralt wie die Zeit. Das Holz ist bekannt für seine Festigkeit und Widerstandsfähigkeit gegenüber physischen Schlägen. Ein perfektes Material für einen Schild.</DankPyon_AncientWood.description>
+
+	<DankPyon_GlowingResin.label>Leuchtendes Harz</DankPyon_GlowingResin.label>
+	<DankPyon_GlowingResin.description>Hell im Kielwasser und doch reich an Farbtönen. Ein glamouröses Juwel, das die tiefen Farben des Waldes erstrahlt. Es dient als Zutat für Tränke und andere formelhafte Verfahren.</DankPyon_GlowingResin.description>
+	
+	
+	<DankPyon_UnholdBones.label>Riesige Knochen</DankPyon_UnholdBones.label>
+	<DankPyon_UnholdBones.description>Riesige Überreste widerwärtiger Unholde, die eine Aura ursprünglicher Macht und Intrigen ausstrahlen und wegen ihrer immensen Größe und physischen Widerstandsfähigkeit begehrt sind.</DankPyon_UnholdBones.description>
+	
+	<DankPyon_ThickUnholdFur.label>Dickes Fell</DankPyon_ThickUnholdFur.label>
+	<DankPyon_ThickUnholdFur.description>Robuste Häute von beeindruckender Natur, bekannt für ihre Dicke und Wetterfestigkeit, begehrt für die Herstellung widerstandsfähiger Kleidungsstücke und Schutzausrüstung.</DankPyon_ThickUnholdFur.description>
+
+	<DankPyon_UnholdHide.label>Unholdfell</DankPyon_UnholdHide.label>
+	<DankPyon_UnholdHide.description>PLATZHALTER.</DankPyon_UnholdHide.description>
+	
+	
+	<DankPyon_UnholdHeart.label>Unholdherz</DankPyon_UnholdHeart.label>
+	<DankPyon_UnholdHeart.description>Das schlagende Herz des furchterregenden Unholds, pulsierend mit Urkraft und uralter Lebenskraft, gilt als Schlüsselzutat für die Herstellung von Ausdauerelixieren.</DankPyon_UnholdHeart.description>
+	
+	<DankPyon_TrollHeart.label>Blaues Herz</DankPyon_TrollHeart.label>
+	<DankPyon_TrollHeart.description>PLATZHALTER.</DankPyon_TrollHeart.description>
+
+	<DankPyon_Gossamer.label>Hauchdünn</DankPyon_Gossamer.label>
+	<DankPyon_Gossamer.description>PLATZHALTER.</DankPyon_Gossamer.description>
+	
+	
+	<DankPyon_PoisonGland.label>Giftdrüse</DankPyon_PoisonGland.label>
+	<DankPyon_PoisonGland.description>PLATZHALTER.</DankPyon_PoisonGland.description>
+	
+	<DankPyon_RedbackPoisonGland.label>Rotrückengiftdrüse</DankPyon_RedbackPoisonGland.label>
+	<DankPyon_RedbackPoisonGland.description>PLATZHALTER.</DankPyon_RedbackPoisonGland.description>
+
+	<DankPyon_LindwurmBlood.label>Lindwurmblut</DankPyon_LindwurmBlood.label>
+	<DankPyon_LindwurmBlood.description>Das saure Blut eines Lindwurms, sorgfältig in Glas konserviert. Es ist von Natur aus stark ätzend und kann Plattenpanzerung innerhalb von Sekunden durchschmelzen. Aufgrund seiner Angriffsfähigkeiten ist es bei Alchemisten und Jägern sehr begehrt.</DankPyon_LindwurmBlood.description>
+	
+	<DankPyon_LindwurmBones.label>Lindwurmknochen</DankPyon_LindwurmBones.label>
+	<DankPyon_LindwurmBones.description>PLATZHALTER.</DankPyon_LindwurmBones.description>
+	
+	<DankPyon_LindwurmScales.label>Lindwurmschuppen</DankPyon_LindwurmScales.label>
+	<DankPyon_LindwurmScales.description>PLATZHALTER.</DankPyon_LindwurmScales.description>
+
+	<DankPyon_NachHorns.label>Ghulhorn</DankPyon_NachHorns.label>
+	<DankPyon_NachHorns.description>PLATZHALTER.</DankPyon_NachHorns.description>
+	
+	<DankPyon_ParchedSkin.label>Ausgetrocknete Haut</DankPyon_ParchedSkin.label>
+	<DankPyon_ParchedSkin.description>PLATZHALTER.</DankPyon_ParchedSkin.description>
+
+	<DankPyon_PetrifiedScream.label>Versteinerter Schrei</DankPyon_PetrifiedScream.label>
+	<DankPyon_PetrifiedScream.description>PLATZHALTER.</DankPyon_PetrifiedScream.description>
+
+	<DankPyon_ThirdEye.label>Drittes Auge</DankPyon_ThirdEye.label>
+	<DankPyon_ThirdEye.description>PLATZHALTER.</DankPyon_ThirdEye.description>
+	
+	<DankPyon_AdrenalineGland.label>Adrenalindrüse</DankPyon_AdrenalineGland.label>
+	<DankPyon_AdrenalineGland.description>PLATZHALTER.</DankPyon_AdrenalineGland.description>
+</LanguageData>

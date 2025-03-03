@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Building_ChaliceSilver.label>Silberner Kelch</DankPyon_Building_ChaliceSilver.label>
+	<DankPyon_Building_ChaliceGold.label>Goldener Kelch</DankPyon_Building_ChaliceGold.label>
+	
+	<DankPyon_Building_BowlSilver.label>Silberne Schale</DankPyon_Building_BowlSilver.label>
+	<DankPyon_Building_BowlGold.label>Goldene Schale</DankPyon_Building_BowlGold.label>
+	
+	<DankPyon_Building_SkullGold.label>Goldener Schädel</DankPyon_Building_SkullGold.label>
+	<DankPyon_Building_SkullEmerald.label>Smaragdschädel</DankPyon_Building_SkullEmerald.label>
+	
+	<DankPyon_Building_SkullSapphire.label>Saphirschädel</DankPyon_Building_SkullSapphire.label>
+	<DankPyon_Building_SkullRuby.label>Rubinschädel</DankPyon_Building_SkullRuby.label>
+	
+	<DankPyon_Building_AncientCodex.label>Uralter Kodex</DankPyon_Building_AncientCodex.label>
+</LanguageData>

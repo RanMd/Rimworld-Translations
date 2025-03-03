@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_RoxHorn.label>Rox Horn</DankPyon_RoxHorn.label>
+	<DankPyon_RoxHorn.description>Ein Rox-Horn. Es ist schwer, langlebig und wertvoll. Es ist zu sperrig, um als Waffe verwendet zu werden.</DankPyon_RoxHorn.description>
+	
+	<!--=============== Daer Antler ====================-->
+	<DankPyon_DaerAntler.label>Daer Geweih</DankPyon_DaerAntler.label>
+	<DankPyon_DaerAntler.description>Das Geweih eines Daers. Es ist schwer, steinhart und auf den meisten Märkten unbezahlbar. Dies ist eine wahre Trophäe, die jedem, der sie betrachtet, Ehrfurcht einflößt.</DankPyon_DaerAntler.description>
+
+	<!--=============== Dire Boar Tusk ====================-->	
+	<DankPyon_DireBoarTusk.label>Schreckenseber Stroßzahn</DankPyon_DireBoarTusk.label>
+	<DankPyon_DireBoarTusk.description>Der Stoßzahn eines schrecklichen Ebers. Es ist sehr langlebig und wertvoll. Obwohl er als Nahkampfwaffe etwas unhandlich ist, kann er dennoch tödlich sein.</DankPyon_DireBoarTusk.description>
+</LanguageData>

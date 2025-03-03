@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_UnholdPlain.label>Unhold</DankPyon_UnholdPlain.label>
+	<DankPyon_UnholdPlain.lifeStages.0.label>Unholdbaby</DankPyon_UnholdPlain.lifeStages.0.label>
+	<DankPyon_UnholdPlain.lifeStages.0.labelPlural>Unholdbabies</DankPyon_UnholdPlain.lifeStages.0.labelPlural>
+	
+	<DankPyon_UnholdSwamp.label>Unhold</DankPyon_UnholdSwamp.label>
+	<DankPyon_UnholdSwamp.lifeStages.0.label>Unholdbaby</DankPyon_UnholdSwamp.lifeStages.0.label>
+	<DankPyon_UnholdSwamp.lifeStages.0.labelPlural>Unholdbabies</DankPyon_UnholdSwamp.lifeStages.0.labelPlural>
+	
+	<DankPyon_UnholdSnow.label>Unhold</DankPyon_UnholdSnow.label>
+	<DankPyon_UnholdSnow.lifeStages.0.label>Unholdbaby</DankPyon_UnholdSnow.lifeStages.0.label>
+	<DankPyon_UnholdSnow.lifeStages.0.labelPlural>Unholdbabies</DankPyon_UnholdSnow.lifeStages.0.labelPlural>
+
+</LanguageData>

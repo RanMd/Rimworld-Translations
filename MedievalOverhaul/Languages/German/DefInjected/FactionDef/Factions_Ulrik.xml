@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_UlrikFactionBase.pawnSingular>Ritter von Ulrik</DankPyon_UlrikFactionBase.pawnSingular>
+	<DankPyon_UlrikFactionBase.pawnsPlural>Ritter von Ulrik</DankPyon_UlrikFactionBase.pawnsPlural>
+	<DankPyon_UlrikFactionBase.leaderTitle>Grossmeister</DankPyon_UlrikFactionBase.leaderTitle>
+	
+	<DankPyon_UlrikFaction.label>Ritter von Ulrik</DankPyon_UlrikFaction.label>
+	<DankPyon_UlrikFaction.description>Plünderer und Ausbeuter, die Gesetze sind nichts für sie. Es kommt häufig vor, dass Räuber mit bösen Absichten in nahegelegene Siedlungen eindringen.</DankPyon_UlrikFaction.description>
+
+</LanguageData>

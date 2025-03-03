@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Shield.label>Rundschild</DankPyon_Shield.label>
+	<DankPyon_Shield.description>Ein runder Schild bietet gute Abdeckung und Schutz vor physischen Schlägen.</DankPyon_Shield.description>
+	
+	<DankPyon_ShieldKite.label>Drachenschild</DankPyon_ShieldKite.label>
+	<DankPyon_ShieldKite.description>Ein länglicher Schild, der einen großen Schutzbereich bietet. Etwas sperrig für den Nahkampf.</DankPyon_ShieldKite.description>
+	
+	<DankPyon_ShieldHeater.label>Dreiecksschild</DankPyon_ShieldHeater.label>
+	<DankPyon_ShieldHeater.description>Ein leichter dreieckiger Holzschild.</DankPyon_ShieldHeater.description>
+	
+	<DankPyon_ShieldHeaterBase.label>Dreiecksschild</DankPyon_ShieldHeaterBase.label>
+	<DankPyon_ShieldHeaterBase.description>Ein leichter dreieckiger Holzschild.</DankPyon_ShieldHeaterBase.description>
+
+
+	<DankPyon_ShieldHeater_Amboise.label>Dreiecksschild (Amboise)</DankPyon_ShieldHeater_Amboise.label>
+	<DankPyon_ShieldHeater_Soren.label>Dreiecksschild (Soren)</DankPyon_ShieldHeater_Soren.label>
+	<DankPyon_ShieldHeater_Oswin.label>Dreiecksschild (Oswin)</DankPyon_ShieldHeater_Oswin.label>
+	<DankPyon_ShieldHeater_Hesse.label>Dreiecksschild (Hesse)</DankPyon_ShieldHeater_Hesse.label>
+	
+	<DankPyon_ShieldLiving.label>Lebender Baumschild</DankPyon_ShieldLiving.label>
+	<DankPyon_ShieldLiving.description>Ein aus den Überresten eines lebenden Baumes geschnitzter Schild lässt alle erlittenen Schäden langsam nachwachsen. \n\Regeneriert die Haltbarkeit über einen bestimmten Zeitraum.</DankPyon_ShieldLiving.description>
+	
+	<DankPyon_ShieldLindwurm.label>Lindwurmschild</DankPyon_ShieldLindwurm.label>
+	<DankPyon_ShieldLindwurm.description>Dieser robuste Schild aus den schimmernden Schuppen eines Lindwurms sorgt für nahezu unzerstörbaren Schutz. \n\nGewährt Immunität gegen Lindwurmsäure.</DankPyon_ShieldLindwurm.description>
+
+</LanguageData>

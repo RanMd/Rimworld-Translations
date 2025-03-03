@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Footwear_BootsLeather.label>Lederstiefel</DankPyon_Footwear_BootsLeather.label>
+	<DankPyon_Footwear_BootsLeather.description>Gegerbtes Leder, passend zum Fuß genäht. Bietet minimalen Schutz. Das Tragen von Lederstiefeln erhöht die Bewegungsgeschwindigkeit.</DankPyon_Footwear_BootsLeather.description>
+	
+	<DankPyon_Footwear_BootsSplinted.label>Geschiente Stiefel</DankPyon_Footwear_BootsSplinted.label>
+	<DankPyon_Footwear_BootsSplinted.description>Das Innenfutter besteht aus kleinen, einander überlappenden Platten, die die Bewegung der Füße etwas einschränken können. Das Tragen von Stiefeln mit Schienen verringert die Bewegungsgeschwindigkeit.</DankPyon_Footwear_BootsSplinted.description>
+	
+	<DankPyon_Footwear_BootsPlate.label>Plattenstiefel</DankPyon_Footwear_BootsPlate.label>
+	<DankPyon_Footwear_BootsPlate.description>Ein Paar sorgfältig gefertigte Plattenstiefel. Bietet Schutz, der genauso stark ist wie seine Kosten. Das Tragen von Plattenhandschuhen verringert die Bewegungsgeschwindigkeit.</DankPyon_Footwear_BootsPlate.description>
+	
+</LanguageData>

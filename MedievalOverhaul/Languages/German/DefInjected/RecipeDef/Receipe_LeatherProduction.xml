@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+	<DankPyon_Make_MincedApple.label>Apfelgehacktes herstellen</DankPyon_Make_MincedApple.label>
+	<DankPyon_Make_MincedApple.description>Apfelgehacktes herstellen.</DankPyon_Make_MincedApple.description>
+	<DankPyon_MakeTanningLiquorBase.jobString>Auskochen von Holz zu 6 Gerbflüssigkeiten.</DankPyon_MakeTanningLiquorBase.jobString>
+	
+	<MakeTanningLiquorFromWood.label>Gerbflüssigkeit aus Holz herstellen</MakeTanningLiquorFromWood.label>
+	<MakeTanningLiquorFromWood.description>Stellen aus den Rinden- und Holzanteilen der Baumstämme eine Charge Gerbflüssigkeit her.</MakeTanningLiquorFromWood.description>
+	
+	<DankPyon_MakeTanningLiquorFromFood.label>Gerbflüssigkeit aus Pflanzen herstellen</DankPyon_MakeTanningLiquorFromFood.label>
+	<DankPyon_MakeTanningLiquorFromFood.description>Bereite eine Menge Gerbflüssigkeit zu, indem organische Zutaten verwendet werden, von denen bekannt ist, dass sie Tannine enthalten.</DankPyon_MakeTanningLiquorFromFood.description>
+	<DankPyon_MakeTanningLiquorFromFood.jobString>Pflanzen in 6 Gerbflüssigkeit zerkochen.</DankPyon_MakeTanningLiquorFromFood.jobString>
+	
+	<DankPyon_MakeTanningLiquorFromMeat.label>Gerbflüssigkeit aus Fleisch herstellen</DankPyon_MakeTanningLiquorFromMeat.label>
+	<DankPyon_MakeTanningLiquorFromMeat.description>Bereite eine Menge Gerbflüssigkeit zu, indem organische Zutaten verwendet werden, von denen bekannt ist, dass sie Tannine enthalten.</DankPyon_MakeTanningLiquorFromMeat.description>
+	<DankPyon_MakeTanningLiquorFromMeat.jobString>Fleisch in 6 Gerbflüssigkeit zerkochen.</DankPyon_MakeTanningLiquorFromMeat.jobString>
+	
+	<DankPyon_MakeTanningLiquorBase10X.jobString>Auskochen von Holz zu 60 Gerbflüssigkeit.</DankPyon_MakeTanningLiquorBase10X.jobString>
+	
+	<MakeTanningLiquorFromWood10X.label>Gerbflüssigkeit aus Holz herstellen (10X)</MakeTanningLiquorFromWood10X.label>
+	<MakeTanningLiquorFromWood10X.description>Stelle aus den Rinden- und Holzanteilen der Baumstämme eine Charge Gerbflüssigkeit her.</MakeTanningLiquorFromWood10X.description>
+	
+	<DankPyon_MakeTanningLiquorFromFood10X.label>Gerbflüssigkeit aus Pflanzen herstellen (10X)</DankPyon_MakeTanningLiquorFromFood10X.label>
+	<DankPyon_MakeTanningLiquorFromFood10X.description>Bereite eine Menge Gerbflüssigkeit zu, indem organische Zutaten verwendet werden, von denen bekannt ist, dass sie Tannine enthalten.</DankPyon_MakeTanningLiquorFromFood10X.description>
+	<DankPyon_MakeTanningLiquorFromFood10X.jobString>Pflanzen in 60 Gerbflüssigkeit zerkochen.</DankPyon_MakeTanningLiquorFromFood10X.jobString>
+	
+	<DankPyon_MakeTanningLiquorFromMeat10X.label>Gerbflüssigkeit aus Fleisch herstellen (10X)</DankPyon_MakeTanningLiquorFromMeat10X.label>
+	<DankPyon_MakeTanningLiquorFromMeat10X.description>Bereite eine Menge Gerbflüssigkeit zu, indem organische Zutaten verwendet werden, von denen bekannt ist, dass sie Tannine enthalten.</DankPyon_MakeTanningLiquorFromFood10X.description>
+	<DankPyon_MakeTanningLiquorFromMeat10X.jobString>Fleisch in 60 Gerbflüssigkeit zerkochen.</DankPyon_MakeTanningLiquorFromMeat10X.jobString>
+</LanguageData>
