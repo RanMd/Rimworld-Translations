@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TT.TransparentThings>Optimizar cosas transparentes</TT.TransparentThings>
+  <TT.EnableTreeTransparency>Activar la transparencia de los árboles</TT.EnableTreeTransparency>
+  <TT.EnableRoofTransparency>Activar la transparencia de los techos</TT.EnableRoofTransparency>
+  <TT.MakeRoofsSelectable>Hacer seleccionables los techos</TT.MakeRoofsSelectable>
+</LanguageData>

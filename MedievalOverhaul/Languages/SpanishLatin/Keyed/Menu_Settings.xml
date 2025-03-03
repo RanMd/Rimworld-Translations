@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Título del Menú -->
+  <MedievalOverhaul.ModNameShort>Revisión Medieval</MedievalOverhaul.ModNameShort>
+  <!-- Opciones de Cadena de Producción -->
+  <DankPyon_Settings_ProductionChain>Opciones para la Cadena de Producción</DankPyon_Settings_ProductionChain>
+  <DankPyon_Settings_LeatherChain>Cadena de Producción de Cuero:</DankPyon_Settings_LeatherChain>
+  <DankPyon_Settings_WoodChain>Cadena de Producción de Madera:</DankPyon_Settings_WoodChain>
+  <DankPyon_Settings_ClothChain>Cadena de Producción de Tela:</DankPyon_Settings_ClothChain>
+  <!-- Opciones de Generación de Mapas -->
+  <DankPyon_Settings_MapGen>Opciones para la Generación de Mapas</DankPyon_Settings_MapGen>
+  <DankPyon_Settings_IndustrialJunk>Eliminar basura industrial de Vanilla durante la generación de mapas:</DankPyon_Settings_IndustrialJunk>
+  <DankPyon_Settings_ExostriderRemains>Eliminar restos de Exostrider de Biotech durante la generación de mapas:</DankPyon_Settings_ExostriderRemains>
+  <DankPyon_Settings_HornetNest>Eliminar nidos de avispas durante la generación de mapas:</DankPyon_Settings_HornetNest>
+  <DankPyon_Settings_VanillaMine>Restaurar minerales de minería de Vanilla:</DankPyon_Settings_VanillaMine>
+  <!-- Configuraciones Variadas -->
+  <DankPyon_Settings_MiscOption>Configuraciones Variadas</DankPyon_Settings_MiscOption>
+  <DankPyon_Settings_RefuelableTorch>Eliminar la necesidad de combustible de las antorchas:</DankPyon_Settings_RefuelableTorch>
+  <DankPyon_Settings_BoomalopeTar>Reemplazar el combustible químico con alquitrán de Boomalopes y animales similares:</DankPyon_Settings_BoomalopeTar>
+  <DankPyon_Settings_MealRetexture>Reemplazar las texturas de las comidas de Vanilla:</DankPyon_Settings_MealRetexture>
+  <DankPyon_Settings_SchematicRework>Reemplazar la creación de esquemas con un analizador al estilo Biotech:</DankPyon_Settings_SchematicRework>
+</LanguageData>

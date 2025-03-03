@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Presser -->
+  <DankPyon_InsertResourceDesc>Agregar recurso a la prensa.</DankPyon_InsertResourceDesc>
+  <DankPyon_InsertResource>Insertar recurso</DankPyon_InsertResource>
+  <DankPyon_InsertResourceVariable>Insertar {0}</DankPyon_InsertResourceVariable>
+  <DankPyon_NoResourcesFound>No hay recursos prensables disponibles en este mapa.</DankPyon_NoResourcesFound>
+  <DankPyon_SelectResource>Selecciona un tipo de recurso para prensar</DankPyon_SelectResource>
+  <DankPyon_StartInsertionResource>Traer recurso</DankPyon_StartInsertionResource>
+  <DankPyon_StartInsertionResourceDesc>Trae el recurso a la prensa para comenzar el proceso de prensado</DankPyon_StartInsertionResourceDesc>
+  <DankPyon_RemoveResource>Eliminar recurso</DankPyon_RemoveResource>
+  <DankPyon_RemoveResourceDesc>Elimina el recurso de la prensa. Esto solo funciona si el proceso de prensado no ha comenzado.</DankPyon_RemoveResourceDesc>
+  <DankPyon_CancelBringingResource>Cancelar entrega de recurso</DankPyon_CancelBringingResource>
+  <DankPyon_CancelBringingResourceDesc>Cancela la entrega del recurso a la prensa.</DankPyon_CancelBringingResourceDesc>
+  <DankPyon_WaitTillJobsEndResource>Espera hasta que el recurso sea llevado a la prensa o cancela la entrega.</DankPyon_WaitTillJobsEndResource>
+  <DankPyon_EngageResource>Comenzar a prensar el recurso</DankPyon_EngageResource>
+  <DankPyon_EngageResourceDesc>Comienza a prensar el recurso. Este proceso dura 5 días y no puede ser interrumpido, de lo contrario, el recurso se destruirá.</DankPyon_EngageResourceDesc>
+  <DankPyon_ResourceFinished>El procesamiento de un recurso en la prensa ha finalizado</DankPyon_ResourceFinished>
+  <DankPyon_ResourceInProgress>{0} está siendo prensado. Termina en {1}</DankPyon_ResourceInProgress>
+  <DankPyon_ResourceReady>Un recurso ha completado el proceso de prensado y está esperando ser recogido</DankPyon_ResourceReady>
+  <DankPyon_ResourceImproperlyDefined>Este recurso no está definido correctamente para trabajar con la prensa. Contacta al autor del mod de recursos</DankPyon_ResourceImproperlyDefined>
+  <DankPyon_RemoveProduct>Eliminar producto ({0})</DankPyon_RemoveProduct>
+  <DankPyon_RemoveProductDesc>Elimina el producto de la prensa.</DankPyon_RemoveProductDesc>
+  <DankPyon_PressEmpty>La prensa está vacía en este momento.</DankPyon_PressEmpty>
+  <DankPyon_PressFilled>La prensa está llena con {0}</DankPyon_PressFilled>
+  <DankPyon_PressWorking>La prensa está funcionando:</DankPyon_PressWorking>
+  <DankPyon_ResourcePercentage>(llena con {0} de {1})</DankPyon_ResourcePercentage>
+  <!-- Smoker -->
+  <DankPyon_InsertMeatDesc>Insertar carne para ahumar.</DankPyon_InsertMeatDesc>
+  <DankPyon_InsertMeat>Insertar carne</DankPyon_InsertMeat>
+  <DankPyon_InsertMeatVariable>Insertar {0}</DankPyon_InsertMeatVariable>
+  <DankPyon_NoMeatsFound>No se encontró carne en este mapa.</DankPyon_NoMeatsFound>
+  <DankPyon_SelectMeat>Selecciona un tipo de carne para ahumar</DankPyon_SelectMeat>
+  <DankPyon_StartInsertionMeat>Traer carne</DankPyon_StartInsertionMeat>
+  <DankPyon_StartInsertionMeatDesc>Trae la carne al ahumador para comenzar a ahumar</DankPyon_StartInsertionMeatDesc>
+  <DankPyon_RemoveMeat>Eliminar carne</DankPyon_RemoveMeat>
+  <DankPyon_RemoveMeatDesc>Retira la carne del ahumador. Esto solo puede hacerse antes de que comience el proceso de ahumado.</DankPyon_RemoveMeatDesc>
+  <DankPyon_CancelBringingMeat>Cancelar entrega de carne</DankPyon_CancelBringingMeat>
+  <DankPyon_CancelBringingMeatDesc>Cancela la entrega de carne al ahumador.</DankPyon_CancelBringingMeatDesc>
+  <DankPyon_WaitTillJobsEndMeat>Espera hasta que la carne sea llevada al ahumador o cancela la entrega.</DankPyon_WaitTillJobsEndMeat>
+  <DankPyon_EngageMeat>Comenzar a ahumar carne</DankPyon_EngageMeat>
+  <DankPyon_EngageMeatDesc>Comienza a ahumar la carne. Este proceso dura un día y no puede ser interrumpido, de lo contrario, la carne se destruirá.</DankPyon_EngageMeatDesc>
+  <DankPyon_SmokedMeatFinished>La carne ahumada está lista en el ahumador</DankPyon_SmokedMeatFinished>
+  <DankPyon_SmokedMeatInProgress>{0} está siendo ahumada. Termina en {1}</DankPyon_SmokedMeatInProgress>
+  <DankPyon_SmokedMeatReady>La carne está completamente ahumada y esperando ser recogida</DankPyon_SmokedMeatReady>
+  <DankPyon_RemoveSmokedMeat>Eliminar carne ahumada ({0})</DankPyon_RemoveSmokedMeat>
+  <DankPyon_SmokerEmpty>El ahumador está vacío en este momento</DankPyon_SmokerEmpty>
+  <DankPyon_SmokerFilled>El ahumador está lleno con {0}</DankPyon_SmokerFilled>
+  <DankPyon_SmokerWorking>El ahumador está funcionando:</DankPyon_SmokerWorking>
+  <!-- Drying Rack Meat -->
+  <DankPyon_InsertMeatRackDesc>Insertar carne para secar.</DankPyon_InsertMeatRackDesc>
+  <DankPyon_InsertRackMeat>Insertar carne</DankPyon_InsertRackMeat>
+  <DankPyon_InsertMeatRackVariable>Insertar {0}</DankPyon_InsertMeatRackVariable>
+  <DankPyon_StartInsertionMeatRackDesc>Trae la carne al estante de secado para comenzar a secar</DankPyon_StartInsertionMeatRackDesc>
+  <DankPyon_RemoveMeatRackDesc>Retira la carne del estante de secado. Esto solo puede hacerse antes de que comience el proceso de secado.</DankPyon_RemoveMeatRackDesc>
+  <DankPyon_CancelBringingMeatRackDesc>Cancelar entrega de carne al estante de secado.</DankPyon_CancelBringingMeatRackDesc>
+  <DankPyon_WaitTillJobsEndMeatRack>Espera hasta que la carne sea llevada al estante de secado o cancela la entrega.</DankPyon_WaitTillJobsEndMeatRack>
+  <DankPyon_EngageMeatRack>Comenzar a secar carne</DankPyon_EngageMeatRack>
+  <DankPyon_EngageMeatRackDesc>Comienza a secar la carne. Este proceso dura un día y no puede ser interrumpido, de lo contrario, la carne se destruirá.</DankPyon_EngageMeatRackDesc>
+  <DankPyon_DriedMeatFinished>La carne seca está lista en el estante de secado</DankPyon_DriedMeatFinished>
+  <DankPyon_DriedMeatInProgress>{0} está siendo secada. Termina en {1}</DankPyon_DriedMeatInProgress>
+  <DankPyon_DriedMeatRackReady>La carne está completamente seca y esperando ser recogida</DankPyon_DriedMeatRackReady>
+  <DankPyon_RemoveDriedMeat>Eliminar carne seca ({0})</DankPyon_RemoveDriedMeat>
+  <DankPyon_DryingRackEmpty>El estante de secado está vacío en este momento</DankPyon_DryingRackEmpty>
+  <DankPyon_DryingRackFilled>El estante de secado está lleno con {0}</DankPyon_DryingRackFilled>
+  <DankPyon_DryingRackWorking>El estante de secado está funcionando:</DankPyon_DryingRackWorking>
+  <!-- Hay Rack Meat -->
+  <DankPyon_InsertHayDesc>Coloca heno para secar.</DankPyon_InsertHayDesc>
+  <DankPyon_InsertHay>Colocar heno</DankPyon_InsertHay>
+  <DankPyon_InsertHayVariable>Coloca {0}</DankPyon_InsertHayVariable>
+  <DankPyon_NoHayFound>No se encontró heno en este mapa.</DankPyon_NoHayFound>
+  <DankPyon_SelectHay>Selecciona heno para secar</DankPyon_SelectHay>
+  <DankPyon_StartInsertionHay>Entregar heno</DankPyon_StartInsertionHay>
+  <DankPyon_StartInsertionHayDesc>Lleva el heno al estante para comenzar el secado</DankPyon_StartInsertionHayDesc>
+  <DankPyon_RemoveHay>Quitar heno</DankPyon_RemoveHay>
+  <DankPyon_RemoveHayDesc>Retira el heno del estante de secado. Esto solo se puede hacer si el secado no ha comenzado.</DankPyon_RemoveHayDesc>
+  <DankPyon_CancelBringingHay>Cancelar entrega de heno</DankPyon_CancelBringingHay>
+  <DankPyon_CancelBringingHayDesc>Cancela la entrega de heno al estante de secado.</DankPyon_CancelBringingHayDesc>
+  <DankPyon_WaitTillJobsEndHay>Espera hasta que el heno se haya llevado al estante de secado o cancela la tarea.</DankPyon_WaitTillJobsEndHay>
+  <DankPyon_EngageHay>Comenzar a secar heno</DankPyon_EngageHay>
+  <DankPyon_EngageHayDesc>Comienza a secar heno. Este proceso dura 3 días.</DankPyon_EngageHayDesc>
+  <DankPyon_StrawFinished>El heno se ha secado completamente en el estante</DankPyon_StrawFinished>
+  <DankPyon_StrawInProgress>{0} se está secando. Estará listo en {1}</DankPyon_StrawInProgress>
+  <DankPyon_StrawReady>El heno está completamente seco y listo para ser recogido</DankPyon_StrawReady>
+  <DankPyon_RemoveStraw>Eliminar heno ({0})</DankPyon_RemoveStraw>
+  <!-- Ale -->
+  <DankPyon_InsertAleOrMustDesc>Introduce mosto o mosto para fermentar</DankPyon_InsertAleOrMustDesc>
+  <DankPyon_StartInsertionAleOrMust>Entrega mosto o mosto</DankPyon_StartInsertionAleOrMust>
+  <DankPyon_StartInsertionAleOrMustDesc>Lleva mosto o mosto al barril de fermentación para iniciar la fermentación</DankPyon_StartInsertionAleOrMustDesc>
+  <DankPyon_CancelBringingAleOrMust>Cancela la entrega de mosto o mosto</DankPyon_CancelBringingAleOrMust>
+  <DankPyon_CancelBringingAleOrMustDesc>Cancela la entrega de mosto o mosto al barril de fermentación</DankPyon_CancelBringingAleOrMustDesc>
+  <DankPyon_JuiceAppleMaturing>El jugo de manzana está madurando</DankPyon_JuiceAppleMaturing>
+  <DankPyon_JuiceAppleCurrentlyFrozen>Este jugo de manzana sin fermentar está congelado y no madurará en sidra</DankPyon_JuiceAppleCurrentlyFrozen>
+  <DankPyon_JuiceAppleCurrentlyRefrigerated>Este jugo de manzana sin fermentar está refrigerado y no madurará tan rápido en sidra como podría (madura en {0})</DankPyon_JuiceAppleCurrentlyRefrigerated>
+  <DankPyon_JuiceAppleMaturingCorrectly>Este jugo de manzana sin fermentar está madurando en sidra (madura en {0})</DankPyon_JuiceAppleMaturingCorrectly>
+  <MO.EnableMultiTileMeleeAttacks>Habilitar ataques cuerpo a cuerpo en múltiples casillas</MO.EnableMultiTileMeleeAttacks>
+  <!-- UI -->
+  <DankPyon_GizmoSearch>Buscar botín</DankPyon_GizmoSearch>
+  <!-- Production Chains -->
+  <DankPyon_Hide_Description>Estas pieles y cueros crudos fueron obtenidos de un ser vivo y pueden ser procesados en cuero curtido con las habilidades y herramientas adecuadas.</DankPyon_Hide_Description>
+  <DankPyon_Hide>{0} Pieles</DankPyon_Hide>
+  <DankPyon_PlainHide>Piel simple</DankPyon_PlainHide>
+  <DankPyon_Plank_Description>Útil para la construcción de estructuras y armas. Es un buen combustible para fogatas.</DankPyon_Plank_Description>
+  <DankPyon_Log>{0} Tronco</DankPyon_Log>
+  <DankPyon_Timber>{0} Tabla</DankPyon_Timber>
+  <DankPyon_Plank>Tabla</DankPyon_Plank>
+  <!-- Misceláneo -->
+  <DankPyon_Gossamer_Desc>Producción de telaraña muy fina:</DankPyon_Gossamer_Desc>
+  <DankPyon_TrollSwallowDesc>¡El antiguo troll se ha tragado a uno de tus colonos! Asegúrate de matarlo a tiempo para recuperar al colono con vida.</DankPyon_TrollSwallowDesc>
+  <DankPyon_TrollSwallLabel>¡Delicioso!</DankPyon_TrollSwallLabel>
+  <DankPyon_StewMealAmount>Comidas disponibles</DankPyon_StewMealAmount>
+  <!-- Ollas de nutrientes medievales -->
+  <DankPyon_MealSlop_RefueledWithStat>reabastecido con nutrientes</DankPyon_MealSlop_RefueledWithStat>
+  <DankPyon_MealSlop_CommandSetTargetFuelLevel>Establecer el nivel de combustible objetivo</DankPyon_MealSlop_CommandSetTargetFuelLevel>
+  <DankPyon_CommandSetTargetFuelLevelDesc>Establece el nivel de combustible objetivo. Los colonos intentarán llenarlo hasta el nivel de comida objetivo.</DankPyon_CommandSetTargetFuelLevelDesc>
+  <DankPyon_MealSlop_CommandToggleAllowAutoRefuel>Alternar el reabastecimiento automático de nutrientes</DankPyon_MealSlop_CommandToggleAllowAutoRefuel>
+  <DankPyon_MealSlop_CommandToggleAllowAutoRefuelDesc>Establece si se permite el reabastecimiento automático o no.</DankPyon_MealSlop_CommandToggleAllowAutoRefuelDesc>
+  <DankPyon_StewPot_Itab>Nutriente</DankPyon_StewPot_Itab>
+  <DankPyon_MealSlop_Spoiled>Un guiso se ha echado a perder.</DankPyon_MealSlop_Spoiled>
+  <DankPyon_StewPot_NutritionStored>Nutrientes almacenados</DankPyon_StewPot_NutritionStored>
+  <DankPyon_SlopRotting>Está empezando a pudrirse debido a la falta de combustible.</DankPyon_SlopRotting>
+  <DankPyon_SlopFuel>Necesita una olla con combustible.</DankPyon_SlopFuel>
+  <!-- Cosas de hielo -->
+  <DankPyon_Melted>Completamente derretido</DankPyon_Melted>
+  <DankPyon_GatherIce>Recolectar hielo/agua</DankPyon_GatherIce>
+  <DankPyon_GatherIceDesc>Recolecta hielo o agua de terrenos adecuados.</DankPyon_GatherIceDesc>
+  <DankPyon_MustBeIce>El terreno debe ser de hielo o agua</DankPyon_MustBeIce>
+  <DankPyon_MustBeOnSoil>El terreno debe ser de tierra</DankPyon_MustBeOnSoil>
+  <DankPyon_MeltedAwayInStorage>{1_label} se ha derretido en el almacenamiento.</DankPyon_MeltedAwayInStorage>
+</LanguageData>

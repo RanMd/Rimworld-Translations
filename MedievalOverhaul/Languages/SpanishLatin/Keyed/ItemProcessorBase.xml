@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Generico -->
+  <IP_InsertFirstItemDesc>Insertar</IP_InsertFirstItemDesc>
+  <IP_InsertSecondItemDesc>Insertar</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>Insertar</IP_InsertThirdItemDesc>
+  <IP_InsertVariable>Inserta {0}</IP_InsertVariable>
+  <IP_InsertVariableSecond>Inserta {0} en el 2. espacio</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Inserta {0} en el 3. espacio</IP_InsertVariableThird>
+  <IP_CantFindThing>No se encontraron objetos de este tipo ({0}) en el mapa</IP_CantFindThing>
+  <IP_BringIngredients>Trae ingredientes</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Trae ingredientes para comenzar el procesamiento</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Cancela la entrega de ingredientes</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Cancela la entrega de ingredientes a este edificio</IP_CancelIngredientsDesc>
+  <IP_NoIngredientFound>No se encontraron ingredientes en el mapa</IP_NoIngredientFound>
+  <IP_ChooseIngredient>Elige ingredientes</IP_ChooseIngredient>
+  <IP_ChooseIngredientSecond>Elige el 2. ingrediente</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>Elige el 3. ingrediente</IP_ChooseIngredientThird>
+  <IP_IngredientImproperlyDefined>Uno de los ingredientes no está definido correctamente para su uso con el procesador de objetos. Contacta al autor del mod</IP_IngredientImproperlyDefined>
+  <IP_NoPowerDestroysWarning>{0} debe estar alimentado para comenzar a trabajar</IP_NoPowerDestroysWarning>
+  <IP_NoFuelDestroysWarning>{0} debe estar alimentado para comenzar a trabajar</IP_NoFuelDestroysWarning>
+  <IP_LightDestroysWarning>{0} necesita suficiente luz para comenzar a trabajar</IP_LightDestroysWarning>
+  <IP_RainDestroysWarning>No debe llover para que {0} pueda comenzar a trabajar</IP_RainDestroysWarning>
+  <IP_TemperatureDestroysWarning>{0} debe tener una temperatura adecuada ({1} - {2}) para comenzar a trabajar</IP_TemperatureDestroysWarning>
+  <IP_NoPowerDestroysInitialWarning>El resultado se verá afectado por un corte de energía en el procesador de objetos</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>El resultado se ha visto afectado por un corte de energía en el procesador de objetos</IP_NoPowerDestroysMessage>
+  <IP_GenericProductFinished>Un producto ha sido procesado y está listo para ser recogido</IP_GenericProductFinished>
+  <IP_IsEmpty>{0} está vacío</IP_IsEmpty>
+  <IP_FilledWith>{0} está lleno con {1}</IP_FilledWith>
+  <IP_FilledWithSecond>El 2. espacio de {0} está lleno con {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>El 3. espacio de {0} está lleno con {1}</IP_FilledWithThird>
+  <IP_IngredientPercentage>(lleno con {0} de {1})</IP_IngredientPercentage>
+  <IP_ProcessorWorking>{0} está funcionando:</IP_ProcessorWorking>
+  <IP_ProcessingInProgress>{0} está procesando {1}. {2} estará listo en {4} con calidad {3}</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0} está procesando {1}. {2} estará listo en {3}</IP_ProcessingInProgressNoQuality>
+  <IP_RemoveProduct>Elimina {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProductDesc>Elimina {0} de {1}. El producto estará listo en el nivel de calidad actual ({2})</IP_RemoveProductDesc>
+  <IP_ResetSemiautomatic>Restablecer receta</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>Esto restablecerá el edificio una vez que el producto actual esté terminado, permitiendo seleccionar un nuevo ingrediente de entrada</IP_ResetSemiautomaticDesc>
+  <IP_NoCombination>No se encontró una combinación para estos ingredientes</IP_NoCombination>
+  <IP_SetAutoQuality>Establece la calidad para la extracción del producto. Si el producto alcanza esta calidad, un colono lo recogerá automáticamente y lo llevará a un almacén, si está disponible. Si no se establece, los productos se extraerán manualmente o en calidad legendaria.</IP_SetAutoQuality>
+  <IP_ChooseQualityAuto>Elige "Calidad automática".</IP_ChooseQualityAuto>
+  <IP_QualityAutoIs>Calidad automática: {0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>Desactiva calidad automática</IP_QualityAutoNot>
+  <IP_QualityAutoEstablished>Calidad automática, el producto se extraerá en el nivel de calidad: {0}</IP_QualityAutoEstablished>
+  <IP_ToggleAuto>Obtención automática de ingredientes</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>Si está activado, este edificio obtendrá automáticamente ingredientes de tolvas adyacentes y comenzará a trabajar automáticamente una vez que se retire el producto. Si no, los colonos transportarán los ingredientes al edificio y deberá activarse manualmente una vez que se vuelva a llenar</IP_ToggleAutoDesc>
+  <IP_ProductWaiting>Esperando recogida</IP_ProductWaiting>
+  <IP_OutsideLightRange>El proceso en esta máquina se interrumpirá debido a condiciones de luz insuficientes y pronto se echará a perder</IP_OutsideLightRange>
+  <IP_SpoiledDueToLight>El producto en esta máquina se ha echado a perder debido a condiciones de luz insuficientes</IP_SpoiledDueToLight>
+  <IP_ItRains>El proceso en esta máquina se interrumpirá debido al mal tiempo y pronto se echará a perder</IP_ItRains>
+  <IP_SpoiledDueToRain>El producto en esta máquina se ha echado a perder debido al mal tiempo</IP_SpoiledDueToRain>
+  <IP_WrongTemp>El proceso en esta máquina se interrumpirá debido a una temperatura inadecuada y pronto se echará a perder</IP_WrongTemp>
+  <IP_SpoiledDueToWrongTemp>El producto en esta máquina se ha echado a perder debido a una temperatura inadecuada</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>. Este fermentador necesita una temperatura entre {0} y {1} grados {2}</IP_TempRangeInThisMachine>
+</LanguageData>
