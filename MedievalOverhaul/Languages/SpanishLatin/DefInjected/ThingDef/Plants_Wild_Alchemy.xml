@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Plant_MindwortWild.label>Wildes Gedankenkraut</DankPyon_Plant_MindwortWild.label>
-	<DankPyon_Plant_MindwortWild.description>PLATZHALTER</DankPyon_Plant_MindwortWild.description>
-	
-	<DankPyon_Plant_PoppyWild.label>Wilder Mohn</DankPyon_Plant_PoppyWild.label>
-	<DankPyon_Plant_PoppyWild.description>PLATZHALTER</DankPyon_Plant_PoppyWild.description>
-	
-	<DankPyon_Plant_FleawortWild.label>Wildes Flohkraut</DankPyon_Plant_FleawortWild.label>
-	<DankPyon_Plant_FleawortWild.description>PLATZHALTER</DankPyon_Plant_FleawortWild.description>
-	
-	<DankPyon_Plant_FlyAgaricWild.label>Wilder Fliegenpilz</DankPyon_Plant_FlyAgaricWild.label>
-	<DankPyon_Plant_FlyAgaricWild.description>PLATZHALTER</DankPyon_Plant_FlyAgaricWild.description>
-	
+  <DankPyon_Plant_MindwortWild.label>Hierba mental salvaje</DankPyon_Plant_MindwortWild.label>
+  <DankPyon_Plant_MindwortWild.description>Una variedad silvestre de la hierba mental, más difícil de encontrar pero con efectos aún más potentes en la concentración y la claridad mental.</DankPyon_Plant_MindwortWild.description>
+  <DankPyon_Plant_PoppyWild.label>Amapola salvaje</DankPyon_Plant_PoppyWild.label>
+  <DankPyon_Plant_PoppyWild.description>Una versión silvestre de la amapola, resistente y rica en compuestos sedantes utilizados en medicina tradicional.</DankPyon_Plant_PoppyWild.description>
+  <DankPyon_Plant_FleawortWild.label>Hierba pulguera salvaje</DankPyon_Plant_FleawortWild.label>
+  <DankPyon_Plant_FleawortWild.description>Más robusta que su contraparte cultivada, esta hierba se usa en remedios para tratar infecciones y problemas de la piel.</DankPyon_Plant_FleawortWild.description>
+  <DankPyon_Plant_FlyAgaricWild.label>Amanita muscaria salvaje</DankPyon_Plant_FlyAgaricWild.label>
+  <DankPyon_Plant_FlyAgaricWild.description>Este hongo silvestre es altamente tóxico, pero algunas culturas lo han utilizado en rituales debido a sus efectos alucinógenos.</DankPyon_Plant_FlyAgaricWild.description>
 </LanguageData>

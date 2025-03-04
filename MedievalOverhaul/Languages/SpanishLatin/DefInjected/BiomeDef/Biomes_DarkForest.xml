@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_DarkForest.label>Dunkler Wald</DankPyon_DarkForest.label>
-	<DankPyon_DarkForest.description>Eine uralte Wildnis, so groß wie keine andere, ein Ort mit gedämpftem Licht und dichter, überwältigender Vegetation. Wird häufig verwendet, um schelmischen Kindern eine breite Palette an warnenden Geschichten zu vermitteln. Und das zu Recht. Nicht viele leben lange genug, um dieses Wissen aus dem Wald zu tragen, da der Wald selbst unentdeckt bleiben möchte. Und es ist einfach so, dass dieses besondere Dickicht ein Arsenal an knorrigen Dornen und reichlich Krallenpfoten hat, die bereit sind, diesen Wunsch zu erfüllen.</DankPyon_DarkForest.description>
+  <DankPyon_DarkForest.label>Bosque Oscuro</DankPyon_DarkForest.label>
+  <DankPyon_DarkForest.description>Una antigua naturaleza salvaje, tan grande como ninguna otra, un lugar con luz tenue y vegetación densa y abrumadora. A menudo se utiliza para contar una amplia gama de historias de advertencia a los niños traviesos. Y con razón. No muchos viven lo suficiente como para llevar este conocimiento fuera del bosque, ya que el bosque mismo quiere permanecer sin descubrir. Y resulta que este matorral particular tiene un arsenal de espinas nudosas y muchas patas con garras, listas para cumplir ese deseo.</DankPyon_DarkForest.description>
 </LanguageData>

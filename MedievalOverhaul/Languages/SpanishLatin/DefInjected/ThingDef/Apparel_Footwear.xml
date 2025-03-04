@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Footwear_BootsLeather.label>Lederstiefel</DankPyon_Footwear_BootsLeather.label>
-	<DankPyon_Footwear_BootsLeather.description>Gegerbtes Leder, passend zum Fuß genäht. Bietet minimalen Schutz. Das Tragen von Lederstiefeln erhöht die Bewegungsgeschwindigkeit.</DankPyon_Footwear_BootsLeather.description>
-	
-	<DankPyon_Footwear_BootsSplinted.label>Geschiente Stiefel</DankPyon_Footwear_BootsSplinted.label>
-	<DankPyon_Footwear_BootsSplinted.description>Das Innenfutter besteht aus kleinen, einander überlappenden Platten, die die Bewegung der Füße etwas einschränken können. Das Tragen von Stiefeln mit Schienen verringert die Bewegungsgeschwindigkeit.</DankPyon_Footwear_BootsSplinted.description>
-	
-	<DankPyon_Footwear_BootsPlate.label>Plattenstiefel</DankPyon_Footwear_BootsPlate.label>
-	<DankPyon_Footwear_BootsPlate.description>Ein Paar sorgfältig gefertigte Plattenstiefel. Bietet Schutz, der genauso stark ist wie seine Kosten. Das Tragen von Plattenhandschuhen verringert die Bewegungsgeschwindigkeit.</DankPyon_Footwear_BootsPlate.description>
-	
+  <DankPyon_Footwear_BootsLeather.label>Botas de Cuero</DankPyon_Footwear_BootsLeather.label>
+  <DankPyon_Footwear_BootsLeather.description>Cuero curtido, cosido para ajustarse al pie. Ofrece protección mínima. Usar botas de cuero aumenta la velocidad de movimiento.</DankPyon_Footwear_BootsLeather.description>
+  <DankPyon_Footwear_BootsSplinted.label>Botas con Férulas</DankPyon_Footwear_BootsSplinted.label>
+  <DankPyon_Footwear_BootsSplinted.description>El forro interior está hecho de pequeñas placas superpuestas que pueden restringir un poco el movimiento de los pies. Usar botas con férulas reduce la velocidad de movimiento.</DankPyon_Footwear_BootsSplinted.description>
+  <DankPyon_Footwear_BootsPlate.label>Botas de Placas</DankPyon_Footwear_BootsPlate.label>
+  <DankPyon_Footwear_BootsPlate.description>Un par de botas de placas cuidadosamente elaboradas. Ofrece protección tan fuerte como su costo. Usar guantes de placas reduce la velocidad de movimiento.</DankPyon_Footwear_BootsPlate.description>
 </LanguageData>

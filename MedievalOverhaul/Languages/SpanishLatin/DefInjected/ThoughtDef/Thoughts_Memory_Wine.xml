@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_DrankWine.stages.0.label>trank schrecklichen Wein</DankPyon_DrankWine.stages.0.label>
-	<DankPyon_DrankWine.stages.0.description>Ich hatte die unglückliche Erfahrung, Wein von schrecklicher Qualität zu trinken. Der Geschmack bleibt noch bestehen und verfolgt meine Gedanken.</DankPyon_DrankWine.stages.0.description>
-	
-	<DankPyon_DrankWine.stages.1.label>trank schlechten Wein</DankPyon_DrankWine.stages.1.label>
-	<DankPyon_DrankWine.stages.1.description>Ich habe Wein von schlechter Qualität getrunken. Der Geschmack war nicht zufriedenstellend.</DankPyon_DrankWine.stages.1.description>
-
-	<DankPyon_DrankWine.stages.2.label>trank normalen Wein</DankPyon_DrankWine.stages.2.label>
-	<DankPyon_DrankWine.stages.2.description>Ich habe durchschnittlichen Wein getrunken.</DankPyon_DrankWine.stages.2.description>
-
-	<DankPyon_DrankWine.stages.3.label>trank guten Wein</DankPyon_DrankWine.stages.3.label>
-	<DankPyon_DrankWine.stages.3.description>Der Geschmack des guten Qualitätsweins, den ich gerade getrunken habe zaubert ein Lächeln auf mein Gesicht.</DankPyon_DrankWine.stages.3.description>
-	
-	<DankPyon_DrankWine.stages.4.label>trank ausgezeichneten Wein</DankPyon_DrankWine.stages.4.label>
-	<DankPyon_DrankWine.stages.4.description>Der unglaubliche Geschmack des erstklassigen Weins, den ich gerade genossen haben, hat mich in einen reinen kulinarischen Genuss versetzt.</DankPyon_DrankWine.stages.4.description>
-	
-	<DankPyon_DrankWine.stages.5.label>trank meisterhaften Wein</DankPyon_DrankWine.stages.5.label>
-	<DankPyon_DrankWine.stages.5.description>Der unvergleichliche Geschmack des erstklassigen Weins, den ich gerade genossen habe, hat mich in ein Reich geschmacklicher Ekstase entführt.</DankPyon_DrankWine.stages.5.description>
-	
-	<DankPyon_DrankWine.stages.6.label>trank legendären Wein</DankPyon_DrankWine.stages.6.label>
-	<DankPyon_DrankWine.stages.6.description>Der göttliche Geschmack des Weins von legendärer Qualität, den ich gerade genossen haben, hat meine Wahrnehmung kulinarischer Perfektion für immer verändert.</DankPyon_DrankWine.stages.6.description>
-	
+  <DankPyon_DrankWine.stages.0.label>bebí vino terrible</DankPyon_DrankWine.stages.0.label>
+  <DankPyon_DrankWine.stages.0.description>Tuve la desafortunada experiencia de beber vino de terrible calidad. El sabor aún persiste y atormenta mis pensamientos.</DankPyon_DrankWine.stages.0.description>
+  <DankPyon_DrankWine.stages.1.label>bebí vino malo</DankPyon_DrankWine.stages.1.label>
+  <DankPyon_DrankWine.stages.1.description>Bebí vino de mala calidad. El sabor no fue satisfactorio.</DankPyon_DrankWine.stages.1.description>
+  <DankPyon_DrankWine.stages.2.label>bebí vino normal</DankPyon_DrankWine.stages.2.label>
+  <DankPyon_DrankWine.stages.2.description>Bebí vino promedio.</DankPyon_DrankWine.stages.2.description>
+  <DankPyon_DrankWine.stages.3.label>bebí buen vino</DankPyon_DrankWine.stages.3.label>
+  <DankPyon_DrankWine.stages.3.description>El sabor del vino de buena calidad que acabo de beber me dibuja una sonrisa en el rostro.</DankPyon_DrankWine.stages.3.description>
+  <DankPyon_DrankWine.stages.4.label>bebí vino excelente</DankPyon_DrankWine.stages.4.label>
+  <DankPyon_DrankWine.stages.4.description>El increíble sabor del vino de primera clase que acabo de disfrutar me ha llevado a un puro deleite culinario.</DankPyon_DrankWine.stages.4.description>
+  <DankPyon_DrankWine.stages.5.label>bebí vino magistral</DankPyon_DrankWine.stages.5.label>
+  <DankPyon_DrankWine.stages.5.description>El sabor incomparable del vino de primera clase que acabo de disfrutar me ha llevado a un reino de éxtasis gustativo.</DankPyon_DrankWine.stages.5.description>
+  <DankPyon_DrankWine.stages.6.label>bebí vino legendario</DankPyon_DrankWine.stages.6.label>
+  <DankPyon_DrankWine.stages.6.description>El sabor divino del vino de calidad legendaria que acabo de disfrutar ha cambiado para siempre mi percepción de la perfección culinaria.</DankPyon_DrankWine.stages.6.description>
 </LanguageData>

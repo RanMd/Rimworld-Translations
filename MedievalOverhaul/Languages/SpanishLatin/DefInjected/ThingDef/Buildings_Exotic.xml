@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_BrokenCart.label>Kaputter Wagon</DankPyon_BrokenCart.label>
-	<DankPyon_BrokenCart.description>Ein staubbedecktes Fragment des alten Wagens. Moos bahnt sich langsam seinen Weg nach oben und bedeckt tiefe Kratzer und Blutflecken – Spuren längst vergessener Kämpfe. Was auch immer hier passiert ist, die Helden dieser Geschichte sind woanders, entweder über oder unter der Erde. Es bleiben Vorräte übrig, die jeder mitnehmen kann.</DankPyon_BrokenCart.description>
+  <DankPyon_BrokenCart.label>Carro Roto</DankPyon_BrokenCart.label>
+  <DankPyon_BrokenCart.description>Un fragmento polvoriento del viejo carro. El musgo lentamente se abre camino hacia arriba y cubre profundas cicatrices y manchas de sangre, huellas de batallas olvidadas hace mucho tiempo. Lo que sea que haya pasado aquí, los héroes de esta historia están en otro lugar, ya sea sobre o bajo tierra. Quedan suministros que cualquiera puede llevarse.</DankPyon_BrokenCart.description>
 </LanguageData>

@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Apparel_AdornedMailShirt.label>schweres Kettenhemd (verziert)</DankPyon_Apparel_AdornedMailShirt.label>
-	<DankPyon_Apparel_AdornedMailShirt.description>Ein dickes und robustes Kettenhemd, bedeckt mit einem feinen gesteppten Wappenrock. Der geschichtete Aufbau sorgt für reichlich Wärme. Insgesamt eine beeindruckende Rüstung, verziert mit Trophäen und heiligen Symbolen.</DankPyon_Apparel_AdornedMailShirt.description>
-	
-	<DankPyon_Apparel_AdornedWarriorArmor.label>Kriegerrüstung (verziert)</DankPyon_Apparel_AdornedWarriorArmor.label>
-	<DankPyon_Apparel_AdornedWarriorArmor.description>Ein robustes Kettenhemd, bedeckt von einem feinen gesteppten Wappenrock. Der geschichtete Aufbau sorgt für reichlich Wärme. Insgesamt eine beeindruckende Rüstung, verziert mit Trophäen und heiligen Symbolen.</DankPyon_Apparel_AdornedWarriorArmor.description>
-	
-	<DankPyon_Apparel_AdornedHeavyPlate.label>Plattenrüstung (verziert)</DankPyon_Apparel_AdornedHeavyPlate.label>
-	<DankPyon_Apparel_AdornedHeavyPlate.description>Eine schwere Platte, bedeckt von einer dicken, genieteten Ummantelung und verstärkten Unterarmschienen. Der geschichtete Aufbau sorgt für reichlich Wärme. Typischerweise von den Eidgebundenen getragen, den besten Eidnehmern, fein verziert mit Trophäen und religiösen Symbolen.</DankPyon_Apparel_AdornedHeavyPlate.description>
-	
-	<!--==================== Headgear ====================-->
-	
-	<DankPyon_Adorned_HeavyMailCoif.label>Schwere Kettenhaube (verziert)</DankPyon_Adorned_HeavyMailCoif.label>
-	<DankPyon_Adorned_HeavyMailCoif.description>Eine dicke, aus Metallketten geschmiedete Haube mit einem zusätzlichen Nasenschutz aus Metallblech, der das Gesicht fast vollständig schützt. Macht es etwas schwer zu sehen, bietet aber ansonsten einen hervorragenden Schutz vor Schnitten.</DankPyon_Adorned_HeavyMailCoif.description>
-
-
-	<DankPyon_Adorned_FlatTop.label>Geschlossener, flacher Topfhelm (verziert)</DankPyon_Adorned_FlatTop.label>
-	<DankPyon_Adorned_FlatTop.description>Ein früher Entwurf des Integralhelms, bestehend aus einem verstärkten flachen Topfhelm mit zusätzlicher Gesichtsplatte und Kettenhaube. Bietet hervorragenden Schutz für den gesamten Kopf, behindert jedoch das Sehen und Atmen.</DankPyon_Adorned_FlatTop.description>
-	
-	<DankPyon_Adorned_GreatHelm.label>Großer Helm (verziert)</DankPyon_Adorned_GreatHelm.label>
-	<DankPyon_Adorned_GreatHelm.description>Ein reich verzierter großer Helm mit Vollpanzerung, der oft von Turnierkämpfern und heraldischen Champions sowie namhaften Persönlichkeiten namhafter Häuser im Krieg getragen wird. Stellt den Adelsstatus dar und bietet dennoch beträchtlichen Schutz im Kampf. \n\nDieser große Helm trägt die Farben des Ulrik-Ordens.</DankPyon_Adorned_GreatHelm.description>	
-	
+  <DankPyon_Apparel_AdornedMailShirt.label>camisa de malla adornada pesada</DankPyon_Apparel_AdornedMailShirt.label>
+  <DankPyon_Apparel_AdornedMailShirt.description>Una camisa de malla gruesa y robusta, cubierta con un tabardo acolchado fino. La construcción en capas proporciona mucho calor. En general, una armadura impresionante, adornada con trofeos y símbolos sagrados.</DankPyon_Apparel_AdornedMailShirt.description>
+  <DankPyon_Apparel_AdornedWarriorArmor.label>armadura de guerrero adornada</DankPyon_Apparel_AdornedWarriorArmor.label>
+  <DankPyon_Apparel_AdornedWarriorArmor.description>Una camisa de malla robusta, cubierta con un tabardo acolchado fino. La construcción en capas proporciona mucho calor. En general, una armadura impresionante, adornada con trofeos y símbolos sagrados.</DankPyon_Apparel_AdornedWarriorArmor.description>
+  <DankPyon_Apparel_AdornedHeavyPlate.label>armadura de placas adornada</DankPyon_Apparel_AdornedHeavyPlate.label>
+  <DankPyon_Apparel_AdornedHeavyPlate.description>Una armadura de placas pesada, cubierta con un revestimiento grueso y remachado y brazales reforzados. La construcción en capas proporciona mucho calor. Típicamente usada por los Juramentados, los mejores tomadores de juramentos, finamente adornada con trofeos y símbolos religiosos.</DankPyon_Apparel_AdornedHeavyPlate.description>
+  <!--==================== Headgear ====================-->
+  <DankPyon_Adorned_HeavyMailCoif.label>cofia de malla pesada adornada</DankPyon_Adorned_HeavyMailCoif.label>
+  <DankPyon_Adorned_HeavyMailCoif.description>Una cofia gruesa forjada de cadenas de metal con una protección adicional para la nariz hecha de chapa metálica, que protege casi completamente la cara. Hace que sea un poco difícil ver, pero ofrece una excelente protección contra cortes.</DankPyon_Adorned_HeavyMailCoif.description>
+  <DankPyon_Adorned_FlatTop.label>casco cerrado de cima plana adornado</DankPyon_Adorned_FlatTop.label>
+  <DankPyon_Adorned_FlatTop.description>Un diseño temprano del casco integral, que consiste en un casco de cima plana reforzada con una placa facial adicional y cofia de malla. Ofrece una excelente protección para toda la cabeza, pero dificulta la visión y la respiración.</DankPyon_Adorned_FlatTop.description>
+  <DankPyon_Adorned_GreatHelm.label>gran casco adornado</DankPyon_Adorned_GreatHelm.label>
+  <DankPyon_Adorned_GreatHelm.description>Un gran casco ricamente adornado con armadura completa, que a menudo es usado por combatientes de torneos y campeones heráldicos, así como por personalidades notables de casas renombradas en la guerra. Representa el estatus nobiliario y, sin embargo, ofrece una considerable protección en combate. \n\nEste gran casco lleva los colores de la Orden de Ulrik.</DankPyon_Adorned_GreatHelm.description>
 </LanguageData>

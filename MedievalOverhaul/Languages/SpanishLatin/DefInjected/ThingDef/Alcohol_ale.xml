@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Ale.label>Bier</DankPyon_Ale.label>
-	<DankPyon_Ale.description>Vergorenes Getränk von tiefgoldener Farbe, ein wahres Lebenselixier des gesellschaftlichen Lebens in diesen Gegenden. Wenige Tassen in der Taverne genügen, um die Strapazen der Feldarbeit, die Gefahren auf der Straße oder unüberlegte Eheversprechen zu vergessen. Lassen Sie sich vom warmen Dunst der Trunkenheit umarmen, ohne sich um irgendetwas Sorgen machen zu müssen. Nicht heute.</DankPyon_Ale.description>
-	
-	<DankPyon_WortAle.label>Bierwürze</DankPyon_WortAle.label>
-	<DankPyon_WortAle.description>Unvergorenes Bier. Dieser Stoff muss in einem Gärfass gären, bevor er zu trinkbarem Bier wird.</DankPyon_WortAle.description>
+  <DankPyon_Ale.label>Cerveza</DankPyon_Ale.label>
+  <DankPyon_Ale.description>Bebida fermentada de color dorado profundo, un verdadero elixir de la vida social en estas regiones. Unas pocas tazas en la taberna son suficientes para olvidar las fatigas del trabajo en el campo, los peligros en la carretera o las promesas matrimoniales imprudentes. Déjese abrazar por la cálida neblina de la embriaguez, sin preocuparse por nada. No hoy.</DankPyon_Ale.description>
+  <DankPyon_WortAle.label>Mosto de cerveza</DankPyon_WortAle.label>
+  <DankPyon_WortAle.description>Mosto sin fermentar. Esta sustancia debe fermentar en un barril antes de convertirse en cerveza potable.</DankPyon_WortAle.description>
 </LanguageData>

@@ -1,36 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Headgear_WolfTimber.label>Wolfshaube (Timber)</DankPyon_Headgear_WolfTimber.label>
-	<DankPyon_Headgear_WolfTimber.description>Ein warmer, robuster Mantel, genäht aus dem Fell eines Wolfes. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen wilden Wolf getötet hat, um die Trophäe anzulegen.</DankPyon_Headgear_WolfTimber.description>
-	
-	<DankPyon_Headgear_WolfArctic.label>Wolfshaube (Arktik)</DankPyon_Headgear_WolfArctic.label>
-	
-	<DankPyon_Headgear_BearGrizzly.label>Bärenhaube (Grizzly)</DankPyon_Headgear_BearGrizzly.label>
-	<DankPyon_Headgear_BearGrizzly.description>Ein warmer, robuster Mantel, genäht aus dem Fell eines Bären. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen wilden Bären getötet hat, um die Trophäe anzulegen.</DankPyon_Headgear_BearGrizzly.description>
-	
-	<DankPyon_Headgear_BearPolar.label>Bärenhaube (Polar)</DankPyon_Headgear_ArmingCap.label>
-
-
-	<DankPyon_Apparel_DirewolfPelt.label>Schattenwolffell</DankPyon_Apparel_DirewolfPelt.label>
-	<DankPyon_Apparel_DirewolfPelt.description>Ein warmer, robuster Mantel, genäht aus dem Fell eines Schattenwolfs. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen wilden Wolf getötet hat, um die Trophäe anzulegen.</DankPyon_Apparel_DirewolfPelt.description>
-	
-	<DankPyon_Apparel_HyenaPelt.label>Hyänenfell</DankPyon_Apparel_HyenaPelt.label>
-	<DankPyon_Apparel_HyenaPelt.description>Ein warmer, robuster Mantel, genäht aus dem Fell einer Hyäne. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er eine wilde Hyäne getötet hat, um die Trophäe anzulegen. Das Fell schüchtert zwar die Ängstlichen ein, verleiht ihm aber auch Stärke und Selbstvertrauen im Kampf.</DankPyon_Apparel_HyenaPelt.description>
-	
-	<DankPyon_Apparel_LindwurmCloak.label>Lindwurmschuppen-Umhang</DankPyon_Apparel_LindwurmCloak.label>
-	<DankPyon_Apparel_LindwurmCloak.description>Ein schuppiger, robuster Umhang, genäht aus den Schuppen eines Lindwurms. Das Tragen des Umhangs zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen gefährlichen Lindwurm getötet hat, um die Trophäe anzulegen. \n\nGewährt Immunität gegen Lindwurmsäure.</DankPyon_Apparel_LindwurmCloak.description>
-	
-	<DankPyon_Apparel_FurCloak.label>Pelzumhang</DankPyon_Apparel_FurCloak.label>
-	<DankPyon_Apparel_FurCloak.description>Ein warmer, robuster Mantel, genäht aus dickem, festem Fell. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen Unhold getötet hat, um die Trophäe anzulegen. Der Umhang schüchtert zwar die Ängstlichen ein, verleiht ihm aber auch die Fähigkeit, schwere Treffer abzuwehren.</DankPyon_Apparel_FurCloak.description>
-	
-	<DankPyon_Apparel_BonePlating.label>Knochenplattierung</DankPyon_Apparel_BonePlating.label>
-	<DankPyon_Apparel_BonePlating.description>Spezielle Panzerung aus Unhold-Knochen. Der Umhang schüchtert zwar die Ängstlichen ein, verleiht ihm aber auch die Fähigkeit, schwere Treffer abzuwehren.</DankPyon_Apparel_BonePlating.description>
-	
-	<DankPyon_Apparel_AdditionalFurPadding.label>Zusätzliche Fellpolsterung</DankPyon_Apparel_AdditionalFurPadding.label>
-	<DankPyon_Apparel_AdditionalFurPadding.description>Zusätzliche Polsterung aus Unhold-Fell und der Haut eines Schattenwolfs. Das Tragen des Fells zeigt die Stärke des Besitzers, denn es ist ein Beweis dafür, dass er einen Unhold getötet hat, um die Trophäe anzulegen. Während sie die Ängstlichen einschüchtern, wirken die zusätzlichen Polsterkissen auf den Träger ein.</DankPyon_Apparel_AdditionalFurPadding.description>
-	
-	<DankPyon_Apparel_RunesAndSigils.label>Runen und Siegel</DankPyon_Apparel_RunesAndSigils.label>
-	<DankPyon_Apparel_RunesAndSigils.description>PLATZHALTER.</DankPyon_Apparel_RunesAndSigils.description>		
-	
+  <DankPyon_Headgear_WolfTimber.label>Capucha de Lobo (Timber)</DankPyon_Headgear_WolfTimber.label>
+  <DankPyon_Headgear_WolfTimber.description>Un abrigo cálido y robusto, cosido con la piel de un lobo. Llevar la piel muestra la fuerza del propietario, ya que es una prueba de que ha matado a un lobo salvaje para usar el trofeo.</DankPyon_Headgear_WolfTimber.description>
+  <DankPyon_Headgear_WolfArctic.label>Capucha de Lobo (Ártico)</DankPyon_Headgear_WolfArctic.label>
+  <DankPyon_Headgear_BearGrizzly.label>Capucha de Oso (Grizzly)</DankPyon_Headgear_BearGrizzly.label>
+  <DankPyon_Headgear_BearGrizzly.description>Un abrigo cálido y robusto, cosido con la piel de un oso. Llevar la piel muestra la fuerza del propietario, ya que es una prueba de que ha matado a un oso salvaje para usar el trofeo.</DankPyon_Headgear_BearGrizzly.description>
+  <DankPyon_Headgear_BearPolar.label>Capucha de Oso (Polar)</DankPyon_Headgear_BearPolar.label>
+  <DankPyon_Apparel_DirewolfPelt.label>Piel de Lobo Terrible</DankPyon_Apparel_DirewolfPelt.label>
+  <DankPyon_Apparel_DirewolfPelt.description>Un abrigo cálido y robusto, cosido con la piel de un lobo terrible. Llevar la piel muestra la fuerza del propietario, ya que es una prueba de que ha matado a un lobo salvaje para usar el trofeo.</DankPyon_Apparel_DirewolfPelt.description>
+  <DankPyon_Apparel_HyenaPelt.label>Piel de Hiena</DankPyon_Apparel_HyenaPelt.label>
+  <DankPyon_Apparel_HyenaPelt.description>Un abrigo cálido y robusto, cosido con la piel de una hiena. Llevar la piel muestra la fuerza del portador, ya que es una prueba de que ha matado a una hiena salvaje para obtener el trofeo. Aunque la piel intimida a los temerosos, también le otorga fuerza y confianza en la batalla.</DankPyon_Apparel_HyenaPelt.description>
+  <DankPyon_Apparel_LindwurmCloak.label>Capa de Escamas de Lindwurm</DankPyon_Apparel_LindwurmCloak.label>
+  <DankPyon_Apparel_LindwurmCloak.description>Una capa escamosa y robusta, cosida con las escamas de un lindwurm. Llevar la capa muestra la fuerza del portador, ya que es una prueba de que ha matado a un peligroso lindwurm para obtener el trofeo. \n\nOtorga inmunidad contra el ácido de lindwurm.</DankPyon_Apparel_LindwurmCloak.description>
+  <DankPyon_Apparel_FurCloak.label>Capa de Piel</DankPyon_Apparel_FurCloak.label>
+  <DankPyon_Apparel_FurCloak.description>Un abrigo cálido y robusto, cosido con piel gruesa y firme. Llevar la piel muestra la fuerza del portador, ya que es una prueba de que ha matado a un ogro para obtener el trofeo. Aunque la capa intimida a los temerosos, también le otorga la capacidad de resistir golpes fuertes.</DankPyon_Apparel_FurCloak.description>
+  <DankPyon_Apparel_BonePlating.label>Placas de Hueso</DankPyon_Apparel_BonePlating.label>
+  <DankPyon_Apparel_BonePlating.description>Armadura especial hecha de huesos de ogro. Aunque la capa intimida a los temerosos, también le otorga la capacidad de resistir golpes fuertes.</DankPyon_Apparel_BonePlating.description>
+  <DankPyon_Apparel_AdditionalFurPadding.label>Acolchado Adicional de Piel</DankPyon_Apparel_AdditionalFurPadding.label>
+  <DankPyon_Apparel_AdditionalFurPadding.description>Acolchado adicional hecho de piel de ogro y la piel de un lobo de sombra. Llevar la piel muestra la fuerza del portador, ya que es una prueba de que ha matado a un ogro para obtener el trofeo. Mientras intimidan a los temerosos, los cojines adicionales afectan al portador.</DankPyon_Apparel_AdditionalFurPadding.description>
+  <DankPyon_Apparel_RunesAndSigils.label>Runas y Sigilos</DankPyon_Apparel_RunesAndSigils.label>
+  <DankPyon_Apparel_RunesAndSigils.description>Runas y sigilos místicos grabados en la tela, otorgando un aire de poder arcano a quien los lleva.</DankPyon_Apparel_RunesAndSigils.description>
 </LanguageData>

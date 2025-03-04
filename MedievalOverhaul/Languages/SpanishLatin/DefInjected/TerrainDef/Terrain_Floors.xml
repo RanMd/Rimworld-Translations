@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_PlowedSoil.label>Gepflügter Boden</DankPyon_PlowedSoil.label>
-	<DankPyon_PlowedSoil.description>Pflüge den Boden, um seine Fruchtbarkeit zu erhöhen.</DankPyon_PlowedSoil.description>
-	
-	<IronTile.label>Eisenfliese</IronTile.label>
-	<IronTile.description>Eisenfliesen für den robusten Look. Sie sind schnell zu reinigen und bieten einen kleinen Sauberkeitsvorteil für den Einsatz im medizinischen Bereich.</IronTile.description>
+  <DankPyon_PlowedSoil.label>Suelo Arado</DankPyon_PlowedSoil.label>
+  <DankPyon_PlowedSoil.description>Ara el suelo para aumentar su fertilidad.</DankPyon_PlowedSoil.description>
+  <IronTile.label>Azulejo de Hierro</IronTile.label>
+  <IronTile.description>Azulejos de hierro para un aspecto robusto. Son fáciles de limpiar y ofrecen una pequeña ventaja de limpieza para su uso en áreas médicas.</IronTile.description>
 </LanguageData>

@@ -1,27 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_MakeClothBase.jobString>Baumwolle spinnen.</DankPyon_MakeClothBase.jobString>
-	
-	<DankPyon_MakeCloth.label>Baumwolle spinnen</DankPyon_MakeCloth.label>
-	<DankPyon_MakeCloth.description>Rohe Baumwolle zu Stoff verspinnen.</DankPyon_MakeCloth.description>
-	
-	<DankPyon_MakeClothBulk.label>Baumwolle spinnen x50</DankPyon_MakeClothBulk.label>
-	<DankPyon_MakeClothBulk.description>Rohe Baumwolle zu 50 Stoff verspinnen.</DankPyon_MakeClothBulk.description>
-	
-	<DankPyon_MakeLinen.label>Leinen spinnen</DankPyon_MakeLinen.label>
-	<DankPyon_MakeLinen.description>Rohen Flachs zu Leinenstoff verspinnen.</DankPyon_MakeLinen.description>
-	<DankPyon_MakeLinen.jobString>Spinnen von Flachs.</DankPyon_MakeLinen.jobString>
-	
-	<DankPyon_MakeLinenBulk.label>Leinen spinnen 50x</DankPyon_MakeLinenBulk.label>
-	<DankPyon_MakeLinenBulk.description>Rohen Flachs zu 50 Leinenstoff verspinnen.</DankPyon_MakeLinenBulk.description>
-	<DankPyon_MakeLinenBulk.jobString>Spinnen von Flachs.</DankPyon_MakeLinenBulk.jobString>
-	
-	<DankPyon_MakeClothFromWool.label>Wolle spinnen</DankPyon_MakeClothFromWool.label>
-	<DankPyon_MakeClothFromWool.description>Wolle zu Wollstoff verspinnen.</DankPyon_MakeClothFromWool.description>
-	<DankPyon_MakeClothFromWool.jobString>Wolle spinnen.</DankPyon_MakeClothFromWool.jobString>
-	
-	<DankPyon_Make50ClothFromWool.label>Wolle spinnen 50x</DankPyon_Make50ClothFromWool.label>
-	<DankPyon_Make50ClothFromWool.description>Wolle zu 50 Wollstoff verspinnen.</DankPyon_Make50ClothFromWool.description>
-	<DankPyon_Make50ClothFromWool.jobString>Wolle spinnen.</DankPyon_Make50ClothFromWool.jobString>
+  <DankPyon_MakeClothBase.jobString>Hilar algodón.</DankPyon_MakeClothBase.jobString>
+  <DankPyon_MakeCloth.label>Hilar algodón</DankPyon_MakeCloth.label>
+  <DankPyon_MakeCloth.description>Hilar algodón crudo en tela.</DankPyon_MakeCloth.description>
+  <DankPyon_MakeClothBulk.label>Hilar algodón x50</DankPyon_MakeClothBulk.label>
+  <DankPyon_MakeClothBulk.description>Hilar 50 algodones crudos en tela.</DankPyon_MakeClothBulk.description>
+  <DankPyon_MakeLinen.label>Hilar lino</DankPyon_MakeLinen.label>
+  <DankPyon_MakeLinen.description>Hilar lino crudo en tela de lino.</DankPyon_MakeLinen.description>
+  <DankPyon_MakeLinen.jobString>Hilar lino.</DankPyon_MakeLinen.jobString>
+  <DankPyon_MakeLinenBulk.label>Hilar lino 50x</DankPyon_MakeLinenBulk.label>
+  <DankPyon_MakeLinenBulk.description>Hilar 50 linos crudos en tela de lino.</DankPyon_MakeLinenBulk.description>
+  <DankPyon_MakeLinenBulk.jobString>Hilar lino.</DankPyon_MakeLinenBulk.jobString>
+  <DankPyon_MakeClothFromWool.label>Hilar lana</DankPyon_MakeClothFromWool.label>
+  <DankPyon_MakeClothFromWool.description>Hilar lana en tela de lana.</DankPyon_MakeClothFromWool.description>
+  <DankPyon_MakeClothFromWool.jobString>Hilar lana.</DankPyon_MakeClothFromWool.jobString>
+  <DankPyon_Make50ClothFromWool.label>Hilar lana 50x</DankPyon_Make50ClothFromWool.label>
+  <DankPyon_Make50ClothFromWool.description>Hilar 50 lanas en tela de lana.</DankPyon_Make50ClothFromWool.description>
+  <DankPyon_Make50ClothFromWool.jobString>Hilar lana.</DankPyon_Make50ClothFromWool.jobString>
 </LanguageData>

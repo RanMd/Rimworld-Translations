@@ -1,28 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Shield.label>Rundschild</DankPyon_Shield.label>
-	<DankPyon_Shield.description>Ein runder Schild bietet gute Abdeckung und Schutz vor physischen Schlägen.</DankPyon_Shield.description>
-	
-	<DankPyon_ShieldKite.label>Drachenschild</DankPyon_ShieldKite.label>
-	<DankPyon_ShieldKite.description>Ein länglicher Schild, der einen großen Schutzbereich bietet. Etwas sperrig für den Nahkampf.</DankPyon_ShieldKite.description>
-	
-	<DankPyon_ShieldHeater.label>Dreiecksschild</DankPyon_ShieldHeater.label>
-	<DankPyon_ShieldHeater.description>Ein leichter dreieckiger Holzschild.</DankPyon_ShieldHeater.description>
-	
-	<DankPyon_ShieldHeaterBase.label>Dreiecksschild</DankPyon_ShieldHeaterBase.label>
-	<DankPyon_ShieldHeaterBase.description>Ein leichter dreieckiger Holzschild.</DankPyon_ShieldHeaterBase.description>
-
-
-	<DankPyon_ShieldHeater_Amboise.label>Dreiecksschild (Amboise)</DankPyon_ShieldHeater_Amboise.label>
-	<DankPyon_ShieldHeater_Soren.label>Dreiecksschild (Soren)</DankPyon_ShieldHeater_Soren.label>
-	<DankPyon_ShieldHeater_Oswin.label>Dreiecksschild (Oswin)</DankPyon_ShieldHeater_Oswin.label>
-	<DankPyon_ShieldHeater_Hesse.label>Dreiecksschild (Hesse)</DankPyon_ShieldHeater_Hesse.label>
-	
-	<DankPyon_ShieldLiving.label>Lebender Baumschild</DankPyon_ShieldLiving.label>
-	<DankPyon_ShieldLiving.description>Ein aus den Überresten eines lebenden Baumes geschnitzter Schild lässt alle erlittenen Schäden langsam nachwachsen. \n\Regeneriert die Haltbarkeit über einen bestimmten Zeitraum.</DankPyon_ShieldLiving.description>
-	
-	<DankPyon_ShieldLindwurm.label>Lindwurmschild</DankPyon_ShieldLindwurm.label>
-	<DankPyon_ShieldLindwurm.description>Dieser robuste Schild aus den schimmernden Schuppen eines Lindwurms sorgt für nahezu unzerstörbaren Schutz. \n\nGewährt Immunität gegen Lindwurmsäure.</DankPyon_ShieldLindwurm.description>
-
+  <DankPyon_Shield.label>Escudo Redondo</DankPyon_Shield.label>
+  <DankPyon_Shield.description>Un escudo redondo ofrece buena cobertura y protección contra golpes físicos.</DankPyon_Shield.description>
+  <DankPyon_ShieldKite.label>Escudo de Dragón</DankPyon_ShieldKite.label>
+  <DankPyon_ShieldKite.description>Un escudo alargado que ofrece una gran área de protección. Algo voluminoso para el combate cuerpo a cuerpo.</DankPyon_ShieldKite.description>
+  <DankPyon_ShieldHeater.label>Escudo Triangular</DankPyon_ShieldHeater.label>
+  <DankPyon_ShieldHeater.description>Un escudo triangular de madera ligero.</DankPyon_ShieldHeater.description>
+  <DankPyon_ShieldHeaterBase.label>Escudo Triangular</DankPyon_ShieldHeaterBase.label>
+  <DankPyon_ShieldHeaterBase.description>Un escudo triangular de madera ligero.</DankPyon_ShieldHeaterBase.description>
+  <DankPyon_ShieldHeater_Amboise.label>Escudo Triangular (Amboise)</DankPyon_ShieldHeater_Amboise.label>
+  <DankPyon_ShieldHeater_Soren.label>Escudo Triangular (Soren)</DankPyon_ShieldHeater_Soren.label>
+  <DankPyon_ShieldHeater_Oswin.label>Escudo Triangular (Oswin)</DankPyon_ShieldHeater_Oswin.label>
+  <DankPyon_ShieldHeater_Hesse.label>Escudo Triangular (Hesse)</DankPyon_ShieldHeater_Hesse.label>
+  <DankPyon_ShieldLiving.label>Escudo de Árbol Vivo</DankPyon_ShieldLiving.label>
+  <DankPyon_ShieldLiving.description>Un escudo tallado de los restos de un árbol vivo permite que todos los daños sufridos se regeneren lentamente. \n\Regenera la durabilidad durante un período de tiempo.</DankPyon_ShieldLiving.description>
+  <DankPyon_ShieldLindwurm.label>Escudo de Lindworm</DankPyon_ShieldLindwurm.label>
+  <DankPyon_ShieldLindwurm.description>Este robusto escudo hecho de las escamas brillantes de un lindworm proporciona una protección casi indestructible. \n\nOtorga inmunidad contra el ácido de lindworm.</DankPyon_ShieldLindwurm.description>
 </LanguageData>

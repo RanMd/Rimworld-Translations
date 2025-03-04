@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RuinedShelfEmpty.label>Ruiniertes Regal</DankPyon_RuinedShelfEmpty.label>
-	<DankPyon_RuinedShelfEmpty.description>Ein ruiniertes Regal.</DankPyon_RuinedShelfEmpty.description>
-	
-	<DankPyon_LootableShelf_ChaliceSilver.label>Gefülltes Regal</DankPyon_LootableShelf_ChaliceSilver.label>
-	<DankPyon_LootableShelf_ChaliceSilver.description>Ein Regal voller Gegenstände.</DankPyon_LootableShelf_ChaliceSilver.description>
-	
-	<DankPyon_Lootable_RackMix.label>Waffenständer</DankPyon_Lootable_RackMix.label>
-	<DankPyon_Lootable_RackMix.description>Ein Ständer zur ordentlichen Aufbewahrung von Schwertern.</DankPyon_Lootable_RackMix.description>
-	
-	<DankPyon_Lootable_RackSword.label>Schwertständer</DankPyon_Lootable_RackSword.label>
-	<DankPyon_Lootable_RackSword.description>Ein Ständer zur ordentlichen Aufbewahrung von Schwertern.</DankPyon_Lootable_RackSword.description>
-
-	<DankPyon_Lootable_RackSpear.label>Speerständer</DankPyon_Lootable_RackSpear.label>
-	<DankPyon_Lootable_RackSpear.description>Ein Regal zur ordentlichen Aufbewahrung von Speeren.</DankPyon_Lootable_RackSpear.description>
-	
-	<DankPyon_LootableChest_RusticChest.label>Truhe</DankPyon_LootableChest_RusticChest.label>
-	<DankPyon_LootableChest_RusticChest.description>Eine Truhe zur Aufbewahrung von Schätzen und Müll.</DankPyon_LootableChest_RusticChest.description>
-	
-	
-	<DankPyon_LootableChest_RoyalChest.label>Königliche Truhe</DankPyon_LootableChest_RoyalChest.label>
-	<DankPyon_LootableChest_RoyalChest.description>Eine königliche Truhe zur Aufbewahrung königlicher Schätze und königlichen Mülls.</DankPyon_LootableChest_RoyalChest.description>
-	
-	<DankPyon_Lootable_ArmorStatueNamed.label>Benannte Rüstungsstatue</DankPyon_Lootable_ArmorStatueNamed.label>
-	<DankPyon_Lootable_ArmorStatueNamed.description>Ein Stand mit prestigeträchtigen Rüstungen, die von alten Königen und Helden getragen wurden.</DankPyon_Lootable_ArmorStatueNamed.description>
-
+  <DankPyon_RuinedShelfEmpty.label>Estante Arruinado</DankPyon_RuinedShelfEmpty.label>
+  <DankPyon_RuinedShelfEmpty.description>Un estante arruinado.</DankPyon_RuinedShelfEmpty.description>
+  <DankPyon_LootableShelf_ChaliceSilver.label>Estante Lleno</DankPyon_LootableShelf_ChaliceSilver.label>
+  <DankPyon_LootableShelf_ChaliceSilver.description>Un estante lleno de objetos.</DankPyon_LootableShelf_ChaliceSilver.description>
+  <DankPyon_Lootable_RackMix.label>Soporte de Armas</DankPyon_Lootable_RackMix.label>
+  <DankPyon_Lootable_RackMix.description>Un soporte para almacenar espadas ordenadamente.</DankPyon_Lootable_RackMix.description>
+  <DankPyon_Lootable_RackSword.label>Soporte de Espadas</DankPyon_Lootable_RackSword.label>
+  <DankPyon_Lootable_RackSword.description>Un soporte para almacenar espadas ordenadamente.</DankPyon_Lootable_RackSword.description>
+  <DankPyon_Lootable_RackSpear.label>Soporte de Lanzas</DankPyon_Lootable_RackSpear.label>
+  <DankPyon_Lootable_RackSpear.description>Un estante para almacenar lanzas ordenadamente.</DankPyon_Lootable_RackSpear.description>
+  <DankPyon_LootableChest_RusticChest.label>Cofre</DankPyon_LootableChest_RusticChest.label>
+  <DankPyon_LootableChest_RusticChest.description>Un cofre para almacenar tesoros y basura.</DankPyon_LootableChest_RusticChest.description>
+  <DankPyon_LootableChest_RoyalChest.label>Cofre Real</DankPyon_LootableChest_RoyalChest.label>
+  <DankPyon_LootableChest_RoyalChest.description>Un cofre real para almacenar tesoros reales y basura real.</DankPyon_LootableChest_RoyalChest.description>
+  <DankPyon_Lootable_ArmorStatueNamed.label>Estatua de Armadura Nombrada</DankPyon_Lootable_ArmorStatueNamed.label>
+  <DankPyon_Lootable_ArmorStatueNamed.description>Un soporte con armaduras prestigiosas usadas por antiguos reyes y héroes.</DankPyon_Lootable_ArmorStatueNamed.description>
 </LanguageData>

@@ -1,41 +1,27 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_ToolRack.label>Werkzeugregal</DankPyon_ToolRack.label>
-	<DankPyon_ToolRack.description>Eine Sammlung von Schmiedewerkzeugen. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird.</DankPyon_ToolRack.description>
-	
-	<DankPyon_QuenchingBucket.label>Abschreckeimer</DankPyon_QuenchingBucket.label>
-	<DankPyon_QuenchingBucket.description>Ein Eimer voller Öl, das zum Abkühlen glimmender Metalle verwendet wird. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird..</DankPyon_QuenchingBucket.description>
-	
-	<DankPyon_Grinder.label>Schleifrad</DankPyon_Grinder.label>
-	<DankPyon_Grinder.description>Wird zum Schärfen von Waffen verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird.</DankPyon_Grinder.description>
-	
-	<DankPyon_Bellows.label>Blasebalg</DankPyon_Bellows.label>
-	<DankPyon_Bellows.description>Wird verwendet, um einen starken Luftstoß zu erzeugen. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe mittelalterlicher Werkbänke platziert wird.</DankPyon_Bellows.description>
-	
-	<DankPyon_VialsTable.label>Fläschchentisch</DankPyon_VialsTable.label>
-	<DankPyon_VialsTable.description>Wird zum Ordnen von Rezepten und Fläschchen verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe einer Alchemiebank oder eines Alchemiekessels platziert wird.</DankPyon_VialsTable.description>
-	
-	<DankPyon_HerbTable.label>Kräutertisch</DankPyon_HerbTable.label>
-	<DankPyon_HerbTable.description>Wird zum Mahlen von Kräutern und Zutaten verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe einer Alchemiebank oder eines Alchemiekessels platziert wird.</DankPyon_HerbTable.description>
-	
-	
-	<DankPyon_Alembic.label>Destillierkolben</DankPyon_Alembic.label>
-	<DankPyon_Alembic.description>Wird zum Destillieren von Gemischen verwendet. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe einer Alchemiebank oder eines Alchemiekessels platziert wird.</DankPyon_Alembic.description>
-	
-	<DankPyon_RusticCookingTools.label>Kochutensilien</DankPyon_RusticCookingTools.label>
-	<DankPyon_RusticCookingTools.description>Ein Tisch voller nützlicher Kochutensilien. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe eines rustikalen Kochtisches platziert wird.</DankPyon_RusticCookingTools.description>
-	
-	<DankPyon_TableBaking.label>Backutensilien</DankPyon_TableBaking.label>
-	<DankPyon_TableBaking.description>Ein Tisch voller nützlicher Backutensilien. Erhöht die Arbeitsgeschwindigkeit, wenn es in der Nähe eines Ofens platziert wird.</DankPyon_TableBaking.description>
-	
-	<DankPyon_BirdPost.label>Vogelpost</DankPyon_BirdPost.label>
-	<DankPyon_BirdPost.description>Einige Vögel sind, wenn sie von erfahrenen Trainern unterrichtet werden, in der Lage, zu einem bestimmten Ort zu fliegen, bevor sie zu ihrem Heimatquartier zurückkehren. Dies ermöglicht die Kommunikation mit benachbarten Fraktionen, vorausgesetzt, man kann sich die kostspieligen Anforderungen für die Anschaffung und Ausbildung des Vogels sowie die Fütterung der Tiere mit Fleisch leisten. Erfordert Schreibertisch für die Korrespondenz.</DankPyon_BirdPost.description>
-	
-	<DankPyon_ScribeTable.label>Schreibertisch</DankPyon_ScribeTable.label>
-	<DankPyon_ScribeTable.description>Ein Tisch mit Wachstafeln, die Aufzeichnungen und Quittungen enthalten. Neben den Tafeln lagen Pergamente, ein Siegel, Federn und Tinte, um die Korrespondenz zu ermöglichen. Zusammen mit dem Vogelposten können die geschriebenen Briefe weit entfernte Länder schneller erreichen als ein Bote. Man kann Verbündete zu Festen, Rivalen zu einer Herausforderung oder neutrale Fraktionen zum Handel einladen.</DankPyon_ScribeTable.description>
-	
-	<DankPyon_Cart.label>Wagon</DankPyon_Cart.label>
-	<DankPyon_Cart.description>Ein zuverlässiger Wagon, der Neuheiten, Artefakte und Waren durch die unbarmherzigen Randgebiete transportiert. \n\nFür den Fernhandel erforderlich. Sie können Waren nur an andere Fraktionen verkaufen, wenn diese sich in der Nähe eines Wagons befinden.</DankPyon_Cart.description>
-
+  <DankPyon_ToolRack.label>Estante de herramientas</DankPyon_ToolRack.label>
+  <DankPyon_ToolRack.description>Una colección de herramientas de herrería. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_ToolRack.description>
+  <DankPyon_QuenchingBucket.label>Cubo de enfriamiento</DankPyon_QuenchingBucket.label>
+  <DankPyon_QuenchingBucket.description>Un cubo lleno de aceite utilizado para enfriar metales al rojo vivo. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_QuenchingBucket.description>
+  <DankPyon_Grinder.label>Rueda de afilar</DankPyon_Grinder.label>
+  <DankPyon_Grinder.description>Se utiliza para afilar armas. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_Grinder.description>
+  <DankPyon_Bellows.label>Fuelle</DankPyon_Bellows.label>
+  <DankPyon_Bellows.description>Se utiliza para generar una ráfaga de aire fuerte. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_Bellows.description>
+  <DankPyon_VialsTable.label>Mesa de frascos</DankPyon_VialsTable.label>
+  <DankPyon_VialsTable.description>Se utiliza para organizar recetas y frascos. Aumenta la velocidad de trabajo cuando se coloca cerca de un banco de alquimia o un caldero de alquimia.</DankPyon_VialsTable.description>
+  <DankPyon_HerbTable.label>Mesa de hierbas</DankPyon_HerbTable.label>
+  <DankPyon_HerbTable.description>Se utiliza para moler hierbas e ingredientes. Aumenta la velocidad de trabajo cuando se coloca cerca de un banco de alquimia o un caldero de alquimia.</DankPyon_HerbTable.description>
+  <DankPyon_Alembic.label>Alambique</DankPyon_Alembic.label>
+  <DankPyon_Alembic.description>Se utiliza para destilar mezclas. Aumenta la velocidad de trabajo cuando se coloca cerca de un banco de alquimia o un caldero de alquimia.</DankPyon_Alembic.description>
+  <DankPyon_RusticCookingTools.label>Utensilios de cocina rústicos</DankPyon_RusticCookingTools.label>
+  <DankPyon_RusticCookingTools.description>Una mesa llena de útiles utensilios de cocina. Aumenta la velocidad de trabajo cuando se coloca cerca de una mesa de cocina rústica.</DankPyon_RusticCookingTools.description>
+  <DankPyon_TableBaking.label>Utensilios de horneado</DankPyon_TableBaking.label>
+  <DankPyon_TableBaking.description>Una mesa llena de útiles utensilios de horneado. Aumenta la velocidad de trabajo cuando se coloca cerca de un horno.</DankPyon_TableBaking.description>
+  <DankPyon_BirdPost.label>Correo de aves</DankPyon_BirdPost.label>
+  <DankPyon_BirdPost.description>Algunas aves, cuando son entrenadas por entrenadores experimentados, pueden volar a un lugar específico antes de regresar a su cuartel general. Esto permite la comunicación con facciones vecinas, siempre que se puedan cumplir los costosos requisitos para la adquisición y entrenamiento del ave, así como la alimentación de los animales con carne. Requiere una mesa de escriba para la correspondencia.</DankPyon_BirdPost.description>
+  <DankPyon_ScribeTable.label>Mesa de escriba</DankPyon_ScribeTable.label>
+  <DankPyon_ScribeTable.description>Una mesa con tablillas de cera que contienen registros y recibos. Junto a las tablillas había pergaminos, un sello, plumas y tinta para permitir la correspondencia. Junto con el correo de aves, las cartas escritas pueden llegar a tierras lejanas más rápido que un mensajero. Se pueden invitar aliados a fiestas, retar a rivales o invitar a facciones neutrales a comerciar.</DankPyon_ScribeTable.description>
+  <DankPyon_Cart.label>Carro</DankPyon_Cart.label>
+  <DankPyon_Cart.description>Un carro confiable que transporta novedades, artefactos y mercancías a través de las implacables tierras fronterizas. \n\nRequerido para el comercio a larga distancia. Solo puede vender mercancías a otras facciones si están cerca de un carro.</DankPyon_Cart.description>
 </LanguageData>

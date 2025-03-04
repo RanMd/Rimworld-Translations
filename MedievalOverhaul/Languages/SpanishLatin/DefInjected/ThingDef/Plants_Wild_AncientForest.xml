@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_TreeLylses.label>Lylse</DankPyon_TreeLylses.label>
-	<DankPyon_TreeLylses.description>Die in alten Biomen beheimatete Lylse ist höher als die Vanilla-Eiche (oder erreicht ihre Höhe). Ihre lange, robuste Rinde und Zweige tragen hellgrüne Blätter, die im Sonnenlicht gedeihen. Durch gefällte Lylses entsteht Elfenholz, das haltbarer, aber auch leichter ist als Eichenholz, was Lylses-Baumstämme für den Bau und die Holzbearbeitung wünschenswert macht.</DankPyon_TreeLylses.description>
-	
-	<DankPyon_TreeScara.label>Scara</DankPyon_TreeScara.label>
-	<DankPyon_TreeScara.description>Scara-Bäume sind zwar oft viermal so groß wie andere Bäume, stellen ihre Schwestergattung, die Lylse, jedoch immer noch in den Schatten. Ihre breiten Stämme trägt eine Vielzahl herbstlich gefärbter Blätter, die in großen Gruppen schnell den Boden beschatten. Das aus Scaras gewonnene Elfenholz ist haltbarer und leichter als Vanilla-Holz und daher entsprechend teurer und stärker.</DankPyon_TreeScara.description>	
-
+  <DankPyon_TreeLylses.label>Lylse</DankPyon_TreeLylses.label>
+  <DankPyon_TreeLylses.description>La Lylse, nativa de biomas antiguos, es más alta que el roble de vainilla (o alcanza su altura). Su corteza y ramas largas y robustas llevan hojas verde claro que prosperan a la luz del sol. Los Lylses talados producen madera de elfo, que es más duradera pero también más ligera que la madera de roble, lo que hace que los troncos de Lylses sean deseables para la construcción y la carpintería.</DankPyon_TreeLylses.description>
+  <DankPyon_TreeScara.label>Scara</DankPyon_TreeScara.label>
+  <DankPyon_TreeScara.description>Los árboles Scara son a menudo cuatro veces más grandes que otros árboles, pero aún así eclipsan a su género hermano, la Lylse. Sus troncos anchos llevan una variedad de hojas de colores otoñales que rápidamente sombrean el suelo en grandes grupos. La madera de elfo obtenida de los Scaras es más duradera y ligera que la madera de vainilla, por lo que es más cara y resistente.</DankPyon_TreeScara.description>
 </LanguageData>

@@ -1,27 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_CraftFlour_Manual.label>Weizen zu Mehl mahlen</DankPyon_CraftFlour_Manual.label>
-	<DankPyon_CraftFlour_Manual.description>Weizen zu Mehl mahlen.</DankPyon_CraftFlour_Manual.description>
-	<DankPyon_CraftFlour_Manual.jobString>Weizen zu Mehl mahlen.</DankPyon_CraftFlour_Manual.jobString>
-	
-	<DankPyon_CraftFlour.label>Weizen zu Mehl mahlen</DankPyon_CraftFlour.label>
-	<DankPyon_CraftFlour.description>Weizen zu Mehl mahlen.</DankPyon_CraftFlour.description>
-	<DankPyon_CraftFlour.jobString>Weizen zu Mehl mahlen.</DankPyon_CraftFlour.jobString>
-	
-	<DankPyon_CraftFlourBulk.label>Weizen zu Mehl mahlen x10</DankPyon_CraftFlourBulk.label>
-	<DankPyon_CraftFlourBulk.description>Weizen zu Mehl mahlen x10.</DankPyon_CraftFlourBulk.description>
-	<DankPyon_CraftFlourBulk.jobString>Weizen zu Mehl mahlen x10.</DankPyon_CraftFlourBulk.jobString>
-	
-	<DankPyon_CraftSugar_Manual.label>Zuckerrohr zu Zucker mahlen</DankPyon_CraftSugar_Manual.label>
-	<DankPyon_CraftSugar_Manual.description>Zuckerrohr zu Zucker mahlen.</DankPyon_CraftSugar_Manual.description>
-	<DankPyon_CraftSugar_Manual.jobString>Zuckerrohr zu Zucker mahlen.</DankPyon_CraftSugar_Manual.jobString>
-	
-	<DankPyon_CraftSugar.label>Zuckerrohr zu Zucker mahlen</DankPyon_CraftSugar.label>
-	<DankPyon_CraftSugar.description>Zuckerrohr zu Zucker mahlen.</DankPyon_CraftSugar.description>
-	<DankPyon_CraftSugar.jobString>Zuckerrohr zu Zucker mahlen.</DankPyon_CraftSugar.jobString>
-	
-	<DankPyon_CraftSugarBulk.label>Zuckerrohr zu Zucker mahlen x10</DankPyon_CraftSugarBulk.label>
-	<DankPyon_CraftSugarBulk.description>Zuckerrohr zu Zucker mahlen x10.</DankPyon_CraftSugarBulk.description>
-	<DankPyon_CraftSugarBulk.jobString>Zuckerrohr zu Zucker mahlen x10.</DankPyon_CraftSugarBulk.jobString>
+  <DankPyon_CraftFlour_Manual.label>Moler trigo a harina</DankPyon_CraftFlour_Manual.label>
+  <DankPyon_CraftFlour_Manual.description>Moler trigo a harina.</DankPyon_CraftFlour_Manual.description>
+  <DankPyon_CraftFlour_Manual.jobString>Moler trigo a harina.</DankPyon_CraftFlour_Manual.jobString>
+  <DankPyon_CraftFlour.label>Moler trigo a harina</DankPyon_CraftFlour.label>
+  <DankPyon_CraftFlour.description>Moler trigo a harina.</DankPyon_CraftFlour.description>
+  <DankPyon_CraftFlour.jobString>Moler trigo a harina.</DankPyon_CraftFlour.jobString>
+  <DankPyon_CraftFlourBulk.label>Moler trigo a harina x10</DankPyon_CraftFlourBulk.label>
+  <DankPyon_CraftFlourBulk.description>Moler trigo a harina x10.</DankPyon_CraftFlourBulk.description>
+  <DankPyon_CraftFlourBulk.jobString>Moler trigo a harina x10.</DankPyon_CraftFlourBulk.jobString>
+  <DankPyon_CraftSugar_Manual.label>Moler caña de azúcar a azúcar</DankPyon_CraftSugar_Manual.label>
+  <DankPyon_CraftSugar_Manual.description>Moler caña de azúcar a azúcar.</DankPyon_CraftSugar_Manual.description>
+  <DankPyon_CraftSugar_Manual.jobString>Moler caña de azúcar a azúcar.</DankPyon_CraftSugar_Manual.jobString>
+  <DankPyon_CraftSugar.label>Moler caña de azúcar a azúcar</DankPyon_CraftSugar.label>
+  <DankPyon_CraftSugar.description>Moler caña de azúcar a azúcar.</DankPyon_CraftSugar.description>
+  <DankPyon_CraftSugar.jobString>Moler caña de azúcar a azúcar.</DankPyon_CraftSugar.jobString>
+  <DankPyon_CraftSugarBulk.label>Moler caña de azúcar a azúcar x10</DankPyon_CraftSugarBulk.label>
+  <DankPyon_CraftSugarBulk.description>Moler caña de azúcar a azúcar x10.</DankPyon_CraftSugarBulk.description>
+  <DankPyon_CraftSugarBulk.jobString>Moler caña de azúcar a azúcar x10.</DankPyon_CraftSugarBulk.jobString>
 </LanguageData>

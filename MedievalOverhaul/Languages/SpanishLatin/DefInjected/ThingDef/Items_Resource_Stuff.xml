@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Bone.label>Knochen</DankPyon_Bone.label>
-	<DankPyon_Bone.description>Als allgemeines Material können Knochen von Tieren, einschließlich Menschen, verwendet werden. Knochenwaffen und -rüstungen bieten eine geringe Haltbarkeit, aber zugänglichen Schutz. Mit Knochen eingelegte Gebäude und Kunstwerke schmücken ansonsten schlechte oder langweilige Materialien. Auch wenn Knochen leicht zu erfassen sind, sollte mit Vorsicht vorgegangen werden, wenn Knochen als ganze Strukturen wie eine Wand oder eine Tür verwendet werden. Die beste Verwendung von Knochen, sei es für Rüstungen oder Kunstwerke, sollte die Aufwertung anderer Materialien sein.</DankPyon_Bone.description>
-	
-	<DankPyon_Linen.label>Leinen</DankPyon_Linen.label>
-	<DankPyon_Linen.description>Ein elastischer Stoff aus getrockneten Flachsfasern.</DankPyon_Linen.description>
-
-	<DankPyon_Silk.label>Seide</DankPyon_Silk.label>
-	<DankPyon_Silk.description>Ein weicher und luxuriöser Stoff, der häufig für edle Kleidung hergestellt wird.</DankPyon_Silk.description>
+  <DankPyon_Bone.label>Hueso</DankPyon_Bone.label>
+  <DankPyon_Bone.description>Como material general, los huesos de animales, incluidos los humanos, pueden ser utilizados. Las armas y armaduras de hueso ofrecen poca durabilidad, pero una protección accesible. Los edificios y obras de arte incrustados con huesos adornan materiales que de otro modo serían pobres o aburridos. Aunque los huesos son fáciles de obtener, se debe tener precaución al usarlos como estructuras completas, como una pared o una puerta. El mejor uso de los huesos, ya sea para armaduras o obras de arte, debería ser la mejora de otros materiales.</DankPyon_Bone.description>
+  <DankPyon_Linen.label>Lino</DankPyon_Linen.label>
+  <DankPyon_Linen.description>Una tela elástica hecha de fibras de lino secas.</DankPyon_Linen.description>
+  <DankPyon_Silk.label>Seda</DankPyon_Silk.label>
+  <DankPyon_Silk.description>Una tela suave y lujosa que se utiliza frecuentemente para confeccionar ropa elegante.</DankPyon_Silk.description>
 </LanguageData>

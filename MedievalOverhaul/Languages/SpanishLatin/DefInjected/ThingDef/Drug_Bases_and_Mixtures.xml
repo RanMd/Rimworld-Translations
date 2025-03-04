@@ -1,24 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Mixture_Miracle.label>Wundermischung der Apotheker</DankPyon_Mixture_Miracle.label>
-	<DankPyon_Mixture_Miracle.description>Eine Mischung aus Apothekerwunder. Muss noch weiter aufgebrüht werden, um verwendet zu werden.</DankPyon_Mixture_Miracle.description>
-	
-	<DankPyon_Mixture_HappyPowder.label>Glückspulvermischung</DankPyon_Mixture_HappyPowder.label>
-	<DankPyon_Mixture_HappyPowder.description>Eine Mischung aus Glückspulver. Muss noch weiter aufgebrüht werden, um verwendet zu werden.</DankPyon_Mixture_HappyPowder.description>
-	
-	<DankPyon_Mixture_BattleElixir.label>Kampfelixiermischung</DankPyon_Mixture_BattleElixir.label>
-	<DankPyon_Mixture_BattleElixir.description>Eine Mischung aus Kampfelixier. Muss noch weiter aufgebrüht werden, um verwendet zu werden.</DankPyon_Mixture_BattleElixir.description>
-	
-	<DankPyon_Mixture_Paregoric.label>Paregorische Mischung</DankPyon_Mixture_Paregoric.label>
-	<DankPyon_Mixture_Paregoric.description>Eine Mischung aus Paregorik. Muss noch weiter aufgebrüht werden, um verwendet zu werden.</DankPyon_Mixture_Paregoric.description>
-	
-	<DankPyon_Mixture_VigorPill.label>Vitalitätspillenmischung</DankPyon_Mixture_VigorPill.label>
-	<DankPyon_Mixture_VigorPill.description>Eine Mischung aus Vitalitätspillen. Muss noch weiter aufgebrüht werden, um verwendet zu werden.</DankPyon_Mixture_VigorPill.description>
-	
-	<DankPyon_Mixture_Luhix.label>Luhixmischung</DankPyon_Mixture_Luhix.label>
-	<DankPyon_Mixture_Luhix.description>Eine Mischung aus Luhix. Muss noch weiter aufgebrüht werden, um verwendet zu werden.</DankPyon_Mixture_Luhix.description>
-	
-	<DankPyon_Mixture_Stardust.label>Sternenstaubmischung</DankPyon_Mixture_Stardust.label>
-	<DankPyon_Mixture_Stardust.description>Eine Mischung aus Sternenstaub. Muss noch weiter aufgebrüht werden, um verwendet zu werden.</DankPyon_Mixture_Stardust.description>
+  <DankPyon_Mixture_Miracle.label>Mezcla Milagrosa del Farmacéutico</DankPyon_Mixture_Miracle.label>
+  <DankPyon_Mixture_Miracle.description>Una mezcla de milagro farmacéutico. Aún necesita ser hervida más para ser utilizada.</DankPyon_Mixture_Miracle.description>
+  <DankPyon_Mixture_HappyPowder.label>Mezcla de Polvo de Felicidad</DankPyon_Mixture_HappyPowder.label>
+  <DankPyon_Mixture_HappyPowder.description>Una mezcla de polvo de felicidad. Aún necesita ser hervida más para ser utilizada.</DankPyon_Mixture_HappyPowder.description>
+  <DankPyon_Mixture_BattleElixir.label>Mezcla de Elixir de Batalla</DankPyon_Mixture_BattleElixir.label>
+  <DankPyon_Mixture_BattleElixir.description>Una mezcla de elixir de batalla. Aún necesita ser hervida más para ser utilizada.</DankPyon_Mixture_BattleElixir.description>
+  <DankPyon_Mixture_Paregoric.label>Mezcla de Paregórico</DankPyon_Mixture_Paregoric.label>
+  <DankPyon_Mixture_Paregoric.description>Una mezcla de paregórico. Aún necesita ser hervida más para ser utilizada.</DankPyon_Mixture_Paregoric.description>
+  <DankPyon_Mixture_VigorPill.label>Mezcla de Píldoras de Vigor</DankPyon_Mixture_VigorPill.label>
+  <DankPyon_Mixture_VigorPill.description>Una mezcla de píldoras de vigor. Aún necesita ser hervida más para ser utilizada.</DankPyon_Mixture_VigorPill.description>
+  <DankPyon_Mixture_Luhix.label>Mezcla de Luhix</DankPyon_Mixture_Luhix.label>
+  <DankPyon_Mixture_Luhix.description>Una mezcla de Luhix. Aún necesita ser hervida más para ser utilizada.</DankPyon_Mixture_Luhix.description>
+  <DankPyon_Mixture_Stardust.label>Mezcla de Polvo de Estrellas</DankPyon_Mixture_Stardust.label>
+  <DankPyon_Mixture_Stardust.description>Una mezcla de polvo de estrellas. Aún necesita ser hervida más para ser utilizada.</DankPyon_Mixture_Stardust.description>
 </LanguageData>

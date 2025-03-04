@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Intoxication.label>Rausch</DankPyon_Intoxication.label>
-	<DankPyon_Intoxication.description>Der regelmäßige Konsum von Drogen, Alkoholikern, Kräutern und Medikamenten verstärkt Ihren Rausch. Ein hoher Grad an Vergiftung kann unerwünschte Auswirkungen auf den Bewohner haben.</DankPyon_Intoxication.description>
-	<DankPyon_Intoxication.stages.0.label>vernachlässigbar (keine Auswirkung)</DankPyon_Intoxication.stages.0.label>
-	<DankPyon_Intoxication.stages.1.label>gering</DankPyon_Intoxication.stages.1.label>
-	<DankPyon_Intoxication.stages.2.label>stark</DankPyon_Intoxication.stages.2.label>
-	<DankPyon_Intoxication.stages.3.label>extrem</DankPyon_Intoxication.stages.3.label>
-	
-	<DankPyon_Painless.label>schmerzlos</DankPyon_Painless.label>
-	<DankPyon_Painless.description>Schmerzlos.</DankPyon_Painless.description>
-
+  <DankPyon_Intoxication.label>Intoxicación</DankPyon_Intoxication.label>
+  <DankPyon_Intoxication.description>El consumo regular de drogas, alcohol, hierbas y medicamentos aumenta su intoxicación. Un alto grado de intoxicación puede tener efectos no deseados en el residente.</DankPyon_Intoxication.description>
+  <DankPyon_Intoxication.stages.0.label>despreciable (sin efecto)</DankPyon_Intoxication.stages.0.label>
+  <DankPyon_Intoxication.stages.1.label>leve</DankPyon_Intoxication.stages.1.label>
+  <DankPyon_Intoxication.stages.2.label>fuerte</DankPyon_Intoxication.stages.2.label>
+  <DankPyon_Intoxication.stages.3.label>extremo</DankPyon_Intoxication.stages.3.label>
+  <DankPyon_Painless.label>sin dolor</DankPyon_Painless.label>
+  <DankPyon_Painless.description>Sin dolor.</DankPyon_Painless.description>
 </LanguageData>

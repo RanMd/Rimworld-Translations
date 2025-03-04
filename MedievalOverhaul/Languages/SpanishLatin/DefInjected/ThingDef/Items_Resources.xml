@@ -1,68 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RawWood.label>Rohholz</DankPyon_RawWood.label>
-	<DankPyon_RawWood.description>Holz von Bäumen oder anderen Faserpflanzen. Nützlich zum Bau von Strukturen und Waffen. Es ist ein guter Brennstoff für Lagerfeuer und Generatoren und kann zu chemischem Treibstoff raffiniert werden. Im Notfall kann ein Stück Holz als Waffe oder Bein verwendet werden.</DankPyon_RawWood.description>
-	<DankPyon_RawWood.stuffProps.stuffAdjective>hölzern</DankPyon_RawWood.stuffProps.stuffAdjective>
-	
-	<DankPyon_RawDarkWood.label>Dunkles Holz</DankPyon_RawDarkWood.label>
-	<DankPyon_RawDarkWood.description>Eine dunkle, harte und alte Holzart, die dem Zahn der Zeit standgehalten hat. Nützlich zum Bau von Strukturen und Waffen. Es ist ein guter Brennstoff für Lagerfeuer.</DankPyon_RawDarkWood.description>
-
-	<DankPyon_Coal.label>Kohlebrocken</DankPyon_Coal.label>
-	<DankPyon_Coal.description>Kohle ist ein schwarzer, brennbarer Gesteinsbrocken, der hauptsächlich aus Kohlenstoff besteht. Eine gute Brennstoffquelle für Öfen und Öfen.</DankPyon_Coal.description>
-	
-	
-	<DankPyon_IceBlock.label>Eis</DankPyon_IceBlock.label>
-	<DankPyon_IceBlock.description>Wasser, das zu Eisblöcken gefroren wurde. Schmilzt bei Temperaturen über dem Gefrierpunkt.</DankPyon_IceBlock.description>
-	
-	<DankPyon_Waterskin.label>Wasserschlauch</DankPyon_Waterskin.label>
-	<DankPyon_Waterskin.description>Wasser, das gesammelt und in einen Beutel gegeben wurde.</DankPyon_Waterskin.description>
-
-	<DankPyon_Wax.label>Wachs</DankPyon_Wax.label>
-	<DankPyon_Wax.description>Eine organische Verbindung, die bei Raumtemperatur fest ist und daher über einen längeren Zeitraum gelagert werden kann. Kann zu Kerzen verarbeitet werden.</DankPyon_Wax.description>
-	
-	
-	<DankPyon_QueenBee.label>Oswin Königin</DankPyon_QueenBee.label>
-	<DankPyon_QueenBee.description>Die Matriarchin einer Geierbienenkolonie, die aus den Regionen des Hauses Oswin stammt. Im Gegensatz zu typischen Bienen fressen sie Aas und produzieren einen rauchigen und herzhaften Honig.</DankPyon_QueenBee.description>
-	
-	<DankPyon_Honey.label>Rauchiger Honig</DankPyon_Honey.label>
-	<DankPyon_Honey.description>Eine rauchige und herzhafte flüssige Substanz, die von Geierbienen hergestellt wird und als Konservierungsmittel verwendet oder zu einem alkoholischen Getränk fermentiert werden kann.</DankPyon_Honey.description>
-
-	<DankPyon_Honeycomb.label>Rauchige Wabe</DankPyon_Honeycomb.label>
-	<DankPyon_Honeycomb.description>Rohe, rauchige Waben, die Geierbienenhonig enthalten. \n\nKann extrahiert werden, um Wachs und rauchigen Honig zu gewinnen.</DankPyon_Honeycomb.description>
-	
-	
-	<DankPyon_IronOre.label>Eisenerz</DankPyon_IronOre.label>
-	<DankPyon_IronOre.description>Ein rohes Eisenerz muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_IronOre.description>
-	
-	<DankPyon_IronIngot.label>Eisenbarren</DankPyon_IronIngot.label>
-	<DankPyon_IronIngot.description>Ein würzig schmeckender Käselaib, der durch ein spezielles Verfahren der gezielten Gerinnung von Tiermilch entsteht. Er ist sowohl ein pur ein Leckerbissen als auch eine vielseitige Zutat in Mahlzeiten.</DankPyon_IronIngot.description>
-
-	<DankPyon_SilverOre.label>Silbererz</DankPyon_SilverOre.label>
-	<DankPyon_SilverOre.description>Ein rohes Silbererz muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_SilverOre.description>
-	
-	<DankPyon_GoldOre.label>Golderz</DankPyon_GoldOre.label>
-	<DankPyon_GoldOre.description>Ein rohes Golderz muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_GoldOre.description>
-	
-	<DankPyon_PlasteelOre.label>Rohes Plasteel</DankPyon_PlasteelOre.label>
-	<DankPyon_PlasteelOre.description>Roher Plaststahl muss in einer Schmelze zu Barren verarbeitet werden, um verwendbar zu sein.</DankPyon_PlasteelOre.description>
-
-	<DankPyon_Citrine.label>Citrin</DankPyon_Citrine.label>
-	<DankPyon_Citrine.description>Der als Citrin bekannte blassgelbe Quarz ist einer der Kristalle mit dem niedrigsten Wert. Das Verzieren von Schmuck mit diesem Edelstein erhöht den Wohlstand, wenn auch in geringerem Maße als mit wertvolleren Edelsteinen.</DankPyon_Citrine.description>
-	
-	<DankPyon_Amber.label>Bernstein</DankPyon_Amber.label>
-	<DankPyon_Amber.description>Ein gehärteter Edelstein aus versteinertem Baumharz. Wird allgemein wegen seines natürlichen gelb-orangen Farbtons bewundert und häufig für Ornamente und Dekorationen verwendet. Allerdings ist es zu weich, um für Waffen verwendet zu werden.</DankPyon_Amber.description>
-
-	<DankPyon_Onyx.label>Onyx</DankPyon_Onyx.label>
-	<DankPyon_Onyx.description>Dieses schwarz-weiße Mineral wechselt seine Farben durch parallele Bänder, manchmal in Harmonie und manchmal in Unordnung. Die chaotischen Farben entwerten diesen Edelstein jedoch nicht, sondern steigern vielmehr seinen Wert, insbesondere in Schnitzereien und Schmuck.</DankPyon_Onyx.description>
-
-	<DankPyon_Emerald.label>Smaragd</DankPyon_Emerald.label>
-	<DankPyon_Emerald.description>Ein robuster Edelstein mit überwiegend grüner Farbe. Der Wert dieses Kristalls wertet jedes Schmuckstück auf, sei es ein Edelstein am Schwertgriff oder eine Verzierung in einem Ring.</DankPyon_Emerald.description>
-	
-	<DankPyon_Sapphire.label>Saphir</DankPyon_Sapphire.label>
-	<DankPyon_Sapphire.description>Aufgrund seiner kristallinen Facette einer der wertvollsten und begehrtesten Edelsteine. Sein Blauton und sein Glanz sorgen für ästhetischen Schmuck, obwohl selbst der Edelstein genug Wert hat, um die Aufmerksamkeit gefährlicher Landstreicher auf sich zu ziehen.</DankPyon_Sapphire.description>
-	
-	<DankPyon_Ruby.label>Rubin</DankPyon_Ruby.label>
-	<DankPyon_Ruby.description>Der begehrteste Edelstein mit einer Farbe, die so blutig ist wie die Opfer, die die Menschen bringen, um ihn zu erhalten. Kulturen im ganzen Land fühlen sich von dem ästhetisch reichen Edelstein angezogen, der für den Handel, die Schmuckherstellung und sogar zur Präsentation verwendet wird.</DankPyon_Ruby.description>
-
+  <DankPyon_RawWood.label>Madera Cruda</DankPyon_RawWood.label>
+  <DankPyon_RawWood.description>Madera de árboles u otras plantas fibrosas. Útil para la construcción de estructuras y armas. Es un buen combustible para fogatas y generadores y puede ser refinado en combustible químico. En caso de emergencia, un trozo de madera puede ser usado como arma o pierna.</DankPyon_RawWood.description>
+  <DankPyon_RawWood.stuffProps.stuffAdjective>maderoso</DankPyon_RawWood.stuffProps.stuffAdjective>
+  <DankPyon_RawDarkWood.label>Madera Oscura</DankPyon_RawDarkWood.label>
+  <DankPyon_RawDarkWood.description>Un tipo de madera oscura, dura y antigua que ha resistido el paso del tiempo. Útil para la construcción de estructuras y armas. Es un buen combustible para fogatas.</DankPyon_RawDarkWood.description>
+  <DankPyon_Coal.label>Trozo de Carbón</DankPyon_Coal.label>
+  <DankPyon_Coal.description>El carbón es un trozo de roca negra y combustible, compuesto principalmente de carbono. Una buena fuente de combustible para hornos y estufas.</DankPyon_Coal.description>
+  <DankPyon_IceBlock.label>Hielo</DankPyon_IceBlock.label>
+  <DankPyon_IceBlock.description>Agua congelada en bloques de hielo. Se derrite a temperaturas por encima del punto de congelación.</DankPyon_IceBlock.description>
+  <DankPyon_Waterskin.label>Odre de Agua</DankPyon_Waterskin.label>
+  <DankPyon_Waterskin.description>Agua recogida y puesta en una bolsa.</DankPyon_Waterskin.description>
+  <DankPyon_Wax.label>Cera</DankPyon_Wax.label>
+  <DankPyon_Wax.description>Un compuesto orgánico que es sólido a temperatura ambiente y por lo tanto puede ser almacenado por largos períodos de tiempo. Puede ser procesado en velas.</DankPyon_Wax.description>
+  <DankPyon_QueenBee.label>Abeja Reina Oswin</DankPyon_QueenBee.label>
+  <DankPyon_QueenBee.description>La matriarca de una colonia de abejas carroñeras que proviene de las regiones de la casa Oswin. A diferencia de las abejas típicas, se alimentan de carroña y producen una miel ahumada y robusta.</DankPyon_QueenBee.description>
+  <DankPyon_Honey.label>Miel Ahumada</DankPyon_Honey.label>
+  <DankPyon_Honey.description>Una sustancia líquida ahumada y robusta producida por las abejas carroñeras, que puede ser utilizada como conservante o fermentada en una bebida alcohólica.</DankPyon_Honey.description>
+  <DankPyon_Honeycomb.label>Panal Ahumado</DankPyon_Honeycomb.label>
+  <DankPyon_Honeycomb.description>Panales crudos y ahumados que contienen miel de abejas carroñeras. \n\nPuede ser extraído para obtener cera y miel ahumada.</DankPyon_Honeycomb.description>
+  <DankPyon_IronOre.label>Mineral de Hierro</DankPyon_IronOre.label>
+  <DankPyon_IronOre.description>Un mineral de hierro crudo que debe ser procesado en una fundición para ser utilizable.</DankPyon_IronOre.description>
+  <DankPyon_IronIngot.label>Lingote de Hierro</DankPyon_IronIngot.label>
+  <DankPyon_IronIngot.description>Un lingote de hierro que debe ser procesado en una fundición para ser utilizable.</DankPyon_IronIngot.description>
+  <DankPyon_SilverOre.label>Mineral de Plata</DankPyon_SilverOre.label>
+  <DankPyon_SilverOre.description>Un mineral de plata crudo que debe ser procesado en una fundición para ser utilizable.</DankPyon_SilverOre.description>
+  <DankPyon_GoldOre.label>Mineral de Oro</DankPyon_GoldOre.label>
+  <DankPyon_GoldOre.description>Un mineral de oro crudo que debe ser procesado en una fundición para ser utilizable.</DankPyon_GoldOre.description>
+  <DankPyon_PlasteelOre.label>Plasteel Crudo</DankPyon_PlasteelOre.label>
+  <DankPyon_PlasteelOre.description>El plasteel crudo debe ser procesado en una fundición para ser utilizable.</DankPyon_PlasteelOre.description>
+  <DankPyon_Citrine.label>Citrino</DankPyon_Citrine.label>
+  <DankPyon_Citrine.description>El cuarzo amarillo pálido conocido como citrino es uno de los cristales de menor valor. Adornar joyas con esta gema aumenta la prosperidad, aunque en menor medida que con gemas más valiosas.</DankPyon_Citrine.description>
+  <DankPyon_Amber.label>Ámbar</DankPyon_Amber.label>
+  <DankPyon_Amber.description>Una gema endurecida de resina de árbol fosilizada. Generalmente admirada por su tono natural amarillo-naranja y comúnmente utilizada para adornos y decoraciones. Sin embargo, es demasiado blanda para ser utilizada en armas.</DankPyon_Amber.description>
+  <DankPyon_Onyx.label>Ónix</DankPyon_Onyx.label>
+  <DankPyon_Onyx.description>Este mineral blanco y negro cambia de color a través de bandas paralelas, a veces en armonía y a veces en desorden. Sin embargo, los colores caóticos no devalúan esta gema, sino que aumentan su valor, especialmente en tallados y joyería.</DankPyon_Onyx.description>
+  <DankPyon_Emerald.label>Esmeralda</DankPyon_Emerald.label>
+  <DankPyon_Emerald.description>Una gema robusta de color predominantemente verde. El valor de este cristal aumenta cualquier joya, ya sea una gema en el mango de una espada o una decoración en un anillo.</DankPyon_Emerald.description>
+  <DankPyon_Sapphire.label>Zafiro</DankPyon_Sapphire.label>
+  <DankPyon_Sapphire.description>Debido a su faceta cristalina, es una de las gemas más valiosas y codiciadas. Su tono azul y su brillo proporcionan una joyería estética, aunque la gema en sí tiene suficiente valor para atraer la atención de vagabundos peligrosos.</DankPyon_Sapphire.description>
+  <DankPyon_Ruby.label>Rubí</DankPyon_Ruby.label>
+  <DankPyon_Ruby.description>La gema más codiciada con un color tan sangriento como los sacrificios que la gente hace para obtenerla. Culturas de todo el país se sienten atraídas por la rica estética de esta gema, que se utiliza para el comercio, la fabricación de joyas e incluso para la presentación.</DankPyon_Ruby.description>
 </LanguageData>

@@ -1,47 +1,33 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Thought_BattleElixir.stages.0.label>Aufgepuscht von Kampfelixier</DankPyon_Thought_BattleElixir.stages.0.label>
-	<DankPyon_Thought_BattleElixir.stages.0.description>Ich fühle mich aufgepumpt, aber stabil. Ich bin die Kugel im Flug, bereit, dich zu durchdringen.</DankPyon_Thought_BattleElixir.stages.0.description>
-	
-	<DankPyon_Withdrawal_BattleElixir.stages.1.label>Kampfelixier-Entzug</DankPyon_Withdrawal_BattleElixir.stages.1.label>
-	<DankPyon_Withdrawal_BattleElixir.stages.1.description>Ich bin völlig verwirrt und kann nicht klar denken. Meine Glieder fühlen sich schwer an, ich bin müde und hungrig, alles tut weh. Und warum fokussieren meine Augen nicht richtig?</DankPyon_Withdrawal_BattleElixir.stages.1.description>
-	
-	<DankPyon_Thought_HappyPowder.stages.0.label>Aufgepuscht durch Glückspulver</DankPyon_Thought_HappyPowder.stages.0.label>
-	<DankPyon_Thought_HappyPowder.stages.0.description>Ich fühle mich aufgepumpt! Lass uns loslegen!</DankPyon_Thought_HappyPowder.stages.0.description>
-	
-	<DankPyon_Withdrawal_HappyPowder.stages.1.label>Glückspulver-Entzug</DankPyon_Withdrawal_HappyPowder.stages.1.label>
-	<DankPyon_Withdrawal_HappyPowder.stages.1.description>Gott, ich bin müde. Alles ist so langsam und langweilig. Besonders ich.</DankPyon_Withdrawal_HappyPowder.stages.1.description>
-	
-	<DankPyon_HornetHoneyHigh.stages.0.label>Aufgepuscht durch Hornissenhonig</DankPyon_HornetHoneyHigh.stages.0.label>
-	<DankPyon_HornetHoneyHigh.stages.0.description>Ich fühle mich aufgepumpt, aber stabil. Ich bin die Kugel im Flug, bereit, dich zu durchdringen.</DankPyon_HornetHoneyHigh.stages.0.description>
-	
-	<DankPyon_HornetHoneyWithdrawal.stages.1.label>Hornissenhonig-Entzug</DankPyon_HornetHoneyWithdrawal.stages.1.label>
-	<DankPyon_HornetHoneyWithdrawal.stages.1.description>Ich bin völlig verwirrt und kann nicht klar denken. Meine Glieder fühlen sich schwer an, ich bin müde und hungrig, alles tut weh. Und warum fokussieren meine Augen nicht richtig?</DankPyon_HornetHoneyWithdrawal.stages.1.description>
-	
-	<DankPyon_UnpleasantAftermathThought.stages.1.label>Leichte Nebenwirkungen</DankPyon_UnpleasantAftermathThought.stages.1.label>
-	<DankPyon_UnpleasantAftermathThought.stages.1.description>Die Kopfschmerzen sind fast verschwunden.</DankPyon_UnpleasantAftermathThought.stages.1.description>
-	<DankPyon_UnpleasantAftermathThought.stages.2.label>Schwerwiegende Nebenwirkungen</DankPyon_UnpleasantAftermathThought.stages.2.label>
-	<DankPyon_UnpleasantAftermathThought.stages.2.description>Mein Kopf tut wegen all dem Zeug weh.</DankPyon_UnpleasantAftermathThought.stages.2.description>
-	<DankPyon_UnpleasantAftermathThought.stages.3.label>Hämmernde unangenehme Nebenwirkungen</DankPyon_UnpleasantAftermathThought.stages.3.label>
-	<DankPyon_UnpleasantAftermathThought.stages.3.description>Es fühlt sich an, als würde eine Schar Gänse auf meinen Schädel picken.</DankPyon_UnpleasantAftermathThought.stages.3.description>
-	
-	<DankPyon_Thought_Luhix.stages.0.label>Aufgepuscht durch Luhix</DankPyon_Thought_Luhix.stages.0.label>
-	<DankPyon_Thought_Luhix.stages.0.description>Mein Geist ist mit jeder Sekunde klarer und fordert mich auf, nach Wissen zu streben.</DankPyon_Thought_Luhix.stages.0.description>
-	
-	<DankPyon_Withdrawal_Luhix.stages.1.label>Luhix-Entzug</DankPyon_Withdrawal_Luhix.stages.1.label>
-	<DankPyon_Withdrawal_Luhix.stages.1.description>Ich bin völlig verwirrt und kann nicht klar denken. Meine Glieder fühlen sich schwer an, ich bin müde und hungrig, alles tut weh. Und warum fokussieren meine Augen nicht richtig?</DankPyon_Withdrawal_Luhix.stages.1.description>
-	
-	<DankPyon_Thought_Paregoric.stages.0.label>Trank Paregorika</DankPyon_Thought_Paregoric.stages.0.label>
-	<DankPyon_Thought_Paregoric.stages.0.description>Das Trinken dieses Arzneimittels sichert meine Gesundheit.</DankPyon_Thought_Paregoric.stages.0.description>
-	
-
-	<DankPyon_Thought_Stardust.stages.0.label>Aufgepuscht durch Sternenstaub</DankPyon_Thought_Stardust.stages.0.label>
-	<DankPyon_Thought_Stardust.stages.0.description>Mein Geist ist mit jeder Sekunde klarer und fordert mich auf, nach Wissen zu streben.</DankPyon_Thought_Stardust.stages.0.description>
-	
-	<DankPyon_Withdrawal_Stardust.stages.1.label>Sternenstaub-Entzug</DankPyon_Withdrawal_Stardust.stages.1.label>
-	<DankPyon_Withdrawal_Stardust.stages.1.description>Ich bin völlig verwirrt und kann nicht klar denken. Meine Glieder fühlen sich schwer an, ich bin müde und hungrig, alles tut weh. Und warum fokussieren meine Augen nicht richtig?</DankPyon_Withdrawal_Stardust.stages.1.description>
-	
-	<DankPyon_Withdrawal_VigorPill.stages.1.label>Vitalitätspille-Entzug</DankPyon_Withdrawal_VigorPill.stages.1.label>
-	<DankPyon_Withdrawal_VigorPill.stages.1.description>Ich fühle mich ganz benommen und unkonzentriert. Und ich bin so müde.</DankPyon_Withdrawal_VigorPill.stages.1.description>
+  <DankPyon_Thought_BattleElixir.stages.0.label>Estimulado por el Elixir de Batalla</DankPyon_Thought_BattleElixir.stages.0.label>
+  <DankPyon_Thought_BattleElixir.stages.0.description>Me siento bombeado, pero estable. Soy la bala en vuelo, lista para atravesarte.</DankPyon_Thought_BattleElixir.stages.0.description>
+  <DankPyon_Withdrawal_BattleElixir.stages.1.label>Abstinencia de Elixir de Batalla</DankPyon_Withdrawal_BattleElixir.stages.1.label>
+  <DankPyon_Withdrawal_BattleElixir.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_Withdrawal_BattleElixir.stages.1.description>
+  <DankPyon_Thought_HappyPowder.stages.0.label>Estimulado por Polvo de Felicidad</DankPyon_Thought_HappyPowder.stages.0.label>
+  <DankPyon_Thought_HappyPowder.stages.0.description>¡Me siento bombeado! ¡Vamos a empezar!</DankPyon_Thought_HappyPowder.stages.0.description>
+  <DankPyon_Withdrawal_HappyPowder.stages.1.label>Abstinencia de Polvo de Felicidad</DankPyon_Withdrawal_HappyPowder.stages.1.label>
+  <DankPyon_Withdrawal_HappyPowder.stages.1.description>Dios, estoy cansado. Todo es tan lento y aburrido. Especialmente yo.</DankPyon_Withdrawal_HappyPowder.stages.1.description>
+  <DankPyon_HornetHoneyHigh.stages.0.label>Estimulado por Miel de Avispa</DankPyon_HornetHoneyHigh.stages.0.label>
+  <DankPyon_HornetHoneyHigh.stages.0.description>Me siento bombeado, pero estable. Soy la bala en vuelo, lista para atravesarte.</DankPyon_HornetHoneyHigh.stages.0.description>
+  <DankPyon_HornetHoneyWithdrawal.stages.1.label>Abstinencia de Miel de Avispa</DankPyon_HornetHoneyWithdrawal.stages.1.label>
+  <DankPyon_HornetHoneyWithdrawal.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_HornetHoneyWithdrawal.stages.1.description>
+  <DankPyon_UnpleasantAftermathThought.stages.1.label>Efectos Secundarios Leves</DankPyon_UnpleasantAftermathThought.stages.1.label>
+  <DankPyon_UnpleasantAftermathThought.stages.1.description>El dolor de cabeza casi ha desaparecido.</DankPyon_UnpleasantAftermathThought.stages.1.description>
+  <DankPyon_UnpleasantAftermathThought.stages.2.label>Efectos Secundarios Graves</DankPyon_UnpleasantAftermathThought.stages.2.label>
+  <DankPyon_UnpleasantAftermathThought.stages.2.description>Mi cabeza duele por todas estas cosas.</DankPyon_UnpleasantAftermathThought.stages.2.description>
+  <DankPyon_UnpleasantAftermathThought.stages.3.label>Martilleantes Efectos Secundarios Desagradables</DankPyon_UnpleasantAftermathThought.stages.3.label>
+  <DankPyon_UnpleasantAftermathThought.stages.3.description>Se siente como si una bandada de gansos estuviera picoteando mi cráneo.</DankPyon_UnpleasantAftermathThought.stages.3.description>
+  <DankPyon_Thought_Luhix.stages.0.label>Estimulado por Luhix</DankPyon_Thought_Luhix.stages.0.label>
+  <DankPyon_Thought_Luhix.stages.0.description>Mi mente se aclara con cada segundo y me insta a buscar conocimiento.</DankPyon_Thought_Luhix.stages.0.description>
+  <DankPyon_Withdrawal_Luhix.stages.1.label>Abstinencia de Luhix</DankPyon_Withdrawal_Luhix.stages.1.label>
+  <DankPyon_Withdrawal_Luhix.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_Withdrawal_Luhix.stages.1.description>
+  <DankPyon_Thought_Paregoric.stages.0.label>Tomó Paregórico</DankPyon_Thought_Paregoric.stages.0.label>
+  <DankPyon_Thought_Paregoric.stages.0.description>Beber este medicamento asegura mi salud.</DankPyon_Thought_Paregoric.stages.0.description>
+  <DankPyon_Thought_Stardust.stages.0.label>Estimulado por Polvo de Estrellas</DankPyon_Thought_Stardust.stages.0.label>
+  <DankPyon_Thought_Stardust.stages.0.description>Mi mente se aclara con cada segundo y me insta a buscar conocimiento.</DankPyon_Thought_Stardust.stages.0.description>
+  <DankPyon_Withdrawal_Stardust.stages.1.label>Abstinencia de Polvo de Estrellas</DankPyon_Withdrawal_Stardust.stages.1.label>
+  <DankPyon_Withdrawal_Stardust.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_Withdrawal_Stardust.stages.1.description>
+  <DankPyon_Withdrawal_VigorPill.stages.1.label>Abstinencia de Píldora de Vigor</DankPyon_Withdrawal_VigorPill.stages.1.label>
+  <DankPyon_Withdrawal_VigorPill.stages.1.description>Me siento mareado y desconcentrado. Y estoy tan cansado.</DankPyon_Withdrawal_VigorPill.stages.1.description>
 </LanguageData>

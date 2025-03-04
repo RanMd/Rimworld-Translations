@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_UnfinishedHide.label>Unfertiges Fell</DankPyon_UnfinishedHide.label>
-	<DankPyon_UnfinishedHide.description>Ein unvollendetes Stück Fell.</DankPyon_UnfinishedHide.description>
-	
-	<DankPyon_UnfinishedHideArmor.label>Unvollendete Fellrüstung</DankPyon_UnfinishedHideArmor.label>
-	<DankPyon_UnfinishedHideArmor.description>Ein unvollendetes Stück Fellrüstung.</DankPyon_UnfinishedHideArmor.description>
-
-	<DankPyon_UnfinishedLivingShield.label>Unvollendeter lebender Schild</DankPyon_UnfinishedLivingShield.label>
-	<DankPyon_UnfinishedLivingShield.description>Ein unvollendeter lebender Schild.</DankPyon_UnfinishedLivingShield.description>
-	
-	<DankPyon_UnfinishedLinduwrmShield.label>Unvollendeter Lindwurmschild</DankPyon_UnfinishedLinduwrmShield.label>
-	<DankPyon_UnfinishedLinduwrmShield.description>Ein unvollendeter Lindwurmschild.</DankPyon_UnfinishedLinduwrmShield.description>
+  <DankPyon_UnfinishedHide.label>Piel Inacabada</DankPyon_UnfinishedHide.label>
+  <DankPyon_UnfinishedHide.description>Un trozo de piel inacabado.</DankPyon_UnfinishedHide.description>
+  <DankPyon_UnfinishedHideArmor.label>Armadura de Piel Inacabada</DankPyon_UnfinishedHideArmor.label>
+  <DankPyon_UnfinishedHideArmor.description>Un trozo de armadura de piel inacabado.</DankPyon_UnfinishedHideArmor.description>
+  <DankPyon_UnfinishedLivingShield.label>Escudo Viviente Inacabado</DankPyon_UnfinishedLivingShield.label>
+  <DankPyon_UnfinishedLivingShield.description>Un escudo viviente inacabado.</DankPyon_UnfinishedLivingShield.description>
+  <DankPyon_UnfinishedLinduwrmShield.label>Escudo de Lindwurm Inacabado</DankPyon_UnfinishedLinduwrmShield.label>
+  <DankPyon_UnfinishedLinduwrmShield.description>Un escudo de lindwurm inacabado.</DankPyon_UnfinishedLinduwrmShield.description>
 </LanguageData>

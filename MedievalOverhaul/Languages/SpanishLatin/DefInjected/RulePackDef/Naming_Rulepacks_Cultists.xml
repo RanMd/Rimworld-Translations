@@ -1,51 +1,46 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_AG_NamemakerFaction.rulePack.rulesStrings.0>r_name->Die Bruderschaft der Klinge</DankPyon_AG_NamemakerFaction.rulePack.rulesStrings.0>
-	
-	<DankPyon_SC_NamemakerFaction.rulePack.rulesStrings.0>r_name->Kultisten</DankPyon_SC_NamemakerFaction.rulePack.rulesStrings.0>
-	
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>list1->Aurora's Gipfel</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.2>list1->Festung Blackwood</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.2>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>list1->Aurora's Gipfel</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.4>list1->Klarwasser</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.4>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.5>list1->Kallaheim</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.5>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>list1->Kaltfeld</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.7>list1->Purpurfestung</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.7>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.8>list1->Elfentum</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.8>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.9>list1->Frostfestung</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.9>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.10>list1->Goldburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.10>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.11>list1->Graufurt</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.11>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.12>list1->Herzholz</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.12>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.13>list1->Eisenburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.13>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.14>list1->Luminar</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.14>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.15>list1->Mondrast</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.15>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.16>list1->Nachtigall</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.16>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.17>list1->Rotfeste</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.17>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.18>list1->Schattenfeste</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.18>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.19>list1->Sturmwache</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.19>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.20>list1->Donnerburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.20>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.21>list1->Wildburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.21>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.22>list1->Holzhimmel</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.22>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.23>list1->Holzlandfestung</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.23>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.24>list1->Bernsteinburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.24>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.25>list1->Schwarzwasser</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.25>
-
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.26>list1->Leuchtfort</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.26>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.27>list1->Koldrun</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.27>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.28>list1->Purpurfestung</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.28>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.29>list1->Drachenwache</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.29>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.30>list1->Frostfestung</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.30>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.31>list1->Goldküste</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.31>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.32>list1->Graufurt</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.32>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.33>list1->Eisenburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.33>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.34>list1->Lichtfall</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.34>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.35>list1->Mondschein</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.35>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.36>list1->Nachtfort</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.36>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.37>list1->Rotfeste</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.37>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.38>list1->Schattenfeste</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.38>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.39>list1->Sturmwache</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.39>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.40>list1->Donnerburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.40>
-	<DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.41>list1->Wildburg</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.41>
-	
+  <DankPyon_AG_NamemakerFaction.rulePack.rulesStrings.0>r_name->La Hermandad de la Espada</DankPyon_AG_NamemakerFaction.rulePack.rulesStrings.0>
+  <DankPyon_SC_NamemakerFaction.rulePack.rulesStrings.0>r_name->Cultistas</DankPyon_SC_NamemakerFaction.rulePack.rulesStrings.0>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>list1->Cima de Aurora</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.2>list1->Fortaleza Blackwood</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.2>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>list1->Cima de Aurora</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.4>list1->Aguas Claras</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.4>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.5>list1->Kallaheim</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.5>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>list1->Campo Frío</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.7>list1->Fortaleza Púrpura</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.7>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.8>list1->Reino de los Elfos</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.8>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.9>list1->Fortaleza Helada</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.9>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.10>list1->Ciudad Dorada</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.10>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.11>list1->Fuerte Gris</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.11>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.12>list1->Corazón de Madera</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.12>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.13>list1->Ciudad de Hierro</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.13>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.14>list1->Luminar</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.14>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.15>list1->Rastro de la Luna</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.15>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.16>list1->Ruiseñor</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.16>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.17>list1->Fortaleza Roja</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.17>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.18>list1->Fortaleza de las Sombras</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.18>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.19>list1->Guardia de la Tormenta</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.19>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.20>list1->Ciudad del Trueno</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.20>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.21>list1->Ciudad Salvaje</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.21>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.22>list1->Cielo de Madera</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.22>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.23>list1->Fortaleza del Bosque</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.23>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.24>list1->Ciudad de Ámbar</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.24>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.25>list1->Aguas Negras</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.25>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.26>list1->Fuerte Luminoso</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.26>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.27>list1->Koldrun</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.27>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.28>list1->Fortaleza Púrpura</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.28>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.29>list1->Guardia del Dragón</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.29>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.30>list1->Fortaleza Helada</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.30>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.31>list1->Costa Dorada</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.31>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.32>list1->Fuerte Gris</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.32>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.33>list1->Ciudad de Hierro</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.33>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.34>list1->Caída de Luz</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.34>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.35>list1->Luz de Luna</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.35>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.36>list1->Fuerte Nocturno</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.36>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.37>list1->Fortaleza Roja</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.37>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.38>list1->Fortaleza de las Sombras</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.38>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.39>list1->Guardia de la Tormenta</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.39>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.40>list1->Ciudad del Trueno</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.40>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.41>list1->Ciudad Salvaje</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.41>
 </LanguageData>

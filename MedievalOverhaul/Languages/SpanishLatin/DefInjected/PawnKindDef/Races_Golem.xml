@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Golem_Iron.label>Eisengolem</DankPyon_Golem_Iron.label>
-	<DankPyon_Golem_Gold.label>Goldener Golem</DankPyon_Golem_Gold.label>
-	<DankPyon_Golem_Steel.label>Stahlgolem</DankPyon_Golem_Steel.label>
-	<DankPyon_Golem_Silver.label>Silbergolem</DankPyon_Golem_Silver.label>
-
+  <DankPyon_Golem_Iron.label>Golem de Hierro</DankPyon_Golem_Iron.label>
+  <DankPyon_Golem_Gold.label>Golem de Oro</DankPyon_Golem_Gold.label>
+  <DankPyon_Golem_Steel.label>Golem de Acero</DankPyon_Golem_Steel.label>
+  <DankPyon_Golem_Silver.label>Golem de Plata</DankPyon_Golem_Silver.label>
 </LanguageData>

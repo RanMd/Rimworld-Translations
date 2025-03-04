@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Floor_CobblestoneBase.description>Raues Kopfsteinpflaster in angepassten Mustern platziert. Sie sind hübsch anzusehen, aber das Verlegen dauert lange.</DankPyon_Floor_CobblestoneBase.description>
-	
-	<DankPyon_Floor_Cobblestone_Sandstone.label>Kopfsteinpflaster aus Sandstein</DankPyon_Floor_Cobblestone_Sandstone.label>
-	<DankPyon_Floor_Cobblestone_Granite.label>Kopfsteinpflaster aus Granit</DankPyon_Floor_Cobblestone_Granite.label>
-	<DankPyon_Floor_Cobblestone_Limestone.label>Kopfsteinpflaster aus Kalkstein</DankPyon_Floor_Cobblestone_Limestone.label>
-	<DankPyon_Floor_Cobblestone_Slate.label>Kopfsteinpflaster aus Schiefer</DankPyon_Floor_Cobblestone_Slate.label>
-	<DankPyon_Floor_Cobblestone_Marble.label>Kopfsteinpflaster aus Marmor</DankPyon_Floor_Cobblestone_Marble.label>
+  <DankPyon_Floor_CobblestoneBase.description>Empedrado rugoso colocado en patrones ajustados. Son bonitos de ver, pero colocarlos lleva tiempo.</DankPyon_Floor_CobblestoneBase.description>
+  <DankPyon_Floor_Cobblestone_Sandstone.label>Empedrado de arenisca</DankPyon_Floor_Cobblestone_Sandstone.label>
+  <DankPyon_Floor_Cobblestone_Granite.label>Empedrado de granito</DankPyon_Floor_Cobblestone_Granite.label>
+  <DankPyon_Floor_Cobblestone_Limestone.label>Empedrado de piedra caliza</DankPyon_Floor_Cobblestone_Limestone.label>
+  <DankPyon_Floor_Cobblestone_Slate.label>Empedrado de pizarra</DankPyon_Floor_Cobblestone_Slate.label>
+  <DankPyon_Floor_Cobblestone_Marble.label>Empedrado de mármol</DankPyon_Floor_Cobblestone_Marble.label>
 </LanguageData>

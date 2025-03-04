@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RusticMimic_WoodLog.label>Rustikale Holzmimik</DankPyon_RusticMimic_WoodLog.label>
-	<DankPyon_RusticMimic_DarkWood.label>Rustikale, dunkle Mimik</DankPyon_RusticMimic_DarkWood.label>
-	<DankPyon_RoyalMimic.label>Königliche Mimik</DankPyon_RoyalMimic.label>
-
+  <DankPyon_RusticMimic_WoodLog.label>Mímica Rústica de Madera</DankPyon_RusticMimic_WoodLog.label>
+  <DankPyon_RusticMimic_DarkWood.label>Mímica Rústica de Madera Oscura</DankPyon_RusticMimic_DarkWood.label>
+  <DankPyon_RoyalMimic.label>Mímica Real</DankPyon_RoyalMimic.label>
 </LanguageData>

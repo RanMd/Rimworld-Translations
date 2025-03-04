@@ -1,47 +1,31 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RugPatched1x1c.label>Flickenteppich (1x1)</DankPyon_RugPatched1x1c.label>
-	<DankPyon_RugPatched1x1c.description>Ein grob genähter Teppich, der aus einzelnen Lederflicken besteht.</DankPyon_RugPatched1x1c.description>
-	
-	<DankPyon_RugPatched2x2c.label>Flickenteppich (2x2)</DankPyon_RugPatched2x2c.label>
-	<DankPyon_RugPatched2x2c.description>Ein grob genähter Teppich, der aus einzelnen Lederflicken besteht.</DankPyon_RugPatched2x2c.description>
-	
-	<DankPyon_RugPatched3x3c.label>Flickenteppich (3x3)</DankPyon_RugPatched3x3c.label>
-	<DankPyon_RugPatched3x3c.description>Ein grob genähter Teppich, der aus einzelnen Lederflicken besteht.</DankPyon_RugPatched3x3c.description>
-	
-	<DankPyon_RugHyena2x2c.label>Hyänenteppich (2x2)</DankPyon_RugHyena2x2c.label>
-	<DankPyon_RugHyena2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Hyänen-Teppiche sind klein, aber die üppigen Muster, von Streifen bis zu Punkten, machen das Stück zu einer schönen Ergänzung für die Inneneinrichtung.</DankPyon_RugHyena2x2c.description>
-	
-	<DankPyon_RugWolfTimber2x2c.label>Timberwolf-Teppich (2x2)</DankPyon_RugWolfTimber2x2c.label>
-	<DankPyon_RugWolfTimber2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Das ergraute, graubraune Fell des Timberwolfs mag ein wertvoller Teppich sein, ist aber mit hohen Kosten verbunden, da der Jäger dem Biest wahrscheinlich in einem Rudel gegenübersteht.</DankPyon_RugWolfTimber2x2c.description>
-	
-	<DankPyon_RugWolfArctic2x2c.label>Polarwolf-Teppich (2x2)</DankPyon_RugWolfArctic2x2c.label>
-	<DankPyon_RugWolfArctic2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Arktische Wolfsteppiche sind eine Variante des Wolfes und erzählen die Geschichte eines Jägers, der gefährlichen Temperaturen trotzte und hungernde Raubtiere besiegte, die biologisch auf das Überleben ausgelegt waren.</DankPyon_RugWolfArctic2x2c.description>
-	
-	<DankPyon_RugCougar2x2c.label>Puma-Teppich (2x2)</DankPyon_RugCougar2x2c.label>
-	<DankPyon_RugCougar2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Pumas werden für ihr luxuriöses Fell geschätzt, das wiederum eine wertvolle Alternative zu einfachen Teppichen darstellt.</DankPyon_RugCougar2x2c.description>
-	
-	<DankPyon_RugPanther2x2c.label>Pantherteppich (2x2)</DankPyon_RugPanther2x2c.label>
-	<DankPyon_RugPanther2x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Pantherteppiche fallen, ähnlich wie die Tiere selbst, nachts in den Schatten, aber marmorierte Augen leuchten in der Dunkelheit.</DankPyon_RugPanther2x2c.description>
-	
-	
-	<DankPyon_RugGrizzlyBear3x3c.label>Grizzlybär-Teppich (3x3)</DankPyon_RugGrizzlyBear3x3c.label>
-	<DankPyon_RugGrizzlyBear3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Das tolle Fell des Bären ist eines der gefragtesten Materialien für Teppiche mit Tierfellen, was den Grizzlybären-Teppich zu einer würdigen Wahl für den mutigen Kolonisten macht, der mutig genug ist, sich der Jagd zu stellen.</DankPyon_RugGrizzlyBear3x3c.description>
-	
-	<DankPyon_RugPolarBear3x3c.label>Eisbärenteppich (3x3)</DankPyon_RugPolarBear3x3c.label>
-	<DankPyon_RugPolarBear3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Die in gefrorenen Klimazonen vorkommenden Eisbären haben ein tolles weißes Fell, das für kältebeständige Teppiche sorgt. Besonders wertvoll für Gehöfte bei kalten Temperaturen.</DankPyon_RugPolarBear3x3c.description>
-	
-	<DankPyon_RugRox3x3c.label>Rox-Teppich (3x3)</DankPyon_RugRox3x3c.label>
-	<DankPyon_RugRox3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Die in gefrorenen Klimazonen vorkommenden Eisbären haben ein tolles weißes Fell, das für kältebeständige Teppiche sorgt. Besonders wertvoll für Gehöfte bei kalten Temperaturen.</DankPyon_RugRox3x3c.description>
-	
-	<DankPyon_RugThrumbo3x3c.label>Thrumbo-Teppich (3x3)</DankPyon_RugThrumbo3x3c.label>
-	<DankPyon_RugThrumbo3x3c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Nur wenige Jäger können eine Trophäe mit einem raffinierteren und widerstandsfähigeren Fell als dem Thrumbo-Teppich herstellen. Sein langes Fell kann jedem Kolonisten ins Auge fallen, aber das starke Fell erfordert viel Arbeit beim Zuschneiden. Achten Sie beim Gehen auf die Hupe.</DankPyon_RugThrumbo3x3c.description>
-	
-	<DankPyon_RugDaer4x4c.label>Daer-Teppich (4x4)</DankPyon_RugDaer4x4c.label>
-	<DankPyon_RugDaer4x4c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Nur wenige Jäger können eine Trophäe mit einem raffinierteren und widerstandsfähigeren Fell als dem Thrumbo-Teppich herstellen. Sein langes Fell kann jedem Kolonisten ins Auge fallen, aber das starke Fell erfordert viel Arbeit beim Zuschneiden. Achten Sie beim Gehen auf die Hupe.</DankPyon_RugDaer4x4c.description>
-	
-	<DankPyon_RugHuman1x2c.label>Humanoider Teppich (1x2)</DankPyon_RugHuman1x2c.label>
-	<DankPyon_RugHuman1x2c.description>Tierteppiche sind Trophäen für erfahrene Jäger und bestehen aus gefärbten und ausgestopften Tierhäuten, die mit Filz und Polsterung zu Teppichen zusammengenäht werden. Menschliche Teppiche sind wertvolle Trophäen, die von manchen bewundert und von anderen verabscheut werden, aber gleichgesinnte Kannibalen werden in ihrem Dekor Trost finden.</DankPyon_RugHuman1x2c.description>
-
+  <DankPyon_RugPatched1x1c.label>Alfombra remendada (1x1)</DankPyon_RugPatched1x1c.label>
+  <DankPyon_RugPatched1x1c.description>Una alfombra toscamente cosida hecha de parches de cuero individuales.</DankPyon_RugPatched1x1c.description>
+  <DankPyon_RugPatched2x2c.label>Alfombra remendada (2x2)</DankPyon_RugPatched2x2c.label>
+  <DankPyon_RugPatched2x2c.description>Una alfombra toscamente cosida hecha de parches de cuero individuales.</DankPyon_RugPatched2x2c.description>
+  <DankPyon_RugPatched3x3c.label>Alfombra remendada (3x3)</DankPyon_RugPatched3x3c.label>
+  <DankPyon_RugPatched3x3c.description>Una alfombra toscamente cosida hecha de parches de cuero individuales.</DankPyon_RugPatched3x3c.description>
+  <DankPyon_RugHyena2x2c.label>Alfombra de hiena (2x2)</DankPyon_RugHyena2x2c.label>
+  <DankPyon_RugHyena2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras de hiena son pequeñas, pero los patrones exuberantes, desde rayas hasta puntos, hacen que la pieza sea una hermosa adición a la decoración interior.</DankPyon_RugHyena2x2c.description>
+  <DankPyon_RugWolfTimber2x2c.label>Alfombra de lobo gris (2x2)</DankPyon_RugWolfTimber2x2c.label>
+  <DankPyon_RugWolfTimber2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. La piel grisácea del lobo gris puede ser una alfombra valiosa, pero tiene un alto costo, ya que el cazador probablemente se enfrente a la bestia en una manada.</DankPyon_RugWolfTimber2x2c.description>
+  <DankPyon_RugWolfArctic2x2c.label>Alfombra de lobo ártico (2x2)</DankPyon_RugWolfArctic2x2c.label>
+  <DankPyon_RugWolfArctic2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras de lobo ártico son una variante del lobo y cuentan la historia de un cazador que desafió temperaturas peligrosas y venció a depredadores hambrientos adaptados biológicamente para sobrevivir.</DankPyon_RugWolfArctic2x2c.description>
+  <DankPyon_RugCougar2x2c.label>Alfombra de puma (2x2)</DankPyon_RugCougar2x2c.label>
+  <DankPyon_RugCougar2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Los pumas son apreciados por su lujosa piel, que a su vez representa una valiosa alternativa a las alfombras simples.</DankPyon_RugCougar2x2c.description>
+  <DankPyon_RugPanther2x2c.label>Alfombra de pantera (2x2)</DankPyon_RugPanther2x2c.label>
+  <DankPyon_RugPanther2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras de pantera se mezclan con las sombras nocturnas, pero sus ojos jaspeados brillan en la oscuridad.</DankPyon_RugPanther2x2c.description>
+  <DankPyon_RugGrizzlyBear3x3c.label>Alfombra de oso grizzly (3x3)</DankPyon_RugGrizzlyBear3x3c.label>
+  <DankPyon_RugGrizzlyBear3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. La magnífica piel del oso es uno de los materiales más buscados para alfombras de piel de animal, lo que hace que la alfombra de oso grizzly sea una elección digna para el colono valiente que se atreva a cazarlo.</DankPyon_RugGrizzlyBear3x3c.description>
+  <DankPyon_RugPolarBear3x3c.label>Alfombra de oso polar (3x3)</DankPyon_RugPolarBear3x3c.label>
+  <DankPyon_RugPolarBear3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Los osos polares, que habitan en climas helados, tienen una magnífica piel blanca que proporciona alfombras resistentes al frío. Especialmente valiosas para hogares en temperaturas frías.</DankPyon_RugPolarBear3x3c.description>
+  <DankPyon_RugRox3x3c.label>Alfombra de Rox (3x3)</DankPyon_RugRox3x3c.label>
+  <DankPyon_RugRox3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Los osos polares, que habitan en climas helados, tienen una magnífica piel blanca que proporciona alfombras resistentes al frío. Especialmente valiosas para hogares en temperaturas frías.</DankPyon_RugRox3x3c.description>
+  <DankPyon_RugThrumbo3x3c.label>Alfombra de Thrumbo (3x3)</DankPyon_RugThrumbo3x3c.label>
+  <DankPyon_RugThrumbo3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Pocos cazadores pueden crear un trofeo con una piel más refinada y resistente que la alfombra de Thrumbo. Su largo pelaje puede atraer la atención de cualquier colono, pero la piel fuerte requiere mucho trabajo para recortarla. Tenga cuidado con el cuerno al caminar.</DankPyon_RugThrumbo3x3c.description>
+  <DankPyon_RugDaer4x4c.label>Alfombra de Daer (4x4)</DankPyon_RugDaer4x4c.label>
+  <DankPyon_RugDaer4x4c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Pocos cazadores pueden crear un trofeo con una piel más refinada y resistente que la alfombra de Thrumbo. Su largo pelaje puede atraer la atención de cualquier colono, pero la piel fuerte requiere mucho trabajo para recortarla. Tenga cuidado con el cuerno al caminar.</DankPyon_RugDaer4x4c.description>
+  <DankPyon_RugHuman1x2c.label>Alfombra humana (1x2)</DankPyon_RugHuman1x2c.label>
+  <DankPyon_RugHuman1x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras humanas son trofeos valiosos, admirados por algunos y despreciados por otros, pero los caníbales afines encontrarán consuelo en su decoración.</DankPyon_RugHuman1x2c.description>
 </LanguageData>

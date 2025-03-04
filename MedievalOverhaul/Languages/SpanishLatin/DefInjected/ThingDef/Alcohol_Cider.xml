@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Cider.label>Apfelwein</DankPyon_Cider.label>
-	<DankPyon_Cider.description>Apfelsaft, der einige Tage lang fermentiert wird, um seinen Alkoholgehalt zu entwickeln. Wenn du genügend Apfelwein konsumierst, kannst du betrunken werden.</DankPyon_Cider.description>
+  <DankPyon_Cider.label>Sidra</DankPyon_Cider.label>
+  <DankPyon_Cider.description>Jugo de manzana que se fermenta durante algunos días para desarrollar su contenido de alcohol. Si consumes suficiente sidra, puedes emborracharte.</DankPyon_Cider.description>
 </LanguageData>

@@ -1,21 +1,14 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Wine.label>Wein</DankPyon_Wine.label>
-	<DankPyon_Wine.description>Alkohol mit vielen Gesichtern. Alte Jahrgänge sind köstliche Getränke für Kenner und eher wählerische Zungen – Pflichtpositionen bei königlichen Festen, Feierlichkeiten und Maskeraden. Jüngere werden oft an Bauern in Gasthäusern am Straßenrand verkauft und mit Wasser verdünnt, soweit es das Gewissen des Gastwirts zulässt.</DankPyon_Wine.description>
-	
-	<DankPyon_MustWine.label>Traubenmost</DankPyon_MustWine.label>
-	<DankPyon_MustWine.description>Zerkleinerte Trauben. Um zu Wein zu werden, muss es einer Gärung unterzogen werden.</DankPyon_MustWine.description>
-	
-	<DankPyon_Wine_Mulberry.label>Maulbeerwein</DankPyon_Wine_Mulberry.label>
-	<DankPyon_Wine_Mulberry.description>Dieses bezaubernde Elixier wird aus der üppigen Fülle der Maulbeerplantagen hergestellt und verkörpert die Essenz der Vielseitigkeit. Gealterte Jahrgänge erzählen Geschichten von Raffinesse, locken Kenner mit ihren komplexen Aromen und sind ein fester Bestandteil angesehener Zusammenkünfte und königlicher Bankette.</DankPyon_Wine_Mulberry.description>
-	
-	<DankPyon_MustWine_Mulberry.label>Maulbeermost</DankPyon_MustWine_Mulberry.label>
-	
-	<DankPyon_Wine_Griffon.label>Greifenbeerenwein</DankPyon_Wine_Griffon.label>
-	
-	<DankPyon_MustWine_Griffon.label>Greifenbeerenmost</DankPyon_MustWine_Griffon.label>
-	
-	<DankPyon_Wine_Ice.label>Eiswein</DankPyon_Wine_Ice.label>
-	<DankPyon_Wine_Ice.description>PLATZHALTER.</DankPyon_Wine_Ice.description>
+  <DankPyon_Wine.label>Vino</DankPyon_Wine.label>
+  <DankPyon_Wine.description>Alcohol con muchas facetas. Los vinos añejos son bebidas exquisitas para conocedores y paladares más exigentes: elementos imprescindibles en fiestas reales, celebraciones y mascaradas. Los más jóvenes suelen venderse a los campesinos en tabernas junto al camino y se diluyen con agua según lo permita la conciencia del tabernero.</DankPyon_Wine.description>
+  <DankPyon_MustWine.label>Mosto de uva</DankPyon_MustWine.label>
+  <DankPyon_MustWine.description>Uvas trituradas. Para convertirse en vino, debe someterse a fermentación.</DankPyon_MustWine.description>
+  <DankPyon_Wine_Mulberry.label>Vino de mora</DankPyon_Wine_Mulberry.label>
+  <DankPyon_Wine_Mulberry.description>Este encantador elixir se elabora a partir de la abundante riqueza de las plantaciones de moras y encarna la esencia de la versatilidad. Las añadas envejecidas cuentan historias de sofisticación, atraen a los conocedores con sus complejos aromas y son una parte integral de reuniones distinguidas y banquetes reales.</DankPyon_Wine_Mulberry.description>
+  <DankPyon_MustWine_Mulberry.label>Mosto de mora</DankPyon_MustWine_Mulberry.label>
+  <DankPyon_Wine_Griffon.label>Vino de bayas de grifo</DankPyon_Wine_Griffon.label>
+  <DankPyon_MustWine_Griffon.label>Mosto de bayas de grifo</DankPyon_MustWine_Griffon.label>
+  <DankPyon_Wine_Ice.label>Vino de hielo</DankPyon_Wine_Ice.label>
+  <DankPyon_Wine_Ice.description>Hielo de vino.</DankPyon_Wine_Ice.description>
 </LanguageData>

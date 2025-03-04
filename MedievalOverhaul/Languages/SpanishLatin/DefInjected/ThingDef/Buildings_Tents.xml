@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_TableMarket_Meats.label>Fleischstand</DankPyon_TableMarket_Meats.label>
-	<DankPyon_TableMarket_Meats.description>Ein Tisch, der für die Präsentation von Fleisch gefüllt ist.</DankPyon_TableMarket_Meats.description>
-	
-	<DankPyon_TableMarket_Dairy.label>Milchstand</DankPyon_TableMarket_Dairy.label>
-	<DankPyon_TableMarket_Dairy.description>Ein Tisch, der für die Präsentation von Milchprodukten gefüllt ist.</DankPyon_TableMarket_Dairy.description>
-	
-	<DankPyon_TableMarket_Bread.label>Brotstand</DankPyon_TableMarket_Bread.label>
-	<DankPyon_TableMarket_Bread.description>Ein Tisch, der zur Präsentation von Brotwaren gefüllt ist.</DankPyon_TableMarket_Bread.description>
-	
-	<DankPyon_MarketTent_1c.label>Zeltstand</DankPyon_MarketTent_1c.label>
-	<DankPyon_MarketTent_1c.description>Ein Zelt, um deine Waren vor der Sonneneinstrahlung zu schützen.</DankPyon_MarketTent_1c.description>
-	
-	<DankPyon_MarketTent_2c.label>Zeltstand (blau)</DankPyon_MarketTent_2c.label>
-	<DankPyon_MarketTent_3c.label>Zeltstand (gelb)</DankPyon_MarketTent_3c.label>
-
+  <DankPyon_TableMarket_Meats.label>Puesto de carne</DankPyon_TableMarket_Meats.label>
+  <DankPyon_TableMarket_Meats.description>Una mesa llena de carne para su presentación.</DankPyon_TableMarket_Meats.description>
+  <DankPyon_TableMarket_Dairy.label>Puesto de lácteos</DankPyon_TableMarket_Dairy.label>
+  <DankPyon_TableMarket_Dairy.description>Una mesa llena de productos lácteos para su presentación.</DankPyon_TableMarket_Dairy.description>
+  <DankPyon_TableMarket_Bread.label>Puesto de pan</DankPyon_TableMarket_Bread.label>
+  <DankPyon_TableMarket_Bread.description>Una mesa llena de productos de panadería para su presentación.</DankPyon_TableMarket_Bread.description>
+  <DankPyon_MarketTent_1c.label>Puesto de tienda</DankPyon_MarketTent_1c.label>
+  <DankPyon_MarketTent_1c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_1c.description>
+  <DankPyon_MarketTent_2c.label>Puesto de tienda (azul)</DankPyon_MarketTent_2c.label>
+  <DankPyon_MarketTent_3c.label>Puesto de tienda (amarillo)</DankPyon_MarketTent_3c.label>
 </LanguageData>

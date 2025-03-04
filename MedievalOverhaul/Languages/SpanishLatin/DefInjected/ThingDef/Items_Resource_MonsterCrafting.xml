@@ -1,63 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_SchratHeart.label>Herz des Waldes</DankPyon_SchratHeart.label>
-	<DankPyon_SchratHeart.description>Eine Sphäre voller Lebensenergie, die noch immer einige sich windende Ranken nährt. Seine Pulsfrequenz erhöht sich, wenn er in der Hand gehalten wird, und entzieht dem Glied gierig Wärme. Ein wichtiger Bestandteil zahlreicher okkulter Rituale, sicherlich ein wertvoller Besitz.</DankPyon_SchratHeart.description>
-	
-	<DankPyon_AncientWood.label>Uraltes Holz</DankPyon_AncientWood.label>
-	<DankPyon_AncientWood.description>Ein dunkler Eichenwald, so uralt wie die Zeit. Das Holz ist bekannt für seine Festigkeit und Widerstandsfähigkeit gegenüber physischen Schlägen. Ein perfektes Material für einen Schild.</DankPyon_AncientWood.description>
-
-	<DankPyon_GlowingResin.label>Leuchtendes Harz</DankPyon_GlowingResin.label>
-	<DankPyon_GlowingResin.description>Hell im Kielwasser und doch reich an Farbtönen. Ein glamouröses Juwel, das die tiefen Farben des Waldes erstrahlt. Es dient als Zutat für Tränke und andere formelhafte Verfahren.</DankPyon_GlowingResin.description>
-	
-	
-	<DankPyon_UnholdBones.label>Riesige Knochen</DankPyon_UnholdBones.label>
-	<DankPyon_UnholdBones.description>Riesige Überreste widerwärtiger Unholde, die eine Aura ursprünglicher Macht und Intrigen ausstrahlen und wegen ihrer immensen Größe und physischen Widerstandsfähigkeit begehrt sind.</DankPyon_UnholdBones.description>
-	
-	<DankPyon_ThickUnholdFur.label>Dickes Fell</DankPyon_ThickUnholdFur.label>
-	<DankPyon_ThickUnholdFur.description>Robuste Häute von beeindruckender Natur, bekannt für ihre Dicke und Wetterfestigkeit, begehrt für die Herstellung widerstandsfähiger Kleidungsstücke und Schutzausrüstung.</DankPyon_ThickUnholdFur.description>
-
-	<DankPyon_UnholdHide.label>Unholdfell</DankPyon_UnholdHide.label>
-	<DankPyon_UnholdHide.description>PLATZHALTER.</DankPyon_UnholdHide.description>
-	
-	
-	<DankPyon_UnholdHeart.label>Unholdherz</DankPyon_UnholdHeart.label>
-	<DankPyon_UnholdHeart.description>Das schlagende Herz des furchterregenden Unholds, pulsierend mit Urkraft und uralter Lebenskraft, gilt als Schlüsselzutat für die Herstellung von Ausdauerelixieren.</DankPyon_UnholdHeart.description>
-	
-	<DankPyon_TrollHeart.label>Blaues Herz</DankPyon_TrollHeart.label>
-	<DankPyon_TrollHeart.description>PLATZHALTER.</DankPyon_TrollHeart.description>
-
-	<DankPyon_Gossamer.label>Hauchdünn</DankPyon_Gossamer.label>
-	<DankPyon_Gossamer.description>PLATZHALTER.</DankPyon_Gossamer.description>
-	
-	
-	<DankPyon_PoisonGland.label>Giftdrüse</DankPyon_PoisonGland.label>
-	<DankPyon_PoisonGland.description>PLATZHALTER.</DankPyon_PoisonGland.description>
-	
-	<DankPyon_RedbackPoisonGland.label>Rotrückengiftdrüse</DankPyon_RedbackPoisonGland.label>
-	<DankPyon_RedbackPoisonGland.description>PLATZHALTER.</DankPyon_RedbackPoisonGland.description>
-
-	<DankPyon_LindwurmBlood.label>Lindwurmblut</DankPyon_LindwurmBlood.label>
-	<DankPyon_LindwurmBlood.description>Das saure Blut eines Lindwurms, sorgfältig in Glas konserviert. Es ist von Natur aus stark ätzend und kann Plattenpanzerung innerhalb von Sekunden durchschmelzen. Aufgrund seiner Angriffsfähigkeiten ist es bei Alchemisten und Jägern sehr begehrt.</DankPyon_LindwurmBlood.description>
-	
-	<DankPyon_LindwurmBones.label>Lindwurmknochen</DankPyon_LindwurmBones.label>
-	<DankPyon_LindwurmBones.description>PLATZHALTER.</DankPyon_LindwurmBones.description>
-	
-	<DankPyon_LindwurmScales.label>Lindwurmschuppen</DankPyon_LindwurmScales.label>
-	<DankPyon_LindwurmScales.description>PLATZHALTER.</DankPyon_LindwurmScales.description>
-
-	<DankPyon_NachHorns.label>Ghulhorn</DankPyon_NachHorns.label>
-	<DankPyon_NachHorns.description>PLATZHALTER.</DankPyon_NachHorns.description>
-	
-	<DankPyon_ParchedSkin.label>Ausgetrocknete Haut</DankPyon_ParchedSkin.label>
-	<DankPyon_ParchedSkin.description>PLATZHALTER.</DankPyon_ParchedSkin.description>
-
-	<DankPyon_PetrifiedScream.label>Versteinerter Schrei</DankPyon_PetrifiedScream.label>
-	<DankPyon_PetrifiedScream.description>PLATZHALTER.</DankPyon_PetrifiedScream.description>
-
-	<DankPyon_ThirdEye.label>Drittes Auge</DankPyon_ThirdEye.label>
-	<DankPyon_ThirdEye.description>PLATZHALTER.</DankPyon_ThirdEye.description>
-	
-	<DankPyon_AdrenalineGland.label>Adrenalindrüse</DankPyon_AdrenalineGland.label>
-	<DankPyon_AdrenalineGland.description>PLATZHALTER.</DankPyon_AdrenalineGland.description>
+  <DankPyon_SchratHeart.label>Corazón del Bosque</DankPyon_SchratHeart.label>
+  <DankPyon_SchratHeart.description>Una esfera llena de energía vital, que aún alimenta algunas enredaderas retorcidas. Su frecuencia de pulso aumenta cuando se sostiene en la mano y absorbe calor del miembro con avidez. Un componente importante de numerosos rituales ocultos, sin duda una posesión valiosa.</DankPyon_SchratHeart.description>
+  <DankPyon_AncientWood.label>Madera Antigua</DankPyon_AncientWood.label>
+  <DankPyon_AncientWood.description>Un bosque de robles oscuros, tan antiguo como el tiempo. La madera es conocida por su resistencia y durabilidad frente a golpes físicos. Un material perfecto para un escudo.</DankPyon_AncientWood.description>
+  <DankPyon_GlowingResin.label>Resina Brillante</DankPyon_GlowingResin.label>
+  <DankPyon_GlowingResin.description>Brillante en la estela y rica en tonos. Una joya glamorosa que resplandece con los colores profundos del bosque. Se utiliza como ingrediente para pociones y otros procedimientos alquímicos.</DankPyon_GlowingResin.description>
+  <DankPyon_UnholdBones.label>Huesos Gigantes</DankPyon_UnholdBones.label>
+  <DankPyon_UnholdBones.description>Enormes restos de repugnantes ogros que emanan un aura de poder primigenio e intriga, y son codiciados por su inmenso tamaño y resistencia física.</DankPyon_UnholdBones.description>
+  <DankPyon_ThickUnholdFur.label>Piel Gruesa</DankPyon_ThickUnholdFur.label>
+  <DankPyon_ThickUnholdFur.description>Pieles robustas de naturaleza impresionante, conocidas por su grosor y resistencia a la intemperie, codiciadas para la fabricación de prendas y equipos de protección duraderos.</DankPyon_ThickUnholdFur.description>
+  <DankPyon_UnholdHide.label>Piel de Unhold</DankPyon_UnholdHide.label>
+  <DankPyon_UnholdHide.description>Una gruesa y resistente piel obtenida de un Unhold. Su dureza la hace ideal para fabricar armaduras y ropa reforzada.</DankPyon_UnholdHide.description>
+  <DankPyon_UnholdHeart.label>Corazón de Unhold</DankPyon_UnholdHeart.label>
+  <DankPyon_UnholdHeart.description>El corazón palpitante del temible Unhold, pulsando con fuerza primordial y antigua vitalidad, se considera un ingrediente clave para la elaboración de elixires de resistencia.</DankPyon_UnholdHeart.description>
+  <DankPyon_TrollHeart.label>Corazón de Troll</DankPyon_TrollHeart.label>
+  <DankPyon_TrollHeart.description>Un corazón de troll azul, aún latente con su increíble capacidad regenerativa. Ingrediente valioso para pociones y ungüentos curativos.</DankPyon_TrollHeart.description>
+  <DankPyon_Gossamer.label>Velo de Araña</DankPyon_Gossamer.label>
+  <DankPyon_Gossamer.description>Un tejido extremadamente ligero y fuerte, producido por ciertas especies de arañas gigantes. Se usa en la creación de vestimentas encantadas.</DankPyon_Gossamer.description>
+  <DankPyon_PoisonGland.label>Glándula Venenosa</DankPyon_PoisonGland.label>
+  <DankPyon_PoisonGland.description>Una glándula llena de veneno altamente tóxico. Puede ser utilizada en la creación de armas envenenadas o pociones letales.</DankPyon_PoisonGland.description>
+  <DankPyon_RedbackPoisonGland.label>Glándula Venenosa de Rotrücken</DankPyon_RedbackPoisonGland.label>
+  <DankPyon_RedbackPoisonGland.description>Extraída de una mortífera araña Rotrücken, su veneno es conocido por paralizar a sus presas antes de digerirlas lentamente.</DankPyon_RedbackPoisonGland.description>
+  <DankPyon_LindwurmBlood.label>Sangre de Lindwurm</DankPyon_LindwurmBlood.label>
+  <DankPyon_LindwurmBlood.description>La sangre ácida de un Lindwurm, cuidadosamente conservada en vidrio. Es naturalmente altamente corrosiva y puede derretir armaduras de placas en segundos. Debido a sus capacidades ofensivas, es muy codiciada por alquimistas y cazadores.</DankPyon_LindwurmBlood.description>
+  <DankPyon_LindwurmBones.label>Huesos de Lindwurm</DankPyon_LindwurmBones.label>
+  <DankPyon_LindwurmBones.description>Huesos antiguos y resistentes de un Lindwurm. Son extremadamente valiosos debido a su dureza y rareza, usados en la creación de armaduras y artefactos mágicos.</DankPyon_LindwurmBones.description>
+  <DankPyon_LindwurmScales.label>Escamas de Lindwurm</DankPyon_LindwurmScales.label>
+  <DankPyon_LindwurmScales.description>Escamas gruesas y brillantes que una vez protegieron a un Lindwurm. Se dice que son lo suficientemente resistentes como para desviar armas comunes.</DankPyon_LindwurmScales.description>
+  <DankPyon_NachHorns.label>Cuerno de Ghul</DankPyon_NachHorns.label>
+  <DankPyon_NachHorns.description>Un retorcido y afilado cuerno de un Ghul. Se usa en rituales oscuros y en la fabricación de armas ritualísticas.</DankPyon_NachHorns.description>
+  <DankPyon_ParchedSkin.label>Piel Reseca</DankPyon_ParchedSkin.label>
+  <DankPyon_ParchedSkin.description>Piel curtida y agrietada por el paso del tiempo. Su apariencia deshidratada la hace parecer casi como pergamino.</DankPyon_ParchedSkin.description>
+  <DankPyon_PetrifiedScream.label>Grito Petrificado</DankPyon_PetrifiedScream.label>
+  <DankPyon_PetrifiedScream.description>Un fragmento de piedra impregnado con la esencia de un grito de terror. Se rumorea que aún emite ecos de su último lamento.</DankPyon_PetrifiedScream.description>
+  <DankPyon_ThirdEye.label>Tercer Ojo</DankPyon_ThirdEye.label>
+  <DankPyon_ThirdEye.description>Un ojo místico que parece ver más allá de la realidad. Se cree que otorga visiones y conocimientos ocultos a quienes lo portan.</DankPyon_ThirdEye.description>
+  <DankPyon_AdrenalineGland.label>Glándula de Adrenalina</DankPyon_AdrenalineGland.label>
+  <DankPyon_AdrenalineGland.description>Una glándula cargada con una potente sustancia estimulante. Puede ser utilizada para mejorar la resistencia y la velocidad en combate.</DankPyon_AdrenalineGland.description>
 </LanguageData>

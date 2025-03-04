@@ -1,43 +1,31 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_MakeBullet_ScorpioBolt.label>Stelle 10 Skorpionbolzen her</DankPyon_MakeBullet_ScorpioBolt.label>
-	<DankPyon_MakeBullet_ScorpioBolt.jobString>Herstellung von 10 Skorpionbolzen.</DankPyon_MakeBullet_ScorpioBolt.jobString>
-	
-	<DankPyon_MakeBullet_ScorpioBoltBulk.label>Stelle 50 Skorpionbolzen her</DankPyon_MakeBullet_ScorpioBoltBulk.label>
-	<DankPyon_MakeBullet_ScorpioBoltBulk.jobString>Herstellung von 50 Skorpionbolzen.</DankPyon_MakeBullet_ScorpioBoltBulk.jobString>
-	
-	<DankPyon_MakeBullet_BallistaBolt.label>Stelle 10 Ballistenbolzen her</DankPyon_MakeBullet_BallistaBolt.label>
-	<DankPyon_MakeBullet_BallistaBolt.jobString>Herstellung von 10 Ballistebolzen.</DankPyon_MakeBullet_BallistaBolt.jobString>
-	
-	<DankPyon_MakeBullet_BallistaBoltBulk.label>Stelle 50 Ballistenbolzen her</DankPyon_MakeBullet_BallistaBoltBulk.label>
-	<DankPyon_MakeBullet_BallistaBoltBulk.jobString>Herstellung von 50 Ballistebolzen.</DankPyon_MakeBullet_BallistaBoltBulk.jobString>
-	
-	<DankPyon_MakeBullet_StoneBoulder.label>Steinbrocken in Steinblöcke schneiden</DankPyon_MakeBullet_StoneBoulder.label>
-	<DankPyon_MakeBullet_StoneBoulder.jobString>Steinbrocken in einen Steinblock schneiden.</DankPyon_MakeBullet_StoneBoulder.jobString>
-	
-	<DankPyon_MakeBullet_StoneBoulderBulk.label>Steinbrocken in Steinblöcke schneiden 5x</DankPyon_MakeBullet_StoneBoulderBulk.label>
-	<DankPyon_MakeBullet_StoneBoulderBulk.jobString>5 Steinbrocken in 5 Steinblöcke schneiden.</DankPyon_MakeBullet_StoneBoulderBulk.jobString>
-	
-	<DankPyon_MakeBullet_StoneBoulderTarred.label>Steinblöcke mit Teer bedecken</DankPyon_MakeBullet_StoneBoulderTarred.label>
-	<DankPyon_MakeBullet_StoneBoulderTarred.jobString>Felsbrocken mit Teer bedecken.</DankPyon_MakeBullet_StoneBoulderTarred.jobString>
-	
-	<DankPyon_MakeBullet_StoneBoulderTarredBulk.label>Steinblöcke mit Teer bedecken 5x</DankPyon_MakeBullet_StoneBoulderTarredBulk.label>
-	<DankPyon_MakeBullet_StoneBoulderTarredBulk.jobString>5 Felsbrocken mit Teer bedecken.</DankPyon_MakeBullet_StoneBoulderTarredBulk.jobString>
-	
-	<DankPyon_Make_ComponentBasic.label>Grundkomponente herstellen</DankPyon_Make_ComponentBasic.label>
-	<DankPyon_Make_ComponentBasic.description>Erstelle eine Grundkomponente.</DankPyon_Make_ComponentBasic.description>
-	<DankPyon_Make_ComponentBasic.jobString>Grundkomponente herstellen.</DankPyon_Make_ComponentBasic.jobString>
-	
-	<DankPyon_Make_ComponentBasicBulk.label>Grundkomponente herstellen x5</DankPyon_Make_ComponentBasicBulk.label>
-	<DankPyon_Make_ComponentBasicBulk.description>Erstelle 5 Grundkomponenten.</DankPyon_Make_ComponentBasicBulk.description>
-	<DankPyon_Make_ComponentBasicBulk.jobString>5 Grundkomponente herstellen.</DankPyon_Make_ComponentBasicBulk.jobString>
-	
-	<DankPyon_Make_RepairTools.label>Reparaturwerkzeuge herstellen</DankPyon_Make_RepairTools.label>
-	<DankPyon_Make_RepairTools.description>Reparaturwerkzeuge herstellen.</DankPyon_Make_RepairTools.description>
-	<DankPyon_Make_RepairTools.jobString>Herstellung von Reparaturwerkzeugen.</DankPyon_Make_RepairTools.jobString>
-	
-	<DankPyon_Make_RepairToolsBulk.label>Reparaturwerkzeuge herstellen 5x</DankPyon_Make_RepairToolsBulk.label>
-	<DankPyon_Make_RepairToolsBulk.description>Reparaturwerkzeuge herstellen.</DankPyon_Make_RepairToolsBulk.description>
-	<DankPyon_Make_RepairToolsBulk.jobString>Herstellung von 5 Reparaturwerkzeugen.</DankPyon_Make_RepairToolsBulk.jobString>
+  <DankPyon_MakeBullet_ScorpioBolt.label>Fabricar 10 pernos de escorpión</DankPyon_MakeBullet_ScorpioBolt.label>
+  <DankPyon_MakeBullet_ScorpioBolt.jobString>Fabricación de 10 pernos de escorpión.</DankPyon_MakeBullet_ScorpioBolt.jobString>
+  <DankPyon_MakeBullet_ScorpioBoltBulk.label>Fabricar 50 pernos de escorpión</DankPyon_MakeBullet_ScorpioBoltBulk.label>
+  <DankPyon_MakeBullet_ScorpioBoltBulk.jobString>Fabricación de 50 pernos de escorpión.</DankPyon_MakeBullet_ScorpioBoltBulk.jobString>
+  <DankPyon_MakeBullet_BallistaBolt.label>Fabricar 10 pernos de ballesta</DankPyon_MakeBullet_BallistaBolt.label>
+  <DankPyon_MakeBullet_BallistaBolt.jobString>Fabricación de 10 pernos de ballesta.</DankPyon_MakeBullet_BallistaBolt.jobString>
+  <DankPyon_MakeBullet_BallistaBoltBulk.label>Fabricar 50 pernos de ballesta</DankPyon_MakeBullet_BallistaBoltBulk.label>
+  <DankPyon_MakeBullet_BallistaBoltBulk.jobString>Fabricación de 50 pernos de ballesta.</DankPyon_MakeBullet_BallistaBoltBulk.jobString>
+  <DankPyon_MakeBullet_StoneBoulder.label>Cortar rocas en bloques de piedra</DankPyon_MakeBullet_StoneBoulder.label>
+  <DankPyon_MakeBullet_StoneBoulder.jobString>Cortar una roca en un bloque de piedra.</DankPyon_MakeBullet_StoneBoulder.jobString>
+  <DankPyon_MakeBullet_StoneBoulderBulk.label>Cortar rocas en bloques de piedra 5x</DankPyon_MakeBullet_StoneBoulderBulk.label>
+  <DankPyon_MakeBullet_StoneBoulderBulk.jobString>Cortar 5 rocas en 5 bloques de piedra.</DankPyon_MakeBullet_StoneBoulderBulk.jobString>
+  <DankPyon_MakeBullet_StoneBoulderTarred.label>Cubrir bloques de piedra con alquitrán</DankPyon_MakeBullet_StoneBoulderTarred.label>
+  <DankPyon_MakeBullet_StoneBoulderTarred.jobString>Cubrir una roca con alquitrán.</DankPyon_MakeBullet_StoneBoulderTarred.jobString>
+  <DankPyon_MakeBullet_StoneBoulderTarredBulk.label>Cubrir bloques de piedra con alquitrán 5x</DankPyon_MakeBullet_StoneBoulderTarredBulk.label>
+  <DankPyon_MakeBullet_StoneBoulderTarredBulk.jobString>Cubrir 5 rocas con alquitrán.</DankPyon_MakeBullet_StoneBoulderTarredBulk.jobString>
+  <DankPyon_Make_ComponentBasic.label>Fabricar componente básico</DankPyon_Make_ComponentBasic.label>
+  <DankPyon_Make_ComponentBasic.description>Crear un componente básico.</DankPyon_Make_ComponentBasic.description>
+  <DankPyon_Make_ComponentBasic.jobString>Fabricar componente básico.</DankPyon_Make_ComponentBasic.jobString>
+  <DankPyon_Make_ComponentBasicBulk.label>Fabricar componente básico x5</DankPyon_Make_ComponentBasicBulk.label>
+  <DankPyon_Make_ComponentBasicBulk.description>Crear 5 componentes básicos.</DankPyon_Make_ComponentBasicBulk.description>
+  <DankPyon_Make_ComponentBasicBulk.jobString>Fabricar 5 componentes básicos.</DankPyon_Make_ComponentBasicBulk.jobString>
+  <DankPyon_Make_RepairTools.label>Fabricar herramientas de reparación</DankPyon_Make_RepairTools.label>
+  <DankPyon_Make_RepairTools.description>Fabricar herramientas de reparación.</DankPyon_Make_RepairTools.description>
+  <DankPyon_Make_RepairTools.jobString>Fabricación de herramientas de reparación.</DankPyon_Make_RepairTools.jobString>
+  <DankPyon_Make_RepairToolsBulk.label>Fabricar herramientas de reparación 5x</DankPyon_Make_RepairToolsBulk.label>
+  <DankPyon_Make_RepairToolsBulk.description>Fabricar herramientas de reparación.</DankPyon_Make_RepairToolsBulk.description>
+  <DankPyon_Make_RepairToolsBulk.jobString>Fabricación de 5 herramientas de reparación.</DankPyon_Make_RepairToolsBulk.jobString>
 </LanguageData>

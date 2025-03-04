@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Mindwort.label>Gedankenkraut</DankPyon_Mindwort.label>
-	<DankPyon_Mindwort.description>PLATZHALTER.</DankPyon_Mindwort.description>
-	
-	<DankPyon_Poppy.label>Mohn</DankPyon_Poppy.label>
-	<DankPyon_Poppy.description>PLATZHALTER.</DankPyon_Poppy.description>
-
-	<DankPyon_Fleawort.label>Flohkraut</DankPyon_Fleawort.label>
-	<DankPyon_Fleawort.description>PLATZHALTER.</DankPyon_Fleawort.description>
+  <DankPyon_Mindwort.label>Hierba Mental</DankPyon_Mindwort.label>
+  <DankPyon_Mindwort.description>Una hierba rara conocida por sus efectos estimulantes en la mente. Se dice que su consumo mejora la claridad mental y la concentración.</DankPyon_Mindwort.description>
+  <DankPyon_Poppy.label>Amapola</DankPyon_Poppy.label>
+  <DankPyon_Poppy.description>Una delicada flor de vivos colores. Sus semillas son utilizadas en infusiones y preparaciones medicinales, pero en grandes cantidades pueden tener efectos sedantes.</DankPyon_Poppy.description>
+  <DankPyon_Fleawort.label>Hierba Pulguera</DankPyon_Fleawort.label>
+  <DankPyon_Fleawort.description>Una planta resistente que crece en suelos áridos. Tradicionalmente utilizada como remedio natural contra parásitos y problemas de la piel.</DankPyon_Fleawort.description>
 </LanguageData>

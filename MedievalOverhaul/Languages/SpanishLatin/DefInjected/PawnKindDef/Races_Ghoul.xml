@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Ghoul_Stage_One.label>Ghul</DankPyon_Ghoul_Stage_One.label>
-	<DankPyon_Ghoul_Stage_One.labelPlural>Ghule</DankPyon_Ghoul_Stage_One.labelPlural>
-	<DankPyon_Ghoul_Stage_Two.label>Ghul</DankPyon_Ghoul_Stage_Two.label>
-	<DankPyon_Ghoul_Stage_Two.labelPlural>Ghule</DankPyon_Ghoul_Stage_Two.labelPlural>
-	<DankPyon_Ghoul_Stage_Three.label>Ghul</DankPyon_Ghoul_Stage_Three.label>
-	<DankPyon_Ghoul_Stage_Three.labelPlural>Ghule</DankPyon_Ghoul_Stage_Three.labelPlural>
-
+  <DankPyon_Ghoul_Stage_One.label>Ghoul</DankPyon_Ghoul_Stage_One.label>
+  <DankPyon_Ghoul_Stage_One.labelPlural>Ghoules</DankPyon_Ghoul_Stage_One.labelPlural>
+  <DankPyon_Ghoul_Stage_Two.label>Ghoul</DankPyon_Ghoul_Stage_Two.label>
+  <DankPyon_Ghoul_Stage_Two.labelPlural>Ghoules</DankPyon_Ghoul_Stage_Two.labelPlural>
+  <DankPyon_Ghoul_Stage_Three.label>Ghoul</DankPyon_Ghoul_Stage_Three.label>
+  <DankPyon_Ghoul_Stage_Three.labelPlural>Ghoules</DankPyon_Ghoul_Stage_Three.labelPlural>
 </LanguageData>

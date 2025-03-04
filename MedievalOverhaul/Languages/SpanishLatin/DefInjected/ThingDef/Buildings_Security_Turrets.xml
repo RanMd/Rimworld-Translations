@@ -1,32 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Turret_Scorpio.label>Skorpion</DankPyon_Turret_Scorpio.label>
-	<DankPyon_Turret_Scorpio.description>Der Skorpion wurde in der Antike entwickelt und ist eine mächtige Raketenwaffe, die große Pfeile über große Entfernungen abfeuern kann. Das präzise Design ist sowohl bei der Belagerung als auch bei der Verteidigung wirksam und flößt den Feinden Angst ein, muss jedoch nach jedem abgefeuerten Bolzen nachgeladen werden.</DankPyon_Turret_Scorpio.description>
-	
-	<DankPyon_Bullet_Scorpio.label>Skorpionbolzen</DankPyon_Bullet_Scorpio.label>
-	
-	<DankPyon_Gun_ScorpioTurret.label>Skorpion</DankPyon_Gun_ScorpioTurret.label>
-	<DankPyon_Gun_ScorpioTurret.description>Eine alte militärische Belagerungsmaschine in Form einer Armbrust, montiert auf einer Holzkonstruktion.</DankPyon_Gun_ScorpioTurret.description>
-	
-	<DankPyon_Turret_Ballista.label>Balliste</DankPyon_Turret_Ballista.label>
-	<DankPyon_Turret_Ballista.description>Die in der Antike entwickelte Balliste ist eine leistungsstarke Raketenwaffe, mit der große Pfeile über große Entfernungen abgefeuert werden können. Das präzise Design ist sowohl bei der Belagerung als auch bei der Verteidigung wirksam und flößt den Feinden Angst ein, muss jedoch nach jedem abgefeuerten Bolzen nachgeladen werden.</DankPyon_Turret_Ballista.description>
-
-	<DankPyon_Bullet_Ballista.label>Ballistenbolzen</DankPyon_Bullet_Ballista.label>
-	
-	<DankPyon_Gun_BallistaTurret.label>Balliste</DankPyon_Gun_BallistaTurret.label>
-	<DankPyon_Gun_BallistaTurret.description>Eine alte militärische Belagerungsmaschine in Form einer Armbrust, montiert auf einer Holzkonstruktion.</DankPyon_Gun_BallistaTurret.description>
-	
-	
-	<DankPyon_Turret_Trebuchet.label>Trebuchet</DankPyon_Turret_Trebuchet.label>
-	<DankPyon_Turret_Trebuchet.description>Das Trebuchet nutzt eine starke Torsion, um Steine ​​über eine große Distanz zu schleudern und mit solcher Kraft Mauern zu zerstören. Dies macht das Trebuchet zu einer furchterregenden Belagerungswaffe, die Verteidigungsanlagen zerstören kann; Wo Belagerungsangreifer früher Palisaden unter feindlichen Raketen erklommen, können sie jetzt Öffnungen schaffen, bevor die Schlacht überhaupt beginnt. Wenn die Verteidiger das große Trebuchet auf den Feldern sehen, sollten sie versuchen, es schnell zu zerstören.</DankPyon_Turret_Trebuchet.description>
-	
-	<DankPyon_Artillery_Trebuchet.label>Trebuchet</DankPyon_Artillery_Trebuchet.label>
-	<DankPyon_Artillery_Trebuchet.description>Mörserwerfer. Wirft Bomben über Mauern. Sehr ungenau, aber weitreichend.</DankPyon_Artillery_Trebuchet.description>
-	
-	<DankPyon_Turret_RepeaterBallista.label>Repetier-Balliste</DankPyon_Turret_RepeaterBallista.label>
-	<DankPyon_Turret_RepeaterBallista.description>Der in der Antike entwickelte Repetier-Balliste ist ein Höhepunkt mittelalterlicher Ingenieurskunst. Es handelt sich um eine leistungsstarke Raketenwaffe, die in der Lage ist, mehrere große Pfeile in schneller Folge abzufeuern. Das präzise Design ist sowohl bei der Belagerung als auch bei der Verteidigung wirksam und flößt den Feinden Angst ein, muss jedoch nach jedem abgefeuerten Bolzen nachgeladen werden.</DankPyon_Turret_RepeaterBallista.description>
-	
-	<DankPyon_Gun_RepeaterBallistaTurret.label>Balliste-Repetierturm</DankPyon_Gun_RepeaterBallistaTurret.label>
-	<DankPyon_Gun_RepeaterBallistaTurret.description>Eine alte militärische Belagerungsmaschine in Form einer Armbrust, montiert auf einer Holzkonstruktion.</DankPyon_Gun_RepeaterBallistaTurret.description>
+  <DankPyon_Turret_Scorpio.label>Escorpión</DankPyon_Turret_Scorpio.label>
+  <DankPyon_Turret_Scorpio.description>El Escorpión fue desarrollado en la antigüedad y es un poderoso arma de misiles que puede disparar grandes flechas a largas distancias. El diseño preciso es efectivo tanto en asedios como en defensa e infunde miedo en los enemigos, pero debe recargarse después de cada disparo.</DankPyon_Turret_Scorpio.description>
+  <DankPyon_Bullet_Scorpio.label>Flecha de Escorpión</DankPyon_Bullet_Scorpio.label>
+  <DankPyon_Gun_ScorpioTurret.label>Escorpión</DankPyon_Gun_ScorpioTurret.label>
+  <DankPyon_Gun_ScorpioTurret.description>Una antigua máquina de asedio militar en forma de ballesta, montada en una estructura de madera.</DankPyon_Gun_ScorpioTurret.description>
+  <DankPyon_Turret_Ballista.label>Ballesta</DankPyon_Turret_Ballista.label>
+  <DankPyon_Turret_Ballista.description>La ballesta desarrollada en la antigüedad es un arma de misiles poderosa que puede disparar grandes flechas a largas distancias. El diseño preciso es efectivo tanto en asedios como en defensa e infunde miedo en los enemigos, pero debe recargarse después de cada disparo.</DankPyon_Turret_Ballista.description>
+  <DankPyon_Bullet_Ballista.label>Flecha de Ballesta</DankPyon_Bullet_Ballista.label>
+  <DankPyon_Gun_BallistaTurret.label>Ballesta</DankPyon_Gun_BallistaTurret.label>
+  <DankPyon_Gun_BallistaTurret.description>Una antigua máquina de asedio militar en forma de ballesta, montada en una estructura de madera.</DankPyon_Gun_BallistaTurret.description>
+  <DankPyon_Turret_Trebuchet.label>Trabuquete</DankPyon_Turret_Trebuchet.label>
+  <DankPyon_Turret_Trebuchet.description>El trabuquete utiliza una fuerte torsión para lanzar piedras a gran distancia y con tal fuerza que puede destruir muros. Esto convierte al trabuquete en un arma de asedio aterradora que puede destruir defensas; donde los asaltantes de asedio solían escalar empalizadas bajo el fuego enemigo, ahora pueden crear aberturas antes de que la batalla comience. Si los defensores ven el gran trabuquete en los campos, deben intentar destruirlo rápidamente.</DankPyon_Turret_Trebuchet.description>
+  <DankPyon_Artillery_Trebuchet.label>Trabuquete</DankPyon_Artillery_Trebuchet.label>
+  <DankPyon_Artillery_Trebuchet.description>Lanzador de morteros. Lanza bombas sobre muros. Muy inexacto, pero de largo alcance.</DankPyon_Artillery_Trebuchet.description>
+  <DankPyon_Turret_RepeaterBallista.label>Ballesta Repetidora</DankPyon_Turret_RepeaterBallista.label>
+  <DankPyon_Turret_RepeaterBallista.description>La ballesta repetidora desarrollada en la antigüedad es una cumbre de la ingeniería medieval. Es un arma de misiles poderosa que puede disparar varias grandes flechas en rápida sucesión. El diseño preciso es efectivo tanto en asedios como en defensa e infunde miedo en los enemigos, pero debe recargarse después de cada disparo.</DankPyon_Turret_RepeaterBallista.description>
+  <DankPyon_Gun_RepeaterBallistaTurret.label>Torreta de Ballesta Repetidora</DankPyon_Gun_RepeaterBallistaTurret.label>
+  <DankPyon_Gun_RepeaterBallistaTurret.description>Una antigua máquina de asedio militar en forma de ballesta, montada en una estructura de madera.</DankPyon_Gun_RepeaterBallistaTurret.description>
 </LanguageData>

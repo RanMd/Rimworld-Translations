@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_DireBoar.label>Schreckenseber</DankPyon_DireBoar.label>
-	<DankPyon_DireBoar.description>Ein bösartiger Allesfresser, der mit zwei tödlichen Stoßzähnen ausgestattet ist, die Bedrohungen durchbohren können. Schreckensschweine reisen regelmäßig in Herden umher und es wird befürchtet, dass sie gefährlich sind, wenn sie einmal angetroffen werden.\n\nDer Kadaver eines Schreckensschweins enthält Stoßzähne, die durch Schlachten gewonnen werden können.</DankPyon_DireBoar.description>
-	
-	<DankPyon_Golem_Iron.tools.0.label>Stoßzahn</DankPyon_Golem_Iron.tools.0.label>
-	<DankPyon_Golem_Iron.tools.2.label>linker Huf</DankPyon_Golem_Iron.tools.2.label>
-	<DankPyon_Golem_Iron.tools.3.label>rechter Huf</DankPyon_Golem_Iron.tools.3.label>
-	<DankPyon_Golem_Iron.tools.4.label>Kopf</DankPyon_Golem_Iron.tools.4.label>
+  <DankPyon_DireBoar.label>Jabalí Aterrador</DankPyon_DireBoar.label>
+  <DankPyon_DireBoar.description>Un omnívoro feroz equipado con dos colmillos letales capaces de atravesar cualquier amenaza. Los jabalíes del terror suelen viajar en manadas y se teme que sean extremadamente peligrosos cuando se encuentran.\n\nEl cadáver de un jabalí del terror contiene colmillos que pueden obtenerse en la batalla.</DankPyon_DireBoar.description>
+  <DankPyon_Golem_Iron.tools.0.label>Colmillo</DankPyon_Golem_Iron.tools.0.label>
+  <DankPyon_Golem_Iron.tools.2.label>pezuña izquierda</DankPyon_Golem_Iron.tools.2.label>
+  <DankPyon_Golem_Iron.tools.3.label>pezuña derecha</DankPyon_Golem_Iron.tools.3.label>
+  <DankPyon_Golem_Iron.tools.4.label>cabeza</DankPyon_Golem_Iron.tools.4.label>
 </LanguageData>

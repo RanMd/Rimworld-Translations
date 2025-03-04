@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RoyalCloset.label>Königlicher Schrank</DankPyon_RoyalCloset.label>
-	<DankPyon_RoyalCloset.description>Ein Schrank zur effizienten und schönen Aufbewahrung von Kleidung. Platzieren Sie es in der Nähe von Betten, um einen leichten Komfortzuwachs zu erzielen.</DankPyon_RoyalCloset.description>
-	
-	<DankPyon_RoyalBookshelf.label>Königliches Bücherregal</DankPyon_RoyalBookshelf.label>
-	<DankPyon_RoyalBookshelf.description>Erhöht die Forschungsgeschwindigkeit, wenn es in der Nähe des Forschungstisches platziert wird. Jede Forschungsbank kann zwei Bücherregale nutzen.</DankPyon_RoyalBookshelf.description>
-	
-	<DankPyon_RoyalArmchair.label>Königlicher Sessel</DankPyon_RoyalArmchair.label>
-	<DankPyon_RoyalArmchair.description>Ein luxuriöser, großer, weicher und bequemer Sitz. Ideal zum Entspannen. Kann an Tischen, Arbeitsplätzen und anderswo verwendet werden.</DankPyon_RoyalArmchair.description>
-	
-	<DankPyon_RoyalTable2x2c.label>Königlicher Tisch (2x2)</DankPyon_RoyalTable2x2c.label>
-	<DankPyon_RoyalTable2x4c.label>Königlicher Tisch (2x4)</DankPyon_RoyalTable2x4c.label>
-	
-	<DankPyon_RoyalEndTable.label>Königlicher Beistelltisch</DankPyon_RoyalEndTable.label>
-	<DankPyon_RoyalEndTable.description>Ein kleiner luxuriöser vergoldeter Nachttisch, der die Betten in der Nähe bequemer macht. Muss direkt neben dem Kopfende des Bettes platziert werden. Das Platzieren von mehr als einem Beistelltisch neben demselben Bett hat keine Auswirkung.</DankPyon_RoyalEndTable.description>
-	
-	<DankPyon_RoyalDresser.label>Königliche Kommode</DankPyon_RoyalDresser.label>
-	<DankPyon_RoyalDresser.description>Eine elegante Kommode mit Goldrahmen. Verleiht allen Betten in der Nähe einen Komfortbonus. Das Platzieren von mehr als einer Kommode neben demselben Bett hat keine Auswirkung.</DankPyon_RoyalDresser.description>
-	
-	<DankPyon_RoyalTudorBed.label>Königliches Tudor-Bett</DankPyon_RoyalTudorBed.label>
-	<DankPyon_RoyalTudorBed.description>Ein luxuriöses Bett mit Goldintarsien, passend für die Hochgeborenen. Sehr bequem und schön, es ist ein Kunstwerk für sich. Passt zu zweit.</DankPyon_RoyalTudorBed.description>
-
+  <DankPyon_RoyalCloset.label>Armario Real</DankPyon_RoyalCloset.label>
+  <DankPyon_RoyalCloset.description>Un armario para el almacenamiento eficiente y hermoso de ropa. Colóquelo cerca de las camas para obtener un ligero aumento de comodidad.</DankPyon_RoyalCloset.description>
+  <DankPyon_RoyalBookshelf.label>Estantería Real</DankPyon_RoyalBookshelf.label>
+  <DankPyon_RoyalBookshelf.description>Aumenta la velocidad de investigación cuando se coloca cerca de la mesa de investigación. Cada banco de investigación puede utilizar dos estanterías.</DankPyon_RoyalBookshelf.description>
+  <DankPyon_RoyalArmchair.label>Sillón Real</DankPyon_RoyalArmchair.label>
+  <DankPyon_RoyalArmchair.description>Un asiento lujoso, grande, suave y cómodo. Ideal para relajarse. Puede usarse en mesas, lugares de trabajo y otros lugares.</DankPyon_RoyalArmchair.description>
+  <DankPyon_RoyalTable2x2c.label>Mesa Real (2x2)</DankPyon_RoyalTable2x2c.label>
+  <DankPyon_RoyalTable2x4c.label>Mesa Real (2x4)</DankPyon_RoyalTable2x4c.label>
+  <DankPyon_RoyalEndTable.label>Mesita de Noche Real</DankPyon_RoyalEndTable.label>
+  <DankPyon_RoyalEndTable.description>Una pequeña mesita de noche lujosa y dorada que hace que las camas cercanas sean más cómodas. Debe colocarse directamente al lado de la cabecera de la cama. Colocar más de una mesita de noche junto a la misma cama no tiene efecto.</DankPyon_RoyalEndTable.description>
+  <DankPyon_RoyalDresser.label>Cómoda real</DankPyon_RoyalDresser.label>
+  <DankPyon_RoyalDresser.description>Una elegante cómoda con un marco dorado. Otorga un bono de comodidad a todas las camas cercanas. Colocar más de una cómoda junto a la misma cama no tiene efecto.</DankPyon_RoyalDresser.description>
+  <DankPyon_RoyalTudorBed.label>Cama Tudor real</DankPyon_RoyalTudorBed.label>
+  <DankPyon_RoyalTudorBed.description>Una cama lujosa con incrustaciones de oro, adecuada para los nobles. Muy cómoda y hermosa, es una obra de arte en sí misma. Apta para dos.</DankPyon_RoyalTudorBed.description>
 </LanguageData>

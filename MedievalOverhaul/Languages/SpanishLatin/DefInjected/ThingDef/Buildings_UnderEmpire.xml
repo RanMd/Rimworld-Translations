@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_AncientReliquaryEmpty.label>Antikes Reliquiar</DankPyon_AncientReliquaryEmpty.label>
-	<DankPyon_AncientReliquaryEmpty.description>Ein zeremonielles Möbelstück, das eine Reliquie schützt und ausstellt.</DankPyon_AncientReliquaryEmpty.description>
-	
-	<DankPyon_AncientReliquary.label>Antikes Reliquiar</DankPyon_AncientReliquary.label>
-
+  <DankPyon_AncientReliquaryEmpty.label>Reliquia Antigua Vacía</DankPyon_AncientReliquaryEmpty.label>
+  <DankPyon_AncientReliquaryEmpty.description>Un mueble ceremonial que protege y exhibe una reliquia.</DankPyon_AncientReliquaryEmpty.description>
+  <DankPyon_AncientReliquary.label>Reliquia Antigua</DankPyon_AncientReliquary.label>
 </LanguageData>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Subject.label>Untertan</DankPyon_Subject.label>
-	<DankPyon_HedgeKnight.label>Heckenritter</DankPyon_HedgeKnight.label>
-	<DankPyon_PlayerMercenary.label>Söldner</DankPyon_PlayerMercenary.label>
+  <DankPyon_Subject.label>Súbdito</DankPyon_Subject.label>
+  <DankPyon_HedgeKnight.label>Caballero Errante</DankPyon_HedgeKnight.label>
+  <DankPyon_PlayerMercenary.label>Mercenario</DankPyon_PlayerMercenary.label>
 </LanguageData>

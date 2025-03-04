@@ -1,63 +1,41 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RawFlax.label>Flachs</DankPyon_RawFlax.label>
-	<DankPyon_RawFlax.description>Stängel aus Pflanzenfasern. Die Fasern können wegen ihrer fadenziehenden Eigenschaften genutzt werden und eignen sich hervorragend für die Herstellung von Stoffen.</DankPyon_RawFlax.description>
-	
-	<DankPyon_Silkworm.label>Seidenraupe</DankPyon_Silkworm.label>
-	<DankPyon_Silkworm.description>Kleine wurmige Tiere, die Seide für ihre Kokons produzieren, die geerntet werden können, um feine Seide herzustellen.</DankPyon_Silkworm.description>
-
-	<DankPyon_RawCotton.label>Baumwolle</DankPyon_RawCotton.label>
-	<DankPyon_RawCotton.description>Baumwolle.</DankPyon_RawCotton.description>
-	
-	
-	<DankPyon_RawWheat.label>Weizen</DankPyon_RawWheat.label>
-	<DankPyon_RawWheat.description>Weizen ist eine lebenswichtige Ernte für die Bauernschaft, seine goldenen Halme reifen unter der Sonne und sind bereit für die Ernte für den Lebensunterhalt und den Handel. Der Anbau auf riesigen Feldern sorgt dafür, dass die Dörfer gedeihen, die Menschen gut ernährt bleiben und den Lebensunterhalt der hart arbeitenden Bauern sichern.</DankPyon_RawWheat.description>
-	
-	<DankPyon_RawGrapes.label>Trauben</DankPyon_RawGrapes.label>
-	<DankPyon_RawGrapes.description>Leckere Trauben, die roh verzehrt werden können. Nützlich für die Weinherstellung.</DankPyon_RawGrapes.description>
-
-	<DankPyon_Sugarcane.label>Zuckerrohr</DankPyon_Sugarcane.label>
-	<DankPyon_Sugarcane.description>Rohes Zuckerrohr. Muss zu Zucker gemahlen werden, um verwendbar zu sein.</DankPyon_Sugarcane.description>
-	
-	
-	<DankPyon_RawHerb.label>Rohe Kräuter</DankPyon_RawHerb.label>
-	<DankPyon_RawHerb.description>Rohe Kräuter.</DankPyon_RawHerb.description>
-	
-	<DankPyon_RawTomatoes.label>Tomaten</DankPyon_RawTomatoes.label>
-	<DankPyon_RawTomatoes.description>Rohe Tomaten.</DankPyon_RawTomatoes.description>
-
-	<DankPyon_RawApples.label>Äpfel</DankPyon_RawApples.label>
-	<DankPyon_RawApples.description>Rohe Äpfel.</DankPyon_RawApples.description>
-	
-	
-	<DankPyon_RawLemons.label>Zitronen</DankPyon_RawLemons.label>
-	<DankPyon_RawLemons.description>Rohe Zitronen.</DankPyon_RawLemons.description>
-	
-	<DankPyon_RawMulberry.label>Maulbeere</DankPyon_RawMulberry.label>
-	<DankPyon_RawMulberry.description>Rohe Maulbeeren.</DankPyon_RawMulberry.description>
-
-	<DankPyon_RawCabbages.label>Kohlköpfe</DankPyon_RawCabbages.label>
-	<DankPyon_RawCabbages.description>Rohe Kohlköpfe.</DankPyon_RawCabbages.description>
-	
-	<DankPyon_RawCarrots.label>Karotten</DankPyon_RawCarrots.label>
-	<DankPyon_RawCarrots.description>Rohe Karotten.</DankPyon_RawCarrots.description>
-	
-	<DankPyon_RawGarlic.label>Knoblauch</DankPyon_RawGarlic.label>
-	<DankPyon_RawGarlic.description>Roher Knoblauch.</DankPyon_RawGarlic.description>
-
-	<DankPyon_RawOnions.label>Zwiebeln</DankPyon_RawOnions.label>
-	<DankPyon_RawOnions.description>Rohe Zwiebeln.</DankPyon_RawOnions.description>
-	
-	<DankPyon_RawPumpkins.label>Kürbisse</DankPyon_RawPumpkins.label>
-	<DankPyon_RawPumpkins.description>Rohe Kürbisse.</DankPyon_RawPumpkins.description>
-
-	<DankPyon_RawLentils.label>Linsen</DankPyon_RawLentils.label>
-	<DankPyon_RawLentils.description>Rohe Linsen.</DankPyon_RawLentils.description>
-
-	<DankPyon_GriffonBerry.label>Greifenbeeren</DankPyon_GriffonBerry.label>
-	<DankPyon_GriffonBerry.description>Rohe Greifenbeeren.</DankPyon_GriffonBerry.description>
-	
-	<DankPyon_RawMacci.label>Macci</DankPyon_RawMacci.label>
-	<DankPyon_RawMacci.description>Rohes Macci.</DankPyon_RawMacci.description>
+  <DankPyon_RawFlax.label>Lino</DankPyon_RawFlax.label>
+  <DankPyon_RawFlax.description>Tallos de fibras vegetales. Las fibras pueden ser utilizadas por sus propiedades hiladoras y son excelentes para la fabricación de telas.</DankPyon_RawFlax.description>
+  <DankPyon_Silkworm.label>Gusano de seda</DankPyon_Silkworm.label>
+  <DankPyon_Silkworm.description>Pequeños animales gusanos que producen seda para sus capullos, los cuales pueden ser cosechados para hacer seda fina.</DankPyon_Silkworm.description>
+  <DankPyon_RawCotton.label>Algodón</DankPyon_RawCotton.label>
+  <DankPyon_RawCotton.description>Algodón.</DankPyon_RawCotton.description>
+  <DankPyon_RawWheat.label>Trigo</DankPyon_RawWheat.label>
+  <DankPyon_RawWheat.description>El trigo es un cultivo vital para los agricultores, sus tallos dorados maduran bajo el sol y están listos para la cosecha para el sustento y el comercio. Cultivar en grandes campos asegura que los pueblos prosperen, la gente se mantenga bien alimentada y se garantice el sustento de los agricultores que trabajan duro.</DankPyon_RawWheat.description>
+  <DankPyon_RawGrapes.label>Uvas</DankPyon_RawGrapes.label>
+  <DankPyon_RawGrapes.description>Deliciosas uvas que se pueden comer crudas. Útiles para la elaboración de vino.</DankPyon_RawGrapes.description>
+  <DankPyon_Sugarcane.label>Caña de azúcar</DankPyon_Sugarcane.label>
+  <DankPyon_Sugarcane.description>Caña de azúcar cruda. Debe ser molida para obtener azúcar utilizable.</DankPyon_Sugarcane.description>
+  <DankPyon_RawHerb.label>Hierbas crudas</DankPyon_RawHerb.label>
+  <DankPyon_RawHerb.description>Hierbas crudas.</DankPyon_RawHerb.description>
+  <DankPyon_RawTomatoes.label>Tomates</DankPyon_RawTomatoes.label>
+  <DankPyon_RawTomatoes.description>Tomates crudos.</DankPyon_RawTomatoes.description>
+  <DankPyon_RawApples.label>Manzanas</DankPyon_RawApples.label>
+  <DankPyon_RawApples.description>Manzanas crudas.</DankPyon_RawApples.description>
+  <DankPyon_RawLemons.label>Limones</DankPyon_RawLemons.label>
+  <DankPyon_RawLemons.description>Limones crudos.</DankPyon_RawLemons.description>
+  <DankPyon_RawMulberry.label>Moras</DankPyon_RawMulberry.label>
+  <DankPyon_RawMulberry.description>Moras crudas.</DankPyon_RawMulberry.description>
+  <DankPyon_RawCabbages.label>Repollo</DankPyon_RawCabbages.label>
+  <DankPyon_RawCabbages.description>Repollo crudo.</DankPyon_RawCabbages.description>
+  <DankPyon_RawCarrots.label>Zanahorias</DankPyon_RawCarrots.label>
+  <DankPyon_RawCarrots.description>Zanahorias crudas.</DankPyon_RawCarrots.description>
+  <DankPyon_RawGarlic.label>Ajo</DankPyon_RawGarlic.label>
+  <DankPyon_RawGarlic.description>Ajo crudo.</DankPyon_RawGarlic.description>
+  <DankPyon_RawOnions.label>Cebollas</DankPyon_RawOnions.label>
+  <DankPyon_RawOnions.description>Cebollas crudas.</DankPyon_RawOnions.description>
+  <DankPyon_RawPumpkins.label>Calabazas</DankPyon_RawPumpkins.label>
+  <DankPyon_RawPumpkins.description>Calabazas crudas.</DankPyon_RawPumpkins.description>
+  <DankPyon_RawLentils.label>Lentejas</DankPyon_RawLentils.label>
+  <DankPyon_RawLentils.description>Lentejas crudas.</DankPyon_RawLentils.description>
+  <DankPyon_GriffonBerry.label>Bayas de grifo</DankPyon_GriffonBerry.label>
+  <DankPyon_GriffonBerry.description>Bayas de grifo crudas.</DankPyon_GriffonBerry.description>
+  <DankPyon_RawMacci.label>Macci</DankPyon_RawMacci.label>
+  <DankPyon_RawMacci.description>Macci crudo.</DankPyon_RawMacci.description>
 </LanguageData>

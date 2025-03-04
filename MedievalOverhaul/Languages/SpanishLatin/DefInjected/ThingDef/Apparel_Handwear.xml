@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Handwear_GlovesLeather.label>Lederhandschuhe</DankPyon_Handwear_GlovesLeather.label>
-	<DankPyon_Handwear_GlovesLeather.description>Gegerbtes Leder, passend zur Hand genäht. Bietet minimalen Schutz. Das Tragen von Lederhandschuhen erhöht die Arbeitsgeschwindigkeit und die Schussgenauigkeit.</DankPyon_Handwear_GlovesLeather.description>
-	
-	<DankPyon_Handwear_GlovesSplinted.label>Geschiente Handschuhe</DankPyon_Handwear_GlovesSplinted.label>
-	<DankPyon_Handwear_GlovesSplinted.description>Das Innenfutter besteht aus kleinen, einander überlappenden Plättchen, die die Handbewegung leicht einschränken können. Das Tragen von Schienenhandschuhen verringert die Arbeitsgeschwindigkeit und die Schussgenauigkeit.</DankPyon_Handwear_GlovesSplinted.description>
-	
-	<DankPyon_Handwear_GlovesPlate.label>Plattenhandschuhe</DankPyon_Handwear_GlovesPlate.label>
-	<DankPyon_Handwear_GlovesPlate.description>Ein Paar sorgfältig gefertigte Plattenhandschuhe. Bietet Schutz, der genauso stark ist wie seine Kosten. Das Tragen von Plattenhandschuhen verringert die Arbeitsgeschwindigkeit und die Schussgenauigkeit des Trägers.</DankPyon_Handwear_GlovesPlate.description>	
-	
+  <DankPyon_Handwear_GlovesLeather.label>Guantes de cuero</DankPyon_Handwear_GlovesLeather.label>
+  <DankPyon_Handwear_GlovesLeather.description>Cuero curtido, cosido a mano. Ofrece protección mínima. Usar guantes de cuero aumenta la velocidad de trabajo y la precisión de disparo.</DankPyon_Handwear_GlovesLeather.description>
+  <DankPyon_Handwear_GlovesSplinted.label>Guantes entablillados</DankPyon_Handwear_GlovesSplinted.label>
+  <DankPyon_Handwear_GlovesSplinted.description>El forro interior está hecho de pequeñas placas superpuestas que pueden restringir ligeramente el movimiento de la mano. Usar guantes entablillados reduce la velocidad de trabajo y la precisión de disparo.</DankPyon_Handwear_GlovesSplinted.description>
+  <DankPyon_Handwear_GlovesPlate.label>Guantes de placas</DankPyon_Handwear_GlovesPlate.label>
+  <DankPyon_Handwear_GlovesPlate.description>Un par de guantes de placas cuidadosamente elaborados. Ofrecen una protección tan fuerte como su costo. Usar guantes de placas reduce la velocidad de trabajo y la precisión de disparo del usuario.</DankPyon_Handwear_GlovesPlate.description>
 </LanguageData>

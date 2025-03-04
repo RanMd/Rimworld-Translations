@@ -1,25 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_AteCheese.stages.0.label>aß schrecklichen Käse</DankPyon_AteCheese.stages.0.label>
-	<DankPyon_AteCheese.stages.0.description>Ich hatte die unglückliche Erfahrung, Käse von schrecklicher Qualität zu essen. Der Geschmack bleibt noch bestehen und verfolgt meine Gedanken.</DankPyon_AteCheese.stages.0.description>
-	
-	<DankPyon_AteCheese.stages.1.label>aß schlechten Käse</DankPyon_AteCheese.stages.1.label>
-	<DankPyon_AteCheese.stages.1.description>Ich habe Käse von schlechter Qualität gegessen. Der Geschmack war nicht zufriedenstellend.</DankPyon_AteCheese.stages.1.description>
-
-	<DankPyon_AteCheese.stages.2.label>aß normalen Käse</DankPyon_AteCheese.stages.2.label>
-	<DankPyon_AteCheese.stages.2.description>Ich habe durchschnittlichen Käse gegessen.</DankPyon_AteCheese.stages.2.description>
-
-	<DankPyon_AteCheese.stages.3.label>aß guten Käse</DankPyon_AteCheese.stages.3.label>
-	<DankPyon_AteCheese.stages.3.description>Der Geschmack des guten Qualitätskäses, den ich gerade gegessen habe zaubert ein Lächeln auf mein Gesicht.</DankPyon_AteCheese.stages.3.description>
-	
-	<DankPyon_AteCheese.stages.4.label>aß ausgezeichneten Käse</DankPyon_AteCheese.stages.4.label>
-	<DankPyon_AteCheese.stages.4.description>Der unglaubliche Geschmack des erstklassigen Käses, den ich gerade genossen haben, hat mich in einen reinen kulinarischen Genuss versetzt.</DankPyon_AteCheese.stages.4.description>
-	
-	<DankPyon_AteCheese.stages.5.label>aß meisterhaften Käse</DankPyon_AteCheese.stages.5.label>
-	<DankPyon_AteCheese.stages.5.description>Der unvergleichliche Geschmack des erstklassigen Käses, den ich gerade genossen habe, hat mich in ein Reich geschmacklicher Ekstase entführt.</DankPyon_AteCheese.stages.5.description>
-	
-	<DankPyon_AteCheese.stages.6.label>aß legendären Käse</DankPyon_AteCheese.stages.6.label>
-	<DankPyon_AteCheese.stages.6.description>Der göttliche Geschmack des Käses von legendärer Qualität, den ich gerade genossen haben, hat meine Wahrnehmung kulinarischer Perfektion für immer verändert.</DankPyon_AteCheese.stages.6.description>
-	
+  <DankPyon_AteCheese.stages.0.label>comió queso horrible</DankPyon_AteCheese.stages.0.label>
+  <DankPyon_AteCheese.stages.0.description>Tuve la desafortunada experiencia de comer queso de terrible calidad. El sabor aún persiste y atormenta mis pensamientos.</DankPyon_AteCheese.stages.0.description>
+  <DankPyon_AteCheese.stages.1.label>comió queso malo</DankPyon_AteCheese.stages.1.label>
+  <DankPyon_AteCheese.stages.1.description>He comido queso de mala calidad. El sabor no fue satisfactorio.</DankPyon_AteCheese.stages.1.description>
+  <DankPyon_AteCheese.stages.2.label>comió queso normal</DankPyon_AteCheese.stages.2.label>
+  <DankPyon_AteCheese.stages.2.description>He comido queso promedio.</DankPyon_AteCheese.stages.2.description>
+  <DankPyon_AteCheese.stages.3.label>comió buen queso</DankPyon_AteCheese.stages.3.label>
+  <DankPyon_AteCheese.stages.3.description>El sabor del queso de buena calidad que acabo de comer me dibuja una sonrisa en el rostro.</DankPyon_AteCheese.stages.3.description>
+  <DankPyon_AteCheese.stages.4.label>comió queso excelente</DankPyon_AteCheese.stages.4.label>
+  <DankPyon_AteCheese.stages.4.description>El increíble sabor del queso de primera calidad que acabo de disfrutar me ha llevado a un puro placer culinario.</DankPyon_AteCheese.stages.4.description>
+  <DankPyon_AteCheese.stages.5.label>comió queso magistral</DankPyon_AteCheese.stages.5.label>
+  <DankPyon_AteCheese.stages.5.description>El sabor incomparable del queso de primera calidad que acabo de disfrutar me ha llevado a un reino de éxtasis gustativo.</DankPyon_AteCheese.stages.5.description>
+  <DankPyon_AteCheese.stages.6.label>comió queso legendario</DankPyon_AteCheese.stages.6.label>
+  <DankPyon_AteCheese.stages.6.description>El sabor divino del queso de calidad legendaria que acabo de disfrutar ha cambiado para siempre mi percepción de la perfección culinaria.</DankPyon_AteCheese.stages.6.description>
 </LanguageData>

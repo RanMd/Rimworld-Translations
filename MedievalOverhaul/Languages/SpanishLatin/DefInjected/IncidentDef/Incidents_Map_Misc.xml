@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_DaerPasses.label>Seltene Daers</DankPyon_DaerPasses.label>
-	<DankPyon_DaerPasses.letterLabel>{0} wandern auf die Karte</DankPyon_DaerPasses.letterLabel>
-	<DankPyon_DaerPasses.letterText>Ein Rudel von {1} ist in die Gegend gewandert und wird nach einer Weile wieder verschwinden. Sei gewarnt: {1} sind äußerst gefährlich, aber wegen ihres robusten Fells und ihrer majestätischen Hörner sehr begehrt.</DankPyon_DaerPasses.letterText>
-	
-	<DankPyon_LindwurmPasses.label>Seltene Lindwürmer</DankPyon_LindwurmPasses.label>
-	<DankPyon_LindwurmPasses.letterLabel>{0} wandern auf die Karte</DankPyon_LindwurmPasses.letterLabel>
-	<DankPyon_LindwurmPasses.letterText>Im Winde des Schicksals hat sich ein Rudel {1} ​​in die Gegend gewagt und unser Reich nur für einen flüchtigen Moment geschmückt. Diese majestätischen Kreaturen mit Schuppen, die wie geschmolzene Glut leuchten, und einer Präsenz, die Ehrfurcht einflößt, schlängeln sie sich auf ihrem gewundenen Weg durch das Land. Sei vorsichtig, denn {1} sind gewaltige Gegner, deren feuriger Atem und mächtige Windungen eine gefährliche Bedrohung für alle darstellen, die es wagen, ihren Weg zu kreuzen.</DankPyon_LindwurmPasses.letterText>
-	
-	<DankPyon_GriffonPasses.label>Seltene Greifen</DankPyon_GriffonPasses.label>
-	<DankPyon_GriffonPasses.letterLabel>{0} wandern auf die Karte</DankPyon_GriffonPasses.letterLabel>
-	<DankPyon_GriffonPasses.letterText>Ein Rudel von {1} ist in die Gegend gewandert und wird nach einer Weile wieder verschwinden. Sei gewarnt: {1} sind äußerst gefährlich, aber wegen ihrer Fähigkeiten als Kampfreittiere sehr begehrt.</DankPyon_GriffonPasses.letterText>
-	
-	<DankPyon_TrollPasses.label>Seltene Trolle</DankPyon_TrollPasses.label>
-	<DankPyon_TrollPasses.letterLabel>{0} wandern auf die Karte</DankPyon_TrollPasses.letterLabel>
-	<DankPyon_TrollPasses.letterText>Ein Rudel von {1} ist in die Gegend gewandert und wird nach einer Weile wieder verschwinden. Sei vorsichtig, denn {1} sind gewaltige Gegner und ihre Fähigkeit, eigene Verletzungen zu heilen, ist beispiellos.</DankPyon_TrollPasses.letterText>
-	
-	<DankPyon_GolemImpactor.label>Seltsamer Meteoriteneinschlag</DankPyon_GolemImpactor.label>
-	<DankPyon_GolemImpactor.letterLabel>Seltsamer Meteoreinschlag</DankPyon_TrollPasses.letterLabel>
-	<DankPyon_GolemImpactor.letterText>Ein seltsamer Meteor ist in der Gegend eingeschlagen. Es sieht so aus, als wären diese riesigen Kreaturen nach dem Aufprall inaktiv.</DankPyon_GolemImpactor.letterText>
+  <DankPyon_DaerPasses.label>Daers Raros</DankPyon_DaerPasses.label>
+  <DankPyon_DaerPasses.letterLabel>{0} se mueven en el mapa</DankPyon_DaerPasses.letterLabel>
+  <DankPyon_DaerPasses.letterText>Una manada de {1} ha migrado a la zona y desaparecerá después de un tiempo. Ten cuidado: {1} son extremadamente peligrosos, pero muy codiciados por su piel robusta y sus majestuosos cuernos.</DankPyon_DaerPasses.letterText>
+  <DankPyon_LindwurmPasses.label>Lindwurms Raros</DankPyon_LindwurmPasses.label>
+  <DankPyon_LindwurmPasses.letterLabel>{0} se mueven en el mapa</DankPyon_LindwurmPasses.letterLabel>
+  <DankPyon_LindwurmPasses.letterText>En el viento del destino, una manada de {1} se ha aventurado en la zona, adornando nuestro reino solo por un momento fugaz. Estas majestuosas criaturas con escamas que brillan como brasas fundidas y una presencia que infunde asombro, se deslizan en su sinuoso camino a través de la tierra. Ten cuidado, porque {1} son oponentes formidables, cuyo aliento de fuego y poderosas vueltas representan una amenaza peligrosa para todos los que se atrevan a cruzar su camino.</DankPyon_LindwurmPasses.letterText>
+  <DankPyon_GriffonPasses.label>Grifos Raros</DankPyon_GriffonPasses.label>
+  <DankPyon_GriffonPasses.letterLabel>{0} se mueven en el mapa</DankPyon_GriffonPasses.letterLabel>
+  <DankPyon_GriffonPasses.letterText>Una manada de {1} ha migrado a la zona y desaparecerá después de un tiempo. Ten cuidado: {1} son extremadamente peligrosos, pero muy codiciados por sus habilidades como monturas de combate.</DankPyon_GriffonPasses.letterText>
+  <DankPyon_TrollPasses.label>Trolls Raros</DankPyon_TrollPasses.label>
+  <DankPyon_TrollPasses.letterLabel>{0} se mueven en el mapa</DankPyon_TrollPasses.letterLabel>
+  <DankPyon_TrollPasses.letterText>Una manada de {1} ha migrado a la zona y desaparecerá después de un tiempo. Ten cuidado, porque {1} son oponentes formidables y su capacidad para curar sus propias heridas es inigualable.</DankPyon_TrollPasses.letterText>
+  <DankPyon_GolemImpactor.label>Impacto de Meteorito Extraño</DankPyon_GolemImpactor.label>
+  <DankPyon_GolemImpactor.letterLabel>Impacto de Meteorito Extraño</DankPyon_GolemImpactor.letterLabel>
+  <DankPyon_GolemImpactor.letterText>Un meteorito extraño ha impactado en la zona. Parece que estas enormes criaturas están inactivas después del impacto.</DankPyon_GolemImpactor.letterText>
 </LanguageData>

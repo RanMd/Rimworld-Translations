@@ -1,27 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_BattleElixir.label>Kampfelixier</DankPyon_BattleElixir.label>
-	<DankPyon_BattleElixir.description>PLATZHALTER.</DankPyon_BattleElixir.description>
-	
-	<DankPyon_HappyPowder.label>Glückspulver</DankPyon_HappyPowder.label>
-	<DankPyon_HappyPowder.description>PLATZHALTER.</DankPyon_HappyPowder.description>
-	
-	<DankPyon_HornetHoney.label>Hornissenhonig</DankPyon_HornetHoney.label>
-	<DankPyon_HornetHoney.description>Eine tödlich süße Flüssigkeit, die von den schwarzen Hornissen abgesondert wird. Der Verzehr führt zu einer Betäubung des Schmerzempfindens, schärft aber die Reflexe und verbessert die Nahkampf- und Schussfähigkeiten.</DankPyon_HornetHoney.description>
-	
-	<DankPyon_Luhix.label>Luhix</DankPyon_Luhix.label>
-	<DankPyon_Luhix.description>PLATZHALTER.</DankPyon_Luhix.description>
-	
-	<DankPyon_Miracle.label>Wunder der Apotheker</DankPyon_Miracle.label>
-	<DankPyon_Miracle.description>PLATZHALTER.</DankPyon_Miracle.description>
-	
-	<DankPyon_Paregoric.label>Paregorika</DankPyon_Paregoric.label>
-	<DankPyon_Paregoric.description>PLATZHALTER.</DankPyon_Paregoric.description>
-	
-	<DankPyon_Stardust.label>Sternenstaub</DankPyon_Stardust.label>
-	<DankPyon_Stardust.description>PLATZHALTER.</DankPyon_Stardust.description>
-	
-	<DankPyon_VigorPill.label>Vitalitätspille</DankPyon_VigorPill.label>
-	<DankPyon_VigorPill.description>Die Vitalitätspille stillt das Ruhebedürfnis des Anwenders und ermöglicht ihm, über längere Zeiträume zu arbeiten, ohne müde zu werden. Die Einnahme von Kraftpillen birgt jedoch das Risiko, eine Sucht zu entwickeln.\n\nIn den wettbewerbsintensivsten Universitäten und Gemeinden vieler Königreiche werden Leistungsträger aufgrund der Assoziation mit dieser Droge manchmal als „Kraftmenschen“ bezeichnet.</DankPyon_VigorPill.description>
+  <DankPyon_BattleElixir.label>Elixir de Batalla</DankPyon_BattleElixir.label>
+  <DankPyon_BattleElixir.description>Un potente elixir que fortalece el cuerpo y la mente, otorgando una ventaja en combate. Su uso excesivo puede causar efectos secundarios impredecibles.</DankPyon_BattleElixir.description>
+  <DankPyon_HappyPowder.label>Polvo de la Felicidad</DankPyon_HappyPowder.label>
+  <DankPyon_HappyPowder.description>Un polvo místico que induce una sensación de alegría y bienestar. Su uso excesivo puede generar dependencia.</DankPyon_HappyPowder.description>
+  <DankPyon_HornetHoney.label>Miel de Avispa</DankPyon_HornetHoney.label>
+  <DankPyon_HornetHoney.description>Un líquido peligrosamente dulce secretado por las avispas negras. Su consumo adormece la sensación de dolor, agudiza los reflejos y mejora las habilidades de combate cuerpo a cuerpo y a distancia.</DankPyon_HornetHoney.description>
+  <DankPyon_Luhix.label>Luhix</DankPyon_Luhix.label>
+  <DankPyon_Luhix.description>Una sustancia exótica de origen desconocido. Se dice que otorga visiones y una fuerza sobrehumana por un corto tiempo, pero a un alto precio.</DankPyon_Luhix.description>
+  <DankPyon_Miracle.label>Milagro del Boticario</DankPyon_Miracle.label>
+  <DankPyon_Miracle.description>Una poción rara con propiedades curativas excepcionales. Se rumorea que puede sanar heridas graves y restaurar la vitalidad perdida.</DankPyon_Miracle.description>
+  <DankPyon_Paregoric.label>Paregórico</DankPyon_Paregoric.label>
+  <DankPyon_Paregoric.description>Un potente analgésico utilizado para aliviar el dolor extremo. Su abuso puede causar letargo y dependencia.</DankPyon_Paregoric.description>
+  <DankPyon_Stardust.label>Polvo Estelar</DankPyon_Stardust.label>
+  <DankPyon_Stardust.description>Un polvo brillante con propiedades desconocidas. Algunos creen que otorga sueños lúcidos, mientras que otros lo ven como un portal a dimensiones olvidadas.</DankPyon_Stardust.description>
+  <DankPyon_VigorPill.label>Píldora de Vigor</DankPyon_VigorPill.label>
+  <DankPyon_VigorPill.description>La píldora de vigor suprime la necesidad de descanso, permitiendo trabajar sin fatiga durante largos períodos. Sin embargo, su consumo prolongado conlleva un alto riesgo de adicción.\n\nEn las universidades más exigentes y en las sociedades competitivas de muchos reinos, aquellos con un rendimiento excepcional suelen ser apodados "hombres de vigor" debido a su asociación con esta sustancia.</DankPyon_VigorPill.description>
 </LanguageData>

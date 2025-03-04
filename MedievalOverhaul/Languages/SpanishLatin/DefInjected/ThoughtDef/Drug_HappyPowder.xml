@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Thought_HappyPowder.stages.0.label>Aufgepuscht durch Glückspulver</DankPyon_Thought_HappyPowder.stages.0.label>
-	<DankPyon_Thought_HappyPowder.stages.0.description>Ich fühle mich aufgepumpt! Lass uns loslegen!</DankPyon_Thought_HappyPowder.stages.0.description>
-	
-	<DankPyon_Withdrawal_BattleElixir.stages.1.label>Kampfelixier-Entzug</DankPyon_Withdrawal_BattleElixir.stages.1.label>
-	<DankPyon_Withdrawal_BattleElixir.stages.1.description>Ich bin völlig verwirrt und kann nicht klar denken. Meine Glieder fühlen sich schwer an, ich bin müde und hungrig, alles tut weh. Und warum fokussieren meine Augen nicht richtig?</DankPyon_Withdrawal_BattleElixir.stages.1.description>
+  <DankPyon_Thought_HappyPowder.stages.0.label>Estimulado por Polvo de la Felicidad</DankPyon_Thought_HappyPowder.stages.0.label>
+  <DankPyon_Thought_HappyPowder.stages.0.description>¡Me siento lleno de energía! ¡Vamos a empezar!</DankPyon_Thought_HappyPowder.stages.0.description>
+  <DankPyon_Withdrawal_BattleElixir.stages.1.label>Abstinencia de Elixir de Batalla</DankPyon_Withdrawal_BattleElixir.stages.1.label>
+  <DankPyon_Withdrawal_BattleElixir.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_Withdrawal_BattleElixir.stages.1.description>
 </LanguageData>

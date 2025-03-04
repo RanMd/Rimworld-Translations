@@ -1,103 +1,69 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_AteGriffonBerry.stages.0.label>Greifbeere</DankPyon_AteGriffonBerry.stages.0.label>
-	<DankPyon_AteGriffonBerry.stages.0.description>Eine Beere für Greife! Was für eine tiefe Süße!</DankPyon_AteGriffonBerry.stages.0.description>
-	
-	<DankPyon_DrankAle.stages.0.label>Gutes altes Bier</DankPyon_DrankAle.stages.0.label>
-	<DankPyon_DrankAle.stages.0.description>Es gibt nichts Besseres als gutes Ale, um die Schrecken aus meinem Kopf zu verbannen.</DankPyon_DrankAle.stages.0.description>
-	
-	<DankPyon_DrankMead.stages.0.label>Guter alter Met</DankPyon_DrankMead.stages.0.label>
-	<DankPyon_DrankMead.stages.0.description>Warm und süß, der ausgeprägte Honigton ist einigermaßen befriedigend.</DankPyon_DrankMead.stages.0.description>
-	
-	<DankPyon_AteHeartyStew.stages.0.label>Aß herzhaften Eintopf</DankPyon_AteHeartyStew.stages.0.label>
-	<DankPyon_AteHeartyStew.stages.0.description>Ich habe einen herzhaften Eintopf gegessen, eine köstliche Mahlzeit, die meinen Körper wärmt.</DankPyon_AteHeartyStew.stages.0.description>
-	
-	<DankPyon_AteWeakStew.stages.0.label>Aß schwachen Eintopf</DankPyon_AteWeakStew.stages.0.label>
-	<DankPyon_AteWeakStew.stages.0.description>Ich habe einen schwachen Eintopf gegessen, eine köstliche Mahlzeit, die meinen Körper wärmt.</DankPyon_AteWeakStew.stages.0.description>
-	
-	<DankPyon_AteRoxSteak.stages.0.label>aß Rox-Steak</DankPyon_AteRoxSteak.stages.0.label>
-	<DankPyon_AteRoxSteak.stages.0.description>Ein Rox-Steak! Sein fettes Fleisch zergeht auf der Zunge, während die Soße einen wunderbaren Kick verströmt!</DankPyon_AteRoxSteak.stages.0.description>
-	
-	<DankPyon_AteGriffonBerryPie.stages.0.label>aß Greifenbeerenkuchen</DankPyon_AteGriffonBerryPie.stages.0.label>
-	<DankPyon_AteGriffonBerryPie.stages.0.description>Ein für Greifen gebackener Kuchen! Solch ein tiefes Aroma befriedigt unaufhaltsam die Zunge!</DankPyon_AteGriffonBerryPie.stages.0.description>
-	
-	<DankPyon_AteSmokedMeat.stages.0.label>aß geräuchertes Fleisch</DankPyon_AteSmokedMeat.stages.0.label>
-	<DankPyon_AteSmokedMeat.stages.0.description>Das geräucherte Fleisch hatte einen rustikalen Geschmack.</DankPyon_AteSmokedMeat.stages.0.description>
-	
-	<DankPyon_AteDriedMeat.stages.0.label>aß Trockenfleisch</DankPyon_AteDriedMeat.stages.0.label>
-	<DankPyon_AteDriedMeat.stages.0.description>Das Fleisch war so trocken, dass ich ausgedörrt bin.</DankPyon_AteDriedMeat.stages.0.description>
-	
-	<DankPyon_AteBreadSoup.stages.0.label>aß Brotsuppe</DankPyon_AteBreadSoup.stages.0.label>
-	<DankPyon_AteBreadSoup.stages.0.description>Ein Stück Brot gefüllt mit herzhafter Suppe – ich bin nicht verliebt, aber ich spüre, wie meine Kräfte wiederhergestellt werden.</DankPyon_AteBreadSoup.stages.0.description>
-	
-	<DankPyon_AteGrilledSausages.stages.0.label>aß gegrillte Würstchen</DankPyon_AteGrilledSausages.stages.0.label>
-	<DankPyon_AteGrilledSausages.stages.0.description>Diese Würste haben einen herzhaften und rauchigen Geschmack!</DankPyon_AteGrilledSausages.stages.0.description>
-	
-	<DankPyon_AteApplePie.stages.0.label>aß Apfelkuchen</DankPyon_AteApplePie.stages.0.label>
-	<DankPyon_AteApplePie.stages.0.description>Was für ein leckerer Genuss! Wer hätte gedacht, dass Äpfel noch süßer gemacht werden könnten?</DankPyon_AteApplePie.stages.0.description>
-	
-	<DankPyon_AteHuntersStew.stages.0.label>aß Jägereintopf</DankPyon_AteHuntersStew.stages.0.label>
-	<DankPyon_AteHuntersStew.stages.0.description>Der Eintopf war voller herzhafter Elemente. Es hat meinen Körper genährt!</DankPyon_AteHuntersStew.stages.0.description>
-	
-	<DankPyon_AteMashedPotatoes.stages.0.label>aß Kartoffelpüree</DankPyon_AteMashedPotatoes.stages.0.label>
-	<DankPyon_AteMashedPotatoes.stages.0.description>Diese Schüssel Kartoffelpüree hatte einen angenehm cremigen Geschmack.</DankPyon_AteMashedPotatoes.stages.0.description>
-	
-	<DankPyon_AteGrilledCheese.stages.0.label>aß gegrillten Käse</DankPyon_AteGrilledCheese.stages.0.label>
-	<DankPyon_AteGrilledCheese.stages.0.description>Ich habe ein klebriges, leckeres und luxuriöses Stück gegrillten Käses gegessen.</DankPyon_AteGrilledCheese.stages.0.description>
-	
-	<DankPyon_AteQuiche.stages.0.label>aß Quiche</DankPyon_AteQuiche.stages.0.label>
-	<DankPyon_AteQuiche.stages.0.description>Ich habe eine herzhafte Pastete aus Eiern und Fleisch gegessen. Lecker!</DankPyon_AteQuiche.stages.0.description>
-	
-	<DankPyon_AteSweetPancakes.stages.0.label>aß süße Pfannkuchen</DankPyon_AteSweetPancakes.stages.0.label>
-	<DankPyon_AteSweetPancakes.stages.0.description>Ich habe einen Stapel süßer, dicker Pfannkuchen mit Sirup gegessen. Lecker!</DankPyon_AteSweetPancakes.stages.0.description>
-	
-	<DankPyon_AteWinterLentilSoup.stages.0.label>aß Winterlinsensuppe</DankPyon_AteWinterLentilSoup.stages.0.label>
-	<DankPyon_AteWinterLentilSoup.stages.0.description>Ich aß eine wohltuende Suppe aus Linsen und Gewürzen. Eine herrliche Wärme durchströmt meinen Körper.</DankPyon_AteWinterLentilSoup.stages.0.description>
-	
-	<DankPyon_AteGriffonBerry.stages.0.label>Greifbeere</DankPyon_AteGriffonBerry.stages.0.label>
-	<DankPyon_AteGriffonBerry.stages.0.description>Eine Beere für Greife! Was für eine tiefe Süße!</DankPyon_AteGriffonBerry.stages.0.description>
-	
-	<DankPyon_AteMushroomSoup.stages.0.label>aß Pilzsuppe</DankPyon_AteMushroomSoup.stages.0.label>
-	<DankPyon_AteMushroomSoup.stages.0.description>Ich habe eine reichhaltige Suppe aus gehackten Pilzen gegessen. So erdig, so gut!</DankPyon_AteMushroomSoup.stages.0.description>
-	
-	<DankPyon_AteTomatoOmelette.stages.0.label>aß Tomatenomelett</DankPyon_AteTomatoOmelette.stages.0.label>
-	<DankPyon_AteTomatoOmelette.stages.0.description>Ich habe ein mit Tomaten gefülltes Omelett gegessen. Saftig und doch herzhaft!</DankPyon_AteTomatoOmelette.stages.0.description>
-	
-	<DankPyon_AteVegetablePot.stages.0.label>aß Gemüsetopf</DankPyon_AteVegetablePot.stages.0.label>
-	<DankPyon_AteVegetablePot.stages.0.description>Ich habe einen herzhaften Eintopf aus Gemüse und Gemüse gegessen. Herzhaft und gesund.</DankPyon_AteVegetablePot.stages.0.description>
-	
-	<DankPyon_AtePumpkinPie.stages.0.label>aß Kürbiskuchen</DankPyon_AtePumpkinPie.stages.0.label>
-	<DankPyon_AtePumpkinPie.stages.0.description>Süß und dennoch leicht würzig. Was für ein köstlicher Kuchen!</DankPyon_AtePumpkinPie.stages.0.description>
-	
-	<DankPyon_AtePumpkinFritters.stages.0.label>aß Kürbiskekse</DankPyon_AtePumpkinFritters.stages.0.label>
-	<DankPyon_AtePumpkinFritters.stages.0.description>Der richtige Hauch von Süße auf einem dicken und sättigenden Keks. Hat jemand etwas Bier zum Abspülen?</DankPyon_AtePumpkinFritters.stages.0.description>
-	
-	<DankPyon_AteGrilledSkewers.stages.0.label>aß gegrillte Spieße</DankPyon_AteGrilledSkewers.stages.0.label>
-	<DankPyon_AteGrilledSkewers.stages.0.description>Einfach zu essen und lecker. Was gibt es sonst noch zu Fleisch am Spieß zu sagen?</DankPyon_AteGrilledSkewers.stages.0.description>
-	
-	<DankPyon_AtePumpkinSoup.stages.0.label>aß Kürbissuppe</DankPyon_AtePumpkinSoup.stages.0.label>
-	<DankPyon_AtePumpkinSoup.stages.0.description>Ich habe eine dicke Suppe aus Kürbis und Gewürzen gegessen. Eine herrliche Wärme durchströmt meinen Körper.</DankPyon_AtePumpkinSoup.stages.0.description>
-	
-	<DankPyon_AteSteakWithWine.stages.0.label>aß Steak mit Rotweinsauce</DankPyon_AteSteakWithWine.stages.0.label>
-	<DankPyon_AteSteakWithWine.stages.0.description>Das zarte Steak schmilzt bei jedem Bissen und die reichhaltige Brühe unterstreicht den Geschmack des Gerichts. Wenn ich etwas essen könnte, wäre es immer Steak mit Rotweinsauce.</DankPyon_AteSteakWithWine.stages.0.description>
-	
-	<DankPyon_AteBoiledBeansAndOnion.stages.0.label>aß gekochte Bohnen und Zwiebeln</DankPyon_AteBoiledBeansAndOnion.stages.0.label>
-	<DankPyon_AteBoiledBeansAndOnion.stages.0.description>Es ist Bohnen-Zwiebel-Suppe. Ich bin satt und fühle mich aufgeladen, aber der Geschmack ist unvergesslich.</DankPyon_AteBoiledBeansAndOnion.stages.0.description>
-	
-	<DankPyon_AteCheeseSoup.stages.0.label>aß Käsesuppe</DankPyon_AteCheeseSoup.stages.0.label>
-	<DankPyon_AteCheeseSoup.stages.0.description>Die Art und Weise, wie der Käse in der Gewürzbrühe schmilzt, bringt mich zum Tanzen! Das einzig Negative ist, dass die Leute zuschauen.</DankPyon_AteCheeseSoup.stages.0.description>
-	
-	<DankPyon_AteSlopMeal.stages.0.label>aß eine Schüssel mit Saft</DankPyon_AteSlopMeal.stages.0.label>
-	<DankPyon_AteSlopMeal.stages.0.description>Ich musste eine ekelhafte, geschmacklose Mahlzeit zu mir nehmen. Ich weiß, dass es mich am Leben hält, aber niemand möchte diesen Mist schlucken.</DankPyon_AteSlopMeal.stages.0.description>
-	
-	<DankPyon_AteFineSlopMeal.stages.0.label>aß eine Schüssel Fondue</DankPyon_AteFineSlopMeal.stages.0.label>
-	<DankPyon_AteFineSlopMeal.stages.0.description>Ich habe eine köstliche Käsesuppe gegessen.</DankPyon_AteFineSlopMeal.stages.0.description>
-	
-	<DankPyon_AteCarrotCake.stages.0.label>aß Karottenkuchen</DankPyon_AteCarrotCake.stages.0.label>
-	<DankPyon_AteCarrotCake.stages.0.description>Genussvoll und warm gewürzt. Was für ein köstliches Stück Kuchen!</DankPyon_AteCarrotCake.stages.0.description>
-	
-	<DankPyon_AteLemonCake.stages.0.label>aß Zitronenkuchen</DankPyon_AteLemonCake.stages.0.label>
-	<DankPyon_AteLemonCake.stages.0.description>Würzig und erfrischend, mit genau der richtigen Menge Süße. Was für ein herrlicher Genuss!</DankPyon_AteLemonCake.stages.0.description>
-
+  <DankPyon_AteGriffonBerry.stages.0.label>Bayas de Grifo</DankPyon_AteGriffonBerry.stages.0.label>
+  <DankPyon_AteGriffonBerry.stages.0.description>¡Una baya para grifos! ¡Qué dulzura tan profunda!</DankPyon_AteGriffonBerry.stages.0.description>
+  <DankPyon_DrankAle.stages.0.label>Buena cerveza vieja</DankPyon_DrankAle.stages.0.label>
+  <DankPyon_DrankAle.stages.0.description>No hay nada mejor que una buena cerveza para desterrar los horrores de mi mente.</DankPyon_DrankAle.stages.0.description>
+  <DankPyon_DrankMead.stages.0.label>Buen hidromiel viejo</DankPyon_DrankMead.stages.0.label>
+  <DankPyon_DrankMead.stages.0.description>Cálido y dulce, el tono pronunciado de miel es bastante satisfactorio.</DankPyon_DrankMead.stages.0.description>
+  <DankPyon_AteHeartyStew.stages.0.label>Comí estofado sustancioso</DankPyon_AteHeartyStew.stages.0.label>
+  <DankPyon_AteHeartyStew.stages.0.description>He comido un estofado sustancioso, una comida deliciosa que calienta mi cuerpo.</DankPyon_AteHeartyStew.stages.0.description>
+  <DankPyon_AteWeakStew.stages.0.label>Comí estofado débil</DankPyon_AteWeakStew.stages.0.label>
+  <DankPyon_AteWeakStew.stages.0.description>He comido un estofado débil, una comida deliciosa que calienta mi cuerpo.</DankPyon_AteWeakStew.stages.0.description>
+  <DankPyon_AteRoxSteak.stages.0.label>Comí filete de Rox</DankPyon_AteRoxSteak.stages.0.label>
+  <DankPyon_AteRoxSteak.stages.0.description>¡Un filete de Rox! Su carne grasa se deshace en la boca, mientras la salsa aporta un toque delicioso.</DankPyon_AteRoxSteak.stages.0.description>
+  <DankPyon_AteGriffonBerryPie.stages.0.label>comió pastel de bayas de grifo</DankPyon_AteGriffonBerryPie.stages.0.label>
+  <DankPyon_AteGriffonBerryPie.stages.0.description>¡Un pastel horneado para grifos! Su aroma profundo satisface el paladar de manera irresistible.</DankPyon_AteGriffonBerryPie.stages.0.description>
+  <DankPyon_AteSmokedMeat.stages.0.label>comió carne ahumada</DankPyon_AteSmokedMeat.stages.0.label>
+  <DankPyon_AteSmokedMeat.stages.0.description>La carne ahumada tenía un sabor rústico.</DankPyon_AteSmokedMeat.stages.0.description>
+  <DankPyon_AteDriedMeat.stages.0.label>comió carne seca</DankPyon_AteDriedMeat.stages.0.label>
+  <DankPyon_AteDriedMeat.stages.0.description>La carne estaba tan seca que me deshidraté.</DankPyon_AteDriedMeat.stages.0.description>
+  <DankPyon_AteBreadSoup.stages.0.label>comió sopa de pan</DankPyon_AteBreadSoup.stages.0.label>
+  <DankPyon_AteBreadSoup.stages.0.description>Un trozo de pan lleno de sopa sustanciosa - no estoy enamorado, pero siento cómo se restauran mis fuerzas.</DankPyon_AteBreadSoup.stages.0.description>
+  <DankPyon_AteGrilledSausages.stages.0.label>comió salchichas a la parrilla</DankPyon_AteGrilledSausages.stages.0.label>
+  <DankPyon_AteGrilledSausages.stages.0.description>¡Estas salchichas tienen un sabor sustancioso y ahumado!</DankPyon_AteGrilledSausages.stages.0.description>
+  <DankPyon_AteApplePie.stages.0.label>comió pastel de manzana</DankPyon_AteApplePie.stages.0.label>
+  <DankPyon_AteApplePie.stages.0.description>¡Qué delicia! ¿Quién hubiera pensado que las manzanas podrían ser aún más dulces?</DankPyon_AteApplePie.stages.0.description>
+  <DankPyon_AteHuntersStew.stages.0.label>comió estofado de cazador</DankPyon_AteHuntersStew.stages.0.label>
+  <DankPyon_AteHuntersStew.stages.0.description>El estofado estaba lleno de elementos sustanciosos. ¡Ha nutrido mi cuerpo!</DankPyon_AteHuntersStew.stages.0.description>
+  <DankPyon_AteMashedPotatoes.stages.0.label>comió puré de papas</DankPyon_AteMashedPotatoes.stages.0.label>
+  <DankPyon_AteMashedPotatoes.stages.0.description>Este plato de puré de papas tenía un sabor agradablemente cremoso.</DankPyon_AteMashedPotatoes.stages.0.description>
+  <DankPyon_AteGrilledCheese.stages.0.label>comió queso a la parrilla</DankPyon_AteGrilledCheese.stages.0.label>
+  <DankPyon_AteGrilledCheese.stages.0.description>He comido un trozo pegajoso, delicioso y lujoso de queso a la parrilla.</DankPyon_AteGrilledCheese.stages.0.description>
+  <DankPyon_AteQuiche.stages.0.label>comió quiche</DankPyon_AteQuiche.stages.0.label>
+  <DankPyon_AteQuiche.stages.0.description>He comido una tarta sustanciosa de huevos y carne. ¡Delicioso!</DankPyon_AteQuiche.stages.0.description>
+  <DankPyon_AteSweetPancakes.stages.0.label>comió panqueques dulces</DankPyon_AteSweetPancakes.stages.0.label>
+  <DankPyon_AteSweetPancakes.stages.0.description>He comido una pila de panqueques dulces y gruesos con jarabe. ¡Delicioso!</DankPyon_AteSweetPancakes.stages.0.description>
+  <DankPyon_AteWinterLentilSoup.stages.0.label>comió sopa de lentejas de invierno</DankPyon_AteWinterLentilSoup.stages.0.label>
+  <DankPyon_AteWinterLentilSoup.stages.0.description>He comido una sopa reconfortante de lentejas y especias. Una calidez maravillosa recorre mi cuerpo.</DankPyon_AteWinterLentilSoup.stages.0.description>
+  <DankPyon_AteGriffonBerry.stages.0.label>comió baya de grifo</DankPyon_AteGriffonBerry.stages.0.label>
+  <DankPyon_AteGriffonBerry.stages.0.description>¡Una baya para grifos! ¡Qué dulzura tan profunda!</DankPyon_AteGriffonBerry.stages.0.description>
+  <DankPyon_AteMushroomSoup.stages.0.label>comió sopa de champiñones</DankPyon_AteMushroomSoup.stages.0.label>
+  <DankPyon_AteMushroomSoup.stages.0.description>He comido una sopa rica de champiñones picados. ¡Tan terrosa, tan buena!</DankPyon_AteMushroomSoup.stages.0.description>
+  <DankPyon_AteTomatoOmelette.stages.0.label>comió tortilla de tomate</DankPyon_AteTomatoOmelette.stages.0.label>
+  <DankPyon_AteTomatoOmelette.stages.0.description>He comido una tortilla rellena de tomates. ¡Jugosa y a la vez sabrosa!</DankPyon_AteTomatoOmelette.stages.0.description>
+  <DankPyon_AteVegetablePot.stages.0.label>comió guiso de verduras</DankPyon_AteVegetablePot.stages.0.label>
+  <DankPyon_AteVegetablePot.stages.0.description>He comido un guiso sabroso de verduras. Saludable y delicioso.</DankPyon_AteVegetablePot.stages.0.description>
+  <DankPyon_AtePumpkinPie.stages.0.label>comió pastel de calabaza</DankPyon_AtePumpkinPie.stages.0.label>
+  <DankPyon_AtePumpkinPie.stages.0.description>Dulce y ligeramente especiado. ¡Qué pastel tan delicioso!</DankPyon_AtePumpkinPie.stages.0.description>
+  <DankPyon_AtePumpkinFritters.stages.0.label>comió galletas de calabaza</DankPyon_AtePumpkinFritters.stages.0.label>
+  <DankPyon_AtePumpkinFritters.stages.0.description>El toque justo de dulzura en una galleta gruesa y saciante. ¿Alguien tiene una cerveza para acompañar?</DankPyon_AtePumpkinFritters.stages.0.description>
+  <DankPyon_AteGrilledSkewers.stages.0.label>comió brochetas a la parrilla</DankPyon_AteGrilledSkewers.stages.0.label>
+  <DankPyon_AteGrilledSkewers.stages.0.description>Fácil de comer y delicioso. ¿Qué más se puede decir sobre la carne en brocheta?</DankPyon_AteGrilledSkewers.stages.0.description>
+  <DankPyon_AtePumpkinSoup.stages.0.label>comió sopa de calabaza</DankPyon_AtePumpkinSoup.stages.0.label>
+  <DankPyon_AtePumpkinSoup.stages.0.description>He comido una sopa espesa de calabaza y especias. Una cálida sensación recorre mi cuerpo.</DankPyon_AtePumpkinSoup.stages.0.description>
+  <DankPyon_AteSteakWithWine.stages.0.label>comió bistec con salsa de vino tinto</DankPyon_AteSteakWithWine.stages.0.label>
+  <DankPyon_AteSteakWithWine.stages.0.description>El tierno bistec se derrite con cada bocado y el rico caldo resalta el sabor del plato. Si pudiera comer algo, siempre sería bistec con salsa de vino tinto.</DankPyon_AteSteakWithWine.stages.0.description>
+  <DankPyon_AteBoiledBeansAndOnion.stages.0.label>comió frijoles hervidos y cebolla</DankPyon_AteBoiledBeansAndOnion.stages.0.label>
+  <DankPyon_AteBoiledBeansAndOnion.stages.0.description>Es sopa de frijoles y cebolla. Estoy lleno y me siento recargado, pero el sabor es inolvidable.</DankPyon_AteBoiledBeansAndOnion.stages.0.description>
+  <DankPyon_AteCheeseSoup.stages.0.label>comió sopa de queso</DankPyon_AteCheeseSoup.stages.0.label>
+  <DankPyon_AteCheeseSoup.stages.0.description>¡La forma en que el queso se derrite en el caldo de especias me hace querer bailar! Lo único negativo es que la gente mira.</DankPyon_AteCheeseSoup.stages.0.description>
+  <DankPyon_AteSlopMeal.stages.0.label>comió un tazón de jugo</DankPyon_AteSlopMeal.stages.0.label>
+  <DankPyon_AteSlopMeal.stages.0.description>Tuve que comer una comida repugnante y sin sabor. Sé que me mantiene vivo, pero nadie quiere tragar esta porquería.</DankPyon_AteSlopMeal.stages.0.description>
+  <DankPyon_AteFineSlopMeal.stages.0.label>comió un tazón de fondue</DankPyon_AteFineSlopMeal.stages.0.label>
+  <DankPyon_AteFineSlopMeal.stages.0.description>He comido una deliciosa sopa de queso.</DankPyon_AteFineSlopMeal.stages.0.description>
+  <DankPyon_AteCarrotCake.stages.0.label>comió pastel de zanahoria</DankPyon_AteCarrotCake.stages.0.label>
+  <DankPyon_AteCarrotCake.stages.0.description>Delicioso y cálidamente especiado. ¡Qué pedazo de pastel tan delicioso!</DankPyon_AteCarrotCake.stages.0.description>
+  <DankPyon_AteLemonCake.stages.0.label>comió pastel de limón</DankPyon_AteLemonCake.stages.0.label>
+  <DankPyon_AteLemonCake.stages.0.description>Picante y refrescante, con la cantidad justa de dulzura. ¡Qué delicia tan maravillosa!</DankPyon_AteLemonCake.stages.0.description>
 </LanguageData>

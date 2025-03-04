@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Bow_Hunting.label>Jagdbogen</DankPyon_Bow_Hunting.label>
-	<DankPyon_Bow_Hunting.description>Der Jagdbogen ist eine einfache und kurze Waffe und besteht aus dichtem Holz für den Bauch und federndem Holz für die Vorderseite. Dadurch kann sich das dichte Holz biegen, aber das Holz kämpft immer darum, in die Gerade zurückzukehren, und verdrängt so Pfeile, die mit großer Kraft am Strang entlang gezogen werden. Kleiner als der Kriegsbogen, was zu geringerer Reichweite und Durchschlagskraft führt, aber in den Händen eines erfahrenen Bogenschützen oder Jägers tödlich.</DankPyon_Bow_Hunting.description>
-	
-	<DankPyon_Arrow_Hunting.label>Jagdbogenpfeil</DankPyon_Arrow_Hunting.label>
-	
-	<Bow_War.label>Kriegsbogen</Bow_War.label>
-	<Bow_War.description>Ein Langbogen, geschnitzt aus wunderschöner Eibe, mit gedämpften Spitzen, um eine leichte Biegung zu ermöglichen, und bemalt, um zu verhindern, dass der Bogen unter Belastung zerbricht – und der Bogen erfährt tatsächlich Belastung, da der lange Körper es dem Hanfstrang ermöglicht, weiter und mit mehr Spannung zu ziehen. Dies hilft Pfeilen, weiter zu fliegen und Oberflächen besser zu durchdringen, was den Kriegsbogen zu einer tödlichen Waffe im Kampf macht.</Bow_War.description>
-	
-	<DankPyon_Arrow_War.label>Kriegsbogenpfeil</DankPyon_Arrow_War.label>		
-	
+  <DankPyon_Bow_Hunting.label>Arco de caza</DankPyon_Bow_Hunting.label>
+  <DankPyon_Bow_Hunting.description>El arco de caza es un arma simple y corta hecha de madera densa para el vientre y madera elástica para la parte delantera. Esto permite que la madera densa se doble, pero la madera siempre lucha por volver a su forma recta, desplazando así las flechas que se tiran con gran fuerza a lo largo de la cuerda. Más pequeño que el arco de guerra, lo que resulta en menor alcance y poder de penetración, pero en manos de un arquero o cazador experimentado, es mortal.</DankPyon_Bow_Hunting.description>
+  <DankPyon_Arrow_Hunting.label>Flecha de caza</DankPyon_Arrow_Hunting.label>
+  <DankPyon_Bow_War.label>Arco de guerra</DankPyon_Bow_War.label>
+  <DankPyon_Bow_War.description>Un arco largo, tallado en hermoso tejo, con puntas amortiguadas para permitir una ligera flexión, y pintado para evitar que el arco se rompa bajo tensión – y el arco realmente experimenta tensión, ya que el cuerpo largo permite que la cuerda de cáñamo se tire más lejos y con más tensión. Esto ayuda a que las flechas vuelen más lejos y penetren mejor las superficies, lo que convierte al arco de guerra en un arma mortal en combate.</DankPyon_Bow_War.description>
+  <DankPyon_Arrow_War.label>Flecha de guerra</DankPyon_Arrow_War.label>
 </LanguageData>

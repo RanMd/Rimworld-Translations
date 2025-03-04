@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Ulrik_Initiate.label>Initiant</DankPyon_Ulrik_Initiate.label>
-	<DankPyon_Ulrik_Warrior.label>Krieger</DankPyon_Ulrik_Warrior.label>
-	<DankPyon_Ulrik_Oathbound.label>Eidgebundener</DankPyon_Ulrik_Oathbound.label>
-	<DankPyon_Ulrik_Lord.label>Hoher Lord</DankPyon_Ulrik_Lord.label>
+  <DankPyon_Ulrik_Initiate.label>Iniciado</DankPyon_Ulrik_Initiate.label>
+  <DankPyon_Ulrik_Warrior.label>Guerrero</DankPyon_Ulrik_Warrior.label>
+  <DankPyon_Ulrik_Oathbound.label>Juramentado</DankPyon_Ulrik_Oathbound.label>
+  <DankPyon_Ulrik_Lord.label>Alto Señor</DankPyon_Ulrik_Lord.label>
 </LanguageData>

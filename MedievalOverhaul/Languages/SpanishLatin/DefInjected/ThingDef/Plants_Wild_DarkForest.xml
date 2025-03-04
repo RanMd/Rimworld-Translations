@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_GreatOak.label>Große Eiche</DankPyon_GreatOak.label>
-	<DankPyon_GreatOak.description>Die höchste Sorte gewöhnlicher Hartholzbäume. Während die Große Eiche für die Dorfbewohner ein alltäglicher Anblick und eine vertrauenswürdige Quelle des Schattens ist, überrascht sie Ausländer mit ihrer imposanten Größe. Wächst hauptsächlich auf schwarzen Böden mit dicken Wurzeln, die weit in die Erde reichen. Ihr breites Blätterdach erreicht leicht einen Durchmesser von drei- oder sogar vierhundert Fuß.</DankPyon_GreatOak.description>
-	<DankPyon_GreatOak.comps.0.letterLabel>Uralter Schrat</DankPyon_GreatOak.comps.0.letterLabel>
-	<DankPyon_GreatOak.comps.0.letterDescription>Ein uralter Schrat ist wegen der Abholzung großer Bäume verärgert. Stellen Sie sicher, dass Sie es nicht verärgern!</DankPyon_GreatOak.comps.0.letterDescription>
-	
-	<DankPyon_GreatIter.label>Großer Iter</DankPyon_GreatIter.label>
-	<DankPyon_GreatIter.description>Iters sind die kleinsten Riesenbäume und zeichnen sich durch ein dichtes Laub und eine Fülle von zähflüssigen, sauren Früchten aus. In besonders heißen Sommern beginnen sie, eine neue Blattterrasse zu bilden, weshalb Iter häufig als Symbol für Thermophilie und Hitzeschutz verwendet werden.</DankPyon_GreatIter.description>
-	<DankPyon_GreatIter.comps.0.letterLabel>Uralter Schrat</DankPyon_GreatIter.comps.0.letterLabel>
-	<DankPyon_GreatIter.comps.0.letterDescription>Ein uralter Schrat ist wegen der Abholzung großer Bäume verärgert. Stellen Sie sicher, dass Sie es nicht verärgern!</DankPyon_GreatIter.comps.0.letterDescription>
-	
-	<DankPyon_GreatFir.label>Große Tanne</DankPyon_GreatFir.label>
-	<DankPyon_GreatFir.description>Dreihundert Fuß hohe riesige Tanne ​​aus Zedernholz. Diese Bäume werden oft als die letzten Wächter des Sommers bezeichnet, immergrüne Flächen voller hoffnungsvoller Farben, die sich vom Schnee abheben. Sei vorsichtig, wenn du einen dichten Tannenwald durchquerst, denn 10-Zoll-Tannenzapfen können sogar einen Ritter in voller Rüstung niederschlagen.</DankPyon_GreatFir.description>
-	
-	<DankPyon_GreatWillow.label>Große Weide</DankPyon_GreatWillow.label>
-	<DankPyon_GreatWillow.description>Eine Weide, die es geschafft hat, Tausende von Jahren zu überleben.</DankPyon_GreatWillow.description>
-	<DankPyon_GreatWillow.comps.0.letterLabel>Uralter Schrat</DankPyon_GreatWillow.comps.0.letterLabel>
-	<DankPyon_GreatWillow.comps.0.letterDescription>Ein uralter Schrat ist wegen der Abholzung großer Bäume verärgert. Stellen Sie sicher, dass Sie es nicht verärgern!</DankPyon_GreatWillow.comps.0.letterDescription>
-	
-
+  <DankPyon_GreatOak.label>Gran Roble</DankPyon_GreatOak.label>
+  <DankPyon_GreatOak.description>El tipo más alto de árboles de madera dura comunes. Mientras que el Gran Roble es una vista cotidiana y una fuente confiable de sombra para los aldeanos, sorprende a los extranjeros con su imponente tamaño. Crece principalmente en suelos negros con raíces gruesas que se extienden profundamente en la tierra. Su amplio dosel de hojas fácilmente alcanza un diámetro de trescientos o incluso cuatrocientos pies.</DankPyon_GreatOak.description>
+  <DankPyon_GreatOak.comps.0.letterLabel>Anciano Ent</DankPyon_GreatOak.comps.0.letterLabel>
+  <DankPyon_GreatOak.comps.0.letterDescription>Un anciano Ent está enfadado por la tala de grandes árboles. ¡Asegúrate de no enfadarlo!</DankPyon_GreatOak.comps.0.letterDescription>
+  <DankPyon_GreatIter.label>Gran Iter</DankPyon_GreatIter.label>
+  <DankPyon_GreatIter.description>Los Iter son los árboles gigantes más pequeños y se caracterizan por un follaje denso y una abundancia de frutos viscosos y ácidos. En veranos especialmente calurosos, comienzan a formar una nueva terraza de hojas, por lo que los Iter a menudo se utilizan como símbolo de termofilia y protección contra el calor.</DankPyon_GreatIter.description>
+  <DankPyon_GreatIter.comps.0.letterLabel>Anciano Ent</DankPyon_GreatIter.comps.0.letterLabel>
+  <DankPyon_GreatIter.comps.0.letterDescription>Un anciano Ent está enfadado por la tala de grandes árboles. ¡Asegúrate de no enfadarlo!</DankPyon_GreatIter.comps.0.letterDescription>
+  <DankPyon_GreatFir.label>Gran Abeto</DankPyon_GreatFir.label>
+  <DankPyon_GreatFir.description>Abeto gigante de trescientos pies de altura hecho de madera de cedro. Estos árboles a menudo se llaman los últimos guardianes del verano, áreas siempre verdes llenas de colores esperanzadores que se destacan de la nieve. Ten cuidado al atravesar un denso bosque de abetos, ya que las piñas de 10 pulgadas pueden derribar incluso a un caballero con armadura completa.</DankPyon_GreatFir.description>
+  <DankPyon_GreatWillow.label>Gran Sauce</DankPyon_GreatWillow.label>
+  <DankPyon_GreatWillow.description>Un sauce que ha logrado sobrevivir miles de años.</DankPyon_GreatWillow.description>
+  <DankPyon_GreatWillow.comps.0.letterLabel>Anciano Ent</DankPyon_GreatWillow.comps.0.letterLabel>
+  <DankPyon_GreatWillow.comps.0.letterDescription>Un anciano Ent está enfadado por la tala de grandes árboles. ¡Asegúrate de no enfadarlo!</DankPyon_GreatWillow.comps.0.letterDescription>
 </LanguageData>

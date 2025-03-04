@@ -1,18 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<EGG_AdvancedWell.label>Brunnen</EGG_AdvancedWell.label>
-	<EGG_AdvancedWell.description>Greift auf das Grundwasser zu, das durch Wasserpumpen gepumpt werden kann. Das Vorhandensein von Abwasser oder anderen Verschmutzungen verringert die Wasserqualität und kann zu Verunreinigungen führen.</EGG_AdvancedWell.description>
-	
-	<DankPyon_LogBoiler.label>Scheitholzkessel</DankPyon_LogBoiler.label>
-	<DankPyon_LogBoiler.description>Produziert 2000 Heizeinheiten für Rohrheizkörper und Warmwasserspeicher. Beheizt den Raum und die angrenzenden Bäder. Benötigt Holzscheite als Brennstoff.</DankPyon_LogBoiler.description>
-	
-	<DankPyon_HotWaterTank.label>Heißwassertank</DankPyon_HotWaterTank.label>
-	<DankPyon_HotWaterTank.description>Speichert fließend heißes Wasser zum Duschen und Baden. Zum Heizen an einen beliebigen Heizkessel anschließen.</DankPyon_HotWaterTank.description>
-	
-	<DankPyon_BurnPit.label>Brenngrube</DankPyon_BurnPit.label>
-	<DankPyon_BurnPit.description>Beseitigt Fäkalienschlamm durch Verbrennung als Brennstoff. Kann auch zur Entsorgung von Leichen oder anderen Abfällen verwendet werden. Kolonisten können krank werden, wenn sie sich zu lange in der Nähe brennender Abfälle aufhalten.</DankPyon_BurnPit.description>
-	
-	<DankPyon_SewageSepticTank.label>Klärgrube</DankPyon_SewageSepticTank.label>
-	<DankPyon_SewageSepticTank.description>Reinigt das Abwasser im Laufe der Zeit langsam. Das Abwasser wird zunächst in Klärgruben geleitet. Wenn die volle Kapazität erreicht ist, wird überschüssiges Abwasser in die Abwasserentsorgung geleitet.</DankPyon_SewageSepticTank.description>
+  <EGG_AdvancedWell.label>Pozo</EGG_AdvancedWell.label>
+  <EGG_AdvancedWell.description>Accede al agua subterránea que puede ser bombeada mediante bombas de agua. La presencia de aguas residuales u otras contaminaciones reduce la calidad del agua y puede llevar a contaminaciones.</EGG_AdvancedWell.description>
+  <DankPyon_LogBoiler.label>Caldera de Leña</DankPyon_LogBoiler.label>
+  <DankPyon_LogBoiler.description>Produce 2000 unidades de calor para radiadores y calentadores de agua. Calienta la habitación y los baños adyacentes. Requiere troncos de madera como combustible.</DankPyon_LogBoiler.description>
+  <DankPyon_HotWaterTank.label>Tanque de Agua Caliente</DankPyon_HotWaterTank.label>
+  <DankPyon_HotWaterTank.description>Almacena agua caliente corriente para duchas y baños. Conectar a cualquier caldera para calefacción.</DankPyon_HotWaterTank.description>
+  <DankPyon_BurnPit.label>Fosa de Quema</DankPyon_BurnPit.label>
+  <DankPyon_BurnPit.description>Elimina lodo fecal mediante la quema como combustible. También se puede usar para deshacerse de cadáveres u otros desechos. Los colonos pueden enfermarse si permanecen demasiado tiempo cerca de los desechos en llamas.</DankPyon_BurnPit.description>
+  <DankPyon_SewageSepticTank.label>Fosa Séptica</DankPyon_SewageSepticTank.label>
+  <DankPyon_SewageSepticTank.description>Limpia las aguas residuales lentamente con el tiempo. Las aguas residuales se dirigen primero a las fosas sépticas. Cuando se alcanza la capacidad máxima, el exceso de aguas residuales se dirige al tratamiento de aguas residuales.</DankPyon_SewageSepticTank.description>
 </LanguageData>

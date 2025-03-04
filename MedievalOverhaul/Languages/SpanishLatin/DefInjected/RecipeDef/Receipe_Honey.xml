@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Extract_Honey.label>Honig extrahieren</DankPyon_Extract_Honey.label>
-	<DankPyon_Extract_Honey.description>Extrahiere den süßen Nektar aus den Waben. Honig kann zur Herstellung von Met verwendet werden, ist aber auch allein eine nahrhafte und genussvolle Mahlzeit.</DankPyon_Extract_Honey.description>
-	<DankPyon_Extract_Honey.jobString>Honig extrahieren.</DankPyon_Extract_Honey.jobString>
-	
-	<DankPyon_Extract_HoneyBulk.label>Honig extrahieren x5</DankPyon_Extract_HoneyBulk.label>
-	<DankPyon_Extract_HoneyBulk.description>Extrahiere den süßen Nektar aus den Waben. Honig kann zur Herstellung von Met verwendet werden, ist aber auch allein eine nahrhafte und genussvolle Mahlzeit x5.</DankPyon_Extract_HoneyBulk.description>
-	<DankPyon_Extract_HoneyBulk.jobString>Honig extrahieren x5.</DankPyon_Extract_HoneyBulk.jobString>
+  <DankPyon_Extract_Honey.label>Extraer miel</DankPyon_Extract_Honey.label>
+  <DankPyon_Extract_Honey.description>Extrae el dulce néctar de los panales. La miel se puede usar para hacer hidromiel, pero también es una comida nutritiva y deliciosa por sí sola.</DankPyon_Extract_Honey.description>
+  <DankPyon_Extract_Honey.jobString>Extraer miel.</DankPyon_Extract_Honey.jobString>
+  <DankPyon_Extract_HoneyBulk.label>Extraer miel x5</DankPyon_Extract_HoneyBulk.label>
+  <DankPyon_Extract_HoneyBulk.description>Extrae el dulce néctar de los panales. La miel se puede usar para hacer hidromiel, pero también es una comida nutritiva y deliciosa por sí sola x5.</DankPyon_Extract_HoneyBulk.description>
+  <DankPyon_Extract_HoneyBulk.jobString>Extraer miel x5.</DankPyon_Extract_HoneyBulk.jobString>
 </LanguageData>

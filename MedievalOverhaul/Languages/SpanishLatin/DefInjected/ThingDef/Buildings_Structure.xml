@@ -1,67 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RusticDoor.label>Rustikale Tür</DankPyon_RusticDoor.label>
-	<DankPyon_RusticDoor.description>Teilt Räume. Einfache Türen müssen manuell geöffnet werden, was den Menschen verlangsamt. Das Ausmaß der Verlangsamung hängt davon ab, woraus die Tür besteht.</DankPyon_RusticDoor.description>
-	
-	<DankPyon_LogGate.label>Blocktor</DankPyon_LogGate.label>
-	<DankPyon_LogGate.description>Teilt Räume. Einfache Türen müssen manuell geöffnet werden, was den Menschen verlangsamt. Das Ausmaß der Verlangsamung hängt davon ab, woraus die Tür besteht.</DankPyon_LogGate.description>
-	
-	<DankPyon_Gate.label>Tor</DankPyon_Gate.label>
-	<DankPyon_Gate.description>Ein verstärktes Tor, das Räume trennt. Einfache Tore müssen manuell geöffnet werden, was den Verkehr verlangsamt. Das Ausmaß der Verlangsamung hängt davon ab, woraus das Tor besteht.</DankPyon_Gate.description>
-	
-	<DankPyon_ReinfocedLogGate.label>verstärktes Blocktor</DankPyon_ReinfocedLogGate.label>
-	<DankPyon_ReinfocedLogGate.description>Ein verstärktes Tor, das Räume trennt. Einfache Tore müssen manuell geöffnet werden, was den Verkehr verlangsamt. Das Ausmaß der Verlangsamung hängt davon ab, woraus das Tor besteht.</DankPyon_ReinfocedLogGate.description>
-
-	<DankPyon_SlabDoor.label>Steinblocktür</DankPyon_SlabDoor.label>
-	<DankPyon_SlabDoor.description>Ein Steinblock, der als langsame und schwere Tür umfunktioniert wurde. Einfache Türen müssen manuell geöffnet werden, was den Menschen verlangsamt. Das Ausmaß der Verlangsamung hängt davon ab, woraus das Tor besteht.</DankPyon_SlabDoor.description>
-	
-	<DankPyon_RusticDoor1x2c.label>Rustikale Tür (1x2)</DankPyon_RusticDoor1x2c.label>
-	<DankPyon_RusticDoor1x2c.description>Teilt Räume. Diese große, schwere Tür benötigt angrenzende Wände, um zu funktionieren.</DankPyon_RusticDoor1x2c.description>
-	
-	
-	<DankPyon_Gate1x2c.label>Tor (1x2)</DankPyon_Gate1x2c.label>
-	<DankPyon_Gate1x2c.description>Teilt Räume. Diese große, schwere Tür benötigt angrenzende Wände, um zu funktionieren.</DankPyon_Gate1x2c.description>
-	
-	<DankPyon_SlabDoor1x2c.label>Steinblocktür (1x2)</DankPyon_SlabDoor1x2c.label>
-	<DankPyon_SlabDoor1x2c.description>Teilt Räume. Diese große, schwere Tür benötigt angrenzende Wände, um zu funktionieren.</DankPyon_SlabDoor1x2c.description>
-	
-	<DankPyon_Frame_Log.label>Blocktorrahmen</DankPyon_Frame_Log.label>
-	<DankPyon_Frame_Log.description>Ein Holzrahmen, der oben auf Türen angebracht wird.</DankPyon_Frame_Log.description>
-	
-	<DankPyon_LogWall.label>Blockwand</DankPyon_LogWall.label>
-	<DankPyon_LogWall.description>Eine unpassierbare Mauer. Kann ein Dach halten.</DankPyon_LogWall.description>
-	
-	<DankPyon_HideTentWall.label>Zell aus Fellen</DankPyon_HideTentWall.label>
-	<DankPyon_HideTentWall.description>Ein Patchlederzelt aus rohem Fell. Schnell und einfach aufzubauen, kann aber leicht zerstört werden.\n\nDurch den Abbau des Zeltes werden alle Ressourcen zurückgegeben.</DankPyon_HideTentWall.description>
-	
-	<DankPyon_TentWall.label>Zelt</DankPyon_TentWall.label>
-	<DankPyon_TentWall.description>Ein Zelt aus weichem Stoff. Schnell und einfach aufzubauen, kann aber leicht zerstört werden.\n\nDurch den Abbau des Zeltes werden alle Ressourcen zurückgegeben.</DankPyon_TentWall.description>
-	
-	
-	<DankPyon_Palisade.label>Palisaden</DankPyon_Palisade.label>
-	<DankPyon_Palisade.description>Eine unpassierbare Mauer.</DankPyon_Palisade.description>
-	
-	<DankPyon_EmbPalisade.label>Palisadenscharten</DankPyon_EmbPalisade.label>
-	<DankPyon_EmbPalisade.description>Eine unpassierbare Mauer.</DankPyon_EmbPalisade.description>
-	
-	<DankPyon_CavalrySpike.label>Kavalleriespitzen aus Holz</DankPyon_CavalrySpike.label>
-	<DankPyon_CavalrySpike.description>Eine organisierte Ansammlung von Aufbauten, die Eindringlinge fernhalten sollen.\n\nDas Durchschreiten der Stacheln kann zu Verletzungen führen.</DankPyon_CavalrySpike.description>
-	
-	<DankPyon_CastleWall.label>Burgmauer</DankPyon_CastleWall.label>
-	<DankPyon_CastleWall.description>Eine unpassierbare hohe Mauer. Robust und in der Lage, ein Dach zu tragen. Beachte  jedoch, dass es aufgrund seiner Höhe für Explosionen anfällig ist.</DankPyon_CastleWall.description>
-	<DankPyon_CastleWallEmbrasures.label>Schießscharten der Burgmauer</DankPyon_CastleWallEmbrasures.label>
-	
-	<DankPyon_Trench.label>Gräben</DankPyon_Trench.label>
-	<DankPyon_Trench.description>Ein einfacher, unbefestigter Graben, der die Bewegung behindert. Der Aufbau erfordert nur Arbeitskraft, kann jedoch bei Beschädigung zusammenbrechen.</DankPyon_Trench.description>
-	
-	<DankPyon_RTrench.label>Verstärkte Gräben</DankPyon_RTrench.label>
-	<DankPyon_RTrench.description>Ein verstärkter Graben, der die Bewegung behindert. Er ist tiefer, sodass er für jemanden oder etwas schwer zu überqueren ist.</DankPyon_RTrench.description>
-
-	<DankPyon_LogColumn.label>Baumstamm-Säule</DankPyon_LogColumn.label>
-	<DankPyon_LogColumn.description>Eine Säule, die ein Dach tragen kann. Blockiert weder die Sicht noch die Bewegung und sieht ganz nett aus.</DankPyon_LogColumn.description>
-
-	<DankPyon_RoyalColumn.label>Königliche Säule</DankPyon_RoyalColumn.label>
-	<DankPyon_RoyalColumn.description>Eine wunderschöne, mit Gold verzierte Säule, die ein Dach tragen kann. Blockiert weder die Sicht noch die Bewegung und sieht ganz nett aus.</DankPyon_RoyalColumn.description>
-
+  <DankPyon_RusticDoor.label>Puerta Rústica</DankPyon_RusticDoor.label>
+  <DankPyon_RusticDoor.description>Divide habitaciones. Las puertas simples deben abrirse manualmente, lo que ralentiza a las personas. El grado de ralentización depende del material de la puerta.</DankPyon_RusticDoor.description>
+  <DankPyon_LogGate.label>Puerta de Troncos</DankPyon_LogGate.label>
+  <DankPyon_LogGate.description>Divide habitaciones. Las puertas simples deben abrirse manualmente, lo que ralentiza a las personas. El grado de ralentización depende del material de la puerta.</DankPyon_LogGate.description>
+  <DankPyon_Gate.label>Puerta</DankPyon_Gate.label>
+  <DankPyon_Gate.description>Una puerta reforzada que divide habitaciones. Las puertas simples deben abrirse manualmente, lo que ralentiza el tráfico. El grado de ralentización depende del material de la puerta.</DankPyon_Gate.description>
+  <DankPyon_ReinfocedLogGate.label>Puerta de Troncos Reforzada</DankPyon_ReinfocedLogGate.label>
+  <DankPyon_ReinfocedLogGate.description>Una puerta reforzada que divide habitaciones. Las puertas simples deben abrirse manualmente, lo que ralentiza el tráfico. El grado de ralentización depende del material de la puerta.</DankPyon_ReinfocedLogGate.description>
+  <DankPyon_SlabDoor.label>Puerta de Losa</DankPyon_SlabDoor.label>
+  <DankPyon_SlabDoor.description>Un bloque de piedra convertido en una puerta pesada y lenta. Las puertas simples deben abrirse manualmente, lo que ralentiza a las personas. El grado de ralentización depende del material de la puerta.</DankPyon_SlabDoor.description>
+  <DankPyon_RusticDoor1x2c.label>Puerta Rústica (1x2)</DankPyon_RusticDoor1x2c.label>
+  <DankPyon_RusticDoor1x2c.description>Divide habitaciones. Esta puerta grande y pesada necesita paredes adyacentes para funcionar.</DankPyon_RusticDoor1x2c.description>
+  <DankPyon_Gate1x2c.label>Puerta (1x2)</DankPyon_Gate1x2c.label>
+  <DankPyon_Gate1x2c.description>Divide habitaciones. Esta puerta grande y pesada necesita paredes adyacentes para funcionar.</DankPyon_Gate1x2c.description>
+  <DankPyon_SlabDoor1x2c.label>Puerta de Losa (1x2)</DankPyon_SlabDoor1x2c.label>
+  <DankPyon_SlabDoor1x2c.description>Divide habitaciones. Esta puerta grande y pesada necesita paredes adyacentes para funcionar.</DankPyon_SlabDoor1x2c.description>
+  <DankPyon_Frame_Log.label>Marco de Troncos</DankPyon_Frame_Log.label>
+  <DankPyon_Frame_Log.description>Un marco de madera que se coloca sobre las puertas.</DankPyon_Frame_Log.description>
+  <DankPyon_LogWall.label>Pared de Troncos</DankPyon_LogWall.label>
+  <DankPyon_LogWall.description>Una pared impenetrable. Puede sostener un techo.</DankPyon_LogWall.description>
+  <DankPyon_HideTentWall.label>Pared de Tienda de Pieles</DankPyon_HideTentWall.label>
+  <DankPyon_HideTentWall.description>Una tienda de cuero crudo. Rápida y fácil de montar, pero se puede destruir fácilmente.\n\nDesmontar la tienda devuelve todos los recursos.</DankPyon_HideTentWall.description>
+  <DankPyon_TentWall.label>Tienda</DankPyon_TentWall.label>
+  <DankPyon_TentWall.description>Una tienda de tela suave. Rápida y fácil de montar, pero se puede destruir fácilmente.\n\nDesmontar la tienda devuelve todos los recursos.</DankPyon_TentWall.description>
+  <DankPyon_Palisade.label>Palisada</DankPyon_Palisade.label>
+  <DankPyon_Palisade.description>Una pared impenetrable.</DankPyon_Palisade.description>
+  <DankPyon_EmbPalisade.label>Palisada con Aspilleras</DankPyon_EmbPalisade.label>
+  <DankPyon_EmbPalisade.description>Una pared impenetrable.</DankPyon_EmbPalisade.description>
+  <DankPyon_CavalrySpike.label>Puntas de Caballería de Madera</DankPyon_CavalrySpike.label>
+  <DankPyon_CavalrySpike.description>Una colección organizada de estructuras diseñadas para mantener alejados a los intrusos.\n\nAtravesar las puntas puede causar lesiones.</DankPyon_CavalrySpike.description>
+  <DankPyon_CastleWall.label>Pared del Castillo</DankPyon_CastleWall.label>
+  <DankPyon_CastleWall.description>Una pared alta impenetrable. Robusta y capaz de sostener un techo. Sin embargo, debido a su altura, es vulnerable a explosiones.</DankPyon_CastleWall.description>
+  <DankPyon_CastleWallEmbrasures.label>Aspilleras del Castillo</DankPyon_CastleWallEmbrasures.label>
+  <DankPyon_Trench.label>Trincheras</DankPyon_Trench.label>
+  <DankPyon_Trench.description>Una trinchera simple y sin refuerzo que dificulta el movimiento. Solo requiere mano de obra para su construcción, pero puede colapsar si se daña.</DankPyon_Trench.description>
+  <DankPyon_RTrench.label>Trincheras Reforzadas</DankPyon_RTrench.label>
+  <DankPyon_RTrench.description>Una trinchera reforzada que dificulta el movimiento. Es más profunda, lo que la hace difícil de cruzar para alguien o algo.</DankPyon_RTrench.description>
+  <DankPyon_LogColumn.label>Columna de Troncos</DankPyon_LogColumn.label>
+  <DankPyon_LogColumn.description>Una columna que puede sostener un techo. No bloquea la vista ni el movimiento y se ve bastante bien.</DankPyon_LogColumn.description>
+  <DankPyon_RoyalColumn.label>Columna Real</DankPyon_RoyalColumn.label>
+  <DankPyon_RoyalColumn.description>Una hermosa columna adornada con oro que puede sostener un techo. No bloquea la vista ni el movimiento y se ve bastante bien.</DankPyon_RoyalColumn.description>
 </LanguageData>

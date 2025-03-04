@@ -1,32 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RuinedBatteringRam.label>Alter zerstörter Rammbock</DankPyon_RuinedBatteringRam.label>
-	<DankPyon_RuinedBatteringRam.description>Die Überreste eines alten Rammbocks. Sie wurden oft verwendet, um Burgtore zu durchbrechen und Truppen das Eindringen in Festungsanlagen zu ermöglichen. Kann zerstört werden, um Ressourcen zu gewinnen.</DankPyon_RuinedBatteringRam.description>
-	
-	<DankPyon_RuinedSiegeTower.label>Alter zerstörter Belagerungsturm</DankPyon_RuinedSiegeTower.label>
-	<DankPyon_RuinedSiegeTower.description>Die Überreste eines alten Belagerungsturms. Die hohen und robusten Belagerungstürme dienten dazu, Truppen ins Innere zu befördern, und wurden an Mauern positioniert, damit Soldaten die Festung erklimmen und stürmen konnten. Kann zerstört werden, um Ressourcen zu gewinnen.</DankPyon_RuinedSiegeTower.description>
-	
-	<DankPyon_AncientFootman.label>Soldatenüberreste</DankPyon_AncientFootman.label>
-	<DankPyon_AncientFootman.description>Die Überreste eines Soldaten. Kann nach Ressourcen durchsucht werden.</DankPyon_AncientFootman.description>
-	
-	<DankPyon_RustedHauberk.label>Verrostetes Kettenhemd</DankPyon_RustedHauberk.label>
-	<DankPyon_RustedHauberk.description>Ein altes und rostiges Kettenhemd. Kann für Ressourcen geborgen werden.</DankPyon_RustedHauberk.description>
-
-	<DankPyon_RustedHelmet.label>Verrosteter Helm</DankPyon_RustedHelmet.label>
-	<DankPyon_RustedHelmet.description>Überreste eines Schlachtfeldes. Voller verrosteter Waffen und Rüstungen. Kann für Ressourcen geborgen werden.</DankPyon_RustedHelmet.description>
-	
-	<DankPyon_RustedSwords.label>Verrostete Schwerter</DankPyon_RustedSwords.label>
-	<DankPyon_RustedSwords.description>Überreste eines Schlachtfeldes. Ein altes Banner eines alten, längst vergessenen Königreichs. Kann für Ressourcen geborgen werden.</DankPyon_RustedSwords.description>
-	
-	
-	<DankPyon_AncientRuinedCart.label>Alter zerstörter Wagen</DankPyon_AncientRuinedCart.label>
-	<DankPyon_AncientRuinedCart.description>Eine überfallene Karawane. Es bleiben noch einige Waren übrig. Kann für Ressourcen geborgen werden.</DankPyon_AncientRuinedCart.description>
-	
-	<DankPyon_AncientRuinedCrate.label>Alte zerstörte Kiste</DankPyon_AncientRuinedCrate.label>
-	<DankPyon_AncientRuinedCrate.description>Eine alte, zerstörte leere Kiste. Kann für Ressourcen geborgen werden.</DankPyon_AncientRuinedCrate.description>
-	
-	<DankPyon_AncientRuinedBarrel.label>Altes zerstörtes Fass</DankPyon_AncientRuinedBarrel.label>
-	<DankPyon_AncientRuinedBarrel.description>Ein altes, ruiniertes leeres Fass. Kann für Ressourcen geborgen werden.</DankPyon_AncientRuinedBarrel.description>
-
+  <DankPyon_RuinedBatteringRam.label>Antiguo ariete destruido</DankPyon_RuinedBatteringRam.label>
+  <DankPyon_RuinedBatteringRam.description>Los restos de un antiguo ariete. Se utilizaban a menudo para romper las puertas del castillo y permitir que las tropas entraran en las fortificaciones. Puede ser destruido para obtener recursos.</DankPyon_RuinedBatteringRam.description>
+  <DankPyon_RuinedSiegeTower.label>Antigua torre de asedio destruida</DankPyon_RuinedSiegeTower.label>
+  <DankPyon_RuinedSiegeTower.description>Los restos de una antigua torre de asedio. Las altas y robustas torres de asedio se utilizaban para transportar tropas al interior y se colocaban contra las murallas para que los soldados pudieran escalar y asaltar la fortaleza. Puede ser destruida para obtener recursos.</DankPyon_RuinedSiegeTower.description>
+  <DankPyon_AncientFootman.label>Restos de soldado</DankPyon_AncientFootman.label>
+  <DankPyon_AncientFootman.description>Los restos de un soldado. Puede ser registrado para obtener recursos.</DankPyon_AncientFootman.description>
+  <DankPyon_RustedHauberk.label>Cota de malla oxidada</DankPyon_RustedHauberk.label>
+  <DankPyon_RustedHauberk.description>Una cota de malla vieja y oxidada. Puede ser recuperada para obtener recursos.</DankPyon_RustedHauberk.description>
+  <DankPyon_RustedHelmet.label>Casco oxidado</DankPyon_RustedHelmet.label>
+  <DankPyon_RustedHelmet.description>Restos de un campo de batalla. Lleno de armas y armaduras oxidadas. Puede ser recuperado para obtener recursos.</DankPyon_RustedHelmet.description>
+  <DankPyon_RustedSwords.label>Espadas oxidadas</DankPyon_RustedSwords.label>
+  <DankPyon_RustedSwords.description>Restos de un campo de batalla. Un antiguo estandarte de un reino antiguo y olvidado. Puede ser recuperado para obtener recursos.</DankPyon_RustedSwords.description>
+  <DankPyon_AncientRuinedCart.label>Antiguo carro destruido</DankPyon_AncientRuinedCart.label>
+  <DankPyon_AncientRuinedCart.description>Una caravana asaltada. Quedan algunas mercancías. Puede ser recuperado para obtener recursos.</DankPyon_AncientRuinedCart.description>
+  <DankPyon_AncientRuinedCrate.label>Antigua caja destruida</DankPyon_AncientRuinedCrate.label>
+  <DankPyon_AncientRuinedCrate.description>Una caja vieja y destruida. Puede ser recuperada para obtener recursos.</DankPyon_AncientRuinedCrate.description>
+  <DankPyon_AncientRuinedBarrel.label>Antiguo barril destruido</DankPyon_AncientRuinedBarrel.label>
+  <DankPyon_AncientRuinedBarrel.description>Un barril viejo y arruinado. Puede ser recuperado para obtener recursos.</DankPyon_AncientRuinedBarrel.description>
 </LanguageData>

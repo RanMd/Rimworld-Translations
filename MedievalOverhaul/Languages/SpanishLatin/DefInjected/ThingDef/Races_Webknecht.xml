@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Webknecht.label>Weberknecht</DankPyon_Webknecht.label>
-	<DankPyon_Webknecht.description>Der Weberknecht ist ein großes Spinnentier, das in großen Kolonien in den dunklen Waldgebieten überall auf der Welt von Battle Brothers lebt. Dort spinnen sie ihre Netze zwischen Bäumen, um alles zu fangen, vom Vogel bis zum Reh und dazwischen.</DankPyon_Webknecht.description>
-	
-	<DankPyon_Webknecht.tools.0.label>Mittelfuß vorne links</DankPyon_Webknecht.tools.0.label>
-	<DankPyon_Webknecht.tools.1.label>Mittelfuß vorne rechts</DankPyon_Webknecht.tools.1.label>
-	<DankPyon_Webknecht.tools.2.label>Kopf</DankPyon_Webknecht.tools.2.label>
-	<DankPyon_Webknecht.tools.3.label>Spinnenbiß</DankPyon_Webknecht.tools.3.label>
+  <DankPyon_Webknecht.label>Opilión</DankPyon_Webknecht.label>
+  <DankPyon_Webknecht.description>El opilión es un gran arácnido que vive en grandes colonias en las áreas boscosas oscuras de todo el mundo de Battle Brothers. Allí tejen sus redes entre los árboles para atrapar todo, desde pájaros hasta ciervos y todo lo que hay en medio.</DankPyon_Webknecht.description>
+  <DankPyon_Webknecht.tools.0.label>Pata delantera izquierda</DankPyon_Webknecht.tools.0.label>
+  <DankPyon_Webknecht.tools.1.label>Pata delantera derecha</DankPyon_Webknecht.tools.1.label>
+  <DankPyon_Webknecht.tools.2.label>Cabeza</DankPyon_Webknecht.tools.2.label>
+  <DankPyon_Webknecht.tools.3.label>Mordedura de araña</DankPyon_Webknecht.tools.3.label>
 </LanguageData>

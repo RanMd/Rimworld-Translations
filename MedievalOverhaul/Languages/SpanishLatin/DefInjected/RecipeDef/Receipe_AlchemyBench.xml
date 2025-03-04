@@ -1,15 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Make_HerbalExtract.label>Kräuterextrakt herstellen</DankPyon_Make_HerbalExtract.label>
-	<DankPyon_Make_HerbalExtract.description>Kräuterextrakt herstellen.</DankPyon_Make_HerbalExtract.description>
-	<DankPyon_Make_HerbalExtract.jobString>Kräuterextrakt herstellen.</DankPyon_Make_HerbalExtract.jobString>
-	
-	<DankPyon_Make_HerbalExtractBulk.label>Kräuterextrakt herstellen x5</DankPyon_Make_HerbalExtractBulk.label>
-	<DankPyon_Make_HerbalExtractBulk.description>Kräuterextrakt herstellen x5.</DankPyon_Make_HerbalExtractBulk.description>
-	<DankPyon_Make_HerbalExtractBulk.jobString>Kräuterextrakt herstellen x5.</DankPyon_Make_HerbalExtractBulk.jobString>
-	
-	<DankPyon_Make_HerbalExtractBulkExtra.label>Kräuterextrakt herstellen x10</DankPyon_Make_HerbalExtractBulkExtra.label>
-	<DankPyon_Make_HerbalExtractBulkExtra.description>Kräuterextrakt herstellen x10.</DankPyon_Make_HerbalExtractBulkExtra.description>
-	<DankPyon_Make_HerbalExtractBulkExtra.jobString>Kräuterextrakt herstellen x10.</DankPyon_Make_HerbalExtractBulkExtra.jobString>
+  <DankPyon_Make_HerbalExtract.label>Hacer extracto de hierbas</DankPyon_Make_HerbalExtract.label>
+  <DankPyon_Make_HerbalExtract.description>Hacer extracto de hierbas.</DankPyon_Make_HerbalExtract.description>
+  <DankPyon_Make_HerbalExtract.jobString>Hacer extracto de hierbas.</DankPyon_Make_HerbalExtract.jobString>
+  <DankPyon_Make_HerbalExtractBulk.label>Hacer extracto de hierbas x5</DankPyon_Make_HerbalExtractBulk.label>
+  <DankPyon_Make_HerbalExtractBulk.description>Hacer extracto de hierbas x5.</DankPyon_Make_HerbalExtractBulk.description>
+  <DankPyon_Make_HerbalExtractBulk.jobString>Hacer extracto de hierbas x5.</DankPyon_Make_HerbalExtractBulk.jobString>
+  <DankPyon_Make_HerbalExtractBulkExtra.label>Hacer extracto de hierbas x10</DankPyon_Make_HerbalExtractBulkExtra.label>
+  <DankPyon_Make_HerbalExtractBulkExtra.description>Hacer extracto de hierbas x10.</DankPyon_Make_HerbalExtractBulkExtra.description>
+  <DankPyon_Make_HerbalExtractBulkExtra.jobString>Hacer extracto de hierbas x10.</DankPyon_Make_HerbalExtractBulkExtra.jobString>
 </LanguageData>

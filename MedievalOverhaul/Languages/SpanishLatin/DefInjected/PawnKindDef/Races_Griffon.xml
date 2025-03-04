@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Griffon.label>Greif</DankPyon_Griffon.label>
-	<DankPyon_Griffon.labelPlural>Greife</DankPyon_Griffon.labelPlural>
-	<DankPyon_Griffon.lifeStages.0.label>Küken</DankPyon_Griffon.lifeStages.0.label>
-
+  <DankPyon_Griffon.label>Grifo</DankPyon_Griffon.label>
+  <DankPyon_Griffon.labelPlural>Grifos</DankPyon_Griffon.labelPlural>
+  <DankPyon_Griffon.lifeStages.0.label>Pichón</DankPyon_Griffon.lifeStages.0.label>
 </LanguageData>

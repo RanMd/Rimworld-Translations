@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Small_Ruin.label>Kleine Ruine</DankPyon_Small_Ruin.label>
-	<DankPyon_Small_Ruin.description>Eine kleine Ruine.</DankPyon_Small_Ruin.description>
-	
-	<DankPyon_Medium_Ruin.label>Mittlere Ruine</DankPyon_Medium_Ruin.label>
-	<DankPyon_Medium_Ruin.description>Eine mittlere Ruine.</DankPyon_Medium_Ruin.description>
-	
-	<DankPyon_Big_Snake_Ruin.label>Von Schlangen befallene Ruine</DankPyon_Big_Snake_Ruin.label>
-	<DankPyon_Big_Snake_Ruin.description>Eine große, von Schlangen befallene Ruine.</DankPyon_Big_Snake_Ruin.description>
+  <DankPyon_Small_Ruin.label>Pequeña Ruina</DankPyon_Small_Ruin.label>
+  <DankPyon_Small_Ruin.description>Una pequeña ruina.</DankPyon_Small_Ruin.description>
+  <DankPyon_Medium_Ruin.label>Ruina Mediana</DankPyon_Medium_Ruin.label>
+  <DankPyon_Medium_Ruin.description>Una ruina mediana.</DankPyon_Medium_Ruin.description>
+  <DankPyon_Big_Snake_Ruin.label>Ruina Infestada de Serpientes</DankPyon_Big_Snake_Ruin.label>
+  <DankPyon_Big_Snake_Ruin.description>Una gran ruina infestada de serpientes.</DankPyon_Big_Snake_Ruin.description>
 </LanguageData>

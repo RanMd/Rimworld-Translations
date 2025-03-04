@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Schematic.label>Uraltes Schema</DankPyon_Schematic.label>
-	<DankPyon_Schematic.description>Ein Buch, das Technologie und Methoden, sowie ihrer Verwendung beschreibt. Das Lesen von Schemas kann dabei helfen, neue Technologien zu erschließen.</DankPyon_Schematic.description>
+  <DankPyon_Schematic.label>Esquema Antiguo</DankPyon_Schematic.label>
+  <DankPyon_Schematic.description>Un libro que describe tecnología y métodos, así como su uso. Leer esquemas puede ayudar a descubrir nuevas tecnologías.</DankPyon_Schematic.description>
 </LanguageData>

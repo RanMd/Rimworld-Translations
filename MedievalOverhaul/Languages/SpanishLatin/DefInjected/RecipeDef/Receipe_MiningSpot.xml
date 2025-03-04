@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_MiningSpotBase.description>Abbauen von Gestein, um Felsbrocken zu erhalten.</DankPyon_MiningSpotBase.description>
-	
-	<DankPyon_Gather_Coal.label>Baue 5 Kohlebrocken ab</DankPyon_Gather_Coal.label>
-	<DankPyon_Gather_Coal.jobString>5 Kohlebrocken abbauen.</DankPyon_Gather_Coal.jobString>
-	
-	<DankPyon_Gather_Salt.label>Baue Salz ab</DankPyon_Gather_Salt.label>
-	<DankPyon_Gather_Salt.description>Abbauen von Gestein, um Salz zu erhalten.</DankPyon_Gather_Salt.description>
-	<DankPyon_Gather_Salt.jobString>Salz abbauen.</DankPyon_Gather_Salt.jobString>
+  <DankPyon_MiningSpotBase.description>Extracción de roca para obtener piedras.</DankPyon_MiningSpotBase.description>
+  <DankPyon_Gather_Coal.label>Extrae 5 trozos de carbón</DankPyon_Gather_Coal.label>
+  <DankPyon_Gather_Coal.jobString>Extraer 5 trozos de carbón.</DankPyon_Gather_Coal.jobString>
+  <DankPyon_Gather_Salt.label>Extrae sal</DankPyon_Gather_Salt.label>
+  <DankPyon_Gather_Salt.description>Extracción de roca para obtener sal.</DankPyon_Gather_Salt.description>
+  <DankPyon_Gather_Salt.jobString>Extraer sal.</DankPyon_Gather_Salt.jobString>
 </LanguageData>

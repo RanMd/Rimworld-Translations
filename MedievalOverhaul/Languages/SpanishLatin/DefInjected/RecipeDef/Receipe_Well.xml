@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Make_Water.label>Wasser sammeln</DankPyon_Make_Water.label>
-	<DankPyon_Make_Water.description>Wasser sammeln.</DankPyon_Make_Water.description>
-	<DankPyon_Make_Water.jobString>Fülle 1 Wasserschlauch.</DankPyon_Make_Water.jobString>
-	
-	<DankPyon_Make_WaterBulk.label>Wasser sammeln 5x</DankPyon_Make_WaterBulk.label>
-	<DankPyon_Make_WaterBulk.description>Wasser sammeln.</DankPyon_Make_WaterBulk.description>
-	<DankPyon_Make_WaterBulk.jobString>Fülle 5 Wasserschlauch.</DankPyon_Make_WaterBulk.jobString>
+  <DankPyon_Make_Water.label>Recolectar agua</DankPyon_Make_Water.label>
+  <DankPyon_Make_Water.description>Recolectar agua.</DankPyon_Make_Water.description>
+  <DankPyon_Make_Water.jobString>Llena 1 cantimplora.</DankPyon_Make_Water.jobString>
+  <DankPyon_Make_WaterBulk.label>Recolectar agua 5x</DankPyon_Make_WaterBulk.label>
+  <DankPyon_Make_WaterBulk.description>Recolectar agua.</DankPyon_Make_WaterBulk.description>
+  <DankPyon_Make_WaterBulk.jobString>Llena 5 cantimploras.</DankPyon_Make_WaterBulk.jobString>
 </LanguageData>

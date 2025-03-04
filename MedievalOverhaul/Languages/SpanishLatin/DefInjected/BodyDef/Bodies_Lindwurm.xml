@@ -1,27 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_LindwurmBody.label>Lindwurm</DankPyon_LindwurmBody.label>
-	<DankPyon_LindwurmBody.corePart.parts.10.customLabel>linke Schulter</DankPyon_LindwurmBody.corePart.parts.10.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.customLabel>linker Arm</DankPyon_LindwurmBody.corePart.parts.10.parts.0.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.0.customLabel>linker Oberarm</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.0.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.1.customLabel>linker Unterarm</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.1.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.customLabel>linke Hand</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.0.customLabel>linke erste Klaue</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.0.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.1.customLabel>linke zweite Klaue</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.1.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.2.customLabel>linke dritte Klaue</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.2.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.3.customLabel>linke vierte Klaue</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.3.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.4.customLabel>linke fünfte Klaue</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.4.customLabel>
-
-	<DankPyon_LindwurmBody.corePart.parts.11.customLabel>rechte Schulter</DankPyon_LindwurmBody.corePart.parts.11.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.customLabel>rechter Arm</DankPyon_LindwurmBody.corePart.parts.11.parts.0.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.0.customLabel>rechter Oberarm</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.0.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.1.customLabel>rechter Unterarm</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.1.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.customLabel>rechte Hand</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.0.customLabel>rechte erste Klaue</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.0.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.1.customLabel>rechte zweite Klaue</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.1.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.2.customLabel>rechte dritte Klaue</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.2.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.3.customLabel>rechte vierte Klaue</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.3.customLabel>
-	<DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.4.customLabel>rechte fünfte Klaue</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.4.customLabel>	
-	
+  <DankPyon_LindwurmBody.label>Lindwurm</DankPyon_LindwurmBody.label>
+  <DankPyon_LindwurmBody.corePart.parts.10.customLabel>hombro izquierdo</DankPyon_LindwurmBody.corePart.parts.10.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.customLabel>brazo izquierdo</DankPyon_LindwurmBody.corePart.parts.10.parts.0.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.0.customLabel>parte superior del brazo izquierdo</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.0.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.1.customLabel>antebrazo izquierdo</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.1.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.customLabel>mano izquierda</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.0.customLabel>primera garra izquierda</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.0.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.1.customLabel>segunda garra izquierda</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.1.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.2.customLabel>tercera garra izquierda</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.2.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.3.customLabel>cuarta garra izquierda</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.3.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.4.customLabel>quinta garra izquierda</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.2.parts.4.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.customLabel>hombro derecho</DankPyon_LindwurmBody.corePart.parts.11.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.customLabel>brazo derecho</DankPyon_LindwurmBody.corePart.parts.11.parts.0.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.0.customLabel>parte superior del brazo derecho</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.0.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.1.customLabel>antebrazo derecho</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.customLabel>mano derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.0.customLabel>primera garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.0.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.1.customLabel>segunda garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.1.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.2.customLabel>tercera garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.2.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.3.customLabel>cuarta garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.3.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.4.customLabel>quinta garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.4.customLabel>
 </LanguageData>

@@ -1,27 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Make_MincedApple.label>Apfelgehacktes herstellen</DankPyon_Make_MincedApple.label>
-	<DankPyon_Make_MincedApple.description>Apfelgehacktes herstellen.</DankPyon_Make_MincedApple.description>
-	<DankPyon_Make_MincedApple.jobString>Apfelgehacktes herstellen.</DankPyon_Make_MincedApple.jobString>
-	
-	<DankPyon_Make_JuiceAppleUnfermented.label>Apfelsaft fermentieren</DankPyon_Make_JuiceAppleUnfermented.label>
-	<DankPyon_Make_JuiceAppleUnfermented.description>Apfelsaft fermentieren.</DankPyon_Make_JuiceAppleUnfermented.description>
-	<DankPyon_Make_JuiceAppleUnfermented.jobString>Apfelsaft fermentieren.</DankPyon_Make_HerbalExtractBulk.jobString>
-	
-	<DankPyon_Make_WortAle.label>Bierwürze herstellen</DankPyon_Make_WortAle.label>
-	<DankPyon_Make_WortAle.description>Bierwürze herstellen durch Kochen von Weizen.</DankPyon_Make_WortAle.description>
-	<DankPyon_Make_WortAle.jobString>Bierwürze herstellen.</DankPyon_Make_WortAle.jobString>
-	
-	<DankPyon_MakeMustWine.label>Traubenmost herstellen</DankPyon_MakeMustWine.label>
-	<DankPyon_MakeMustWine.description>Durch Zerkleinern der Trauben wird Traubenmost hergestellt. Um zu Wein zu werden, muss es einer Gärung unterzogen werden.</DankPyon_MakeMustWine.description>
-	<DankPyon_MakeMustWine.jobString>Traubenmost herstellen.</DankPyon_MakeMustWine.jobString>
-	
-	<DankPyon_MakeMustMulberry.label>Maulbeermost herstellen</DankPyon_MakeMustMulberry.label>
-	<DankPyon_MakeMustMulberry.description>Mache Maulbeermost, indem Maulbeeren zerkleinert werden. Um zu Wein zu werden, muss es einer Gärung unterzogen werden.</DankPyon_MakeMustMulberry.description>
-	<DankPyon_MakeMustMulberry.jobString>Maulbeermost herstellen.</DankPyon_MakeMustMulberry.jobString>
-	
-	<DankPyon_MakeMustGriffon.label>Greifenbeerenmost herstellen</DankPyon_MakeMustGriffon.label>
-	<DankPyon_MakeMustGriffon.description>Stelle Greifenbeerenmost her, indem Greifenbeeren zerstoßen werden. Um zu Wein zu werden, muss es einer Gärung unterzogen werden.</DankPyon_MakeMustGriffon.description>
-	<DankPyon_MakeMustGriffon.jobString>Greifenbeerenmost herstellen.</DankPyon_MakeMustGriffon.jobString>
+  <DankPyon_Make_MincedApple.label>Hacer manzana picada</DankPyon_Make_MincedApple.label>
+  <DankPyon_Make_MincedApple.description>Hacer manzana picada.</DankPyon_Make_MincedApple.description>
+  <DankPyon_Make_MincedApple.jobString>Hacer manzana picada.</DankPyon_Make_MincedApple.jobString>
+  <DankPyon_Make_JuiceAppleUnfermented.label>Fermentar jugo de manzana</DankPyon_Make_JuiceAppleUnfermented.label>
+  <DankPyon_Make_JuiceAppleUnfermented.description>Fermentar jugo de manzana.</DankPyon_Make_JuiceAppleUnfermented.description>
+  <DankPyon_Make_JuiceAppleUnfermented.jobString>Fermentar jugo de manzana.</DankPyon_Make_JuiceAppleUnfermented.jobString>
+  <DankPyon_Make_WortAle.label>Hacer mosto de cerveza</DankPyon_Make_WortAle.label>
+  <DankPyon_Make_WortAle.description>Hacer mosto de cerveza cocinando trigo.</DankPyon_Make_WortAle.description>
+  <DankPyon_Make_WortAle.jobString>Hacer mosto de cerveza.</DankPyon_Make_WortAle.jobString>
+  <DankPyon_MakeMustWine.label>Hacer mosto de uva</DankPyon_MakeMustWine.label>
+  <DankPyon_MakeMustWine.description>El mosto de uva se hace triturando uvas. Para convertirse en vino, debe someterse a fermentación.</DankPyon_MakeMustWine.description>
+  <DankPyon_MakeMustWine.jobString>Hacer mosto de uva.</DankPyon_MakeMustWine.jobString>
+  <DankPyon_MakeMustMulberry.label>Hacer mosto de mora</DankPyon_MakeMustMulberry.label>
+  <DankPyon_MakeMustMulberry.description>Hacer mosto de mora triturando moras. Para convertirse en vino, debe someterse a fermentación.</DankPyon_MakeMustMulberry.description>
+  <DankPyon_MakeMustMulberry.jobString>Hacer mosto de mora.</DankPyon_MakeMustMulberry.jobString>
+  <DankPyon_MakeMustGriffon.label>Hacer mosto de bayas de grifo</DankPyon_MakeMustGriffon.label>
+  <DankPyon_MakeMustGriffon.description>Hacer mosto de bayas de grifo triturando bayas de grifo. Para convertirse en vino, debe someterse a fermentación.</DankPyon_MakeMustGriffon.description>
+  <DankPyon_MakeMustGriffon.jobString>Hacer mosto de bayas de grifo.</DankPyon_MakeMustGriffon.jobString>
 </LanguageData>

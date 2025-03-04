@@ -1,17 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_ShadowSectBase.pawnSingular>Kultist</DankPyon_ShadowSectBase.pawnSingular>
-	<DankPyon_ShadowSectBase.pawnsPlural>Kultisten</DankPyon_ShadowSectBase.pawnsPlural>
-	<DankPyon_ShadowSectBase.leaderTitle>Kultistenführer</DankPyon_ShadowSectBase.leaderTitle>
-	
-	<DankPyon_ShadowSect.label>Kultisten</DankPyon_ShadowSect.label>
-	<DankPyon_ShadowSect.description>NICHT DEAKTIVIEREN, WENN SIE MEDIEVAL OVERHAUL-VERSTECKE RAIDEN MÖCHTEN.
-	
-	
-Tief im Schatten der Welt kursieren Gerüchte über eine bösartige Macht, die nur als Kultisten bekannt ist. Längst aus dem Gedächtnis ausgelöscht, lauern sie wie ein unheimliches Gespenst umher, widmen sich der Verehrung falscher Gottheiten und sind in die Praxis grotesker Opfer verstrickt. Ihre heimlichen, in Geheimnisse gehüllten Rituale hallen wider von den Schreien der Verdammten und dem Geruch von Blut. Als Meister der Tarnung und Manipulation weben sie ein Netz der Täuschung, das ihre Existenz vor den Augen der Welt verschleiert.
-
-Gerüchte über ihre heimtückische Infiltration in jede Schicht der Gesellschaft kursieren, ihre Ranken schlängeln sich wie Schlangen um die Ahnungslosen und warten auf den Moment des Angriffs. Sie ernähren sich vom Fleisch der Gefallenen und sind Kannibalen, getrieben von Urhunger und verdrehter Hingabe. Doch inmitten des Grauens erzählen Legenden von versteckten Heiligtümern, die mit antiken Relikten und verfluchten Schätzen übersät sind und in ihren unheiligen Enklaven verborgen sind.
-
-Hüte dich vor den Schatten, denn in ihnen liegt das Reich der Kultisten, ein Reich, in dem ewige Dunkelheit herrscht und die Grenzen zwischen Albtraum und Realität in Vergessenheit geraten.</DankPyon_ShadowSect.description>
+  <DankPyon_ShadowSectBase.pawnSingular>Cultista</DankPyon_ShadowSectBase.pawnSingular>
+  <DankPyon_ShadowSectBase.pawnsPlural>Cultistas</DankPyon_ShadowSectBase.pawnsPlural>
+  <DankPyon_ShadowSectBase.leaderTitle>Líder de los Cultistas</DankPyon_ShadowSectBase.leaderTitle>
+  <DankPyon_ShadowSect.label>Cultistas</DankPyon_ShadowSect.label>
+  <DankPyon_ShadowSect.description>NO DESACTIVAR SI DESEA ASALTAR ESCONDITES DE MEDIEVAL OVERHAUL. En lo profundo de las sombras del mundo circulan rumores sobre un poder maligno conocido solo como los Cultistas. Hace mucho tiempo borrados de la memoria, acechan como un espectro siniestro, dedicados a la adoración de deidades falsas y envueltos en la práctica de sacrificios grotescos. Sus rituales secretos, envueltos en misterio, resuenan con los gritos de los condenados y el olor de la sangre. Maestros del disfraz y la manipulación, tejen una red de engaños que oculta su existencia a los ojos del mundo. Circulan rumores sobre su insidiosa infiltración en todos los niveles de la sociedad, sus zarcillos se enroscan como serpientes alrededor de los desprevenidos, esperando el momento del ataque. Se alimentan de la carne de los caídos y son caníbales, impulsados por un hambre primordial y una devoción retorcida. Sin embargo, en medio del horror, las leyendas hablan de santuarios ocultos, plagados de reliquias antiguas y tesoros malditos, ocultos dentro de sus enclaves impíos. Cuidado con las sombras, porque dentro de ellas se encuentra el reino de los cultistas, un reino donde reina la oscuridad eterna y se olvidan los límites entre la pesadilla y la realidad.</DankPyon_ShadowSect.description>
 </LanguageData>

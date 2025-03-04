@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_JuiceApple.label>Apfelsaft</DankPyon_JuiceApple.label>
-	<DankPyon_JuiceApple.description>Frisch gepresster Apfelsaft, ein süßes und erfrischendes Getränk. Einige Tage bei der Zieltemperatur gären lassen, bis Apfelwein entsteht.</DankPyon_JuiceApple.description>
-	
-	<DankPyon_JuiceAppleUnfermented.label>Unvergorener Apfelsaft</DankPyon_JuiceAppleUnfermented.label>
-	<DankPyon_JuiceAppleUnfermented.description>Apfelsaft, der gerade fermentiert wird. Bei Raumtemperatur aufbewahren, um den Fermentationsprozess abzuschließen.</DankPyon_JuiceAppleUnfermented.description>
-	
-	<DankPyon_MincedApple.label>Apfelzerhacktes</DankPyon_MincedApple.label>
-	<DankPyon_MincedApple.description>Äpfel in Scheiben geschnitten und in kleinere Stücke gewürfelt. Muss gepresst werden, damit Saft entsteht.</DankPyon_MincedApple.description>
+  <DankPyon_JuiceApple.label>Zumo de manzana</DankPyon_JuiceApple.label>
+  <DankPyon_JuiceApple.description>Zumo de manzana recién exprimido, una bebida dulce y refrescante. Dejar fermentar durante unos días a la temperatura objetivo hasta que se convierta en sidra.</DankPyon_JuiceApple.description>
+  <DankPyon_JuiceAppleUnfermented.label>Zumo de manzana sin fermentar</DankPyon_JuiceAppleUnfermented.label>
+  <DankPyon_JuiceAppleUnfermented.description>Zumo de manzana que está fermentando. Conservar a temperatura ambiente para completar el proceso de fermentación.</DankPyon_JuiceAppleUnfermented.description>
+  <DankPyon_MincedApple.label>Manzana picada</DankPyon_MincedApple.label>
+  <DankPyon_MincedApple.description>Manzanas cortadas en rodajas y picadas en trozos más pequeños. Deben ser exprimidas para obtener el zumo.</DankPyon_MincedApple.description>
 </LanguageData>

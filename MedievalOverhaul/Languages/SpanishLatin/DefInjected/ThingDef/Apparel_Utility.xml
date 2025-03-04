@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Apparel_Quiver.label>Köcher</DankPyon_Apparel_Quiver.label>
-	<DankPyon_Apparel_Quiver.description>Ein tragbarer Lederbehälter zur Aufbewahrung von Pfeilen. Das Tragen des Köchers verkürzt die Zeit, die zum Schießen mit Bögen und Armbrüsten benötigt wird.</DankPyon_Apparel_Quiver.description>
-	
-	<DankPyon_Apparel_FlashPotBelt.label>BlitztopfGürtel</DankPyon_Apparel_FlashPotBelt.label>
-	<DankPyon_Apparel_FlashPotBelt.description>PLATZHALTER</DankPyon_Apparel_FlashPotBelt.description>
-	<DankPyon_Apparel_FlashPotBelt.verbs.0.label>Blitztopf werfen</DankPyon_Apparel_FlashPotBelt.verbs.0.label>
-	
-	<DankPyon_Apparel_FirePotBelt.label>Feuertopfgürtel</DankPyon_Apparel_FirePotBelt.label>
-	<DankPyon_Apparel_FirePotBelt.description>PLATZHALTER</DankPyon_Apparel_FirePotBelt.description>
-	<DankPyon_Apparel_FirePotBelt.verbs.0.label>Feuertopf werfen</DankPyon_Apparel_FirePotBelt.verbs.0.label>
-	
-	<DankPyon_Apparel_SmokePotBelt.label>Rauchtopfgürtel</DankPyon_Apparel_SmokePotBelt.label>
-	<DankPyon_Apparel_SmokePotBelt.description>PLATZHALTER</DankPyon_Apparel_SmokePotBelt.description>
-	<DankPyon_Apparel_SmokePotBelt.verbs.0.label>Rauchtopf werfen</DankPyon_Apparel_SmokePotBelt.verbs.0.label>
-	
-	<DankPyon_Apparel_AcidFlaskBelt.label>Säuretopfgürtel</DankPyon_Apparel_AcidFlaskBelt.label>
-	<DankPyon_Apparel_AcidFlaskBelt.description>PLATZHALTER</DankPyon_Apparel_AcidFlaskBelt.description>
-	<DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>Säuretopf werfen</DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>
-	
+  <DankPyon_Apparel_Quiver.label>Carcaj</DankPyon_Apparel_Quiver.label>
+  <DankPyon_Apparel_Quiver.description>Un contenedor de cuero portátil para almacenar flechas. Llevar el carcaj reduce el tiempo necesario para disparar con arcos y ballestas.</DankPyon_Apparel_Quiver.description>
+  <DankPyon_Apparel_FlashPotBelt.label>Cinturón de Olla de Destello</DankPyon_Apparel_FlashPotBelt.label>
+  <DankPyon_Apparel_FlashPotBelt.description>Un cinturón equipado con ollas de destello, diseñadas para cegar temporalmente a los enemigos en combate.</DankPyon_Apparel_FlashPotBelt.description>
+  <DankPyon_Apparel_FlashPotBelt.verbs.0.label>Lanzar Olla de Destello</DankPyon_Apparel_FlashPotBelt.verbs.0.label>
+  <DankPyon_Apparel_FirePotBelt.label>Cinturón de Olla de Fuego</DankPyon_Apparel_FirePotBelt.label>
+  <DankPyon_Apparel_FirePotBelt.description>Un cinturón con ollas incendiarias, ideales para prender fuego a enemigos y estructuras.</DankPyon_Apparel_FirePotBelt.description>
+  <DankPyon_Apparel_FirePotBelt.verbs.0.label>Lanzar Olla de Fuego</DankPyon_Apparel_FirePotBelt.verbs.0.label>
+  <DankPyon_Apparel_SmokePotBelt.label>Cinturón de Olla de Humo</DankPyon_Apparel_SmokePotBelt.label>
+  <DankPyon_Apparel_SmokePotBelt.description>Un cinturón con ollas de humo, útiles para cubrir la retirada o confundir a los oponentes.</DankPyon_Apparel_SmokePotBelt.description>
+  <DankPyon_Apparel_SmokePotBelt.verbs.0.label>Lanzar Olla de Humo</DankPyon_Apparel_SmokePotBelt.verbs.0.label>
+  <DankPyon_Apparel_AcidFlaskBelt.label>Cinturón de Olla de Ácido</DankPyon_Apparel_AcidFlaskBelt.label>
+  <DankPyon_Apparel_AcidFlaskBelt.description>Un cinturón con ollas de ácido capaces de corroer armaduras y causar graves heridas.</DankPyon_Apparel_AcidFlaskBelt.description>
+  <DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>Lanzar Olla de Ácido</DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>
 </LanguageData>

@@ -1,41 +1,27 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Cauldron.label>Kessel</DankPyon_Cauldron.label>
-	<DankPyon_Cauldron.description>PLATZHALTER.</DankPyon_Cauldron.description>
-	
-	<DankPyon_DryingRack_Small.label>Trockengestell (1x2)</DankPyon_DryingRack_Small.label>
-	<DankPyon_DryingRack_Small.description>Ein Holzgestell zum Trocknen von Waren in der Sonne, um sie zu dehydrieren und für eine längere Haltbarkeit aufzubewahren.</DankPyon_DryingRack_Small.description>
-	
-	<DankPyon_DryingRack_Big.label>Trockengestell (2x2)</DankPyon_DryingRack_Big.label>
-	<DankPyon_DryingRack_Big.description>Ein Holzgestell zum Trocknen von Waren in der Sonne zur Konservierung und Langzeitverwendung.</DankPyon_DryingRack_Big.description>
-	
-	<DankPyon_RawhideRack.label>Regal für rohes Leder</DankPyon_RawhideRack.label>
-	<DankPyon_RawhideRack.description>Ein Standgestell zum Trocknen von rohen Häuten zu steifem und ungegerbtem Leder.</DankPyon_RawhideRack.description>
-
-	<DankPyon_TanningRack.label>Gerbergestell</DankPyon_TanningRack.label>
-	<DankPyon_TanningRack.description>Ein Standgestell zur Behandlung von rohen Häuten, um weiches und schönes Leder herzustellen.</DankPyon_TanningRack.description>
-	
-	<DankPyon_Presser.label>Presse</DankPyon_Presser.label>
-	<DankPyon_Presser.description>Ein hölzernes Gerät zum Pressen ausgewählter Gegenstände. Entweder um den Saft herauszuholen oder um Molke aus Quark zu gewinnen.</DankPyon_Presser.description>
-	
-	
-	<DankPyon_Smoker.label>Räucherofen</DankPyon_Smoker.label>
-	<DankPyon_Smoker.description>Am Boden des Räucherofens gestapeltes verbranntes Holz erzeugt Rauch und umhüllt so das Fleisch und sorgt für indirekte Hitze und ein reichhaltiges Raucharoma. Dadurch entsteht zusätzlich eine Schutzschicht und das Räucherfleisch bleibt länger haltbar.</DankPyon_Smoker.description>
-	
-	<DankPyon_SilkBed.label>Seidenbett</DankPyon_SilkBed.label>
-	<DankPyon_SilkBed.description>Eine Holzplattform, die dazu dient, Seidenraupen während ihres Kokon-Lebenszyklus zu halten und nach dem vollständigen Spinnen des Kokons für die Seide zu ernten.</DankPyon_SilkBed.description>
-	
-	<DankPyon_Smelter.label>Schmelzer</DankPyon_Smelter.label>
-	<DankPyon_Smelter.description>Eine Steinschmelze zur Raffinierung von Schrott und Rohstoffen.</DankPyon_Smelter.description>
-	
-	<DankPyon_RusticFermentingBarrel.label>Rustikales Gärfass</DankPyon_RusticFermentingBarrel.label>
-	<DankPyon_RusticFermentingBarrel.description>Ein Fass zum Vergären aller Arten frischer Mischungen zu verschiedenen Alkoholika. Seine Holzeigenschaften tragen dazu bei, rustikale Elemente nach Geschmack zu schaffen.</DankPyon_RusticFermentingBarrel.description>
-	
-	<DankPyon_WindMill.label>Windmühle</DankPyon_WindMill.label>
-	<DankPyon_WindMill.description>Eine windbetriebene Mühle zur Automatisierung des Mahlens von Produkten. Erfordert einen großen Freiraum vorne und hinten für eine optimale Luftströmung.</DankPyon_WindMill.description>
-	
-	<DankPyon_IceBlock_Maker.label>Eisblockform</DankPyon_IceBlock_Maker.label>
-	<DankPyon_IceBlock_Maker.description>Eine Holzform zum Einfrieren von Wasser zu Eis in kalten Zeiten.</DankPyon_IceBlock_Maker.description>
-
+  <DankPyon_Cauldron.label>Caldero</DankPyon_Cauldron.label>
+  <DankPyon_Cauldron.description>Un gran caldero de hierro usado para preparar pociones, guisos y otros brebajes.</DankPyon_Cauldron.description>
+  <DankPyon_DryingRack_Small.label>Estante de secado (1x2)</DankPyon_DryingRack_Small.label>
+  <DankPyon_DryingRack_Small.description>Un estante de madera para secar productos al sol, deshidratándolos y conservándolos para una mayor durabilidad.</DankPyon_DryingRack_Small.description>
+  <DankPyon_DryingRack_Big.label>Estante de secado (2x2)</DankPyon_DryingRack_Big.label>
+  <DankPyon_DryingRack_Big.description>Un estante de madera para secar productos al sol para su conservación y uso a largo plazo.</DankPyon_DryingRack_Big.description>
+  <DankPyon_RawhideRack.label>Estante para cuero crudo</DankPyon_RawhideRack.label>
+  <DankPyon_RawhideRack.description>Un estante para secar pieles crudas en cuero rígido y sin curtir.</DankPyon_RawhideRack.description>
+  <DankPyon_TanningRack.label>Estante de curtido</DankPyon_TanningRack.label>
+  <DankPyon_TanningRack.description>Un estante para tratar pieles crudas y producir cuero suave y bonito.</DankPyon_TanningRack.description>
+  <DankPyon_Presser.label>Prensa</DankPyon_Presser.label>
+  <DankPyon_Presser.description>Un dispositivo de madera para prensar artículos seleccionados. Ya sea para extraer jugo o para obtener suero de leche del requesón.</DankPyon_Presser.description>
+  <DankPyon_Smoker.label>Ahumador</DankPyon_Smoker.label>
+  <DankPyon_Smoker.description>La madera quemada apilada en la base del ahumador produce humo que envuelve la carne, proporcionando calor indirecto y un rico aroma ahumado. Esto también crea una capa protectora que hace que la carne ahumada dure más tiempo.</DankPyon_Smoker.description>
+  <DankPyon_SilkBed.label>Cama de seda</DankPyon_SilkBed.label>
+  <DankPyon_SilkBed.description>Una plataforma de madera diseñada para mantener a los gusanos de seda durante su ciclo de vida del capullo y cosechar la seda después de que hayan tejido completamente el capullo.</DankPyon_SilkBed.description>
+  <DankPyon_Smelter.label>Fundidor</DankPyon_Smelter.label>
+  <DankPyon_Smelter.description>Un horno de piedra para refinar chatarra y materias primas.</DankPyon_Smelter.description>
+  <DankPyon_RusticFermentingBarrel.label>Barril de fermentación rústico</DankPyon_RusticFermentingBarrel.label>
+  <DankPyon_RusticFermentingBarrel.description>Un barril para fermentar todo tipo de mezclas frescas en varios tipos de alcohol. Sus propiedades de madera ayudan a crear elementos rústicos en el sabor.</DankPyon_RusticFermentingBarrel.description>
+  <DankPyon_WindMill.label>Molino de viento</DankPyon_WindMill.label>
+  <DankPyon_WindMill.description>Un molino impulsado por el viento para automatizar la molienda de productos. Requiere un gran espacio libre en la parte delantera y trasera para un flujo de aire óptimo.</DankPyon_WindMill.description>
+  <DankPyon_IceBlock_Maker.label>Molde para bloques de hielo</DankPyon_IceBlock_Maker.label>
+  <DankPyon_IceBlock_Maker.description>Un molde de madera para congelar agua en hielo durante tiempos fríos.</DankPyon_IceBlock_Maker.description>
 </LanguageData>

@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Hyena.label>Hyäne</DankPyon_Hyena.label>
-	<DankPyon_Hyena.description>Ein gerissenes Raubtier, das Merkmale von Katzen und Caniden gleichermaßen besitzt. Eine leicht zu unterschätzende Kreatur, von denen die ihr eigenartiges kicherndes Gurgeln als spielerisches Zeichen der Harmlosigkeit betrachten. Während ein Hyänenrudel zögern könnte, eine Gruppe Menschen im Freien anzugreifen, werden sie einem einsamen Vagabunden gegenüber keine Gnade zeigen. Bei lebendigem Leibe und zufriedenem Kichern gefressen zu werden, muss ein schreckliches Ende sein.</DankPyon_Hyena.description>
-	
-	<DankPyon_Hyena.tools.0.label>linke Klaue</DankPyon_Hyena.tools.0.label>
-	<DankPyon_Hyena.tools.1.label>rechte Klaue</DankPyon_Hyena.tools.1.label>
-	<DankPyon_Hyena.tools.3.label>Kopf</DankPyon_Hyena.tools.3.label>
+  <DankPyon_Hyena.label>Hiena</DankPyon_Hyena.label>
+  <DankPyon_Hyena.description>Un astuto depredador con rasgos tanto felinos como caninos. Es una criatura fácilmente subestimada por aquellos que confunden su extraño gorgoteo risueño con una señal de inofensividad. Mientras que una manada de hienas podría dudar en atacar a un grupo de humanos al aire libre, no mostrarán piedad ante un vagabundo solitario. Ser devorado vivo mientras se oye su risa satisfecha debe de ser un destino aterrador.</DankPyon_Hyena.description>
+  <DankPyon_Hyena.tools.0.label>garra izquierda</DankPyon_Hyena.tools.0.label>
+  <DankPyon_Hyena.tools.1.label>garra derecha</DankPyon_Hyena.tools.1.label>
+  <DankPyon_Hyena.tools.3.label>cabeza</DankPyon_Hyena.tools.3.label>
 </LanguageData>

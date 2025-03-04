@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_BrigandFactionBase.pawnSingular>Räuber</DankPyon_BrigandFactionBase.pawnSingular>
-	<DankPyon_BrigandFactionBase.pawnsPlural>Räuber</DankPyon_BrigandFactionBase.pawnsPlural>
-	<DankPyon_BrigandFactionBase.leaderTitle>Räuberführer</DankPyon_BrigandFactionBase.leaderTitle>
-	
-	<DankPyon_BrigandFaction.label>Räuber</DankPyon_BrigandFaction.label>
-	<DankPyon_BrigandFaction.description>Plünderer und Ausbeuter, die Gesetze sind nichts für sie. Es kommt häufig vor, dass Räuber mit bösen Absichten in nahegelegene Siedlungen eindringen.</DankPyon_BrigandFaction.description>
+  <DankPyon_BrigandFactionBase.pawnSingular>Bandido</DankPyon_BrigandFactionBase.pawnSingular>
+  <DankPyon_BrigandFactionBase.pawnsPlural>Bandidos</DankPyon_BrigandFactionBase.pawnsPlural>
+  <DankPyon_BrigandFactionBase.leaderTitle>Líder de los Bandidos</DankPyon_BrigandFactionBase.leaderTitle>
+  <DankPyon_BrigandFaction.label>Bandido</DankPyon_BrigandFaction.label>
+  <DankPyon_BrigandFaction.description>Saqueadores y explotadores, las leyes no son para ellos. Es común que los bandidos con malas intenciones invadan asentamientos cercanos.</DankPyon_BrigandFaction.description>
 </LanguageData>

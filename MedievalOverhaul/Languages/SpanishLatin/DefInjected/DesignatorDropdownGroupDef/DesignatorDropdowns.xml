@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_RusticFurniture.label>Rust. Möbel</DankPyon_RusticFurniture.label>
-	<DankPyon_RusticStorage.label>Rust. Lagerung</DankPyon_RusticStorage.label>
-	<DankPyon_RusticDecoration.label>Rust. Dekoration</DankPyon_RusticDecoration.label>
-	
+  <DankPyon_RusticFurniture.label>Muebles Rústicos</DankPyon_RusticFurniture.label>
+  <DankPyon_RusticStorage.label>Almacenamiento Rústico</DankPyon_RusticStorage.label>
+  <DankPyon_RusticDecoration.label>Decoración Rústica</DankPyon_RusticDecoration.label>
 </LanguageData>

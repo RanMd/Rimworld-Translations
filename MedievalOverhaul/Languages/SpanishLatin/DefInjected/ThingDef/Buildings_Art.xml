@@ -1,38 +1,25 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Bust.label>Büste</DankPyon_Bust.label>
-	<DankPyon_Bust.description>Ein torsogroßes Stück Material, das zu einer künstlerischen Form geformt wurde.</DankPyon_Bust.description>
-	
-	<DankPyon_Pedestal.label>Sockel</DankPyon_Pedestal.label>
-	<DankPyon_Pedestal.description>Ein Ständer, der als Basis für die Präsentation Ihrer Artikel dient.</DankPyon_Pedestal.description>
-	
-	<DankPyon_ArmorStatue.label>Rüstungsstatue</DankPyon_ArmorStatue.label>
-	<DankPyon_ArmorStatue.description>Eine lebensgroße Nachbildung eines Ritters.</DankPyon_ArmorStatue.description>
-	
-	<DankPyon_Ancient_Column.label>Alte Säule</DankPyon_Ancient_Column.label>
-	<DankPyon_Ancient_Column.description>Eine hohe Säule mit kunstvollem Design.</DankPyon_Ancient_Column.description>
-	
-	<DankPyon_RNGLarge2x2c.label>Große Würfelgottskulptur</DankPyon_RNGLarge2x2c.label>
-	<DankPyon_RNGLarge2x2c.description>Eine der vielen Gottheiten, die das Unterreich verehrt. Es ist bekannt, dass der Würfelgott manchmal barmherzig ist, aber meistens ist er rücksichtslos.</DankPyon_RNGLarge2x2c.description>
-	
-	<DankPyon_RNG2x2c.label>Große Würfelgott-Obelisk-Skulptur</DankPyon_RNG2x2c.label>
-	<DankPyon_RNG2x2c.description>Eine der vielen Gottheiten, die das Unterreich verehrt. Es ist bekannt, dass der Würfelgott manchmal barmherzig ist, aber meistens ist er rücksichtslos.</DankPyon_RNG2x2c.description>
-	
-	<DankPyon_ArchonSculpture2x2c.label>Große Archon-Skulptur</DankPyon_ArchonSculpture2x2c.label>
-	<DankPyon_ArchonSculpture2x2c.description>Ein Avatar eines einst prominenten Herrschers.</DankPyon_ArchonSculpture2x2c.description>
-	
-	<DankPyon_ArchonObeliskSculpture2x2c.label>Große Archon-Obelisk-Skulptur</DankPyon_ArchonObeliskSculpture2x2c.label>
-	<DankPyon_ArchonObeliskSculpture2x2c.description>Ein Avatar eines einst prominenten Herrschers.</DankPyon_ArchonObeliskSculpture2x2c.description>
-	
-	
-	<DankPyon_Obelisk2x2c.label>Großer Obelisk</DankPyon_Obelisk2x2c.label>
-	<DankPyon_Obelisk2x2c.description>Ein antikes Denkmal mit Inschriften einer unbekannten Sprache.</DankPyon_Obelisk2x2c.description>
-	
-	<DankPyon_Brazier2x2c.label>Altes Obelisk-Kohlenbecken</DankPyon_Brazier2x2c.label>
-	<DankPyon_Brazier2x2c.description>Ein antikes Denkmal mit einer Kohlenpfanne darauf, die sehr hell brennt.</DankPyon_Brazier2x2c.description>
-	
-	<DankPyon_Brazier1x1c.label>Alte Kohlenpfanne</DankPyon_Brazier1x1c.label>
-	<DankPyon_Brazier1x1c.description>Eine alte Kohlenpfanne, die sehr hell brennt.</DankPyon_Brazier1x1c.description>
-
+  <DankPyon_Bust.label>Busto</DankPyon_Bust.label>
+  <DankPyon_Bust.description>Un trozo de material del tamaño de un torso, moldeado en una forma artística.</DankPyon_Bust.description>
+  <DankPyon_Pedestal.label>Pedestal</DankPyon_Pedestal.label>
+  <DankPyon_Pedestal.description>Un soporte que sirve como base para la presentación de sus artículos.</DankPyon_Pedestal.description>
+  <DankPyon_ArmorStatue.label>Estatua de armadura</DankPyon_ArmorStatue.label>
+  <DankPyon_ArmorStatue.description>Una réplica de tamaño natural de un caballero.</DankPyon_ArmorStatue.description>
+  <DankPyon_Ancient_Column.label>Columna antigua</DankPyon_Ancient_Column.label>
+  <DankPyon_Ancient_Column.description>Una columna alta con un diseño artístico.</DankPyon_Ancient_Column.description>
+  <DankPyon_RNGLarge2x2c.label>Gran escultura del dios del dado</DankPyon_RNGLarge2x2c.label>
+  <DankPyon_RNGLarge2x2c.description>Una de las muchas deidades adoradas en el inframundo. Se sabe que el dios del dado a veces es misericordioso, pero la mayoría de las veces es despiadado.</DankPyon_RNGLarge2x2c.description>
+  <DankPyon_RNG2x2c.label>Gran obelisco-escultura del dios del dado</DankPyon_RNG2x2c.label>
+  <DankPyon_RNG2x2c.description>Una de las muchas deidades adoradas en el inframundo. Se sabe que el dios del dado a veces es misericordioso, pero la mayoría de las veces es despiadado.</DankPyon_RNG2x2c.description>
+  <DankPyon_ArchonSculpture2x2c.label>Gran escultura de arconte</DankPyon_ArchonSculpture2x2c.label>
+  <DankPyon_ArchonSculpture2x2c.description>Un avatar de un gobernante que una vez fue prominente.</DankPyon_ArchonSculpture2x2c.description>
+  <DankPyon_ArchonObeliskSculpture2x2c.label>Gran obelisco-escultura de arconte</DankPyon_ArchonObeliskSculpture2x2c.label>
+  <DankPyon_ArchonObeliskSculpture2x2c.description>Un avatar de un gobernante que una vez fue prominente.</DankPyon_ArchonObeliskSculpture2x2c.description>
+  <DankPyon_Obelisk2x2c.label>Gran obelisco</DankPyon_Obelisk2x2c.label>
+  <DankPyon_Obelisk2x2c.description>Un monumento antiguo con inscripciones en un idioma desconocido.</DankPyon_Obelisk2x2c.description>
+  <DankPyon_Brazier2x2c.label>Antiguo brasero obelisco</DankPyon_Brazier2x2c.label>
+  <DankPyon_Brazier2x2c.description>Un monumento antiguo con un brasero encima que arde muy brillante.</DankPyon_Brazier2x2c.description>
+  <DankPyon_Brazier1x1c.label>Antiguo brasero</DankPyon_Brazier1x1c.label>
+  <DankPyon_Brazier1x1c.description>Un antiguo brasero que arde muy brillante.</DankPyon_Brazier1x1c.description>
 </LanguageData>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<Dank_ToxicBuildupHediffFallRateMult.label>Hediff-Absturzrate</Dank_ToxicBuildupHediffFallRateMult.label>
-	<Dank_ToxicBuildupHediffFallRateMult.description>Bewegungsgeschwindigkeit in Zellen pro Sekunde.</Dank_ToxicBuildupHediffFallRateMult.description>
+  <Dank_ToxicBuildupHediffFallRateMult.label>Tasa de Caída de Hediff</Dank_ToxicBuildupHediffFallRateMult.label>
+  <Dank_ToxicBuildupHediffFallRateMult.description>Velocidad de movimiento en celdas por segundo.</Dank_ToxicBuildupHediffFallRateMult.description>
 </LanguageData>

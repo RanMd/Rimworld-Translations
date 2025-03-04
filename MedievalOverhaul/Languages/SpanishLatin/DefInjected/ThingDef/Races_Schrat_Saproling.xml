@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Schrat_Sapling.label>Schrat-Schössling</DankPyon_Schrat_Sapling.label>
-	<DankPyon_Schrat_Sapling.description>Ein knorriges Gewirr aus Ästen, Wurzeln und Schlamm, grob geformt nach dem Vorbild eines Menschen. Ausgestattet mit einem verdrehten, finsteren Willen schlendern Schrate langsam durch das Unterholz auf der Suche nach den Lebenden. Man sagt, dass Waldschrate das Blut aufdringlicher Holzfäller und übereifriger Jäger genießen.</DankPyon_Schrat_Sapling.description>
-	
-	<DankPyon_Schrat_Sapling.tools.0.label>linke Faust</DankPyon_Schrat_Sapling.tools.0.label>
-	<DankPyon_Schrat_Sapling.tools.1.label>rechte Faust</DankPyon_Schrat_Sapling.tools.1.label>
-	<DankPyon_Schrat_Sapling.tools.2.label>Kopf</DankPyon_Schrat_Sapling.tools.2.label>
-	
+  <DankPyon_Schrat_Sapling.label>Retoño de Schrat</DankPyon_Schrat_Sapling.label>
+  <DankPyon_Schrat_Sapling.description>Una maraña nudosa de ramas, raíces y barro, toscamente formada a semejanza de un humano. Equipados con una voluntad torcida y siniestra, los Schrats deambulan lentamente por el sotobosque en busca de los vivos. Se dice que los Schrats del bosque disfrutan de la sangre de los leñadores intrusos y cazadores demasiado entusiastas.</DankPyon_Schrat_Sapling.description>
+  <DankPyon_Schrat_Sapling.tools.0.label>puño izquierdo</DankPyon_Schrat_Sapling.tools.0.label>
+  <DankPyon_Schrat_Sapling.tools.1.label>puño derecho</DankPyon_Schrat_Sapling.tools.1.label>
+  <DankPyon_Schrat_Sapling.tools.2.label>cabeza</DankPyon_Schrat_Sapling.tools.2.label>
 </LanguageData>

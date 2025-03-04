@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Forest_Faction.pawnSingular>Baum</DankPyon_Forest_Faction.pawnSingular>
-	<DankPyon_Forest_Faction.pawnsPlural>Bäume</DankPyon_Forest_Faction.pawnsPlural>
-	<DankPyon_Forest_Faction.fixedName>Kreaturen des Waldes</DankPyon_Forest_Faction.fixedName>
-	
-	<DankPyon_Forest_Faction.label>Der Wald</DankPyon_Forest_Faction.label>
-	<DankPyon_Forest_Faction.description>Monster und unmenschliche Kreaturen, die in den Tiefen des Waldes leben. Bekannt dafür, wahllos Menschen zu jagen und dennoch friedlich Tiere der Natur zu beherbergen.</DankPyon_Forest_Faction.description>
-	
-	<DankPyon_Witch_Faction.pawnSingular>Baum</DankPyon_Witch_Faction.pawnSingular>
-	<DankPyon_Witch_Faction.pawnsPlural>Bäume</DankPyon_Witch_Faction.pawnsPlural>
-	<DankPyon_Witch_Faction.fixedName>Verzauberte Hexen</DankPyon_Witch_Faction.fixedName>
-	
-	<DankPyon_Witch_Faction.label>Verzauberte Hexen</DankPyon_Witch_Faction.label>
-	<DankPyon_Witch_Faction.description>Monster und unmenschliche Kreaturen, die in den Tiefen des Waldes leben. Bekannt dafür, wahllos Menschen zu jagen und dennoch friedlich Tiere der Natur zu beherbergen.</DankPyon_Witch_Faction.description>
+  <DankPyon_Forest_Faction.pawnSingular>Árbol</DankPyon_Forest_Faction.pawnSingular>
+  <DankPyon_Forest_Faction.pawnsPlural>Árboles</DankPyon_Forest_Faction.pawnsPlural>
+  <DankPyon_Forest_Faction.fixedName>Criaturas del Bosque</DankPyon_Forest_Faction.fixedName>
+  <DankPyon_Forest_Faction.label>El Bosque</DankPyon_Forest_Faction.label>
+  <DankPyon_Forest_Faction.description>Monstruos y criaturas inhumanas que viven en las profundidades del bosque. Conocidos por cazar humanos indiscriminadamente y, sin embargo, albergar pacíficamente a los animales de la naturaleza.</DankPyon_Forest_Faction.description>
+  <DankPyon_Witch_Faction.pawnSingular>Árbol</DankPyon_Witch_Faction.pawnSingular>
+  <DankPyon_Witch_Faction.pawnsPlural>Árboles</DankPyon_Witch_Faction.pawnsPlural>
+  <DankPyon_Witch_Faction.fixedName>Brujas Encantadas</DankPyon_Witch_Faction.fixedName>
+  <DankPyon_Witch_Faction.label>Brujas Encantadas</DankPyon_Witch_Faction.label>
+  <DankPyon_Witch_Faction.description>Monstruos y criaturas inhumanas que viven en las profundidades del bosque. Conocidos por cazar humanos indiscriminadamente y, sin embargo, albergar pacíficamente a los animales de la naturaleza.</DankPyon_Witch_Faction.description>
 </LanguageData>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Mead.label>Met</DankPyon_Mead.label>
-	<DankPyon_Mead.description>Vergorenes Getränk von tiefgoldener Farbe, ein wahres Lebenselixier des gesellschaftlichen Lebens in diesen Gegenden. Wenige Tassen in der Taverne genügen, um die Strapazen der Feldarbeit, die Gefahren auf der Straße oder unüberlegte Eheversprechen zu vergessen. Lassen Sie sich vom warmen Dunst der Trunkenheit umarmen, ohne sich um irgendetwas Sorgen machen zu müssen. Nicht heute.</DankPyon_Mead.description>
+  <DankPyon_Mead.label>Hidromiel</DankPyon_Mead.label>
+  <DankPyon_Mead.description>Bebida fermentada de color dorado profundo, un verdadero elixir de la vida social en estas regiones. Unas pocas tazas en la taberna son suficientes para olvidar las fatigas del trabajo en el campo, los peligros en la carretera o las promesas matrimoniales imprudentes. Déjese abrazar por la cálida neblina de la embriaguez, sin preocuparse por nada. No hoy.</DankPyon_Mead.description>
 </LanguageData>

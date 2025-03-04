@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_High_HappyPowder.label>Aufgepuscht durch Glückspulver</DankPyon_High_HappyPowder.label>
-	<DankPyon_High_HappyPowder.labelNoun>ein Glückspulver-Rausch</DankPyon_High_HappyPowder.labelNoun>
-	<DankPyon_High_HappyPowder.description>Glückspulver im Blutkreislauf. Erzeugt ein intensives euphorisches Glücksgefühl.</DankPyon_High_HappyPowder.description>
-	
-	<DankPyon_Addiction_BattleElixir.label>Kampfelixier-Sucht</DankPyon_Addiction_BattleElixir.label>
-	<DankPyon_Addiction_BattleElixir.description>Eine chemische Sucht nach Kampfelixier. Die langfristige Anwesenheit von Go-Saft hat auf zellulärer Ebene zu neurologischen Anpassungen geführt, sodass das Gehirn ohne das Medikament nicht mehr richtig funktionieren kann.
-	\nOhne regelmäßige Dosen des Kampfelixiers treten Entzugserscheinungen auf. Eine längere Abstinenz zwingt das Gehirn jedoch dazu, sich wieder an seinen Normalzustand anzupassen, wodurch die Sucht aufgelöst wird.</DankPyon_Addiction_BattleElixir.description>
-	
-	<DankPyon_Tolerance_BattleElixir.label>Kampfelixier-Toleranz</DankPyon_Tolerance_BattleElixir.label>
-	<DankPyon_Tolerance_BattleElixir.description>Eine aufgebaute Toleranz gegenüber dem Kampfelixier. Je strenger diese Toleranz ist, desto mehr Kampfelixier ist erforderlich, um den gleichen Effekt zu erzielen.</DankPyon_Tolerance_BattleElixir.description>
+  <DankPyon_High_HappyPowder.label>Elevado por Polvo de la Felicidad</DankPyon_High_HappyPowder.label>
+  <DankPyon_High_HappyPowder.labelNoun>un subidón de Polvo de la Felicidad</DankPyon_High_HappyPowder.labelNoun>
+  <DankPyon_High_HappyPowder.description>Polvo de la Felicidad en el torrente sanguíneo. Produce una intensa sensación de euforia y felicidad.</DankPyon_High_HappyPowder.description>
+  <DankPyon_Addiction_BattleElixir.label>Adicción al Elixir de Batalla</DankPyon_Addiction_BattleElixir.label>
+  <DankPyon_Addiction_BattleElixir.description>Una adicción química al Elixir de Batalla. La presencia prolongada de Go-Juice ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares del Elixir de Batalla, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_BattleElixir.description>
+  <DankPyon_Tolerance_BattleElixir.label>Tolerancia al Elixir de Batalla</DankPyon_Tolerance_BattleElixir.label>
+  <DankPyon_Tolerance_BattleElixir.description>Una tolerancia desarrollada hacia el Elixir de Batalla. Cuanto mayor sea esta tolerancia, más Elixir de Batalla se necesitará para lograr el mismo efecto.</DankPyon_Tolerance_BattleElixir.description>
 </LanguageData>

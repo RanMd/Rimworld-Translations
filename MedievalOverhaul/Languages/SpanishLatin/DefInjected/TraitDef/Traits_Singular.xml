@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Fighter.degreeDatas.0.label>Kämpfer</DankPyon_Fighter.degreeDatas.0.label>
-	<DankPyon_Fighter.degreeDatas.0.description>[PAWN_nameDef] ist ein beeindruckender Kämpfer. [PAWN_pronoun] weiß, wie man effektiv mit einer Waffe umgeht und Schläge einsteckt.</DankPyon_Fighter.degreeDatas.0.description>
-	
-	<DankPyon_Veteran.degreeDatas.0.label>Veteran</DankPyon_Veteran.degreeDatas.0.label>
-	<DankPyon_Veteran.degreeDatas.0.description>[PAWN_nameDef] ist ein Veteran. [PAWN_pronoun] hat unzählige schreckliche Schlachten erlebt, die ausreichen, um einen einfachen Mann zu brechen.</DankPyon_Veteran.degreeDatas.0.description>
+  <DankPyon_Fighter.degreeDatas.0.label>Guerrero</DankPyon_Fighter.degreeDatas.0.label>
+  <DankPyon_Fighter.degreeDatas.0.description>[PAWN_nameDef] es un impresionante guerrero. [PAWN_pronoun] sabe cómo manejar eficazmente un arma y recibir golpes.</DankPyon_Fighter.degreeDatas.0.description>
+  <DankPyon_Veteran.degreeDatas.0.label>Veterano</DankPyon_Veteran.degreeDatas.0.label>
+  <DankPyon_Veteran.degreeDatas.0.description>[PAWN_nameDef] es un veterano. [PAWN_pronoun] ha vivido innumerables batallas terribles, suficientes para romper a un hombre común.</DankPyon_Veteran.degreeDatas.0.description>
 </LanguageData>

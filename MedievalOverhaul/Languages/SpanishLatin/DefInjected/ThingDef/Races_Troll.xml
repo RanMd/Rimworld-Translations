@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_AncientTroll.label>Alter Troll</DankPyon_AncientTroll.label>
-	<DankPyon_AncientTroll.description>Schwerfälliger Riese, locker so groß wie drei Männer,sogar den Größten. Es frisst ganze Schafe als Snack und leert einen Teich, um es abzuspülen.</DankPyon_AncientTroll.description>
-	
-	<DankPyon_AncientTroll.tools.0.label>linke Klaue</DankPyon_AncientTroll.tools.0.label>
-	<DankPyon_AncientTroll.tools.1.label>linke Faust</DankPyon_AncientTroll.tools.1.label>
-	<DankPyon_AncientTroll.tools.2.label>rechte Klaue</DankPyon_AncientTroll.tools.2.label>
-	<DankPyon_AncientTroll.tools.3.label>rechte Faust</DankPyon_AncientTroll.tools.3.label>
-	<DankPyon_AncientTroll.tools.4.label>Stoßzähne</DankPyon_AncientTroll.tools.4.label>
-	<DankPyon_AncientTroll.tools.5.label>Zähne</DankPyon_AncientTroll.tools.5.label>
-	<DankPyon_AncientTroll.tools.6.label>Kopf</DankPyon_AncientTroll.tools.6.label>
+  <DankPyon_AncientTroll.label>Anciano Troll</DankPyon_AncientTroll.label>
+  <DankPyon_AncientTroll.description>Gigante torpe, fácilmente tan grande como tres hombres, incluso los más grandes. Come ovejas enteras como bocadillo y vacía un estanque para enjuagarlas.</DankPyon_AncientTroll.description>
+  <DankPyon_AncientTroll.tools.0.label>garra izquierda</DankPyon_AncientTroll.tools.0.label>
+  <DankPyon_AncientTroll.tools.1.label>puño izquierdo</DankPyon_AncientTroll.tools.1.label>
+  <DankPyon_AncientTroll.tools.2.label>garra derecha</DankPyon_AncientTroll.tools.2.label>
+  <DankPyon_AncientTroll.tools.3.label>puño derecho</DankPyon_AncientTroll.tools.3.label>
+  <DankPyon_AncientTroll.tools.4.label>colmillos</DankPyon_AncientTroll.tools.4.label>
+  <DankPyon_AncientTroll.tools.5.label>dientes</DankPyon_AncientTroll.tools.5.label>
+  <DankPyon_AncientTroll.tools.6.label>cabeza</DankPyon_AncientTroll.tools.6.label>
 </LanguageData>

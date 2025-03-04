@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Fat.label>Fett</DankPyon_Fat.label>
-	<DankPyon_Fat.description>Fett ist ein reichlich vorhandener Stoff und dient mehreren Zwecken. Zugesetztes Fett in der Nahrung verbessert die Mahlzeiten und füllt den Darm eines Kolonisten länger, aber zu viel davon erhöht die Wahrscheinlichkeit, dass der Kolonist krank wird. Beim Überleben kann Fett in die Flammen gegeben werden, sei es in einer Fackel oder einem Lagerfeuer, um die Hitze länger aufrechtzuerhalten. Schließlich können aus ausgeschmolzenem Fett Kerzen, Seifen, Skulpturen und mehr geformt werden.</DankPyon_Fat.description>
-	
-	<DankPyon_Tallow.label>Talg</DankPyon_Tallow.label>
-	<DankPyon_Tallow.description>Talg ist eine ausgeschmolzene Fettform, die bei Raumtemperatur fest ist und daher über einen längeren Zeitraum gelagert werden kann. Kann zu Kerzen verarbeitet werden.</DankPyon_Tallow.description>
-
-	<DankPyon_Flour.label>Mehl</DankPyon_Flour.label>
-	<DankPyon_Flour.description>Mehl wird zur Zubereitung vieler verschiedener Mahlzeiten verwendet und ist sehr lange haltbar, jedoch nicht roh verzehrbar. Aufgrund seiner Beschaffenheit lässt es sich sehr effizient lagern.</DankPyon_Flour.description>
-	
-	
-	<DankPyon_Straw.label>Stroh</DankPyon_Straw.label>
-	<DankPyon_Straw.description>Getrocknete Getreidehalme, die insbesondere als Futtermittel verwendet werden, geerntet und zur Lagerung verdichtet werden. Stroh ist ein gutes Tierfutter, für den Menschen jedoch ungenießbar.</DankPyon_Straw.description>
-	
-	<DankPyon_Salt.label>Salz</DankPyon_Salt.label>
-	<DankPyon_Salt.description>Salz ist ein weit verbreitetes Mineral, das oft in natürlichen Gesteinsablagerungen und im Meer reichlich vorhanden ist. Es wird häufig zur Lebensmittelkonservierung und als Gewürz für Mahlzeiten verwendet.</DankPyon_Salt.description>
-
-	<DankPyon_Sugar.label>Zucker</DankPyon_Sugar.label>
-	<DankPyon_Sugar.description>Eine süße, weiße, pulverförmige Substanz, die aus der Zuckerrohrpflanze gewonnen wird.</DankPyon_Sugar.description>
-	
-	
-	<DankPyon_Spices.label>Gewürze</DankPyon_Spices.label>
-	<DankPyon_Spices.description>Eine Mischung aus getrockneten und zerkleinerten Gewürzen sorgt für wunderbares Aroma und Geschmack.</DankPyon_Spices.description>
-	
-	<DankPyon_Sausages.label>Rohe Würstchen</DankPyon_Sausages.label>
-	<DankPyon_Sausages.description>Hackfleisch gemischt mit Kräutern und Gewürzen.</DankPyon_Sausages.description>
+  <DankPyon_Fat.label>Grasa</DankPyon_Fat.label>
+  <DankPyon_Fat.description>La grasa es una sustancia abundante y sirve para varios propósitos. La grasa añadida a los alimentos mejora las comidas y llena el estómago de un colono por más tiempo, pero demasiado aumenta la probabilidad de que el colono se enferme. En la supervivencia, la grasa puede ser añadida a las llamas, ya sea en una antorcha o una fogata, para mantener el calor por más tiempo. Finalmente, la grasa derretida puede ser moldeada en velas, jabones, esculturas y más.</DankPyon_Fat.description>
+  <DankPyon_Tallow.label>Sebo</DankPyon_Tallow.label>
+  <DankPyon_Tallow.description>El sebo es una forma de grasa derretida que es sólida a temperatura ambiente y por lo tanto puede ser almacenada por un período más largo. Puede ser procesada en velas.</DankPyon_Tallow.description>
+  <DankPyon_Flour.label>Harina</DankPyon_Flour.label>
+  <DankPyon_Flour.description>La harina se utiliza para preparar muchas comidas diferentes y es muy duradera, pero no se puede comer cruda. Debido a su naturaleza, se puede almacenar de manera muy eficiente.</DankPyon_Flour.description>
+  <DankPyon_Straw.label>Paja</DankPyon_Straw.label>
+  <DankPyon_Straw.description>Tallos de cereales secos que se utilizan principalmente como alimento para animales, cosechados y compactados para su almacenamiento. La paja es un buen alimento para animales, pero no es comestible para los humanos.</DankPyon_Straw.description>
+  <DankPyon_Salt.label>Sal</DankPyon_Salt.label>
+  <DankPyon_Salt.description>La sal es un mineral muy común que se encuentra a menudo en depósitos de roca natural y en el mar. Se utiliza frecuentemente para conservar alimentos y como condimento para las comidas.</DankPyon_Salt.description>
+  <DankPyon_Sugar.label>Azúcar</DankPyon_Sugar.label>
+  <DankPyon_Sugar.description>Una sustancia blanca, dulce y en polvo que se obtiene de la planta de caña de azúcar.</DankPyon_Sugar.description>
+  <DankPyon_Spices.label>Especias</DankPyon_Spices.label>
+  <DankPyon_Spices.description>Una mezcla de especias secas y trituradas que proporciona un maravilloso aroma y sabor.</DankPyon_Spices.description>
+  <DankPyon_Sausages.label>Salchichas crudas</DankPyon_Sausages.label>
+  <DankPyon_Sausages.description>Carne picada mezclada con hierbas y especias.</DankPyon_Sausages.description>
 </LanguageData>

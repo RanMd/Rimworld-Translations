@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Daer.label>Daer</DankPyon_Daer.label>
-	<DankPyon_Daer.description>Eine sagenumwobene Legende unter dem Volk, ein riesiger Hirsch mit dem Körper eines Bären ... oder war es ein Bär mit den Hörnern eines Hirsches, doch sein Schlund erkennt nicht, wann das Tier nach Beute hungert.\n\nA Daer-Kadaver enthalten majestätische Geweihe, die durch Schlachten gewonnen werden können, und liefern Fleisch, das für einen Stimmungsbonus sorgt.</DankPyon_Daer.description>
-	
-	<DankPyon_Golem_Iron.tools.1.label>linke Klaue</DankPyon_Golem_Iron.tools.1.label>
-	<DankPyon_Golem_Iron.tools.2.label>rechte Klaue</DankPyon_Golem_Iron.tools.2.label>
-	<DankPyon_Golem_Iron.tools.3.label>Kopf</DankPyon_Golem_Iron.tools.3.label>
+  <DankPyon_Daer.label>Daer</DankPyon_Daer.label>
+  <DankPyon_Daer.description>Una legendaria criatura entre el pueblo, un ciervo gigantesco con el cuerpo de un oso... ¿o era un oso con los cuernos de un ciervo? Lo único seguro es que su hambre de presas nunca cesa.\n\nEl cadáver de un Daer contiene majestuosos cuernos que pueden obtenerse en la batalla y proporciona carne que otorga un bono de ánimo.</DankPyon_Daer.description>
+  <DankPyon_Golem_Iron.tools.1.label>garra izquierda</DankPyon_Golem_Iron.tools.1.label>
+  <DankPyon_Golem_Iron.tools.2.label>garra derecha</DankPyon_Golem_Iron.tools.2.label>
+  <DankPyon_Golem_Iron.tools.3.label>cabeza</DankPyon_Golem_Iron.tools.3.label>
 </LanguageData>

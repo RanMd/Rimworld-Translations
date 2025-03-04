@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Schrat_Dark.label>Dunkler Schrat</DankPyon_Schrat_Dark.label>
-	<DankPyon_Schrat_Plain.label>Schrat</DankPyon_Schrat_Plain.label>
+  <DankPyon_Schrat_Dark.label>Schrat Oscuro</DankPyon_Schrat_Dark.label>
+  <DankPyon_Schrat_Plain.label>Schrat</DankPyon_Schrat_Plain.label>
 </LanguageData>

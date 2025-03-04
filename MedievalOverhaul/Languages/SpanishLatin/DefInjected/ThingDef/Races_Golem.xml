@@ -1,31 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<DankPyon_Golem_Iron.label>Alter Troll</DankPyon_Golem_Iron.label>
-	<DankPyon_Golem_Iron.description>Schwerfälliger Riese, locker so groß wie drei Männer,sogar den Größten. Es frisst ganze Schafe als Snack und leert einen Teich, um es abzuspülen.</DankPyon_Golem_Iron.description>
-	
-	<DankPyon_Golem_Iron.tools.0.label>linke Hand</DankPyon_Golem_Iron.tools.0.label>
-	<DankPyon_Golem_Iron.tools.1.label>rechte Hand</DankPyon_Golem_Iron.tools.1.label>
-	<DankPyon_Golem_Iron.tools.2.label>Kopf</DankPyon_Golem_Iron.tools.2.label>
-	
-	<DankPyon_Golem_Gold.label>Goldener Golem</DankPyon_Golem_Gold.label>
-	<DankPyon_Golem_Gold.description>Ein Golem aus Gold.</DankPyon_Golem_Gold.description>
-	
-	<DankPyon_Golem_Gold.tools.0.label>linke Hand</DankPyon_Golem_Gold.tools.0.label>
-	<DankPyon_Golem_Gold.tools.1.label>rechte Hand</DankPyon_Golem_Gold.tools.1.label>
-	<DankPyon_Golem_Gold.tools.2.label>Kopf</DankPyon_Golem_Gold.tools.2.label>
-	
-	<DankPyon_Golem_Steel.label>Stahlgolem</DankPyon_Golem_Steel.label>
-	<DankPyon_Golem_Steel.description>Ein Golem aus Stahl.</DankPyon_Golem_Steel.description>
-	
-	<DankPyon_Golem_Steel.tools.0.label>linke Hand</DankPyon_Golem_Steel.tools.0.label>
-	<DankPyon_Golem_Steel.tools.1.label>rechte Hand</DankPyon_Golem_Steel.tools.1.label>
-	<DankPyon_Golem_Steel.tools.2.label>Kopf</DankPyon_Golem_Steel.tools.2.label>
-	
-	<DankPyon_Golem_Silver.label>Silbergolem</DankPyon_Golem_Silver.label>
-	<DankPyon_Golem_Silver.description>Ein Golem aus Silber.</DankPyon_Golem_Silver.description>
-	
-	<DankPyon_Golem_Silver.tools.0.label>linke Hand</DankPyon_Golem_Silver.tools.0.label>
-	<DankPyon_Golem_Silver.tools.1.label>rechte Hand</DankPyon_Golem_Silver.tools.1.label>
-	<DankPyon_Golem_Silver.tools.2.label>Kopf</DankPyon_Golem_Silver.tools.2.label>
+  <DankPyon_Golem_Iron.label>Golem de Hierro</DankPyon_Golem_Iron.label>
+  <DankPyon_Golem_Iron.description>Gigante torpe, tan grande como tres hombres, incluso los más grandes. Come ovejas enteras como bocadillo y vacía un estanque para enjuagarse.</DankPyon_Golem_Iron.description>
+  <DankPyon_Golem_Iron.tools.0.label>mano izquierda</DankPyon_Golem_Iron.tools.0.label>
+  <DankPyon_Golem_Iron.tools.1.label>mano derecha</DankPyon_Golem_Iron.tools.1.label>
+  <DankPyon_Golem_Iron.tools.2.label>cabeza</DankPyon_Golem_Iron.tools.2.label>
+  <DankPyon_Golem_Gold.label>Golem de Oro</DankPyon_Golem_Gold.label>
+  <DankPyon_Golem_Gold.description>Un golem de oro.</DankPyon_Golem_Gold.description>
+  <DankPyon_Golem_Gold.tools.0.label>mano izquierda</DankPyon_Golem_Gold.tools.0.label>
+  <DankPyon_Golem_Gold.tools.1.label>mano derecha</DankPyon_Golem_Gold.tools.1.label>
+  <DankPyon_Golem_Gold.tools.2.label>cabeza</DankPyon_Golem_Gold.tools.2.label>
+  <DankPyon_Golem_Steel.label>Golem de Acero</DankPyon_Golem_Steel.label>
+  <DankPyon_Golem_Steel.description>Un golem de acero.</DankPyon_Golem_Steel.description>
+  <DankPyon_Golem_Steel.tools.0.label>mano izquierda</DankPyon_Golem_Steel.tools.0.label>
+  <DankPyon_Golem_Steel.tools.1.label>mano derecha</DankPyon_Golem_Steel.tools.1.label>
+  <DankPyon_Golem_Steel.tools.2.label>cabeza</DankPyon_Golem_Steel.tools.2.label>
+  <DankPyon_Golem_Silver.label>Golem de Plata</DankPyon_Golem_Silver.label>
+  <DankPyon_Golem_Silver.description>Un golem de plata.</DankPyon_Golem_Silver.description>
+  <DankPyon_Golem_Silver.tools.0.label>mano izquierda</DankPyon_Golem_Silver.tools.0.label>
+  <DankPyon_Golem_Silver.tools.1.label>mano derecha</DankPyon_Golem_Silver.tools.1.label>
+  <DankPyon_Golem_Silver.tools.2.label>cabeza</DankPyon_Golem_Silver.tools.2.label>
 </LanguageData>
