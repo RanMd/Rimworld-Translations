@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- Non buildable banners -->
   <DankPyon_BannerBase.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerBase.description>
   <DankPyon_NonBuildableBanners.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_NonBuildableBanners.description>
   <DankPyon_BannerMoonCult.label>Estandarte (Culto a la Luna)</DankPyon_BannerMoonCult.label>
+  <DankPyon_BannerMoonCult.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerMoonCult.description>
   <DankPyon_BannerSoren.label>Estandarte (Soren)</DankPyon_BannerSoren.label>
+  <DankPyon_BannerSoren.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerSoren.description>
   <DankPyon_BannerAmboise.label>Estandarte (Amboise)</DankPyon_BannerAmboise.label>
+  <DankPyon_BannerAmboise.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerAmboise.description>
   <DankPyon_BannerHesse.label>Estandarte (Hesse)</DankPyon_BannerHesse.label>
+  <DankPyon_BannerHesse.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerHesse.description>
   <DankPyon_BannerOswin.label>Estandarte (Oswin)</DankPyon_BannerOswin.label>
+  <DankPyon_BannerOswin.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerOswin.description>
+  <!-- Buildable Banners -->
   <DankPyon_BannerPlain.label>Estandarte (Simple)</DankPyon_BannerPlain.label>
+  <DankPyon_BannerPlain.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerPlain.description>
   <DankPyon_BannerCrow.label>Estandarte (Cuervo)</DankPyon_BannerCrow.label>
+  <DankPyon_BannerCrow.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerCrow.description>
   <DankPyon_BannerArrow.label>Estandarte (Flecha)</DankPyon_BannerArrow.label>
+  <DankPyon_BannerArrow.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerArrow.description>
   <DankPyon_BannerHand.label>Estandarte (Mano)</DankPyon_BannerHand.label>
+  <DankPyon_BannerHand.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerHand.description>
   <DankPyon_BannerAxe.label>Estandarte (Hacha)</DankPyon_BannerAxe.label>
+  <DankPyon_BannerAxe.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerAxe.description>
   <DankPyon_BannerSun.label>Estandarte (Sol)</DankPyon_BannerSun.label>
+  <DankPyon_BannerSun.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerSun.description>
   <DankPyon_BannerLindwurm.label>Estandarte (Lindwurm)</DankPyon_BannerLindwurm.label>
+  <DankPyon_BannerLindwurm.description>Un estandarte de lino adornado para mostrar los colores de la colonia.</DankPyon_BannerLindwurm.description>
 </LanguageData>

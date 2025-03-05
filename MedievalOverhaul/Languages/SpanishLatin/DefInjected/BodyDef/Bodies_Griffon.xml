@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <DankPyon_GriffonBody.label>cuadrúpedo con cola y pico</DankPyon_GriffonBody.label>
+  <DankPyon_GriffonBody.corePart.parts.4.customLabel>Pulmón izquierdo</DankPyon_GriffonBody.corePart.parts.4.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.5.customLabel>Pulmón derecho</DankPyon_GriffonBody.corePart.parts.5.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.6.customLabel>Riñón izquierdo</DankPyon_GriffonBody.corePart.parts.6.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.7.customLabel>Riñón derecho</DankPyon_GriffonBody.corePart.parts.7.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.1.customLabel>Ojo izquierdo</DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.1.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.2.customLabel>Ojo derecho</DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.2.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.3.customLabel>Oreja izquierda</DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.3.customLabel>
+  <DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.4.customLabel>Oreja derecha</DankPyon_GriffonBody.corePart.parts.9.parts.0.parts.4.customLabel>
   <DankPyon_GriffonBody.corePart.parts.10.customLabel>pata delantera izquierda</DankPyon_GriffonBody.corePart.parts.10.customLabel>
   <DankPyon_GriffonBody.corePart.parts.10.parts.0.customLabel>garra delantera izquierda</DankPyon_GriffonBody.corePart.parts.10.parts.0.customLabel>
   <DankPyon_GriffonBody.corePart.parts.11.customLabel>pata delantera derecha</DankPyon_GriffonBody.corePart.parts.11.customLabel>
