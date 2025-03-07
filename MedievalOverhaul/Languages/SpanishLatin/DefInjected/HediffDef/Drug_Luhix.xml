@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DankPyon_High_Luhix.label>Subidón de Luhix</DankPyon_High_Luhix.label>
+  <DankPyon_High_Luhix.labelNoun>un subidón de luhix</DankPyon_High_Luhix.labelNoun>
+  <DankPyon_High_Luhix.description>Luhix en el torrente sanguíneo. Mejora significativamente la memoria y la capacidad de aprendizaje y eleva ligeramente el psicoenfoque en la primera ingesta.</DankPyon_High_Luhix.description>
+  <DankPyon_Addiction_Luhix.label>Adicción a Luhix</DankPyon_Addiction_Luhix.label>
+  <DankPyon_Addiction_Luhix.description>Una adicción química a luhix. La presencia prolongada de luhix ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares de Luhix, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_Luhix.description>
+  <DankPyon_Addiction_Luhix.stages.1.label>abstinencia</DankPyon_Addiction_Luhix.stages.1.label>
+  <DankPyon_Tolerance_Luhix.label>Tolerancia a luhix</DankPyon_Tolerance_Luhix.label>
+  <DankPyon_Tolerance_Luhix.description>Una tolerancia desarrollada hacia Luhix. Cuanto mayor es esta tolerancia, más Luhix se necesita para lograr el mismo efecto.</DankPyon_Tolerance_Luhix.description>
+  <DankPyon_Tolerance_Luhix.stages.small.label>leve</DankPyon_Tolerance_Luhix.stages.small.label>
+  <DankPyon_Tolerance_Luhix.stages.large.label>fuerte</DankPyon_Tolerance_Luhix.stages.large.label>
+  <DankPyon_Tolerance_Luhix.stages.massive.label>muy fuerte</DankPyon_Tolerance_Luhix.stages.massive.label>
+</LanguageData>

@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Golem_Iron.label>Golem de Hierro</DankPyon_Golem_Iron.label>
-  <DankPyon_Golem_Gold.label>Golem de Oro</DankPyon_Golem_Gold.label>
-  <DankPyon_Golem_Steel.label>Golem de Acero</DankPyon_Golem_Steel.label>
-  <DankPyon_Golem_Silver.label>Golem de Plata</DankPyon_Golem_Silver.label>
+
+  <!-- Iron Golem -->
+
+  <DankPyon_Golem_Iron.label>Gólem de hierro</DankPyon_Golem_Iron.label>
+  <DankPyon_Golem_Iron.labelPlural>Gólems de hierro</DankPyon_Golem_Iron.labelPlural>
+  <DankPyon_Golem_Iron.labelMale>Gólem de hierro (macho)</DankPyon_Golem_Iron.labelMale>
+  <DankPyon_Golem_Iron.labelMalePlural>Gólems de hierro (machos)</DankPyon_Golem_Iron.labelMalePlural>
+  <DankPyon_Golem_Iron.labelFemale>Gólem de hierro (hembra)</DankPyon_Golem_Iron.labelFemale>
+  <DankPyon_Golem_Iron.labelFemalePlural>Gólems de hierro (hembras)</DankPyon_Golem_Iron.labelFemalePlural>
+
+  <!-- Gold Golem -->
+
+  <DankPyon_Golem_Gold.label>Gólem de oro</DankPyon_Golem_Gold.label>
+  <DankPyon_Golem_Gold.labelPlural>Gólems de oro</DankPyon_Golem_Gold.labelPlural>
+  <DankPyon_Golem_Gold.labelMale>Gólem de oro (macho)</DankPyon_Golem_Gold.labelMale>
+  <DankPyon_Golem_Gold.labelMalePlural>Gólems de oro (machos)</DankPyon_Golem_Gold.labelMalePlural>
+  <DankPyon_Golem_Gold.labelFemale>Gólem de oro (hembra)</DankPyon_Golem_Gold.labelFemale>
+  <DankPyon_Golem_Gold.labelFemalePlural>Gólems de oro (hembras)</DankPyon_Golem_Gold.labelFemalePlural>
+
+  <!-- Steel Golem -->
+
+  <DankPyon_Golem_Steel.label>Gólem de acero</DankPyon_Golem_Steel.label>
+  <DankPyon_Golem_Steel.labelPlural>Gólems de acero</DankPyon_Golem_Steel.labelPlural>
+  <DankPyon_Golem_Steel.labelMale>Gólem de acero (macho)</DankPyon_Golem_Steel.labelMale>
+  <DankPyon_Golem_Steel.labelMalePlural>Gólems de acero (machos)</DankPyon_Golem_Steel.labelMalePlural>
+  <DankPyon_Golem_Steel.labelFemale>Gólem de acero (hembra)</DankPyon_Golem_Steel.labelFemale>
+  <DankPyon_Golem_Steel.labelFemalePlural>Gólems de acero (hembras)</DankPyon_Golem_Steel.labelFemalePlural>
+
+  <!-- Silver Golem -->
+
+  <DankPyon_Golem_Silver.label>Gólem de plata</DankPyon_Golem_Silver.label>
+  <DankPyon_Golem_Silver.labelPlural>Gólems de plata</DankPyon_Golem_Silver.labelPlural>
+  <DankPyon_Golem_Silver.labelMale>Gólem de plata (macho)</DankPyon_Golem_Silver.labelMale>
+  <DankPyon_Golem_Silver.labelMalePlural>Gólems de plata (machos)</DankPyon_Golem_Silver.labelMalePlural>
+  <DankPyon_Golem_Silver.labelFemale>Gólem de plata (hembra)</DankPyon_Golem_Silver.labelFemale>
+  <DankPyon_Golem_Silver.labelFemalePlural>Gólems de plata (hembras)</DankPyon_Golem_Silver.labelFemalePlural>
+
 </LanguageData>

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_RusticMimic_WoodLog.label>Mímica Rústica de Madera</DankPyon_RusticMimic_WoodLog.label>
-  <DankPyon_RusticMimic_DarkWood.label>Mímica Rústica de Madera Oscura</DankPyon_RusticMimic_DarkWood.label>
-  <DankPyon_RoyalMimic.label>Mímica Real</DankPyon_RoyalMimic.label>
+
+  <DankPyon_RusticMimic_WoodLog.label>mímo de madera</DankPyon_RusticMimic_WoodLog.label>
+  <DankPyon_RusticMimic_WoodLog.labelPlural>mímos de madera</DankPyon_RusticMimic_WoodLog.labelPlural>
+
+  <DankPyon_RusticMimic_DarkWood.label>mímo de madera oscura</DankPyon_RusticMimic_DarkWood.label>
+  <DankPyon_RusticMimic_DarkWood.labelPlural>mímos de madera oscura</DankPyon_RusticMimic_DarkWood.labelPlural>
+
+  <DankPyon_RoyalMimic.label>mímo de la realeza</DankPyon_RoyalMimic.label>
+  <DankPyon_RoyalMimic.labelPlural>mímos de la realeza</DankPyon_RoyalMimic.labelPlural>
+
 </LanguageData>

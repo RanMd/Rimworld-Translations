@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- The Big Bad -->
+
   <DankPyon_Daer.label>Daer</DankPyon_Daer.label>
+  <DankPyon_Daer.labelPlural>Daers</DankPyon_Daer.labelPlural>
+  <DankPyon_Daer.lifeStages.0.label>cría de daer</DankPyon_Daer.lifeStages.0.label>
+  <DankPyon_Daer.lifeStages.0.labelPlural>crías de daer</DankPyon_Daer.lifeStages.0.labelPlural>
+  <DankPyon_Daer.lifeStages.0.labelMale>cría de daer</DankPyon_Daer.lifeStages.0.labelMale>
+  <DankPyon_Daer.lifeStages.0.labelMalePlural>crías de daer</DankPyon_Daer.lifeStages.0.labelMalePlural>
+  <DankPyon_Daer.lifeStages.0.labelFemale>cría de daer</DankPyon_Daer.lifeStages.0.labelFemale>
+  <DankPyon_Daer.lifeStages.0.labelFemalePlural>crías de daer</DankPyon_Daer.lifeStages.0.labelFemalePlural>
+  <DankPyon_Daer.lifeStages.1.label>daer joven</DankPyon_Daer.lifeStages.1.label>
+  <DankPyon_Daer.lifeStages.1.labelPlural>daers jovenes</DankPyon_Daer.lifeStages.1.labelPlural>
+  <DankPyon_Daer.lifeStages.1.labelMale>daer joven</DankPyon_Daer.lifeStages.1.labelMale>
+  <DankPyon_Daer.lifeStages.1.labelMalePlural>daers jovenes</DankPyon_Daer.lifeStages.1.labelMalePlural>
+  <DankPyon_Daer.lifeStages.1.labelFemale>daer hembra joven</DankPyon_Daer.lifeStages.1.labelFemale>
+  <DankPyon_Daer.lifeStages.1.labelFemalePlural>daers hembra jovenes</DankPyon_Daer.lifeStages.1.labelFemalePlural>
+  <DankPyon_Daer.lifeStages.2.label>daer</DankPyon_Daer.lifeStages.2.label>
+  <DankPyon_Daer.lifeStages.2.labelPlural>daers</DankPyon_Daer.lifeStages.2.labelPlural>
+  <DankPyon_Daer.lifeStages.2.labelMale>daer macho</DankPyon_Daer.lifeStages.2.labelMale>
+  <DankPyon_Daer.lifeStages.2.labelMalePlural>daers macho</DankPyon_Daer.lifeStages.2.labelMalePlural>
+  <DankPyon_Daer.lifeStages.2.labelFemale>daer hembra</DankPyon_Daer.lifeStages.2.labelFemale>
+  <DankPyon_Daer.lifeStages.2.labelFemalePlural>daers hembra</DankPyon_Daer.lifeStages.2.labelFemalePlural>
+  <DankPyon_Daer.labelMale>daer macho</DankPyon_Daer.labelMale>
+  <DankPyon_Daer.labelMalePlural>daers macho</DankPyon_Daer.labelMalePlural>
+  <DankPyon_Daer.labelFemale>daer hembra</DankPyon_Daer.labelFemale>
+  <DankPyon_Daer.labelFemalePlural>daers hembra</DankPyon_Daer.labelFemalePlural>
+
 </LanguageData>

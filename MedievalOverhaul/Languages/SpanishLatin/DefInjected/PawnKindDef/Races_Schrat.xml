@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_Schrat_Dark.label>Schrat Oscuro</DankPyon_Schrat_Dark.label>
+  <DankPyon_Schrat_Dark.labelPlural>Schrat oscuros</DankPyon_Schrat_Dark.labelPlural>
+  <DankPyon_Schrat_Dark.labelMale>schrat oscuro</DankPyon_Schrat_Dark.labelMale>
+  <DankPyon_Schrat_Dark.labelMalePlural>schrats oscuros</DankPyon_Schrat_Dark.labelMalePlural>
+  <DankPyon_Schrat_Dark.labelFemale>schrat oscuro</DankPyon_Schrat_Dark.labelFemale>
+  <DankPyon_Schrat_Dark.labelFemalePlural>schrats oscuros</DankPyon_Schrat_Dark.labelFemalePlural>
+
+  <!-- Schrat Plains -->
+
   <DankPyon_Schrat_Plain.label>Schrat</DankPyon_Schrat_Plain.label>
+  <DankPyon_Schrat_Plain.labelPlural>schrats</DankPyon_Schrat_Plain.labelPlural>
+  <DankPyon_Schrat_Plain.labelMale>schrat</DankPyon_Schrat_Plain.labelMale>
+  <DankPyon_Schrat_Plain.labelMalePlural>schrats</DankPyon_Schrat_Plain.labelMalePlural>
+  <DankPyon_Schrat_Plain.labelFemale>schrat</DankPyon_Schrat_Plain.labelFemale>
+  <DankPyon_Schrat_Plain.labelFemalePlural>schrats</DankPyon_Schrat_Plain.labelFemalePlural>
+
 </LanguageData>

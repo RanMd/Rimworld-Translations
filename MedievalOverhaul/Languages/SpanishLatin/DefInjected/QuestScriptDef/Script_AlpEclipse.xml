@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN:
+    <li>initialPhaseLetterLabel->Dimming sky</li>
+    <li>initialPhaseLetterText->The sky is dimming and a dense fog is starting to creep in. Soon it will be hard to see anything not lit by fire.</li>
+    <li>mainPhaseLetterLabel->Darkening terror</li>
+    <li>mainPhaseLetterText->A darkening terror is descending. Reports of screams outside the colony have come in.</li>
+    <li>darknessLiftedLetterLabel->Darkness lifting</li>
+    <li>darknessLiftedLetterText->The darkening terror has begun to dissipate. The alps have started to retreat!</li>
+  -->
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings>
+    <li>initialPhaseLetterLabel->Cielo oscuro</li>
+    <li>initialPhaseLetterText->El cielo se está oscureciendo. Pronto será difícil ver cualquier cosa que no esté iluminada directamente por una lámpara o antorcha.</li>
+    <li>mainPhaseLetterLabel->Pesadilla Profunda</li>
+    <li>mainPhaseLetterText->Alguna criatura extraña está descendiendo con la oscuridad. Gritos aterradores se escuchan desde fuera del asentamiento.</li>
+    <li>darknessLiftedLetterLabel->Oscuridad disipada</li>
+    <li>darknessLiftedLetterText->La oscuridad comienza a disiparse. ¡La pesadilla ha sido rechazada y has sobrevivido!</li>
+  </DankPyon_AlpEclipse.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription-></li>
+  -->
+  <DankPyon_AlpEclipse.questDescriptionRules.rulesStrings.0>
+    <li>questDescription-></li>
+  </DankPyon_AlpEclipse.questDescriptionRules.rulesStrings.0>
+  <!-- EN:
+    <li>questDescription->darkening terror</li>
+  -->
+  <DankPyon_AlpEclipse.questNameRules.rulesStrings.0>
+    <li>questDescription->pesadilla profunda</li>
+  </DankPyon_AlpEclipse.questNameRules.rulesStrings.0>
+
+  <DankPyon_AlpEclipse.questNameRules.rulesStrings.0>questDescription->pesadilla profunda</DankPyon_AlpEclipse.questNameRules.rulesStrings.0>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.0>initialPhaseLetterLabel->Cielo oscuro</DankPyon_AlpEclipse.questContentRules.rulesStrings.0>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.1>initialPhaseLetterText->El cielo se está oscureciendo. Pronto será difícil ver cualquier cosa que no esté iluminada directamente por una lámpara o una antorcha.</DankPyon_AlpEclipse.questContentRules.rulesStrings.1>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.2>mainPhaseLetterLabel->Pesadilla Profunda</DankPyon_AlpEclipse.questContentRules.rulesStrings.2>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.3>mainPhaseLetterText->Alguna criatura extraña está descendiendo con la oscuridad. Gritos aterradores se escuchan desde fuera del asentamiento.</DankPyon_AlpEclipse.questContentRules.rulesStrings.3>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.4>darknessLiftedLetterLabel->Oscuridad Disipada</DankPyon_AlpEclipse.questContentRules.rulesStrings.4>
+  <DankPyon_AlpEclipse.questContentRules.rulesStrings.5>darknessLiftedLetterText->La oscuridad comienza a disiparse. ¡La pesadilla ha empezado a retroceder, has sobrevivido!</DankPyon_AlpEclipse.questContentRules.rulesStrings.5>
+
+</LanguageData>

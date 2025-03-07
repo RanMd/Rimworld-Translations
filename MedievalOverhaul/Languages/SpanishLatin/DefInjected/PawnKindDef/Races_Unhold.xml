@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_UnholdPlain.label>Desatado</DankPyon_UnholdPlain.label>
-  <DankPyon_UnholdPlain.lifeStages.0.label>BebéDesatado</DankPyon_UnholdPlain.lifeStages.0.label>
-  <DankPyon_UnholdPlain.lifeStages.0.labelPlural>BebésDesatados</DankPyon_UnholdPlain.lifeStages.0.labelPlural>
-  <DankPyon_UnholdSwamp.label>Desatado</DankPyon_UnholdSwamp.label>
-  <DankPyon_UnholdSwamp.lifeStages.0.label>BebéDesatado</DankPyon_UnholdSwamp.lifeStages.0.label>
-  <DankPyon_UnholdSwamp.lifeStages.0.labelPlural>BebésDesatados</DankPyon_UnholdSwamp.lifeStages.0.labelPlural>
-  <DankPyon_UnholdSnow.label>Desatado</DankPyon_UnholdSnow.label>
-  <DankPyon_UnholdSnow.lifeStages.0.label>BebéDesatado</DankPyon_UnholdSnow.lifeStages.0.label>
-  <DankPyon_UnholdSnow.lifeStages.0.labelPlural>BebésDesatados</DankPyon_UnholdSnow.lifeStages.0.labelPlural>
+
+  <DankPyon_UnholdPlain.label>Unhold</DankPyon_UnholdPlain.label>
+  <DankPyon_UnholdPlain.labelPlural>Unholds</DankPyon_UnholdPlain.labelPlural>
+  <DankPyon_UnholdPlain.lifeStages.0.label>cría de unhold</DankPyon_UnholdPlain.lifeStages.0.label>
+  <DankPyon_UnholdPlain.lifeStages.0.labelPlural>crías de unhold</DankPyon_UnholdPlain.lifeStages.0.labelPlural>
+  <DankPyon_UnholdPlain.lifeStages.1.label>unhold joven</DankPyon_UnholdPlain.lifeStages.1.label>
+  <DankPyon_UnholdPlain.lifeStages.1.labelPlural>unholds jovenes</DankPyon_UnholdPlain.lifeStages.1.labelPlural>
+  <DankPyon_UnholdPlain.lifeStages.2.label>unhold</DankPyon_UnholdPlain.lifeStages.2.label>
+  <DankPyon_UnholdPlain.lifeStages.2.labelPlural>unholds</DankPyon_UnholdPlain.lifeStages.2.labelPlural>
+
+  <DankPyon_UnholdSwamp.label>Unhold pantanoso</DankPyon_UnholdSwamp.label>
+  <DankPyon_UnholdSwamp.lifeStages.0.label>cría de unhold pantanoso</DankPyon_UnholdSwamp.lifeStages.0.label>
+  <DankPyon_UnholdSwamp.lifeStages.0.labelPlural>crías de unhold pantanoso</DankPyon_UnholdSwamp.lifeStages.0.labelPlural>
+  <DankPyon_UnholdSwamp.lifeStages.1.label>unhold joven pantanoso</DankPyon_UnholdSwamp.lifeStages.1.label>
+  <DankPyon_UnholdSwamp.lifeStages.1.labelPlural>unholds jovenes pantanosos</DankPyon_UnholdSwamp.lifeStages.1.labelPlural>
+  <DankPyon_UnholdSwamp.lifeStages.2.label>unhold pantanoso</DankPyon_UnholdSwamp.lifeStages.2.label>
+  <DankPyon_UnholdSwamp.lifeStages.2.labelPlural>unholds pantanosos</DankPyon_UnholdSwamp.lifeStages.2.labelPlural>
+
+  <DankPyon_UnholdSnow.label>Unhold de las nieves</DankPyon_UnholdSnow.label>
+  <DankPyon_UnholdSnow.lifeStages.0.label>cría de unhold de las nieves</DankPyon_UnholdSnow.lifeStages.0.label>
+  <DankPyon_UnholdSnow.lifeStages.0.labelPlural>crías de unhold de las nieves</DankPyon_UnholdSnow.lifeStages.0.labelPlural>
+  <DankPyon_UnholdSnow.lifeStages.1.label>unhold de las nieves joven</DankPyon_UnholdSnow.lifeStages.1.label>
+  <DankPyon_UnholdSnow.lifeStages.1.labelPlural>unholds de las nieves jovenes</DankPyon_UnholdSnow.lifeStages.1.labelPlural>
+  <DankPyon_UnholdSnow.lifeStages.2.label>unhold de las nieves</DankPyon_UnholdSnow.lifeStages.2.label>
+  <DankPyon_UnholdSnow.lifeStages.2.labelPlural>unholds de las nieves</DankPyon_UnholdSnow.lifeStages.2.labelPlural>
+
 </LanguageData>

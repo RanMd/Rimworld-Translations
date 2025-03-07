@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Deathstinger.label>Aguijón de la Muerte</DankPyon_Deathstinger.label>
+
+  <DankPyon_Deathstinger.label>Avispon de la muerte</DankPyon_Deathstinger.label>
+  <DankPyon_Deathstinger.labelPlural>Avispones de la muerte</DankPyon_Deathstinger.labelPlural>
+  <DankPyon_Deathstinger.lifeStages.0.label>avispon de la muerte</DankPyon_Deathstinger.lifeStages.0.label>
+  <DankPyon_Deathstinger.lifeStages.0.labelPlural>avispones de la muerte</DankPyon_Deathstinger.lifeStages.0.labelPlural>
+  <DankPyon_Deathstinger.lifeStages.0.labelMale>avispon de la muerte (macho)</DankPyon_Deathstinger.lifeStages.0.labelMale>
+  <DankPyon_Deathstinger.lifeStages.0.labelMalePlural>avispones de la muerte (machos)</DankPyon_Deathstinger.lifeStages.0.labelMalePlural>
+  <DankPyon_Deathstinger.lifeStages.0.labelFemale>avispon de la muerte (hembra)</DankPyon_Deathstinger.lifeStages.0.labelFemale>
+  <DankPyon_Deathstinger.lifeStages.0.labelFemalePlural>avispones de la muerte (hembras)</DankPyon_Deathstinger.lifeStages.0.labelFemalePlural>
+  <DankPyon_Deathstinger.lifeStages.1.label>avispon de la muerte</DankPyon_Deathstinger.lifeStages.1.label>
+  <DankPyon_Deathstinger.lifeStages.1.labelPlural>avispones de la muerte</DankPyon_Deathstinger.lifeStages.1.labelPlural>
+  <DankPyon_Deathstinger.lifeStages.1.labelMale>avispon de la muerte (macho)</DankPyon_Deathstinger.lifeStages.1.labelMale>
+  <DankPyon_Deathstinger.lifeStages.1.labelMalePlural>avispones de la muerte (machos)</DankPyon_Deathstinger.lifeStages.1.labelMalePlural>
+  <DankPyon_Deathstinger.lifeStages.1.labelFemale>avispon de la muerte (hembra)</DankPyon_Deathstinger.lifeStages.1.labelFemale>
+  <DankPyon_Deathstinger.lifeStages.1.labelFemalePlural>avispones de la muerte (hembras)</DankPyon_Deathstinger.lifeStages.1.labelFemalePlural>
+  <DankPyon_Deathstinger.lifeStages.2.label>avispon de la muerte</DankPyon_Deathstinger.lifeStages.2.label>
+  <DankPyon_Deathstinger.lifeStages.2.labelPlural>avispones de la muerte</DankPyon_Deathstinger.lifeStages.2.labelPlural>
+  <DankPyon_Deathstinger.lifeStages.2.labelMale>avispon de la muerte (macho)</DankPyon_Deathstinger.lifeStages.2.labelMale>
+  <DankPyon_Deathstinger.lifeStages.2.labelMalePlural>avispones de la muerte (machos)</DankPyon_Deathstinger.lifeStages.2.labelMalePlural>
+  <DankPyon_Deathstinger.lifeStages.2.labelFemale>avispon de la muerte (hembra)</DankPyon_Deathstinger.lifeStages.2.labelFemale>
+  <DankPyon_Deathstinger.lifeStages.2.labelFemalePlural>avispones de la muerte (hembras)</DankPyon_Deathstinger.lifeStages.2.labelFemalePlural>
+  <DankPyon_Deathstinger.labelMale>avispon de la muerte (macho)</DankPyon_Deathstinger.labelMale>
+  <DankPyon_Deathstinger.labelMalePlural>avispones de la muerte (machos)</DankPyon_Deathstinger.labelMalePlural>
+  <DankPyon_Deathstinger.labelFemale>avispon de la muerte (hembra)</DankPyon_Deathstinger.labelFemale>
+  <DankPyon_Deathstinger.labelFemalePlural>avispones de la muerte (hembras)</DankPyon_Deathstinger.labelFemalePlural>
+
 </LanguageData>

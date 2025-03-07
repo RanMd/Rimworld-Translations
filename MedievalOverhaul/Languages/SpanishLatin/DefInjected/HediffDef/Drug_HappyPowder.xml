@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_High_HappyPowder.label>Elevado por Polvo de la Felicidad</DankPyon_High_HappyPowder.label>
-  <DankPyon_High_HappyPowder.labelNoun>un subidón de Polvo de la Felicidad</DankPyon_High_HappyPowder.labelNoun>
-  <DankPyon_High_HappyPowder.description>Polvo de la Felicidad en el torrente sanguíneo. Produce una intensa sensación de euforia y felicidad.</DankPyon_High_HappyPowder.description>
-  <DankPyon_Addiction_BattleElixir.label>Adicción al Elixir de Batalla</DankPyon_Addiction_BattleElixir.label>
-  <DankPyon_Addiction_BattleElixir.description>Una adicción química al Elixir de Batalla. La presencia prolongada de Go-Juice ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares del Elixir de Batalla, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_BattleElixir.description>
-  <DankPyon_Tolerance_BattleElixir.label>Tolerancia al Elixir de Batalla</DankPyon_Tolerance_BattleElixir.label>
-  <DankPyon_Tolerance_BattleElixir.description>Una tolerancia desarrollada hacia el Elixir de Batalla. Cuanto mayor sea esta tolerancia, más Elixir de Batalla se necesitará para lograr el mismo efecto.</DankPyon_Tolerance_BattleElixir.description>
+  <DankPyon_High_HappyPowder.label>Estimulado por el destello eufórico</DankPyon_High_HappyPowder.label>
+  <DankPyon_High_HappyPowder.labelNoun>un subidón de destello eufórico</DankPyon_High_HappyPowder.labelNoun>
+  <DankPyon_High_HappyPowder.description>Destello eufórico en el torrente sanguíneo. Produce una intensa sensación de euforia y felicidad.</DankPyon_High_HappyPowder.description>
+  <DankPyon_Addiction_HappyPowder.label>Adicción al destello eufórico</DankPyon_Addiction_HappyPowder.label>
+  <DankPyon_Addiction_HappyPowder.description>Una adicción química al destello eufórico. La presencia prolongada del destello ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares del destello eufórico, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_HappyPowder.description>
+  <DankPyon_Addiction_HappyPowder.stages.1.label>abstinencia</DankPyon_Addiction_HappyPowder.stages.1.label>
+  <DankPyon_Tolerance_HappyPowder.label>Tolerancia al destello eufórico</DankPyon_Tolerance_HappyPowder.label>
+  <DankPyon_Tolerance_HappyPowder.description>Una tolerancia desarrollada hacia el destello eufórico. Cuanto más estricta sea esta tolerancia, más destello eufórico se necesitará para lograr el mismo efecto.</DankPyon_Tolerance_HappyPowder.description>
+  <DankPyon_Tolerance_HappyPowder.stages.small.label>leve</DankPyon_Tolerance_HappyPowder.stages.small.label>
+  <DankPyon_Tolerance_HappyPowder.stages.large.label>fuerte</DankPyon_Tolerance_HappyPowder.stages.large.label>
+  <DankPyon_Tolerance_HappyPowder.stages.massive.label>muy fuerte</DankPyon_Tolerance_HappyPowder.stages.massive.label>
 </LanguageData>

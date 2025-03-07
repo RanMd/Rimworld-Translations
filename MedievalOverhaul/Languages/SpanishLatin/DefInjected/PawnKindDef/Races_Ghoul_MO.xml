@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Ghoul_Stage_One.label>Ghoul</DankPyon_Ghoul_Stage_One.label>
+  <DankPyon_Ghoul_Stage_One.labelPlural>Ghouls</DankPyon_Ghoul_Stage_One.labelPlural>
+  <DankPyon_Ghoul_Stage_One.labelMale>ghoul bebé</DankPyon_Ghoul_Stage_One.labelMale>
+  <DankPyon_Ghoul_Stage_One.labelMalePlural>ghouls bebé</DankPyon_Ghoul_Stage_One.labelMalePlural>
+  <DankPyon_Ghoul_Stage_One.labelFemale>ghoul bebé</DankPyon_Ghoul_Stage_One.labelFemale>
+  <DankPyon_Ghoul_Stage_One.labelFemalePlural>ghouls bebé</DankPyon_Ghoul_Stage_One.labelFemalePlural>
+
+  <DankPyon_Ghoul_Stage_Two.label>Ghoul</DankPyon_Ghoul_Stage_Two.label>
+  <DankPyon_Ghoul_Stage_Two.labelPlural>Ghouls</DankPyon_Ghoul_Stage_Two.labelPlural>
+  <DankPyon_Ghoul_Stage_Two.labelMale>ghoul joven</DankPyon_Ghoul_Stage_Two.labelMale>
+  <DankPyon_Ghoul_Stage_Two.labelMalePlural>ghouls</DankPyon_Ghoul_Stage_Two.labelMalePlural>
+  <DankPyon_Ghoul_Stage_Two.labelFemale>ghoul hembra</DankPyon_Ghoul_Stage_Two.labelFemale>
+  <DankPyon_Ghoul_Stage_Two.labelFemalePlural>ghouls hembra</DankPyon_Ghoul_Stage_Two.labelFemalePlural>
+
+  <DankPyon_Ghoul_Stage_Three.label>Ghoul</DankPyon_Ghoul_Stage_Three.label>
+  <DankPyon_Ghoul_Stage_Three.labelPlural>Ghouls</DankPyon_Ghoul_Stage_Three.labelPlural>
+  <DankPyon_Ghoul_Stage_Three.labelMale>ghoul</DankPyon_Ghoul_Stage_Three.labelMale>
+  <DankPyon_Ghoul_Stage_Three.labelMalePlural>ghouls</DankPyon_Ghoul_Stage_Three.labelMalePlural>
+  <DankPyon_Ghoul_Stage_Three.labelFemale>ghoul</DankPyon_Ghoul_Stage_Three.labelFemale>
+  <DankPyon_Ghoul_Stage_Three.labelFemalePlural>ghouls</DankPyon_Ghoul_Stage_Three.labelFemalePlural>
+
+</LanguageData>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.0>questName->El [bandit] [camp]</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.0>
+  <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.1>questName->[bandit][camp]</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.1>
   <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.2>questName->[asker_nameDef] y el [camp]</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.2>
   <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.3>camp->Campamento</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.3>
   <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.4>camp->Ruina</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.4>
@@ -14,12 +16,16 @@
   <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.12>bandit->Vagabundos</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.12>
   <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.13>bandit->Ladrones</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.13>
   <DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.14>bandit->Saqueadores</DankPyon_OpportunitySite_SmallRuin.questNameRules.rulesStrings.14>
+
   <DankPyon_OpportunitySite_SmallRuin.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos ha enviado un mensaje. Al parecer, [siteFaction_pawnsPlural], que viven en una ruina cercana, han asaltado sus caravanas. La ruina está controlada por [siteFaction_name]. \n[asker_nameDef] nos pide despejar las ruinas, lo que significa que debemos eliminar a todos los enemigos. [asker_label] dice que [sitePart0_description].</DankPyon_OpportunitySite_SmallRuin.questDescriptionRules.rulesStrings.0>
-  <DankPyon_OpportunitySite_SmallRuin.root.nodes.13.node.nodes.0.label>Quest caducada: [resolvedQuestName]</DankPyon_OpportunitySite_SmallRuin.root.nodes.13.node.nodes.0.label>
-  <DankPyon_OpportunitySite_SmallRuin.root.nodes.13.node.nodes.0.text>Los bandidos han saqueado las ruinas y se han marchado. La quest [resolvedQuestName] ha caducado.</DankPyon_OpportunitySite_SmallRuin.root.nodes.13.node.nodes.0.text>
-  <DankPyon_OpportunitySite_SmallRuin.root.nodes.14.node.nodes.0.label>Quest fallida: [resolvedQuestName]</DankPyon_OpportunitySite_SmallRuin.root.nodes.14.node.nodes.0.label>
-  <DankPyon_OpportunitySite_SmallRuin.root.nodes.14.node.nodes.0.text>Después de que se descubriera el campamento de bandidos, se disolvió. La quest [resolvedQuestName] ha terminado.</DankPyon_OpportunitySite_SmallRuin.root.nodes.14.node.nodes.0.text>
-  <DankPyon_OpportunitySite_SmallRuin.root.nodes.15.node.nodes.1.customLetterLabel>El pago ha llegado</DankPyon_OpportunitySite_SmallRuin.root.nodes.15.node.nodes.1.customLetterLabel>
-  <DankPyon_OpportunitySite_SmallRuin.root.nodes.15.node.nodes.1.customLetterText>¡Has despejado la ruina!\n\nEl pago de [asker_faction_name] ha llegado.</DankPyon_OpportunitySite_SmallRuin.root.nodes.15.node.nodes.1.customLetterText>
-  <DankPyon_OpportunitySite_SmallRuin.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text>Estos colonos participaron en la victoria de la quest [resolvedQuestName]. [asker_definite] quiere saber quién debe recibir los [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este servicio.</DankPyon_OpportunitySite_SmallRuin.root.nodes.15.node.nodes.1.nodeIfChosenPawnSignalUsed.text>
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</DankPyon_OpportunitySite_SmallRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Los bandidos han saqueado las ruinas y se han marchado. La quest [resolvedQuestName] ha caducado.</DankPyon_OpportunitySite_SmallRuin.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Misión fallida: [resolvedQuestName]</DankPyon_OpportunitySite_SmallRuin.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Después de que se descubriera el campamento de bandidos, se disolvió. La quest [resolvedQuestName] ha fallado.</DankPyon_OpportunitySite_SmallRuin.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Estos colonos participaron en la victoria de la quest [resolvedQuestName]. [asker_definite] quiere saber quién debe recibir los [royalFavorReward_amount] por [asker_faction_royalFavorLabel].</DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>El pago ha llegado</DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>¡Has despejado la ruina!\n\nEl pago de [asker_faction_name] ha llegado.</DankPyon_OpportunitySite_SmallRuin.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>
+
 </LanguageData>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <DankPyon_Amboisse_Peasant.label>aldeano</DankPyon_Amboisse_Peasant.label>
+  <DankPyon_Amboisse_Peasant.labelPlural>aldeanos</DankPyon_Amboisse_Peasant.labelPlural>
+
+  <DankPyon_Soren_Peasant.label>aldeano</DankPyon_Soren_Peasant.label>
+  <DankPyon_Soren_Peasant.labelPlural>aldeanos</DankPyon_Soren_Peasant.labelPlural>
+
+  <DankPyon_Oswin_Peasant.label>aldeano</DankPyon_Oswin_Peasant.label>
+  <DankPyon_Oswin_Peasant.labelPlural>aldeanos</DankPyon_Oswin_Peasant.labelPlural>
+
+  <DankPyon_Hesse_Peasant.label>aldeano</DankPyon_Hesse_Peasant.label>
+  <DankPyon_Hesse_Peasant.labelPlural>aldeanos</DankPyon_Hesse_Peasant.labelPlural>
+
+  <!-- Amboisse -->
+
+  <DankPyon_Amboisse_Archer.label>arquero</DankPyon_Amboisse_Archer.label>
+  <DankPyon_Amboisse_Archer.labelPlural>arqueros</DankPyon_Amboisse_Archer.labelPlural>
+
+  <DankPyon_Amboisse_Footman.label>soldado</DankPyon_Amboisse_Footman.label>
+  <DankPyon_Amboisse_Footman.labelPlural>soldados</DankPyon_Amboisse_Footman.labelPlural>
+
+  <DankPyon_Amboisse_Knight.label>caballero</DankPyon_Amboisse_Knight.label>
+  <DankPyon_Amboisse_Knight.labelPlural>caballeros</DankPyon_Amboisse_Knight.labelPlural>
+
+  <DankPyon_Amboise_LocalLord.label>señor local</DankPyon_Amboise_LocalLord.label>
+  <DankPyon_Amboise_LocalLord.labelPlural>señores locales</DankPyon_Amboise_LocalLord.labelPlural>
+
+  <!-- Soren -->
+
+  <DankPyon_Soren_Archer.label>arquero</DankPyon_Soren_Archer.label>
+  <DankPyon_Soren_Archer.labelPlural>arqueros</DankPyon_Soren_Archer.labelPlural>
+
+  <DankPyon_Soren_Footman.label>soldado</DankPyon_Soren_Footman.label>
+  <DankPyon_Soren_Footman.labelPlural>soldados</DankPyon_Soren_Footman.labelPlural>
+
+  <DankPyon_Soren_Knight.label>caballero</DankPyon_Soren_Knight.label>
+  <DankPyon_Soren_Knight.labelPlural>caballeros</DankPyon_Soren_Knight.labelPlural>
+
+  <DankPyon_Soren_LocalLord.label>señor local</DankPyon_Soren_LocalLord.label>
+  <DankPyon_Soren_LocalLord.labelPlural>señores locales</DankPyon_Soren_LocalLord.labelPlural>
+
+  <!-- Oswin -->
+
+  <DankPyon_Oswin_Archer.label>arquero</DankPyon_Oswin_Archer.label>
+  <DankPyon_Oswin_Archer.labelPlural>arqueros</DankPyon_Oswin_Archer.labelPlural>
+
+  <DankPyon_Oswin_Footman.label>soldado</DankPyon_Oswin_Footman.label>
+  <DankPyon_Oswin_Footman.labelPlural>soldados</DankPyon_Oswin_Footman.labelPlural>
+
+  <DankPyon_Oswin_Knight.label>caballero</DankPyon_Oswin_Knight.label>
+  <DankPyon_Oswin_Knight.labelPlural>caballeros</DankPyon_Oswin_Knight.labelPlural>
+
+  <DankPyon_Oswin_LocalLord.label>señor local</DankPyon_Oswin_LocalLord.label>
+  <DankPyon_Oswin_LocalLord.labelPlural>señores locales</DankPyon_Oswin_LocalLord.labelPlural>
+
+  <!-- Hesse -->
+
+  <DankPyon_Hesse_Archer.label>arquero</DankPyon_Hesse_Archer.label>
+  <DankPyon_Hesse_Archer.labelPlural>arqueros</DankPyon_Hesse_Archer.labelPlural>
+
+  <DankPyon_Hesse_Footman.label>soldado</DankPyon_Hesse_Footman.label>
+  <DankPyon_Hesse_Footman.labelPlural>soldados</DankPyon_Hesse_Footman.labelPlural>
+
+  <DankPyon_Hesse_Knight.label>caballero</DankPyon_Hesse_Knight.label>
+  <DankPyon_Hesse_Knight.labelPlural>caballeros</DankPyon_Hesse_Knight.labelPlural>
+
+  <DankPyon_Hesse_LocalLord.label>señor local</DankPyon_Hesse_LocalLord.label>
+  <DankPyon_Hesse_LocalLord.labelPlural>señores locales</DankPyon_Hesse_LocalLord.labelPlural>
+
+</LanguageData>

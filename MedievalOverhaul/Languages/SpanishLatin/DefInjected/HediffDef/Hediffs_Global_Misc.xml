@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- Dish -->
   <DankPyon_AteRoxSteak.label>comió Rox-Steak</DankPyon_AteRoxSteak.label>
   <DankPyon_AteRoxSteak.description>Un plato magistralmente preparado con sabores intensamente aromáticos.</DankPyon_AteRoxSteak.description>
   <DankPyon_AteGriffonBerryPie.label>comió pastel de bayas de grifo</DankPyon_AteGriffonBerryPie.label>
@@ -16,7 +17,7 @@
   <DankPyon_AteMashedPotatoes.description>He comido puré de papas y energizado el cuerpo. Aumenta ligeramente la velocidad de trabajo y reduce la tasa de hambre.</DankPyon_AteMashedPotatoes.description>
   <DankPyon_AtePumpkinFritters.label>comió buñuelos de calabaza</DankPyon_AtePumpkinFritters.label>
   <DankPyon_AtePumpkinFritters.description>He comido buñuelos de calabaza que energizaron el cuerpo. Aumenta ligeramente la velocidad de trabajo y pone la sangre en movimiento.</DankPyon_AtePumpkinFritters.description>
-  <!-- ===== Tiers ===== -->
+  <!-- Tiers -->
   <DankPyon_AteBake.label>comió horneado</DankPyon_AteBake.label>
   <DankPyon_AteBake.description>He comido una comida horneada que energiza el cuerpo. Aumenta ligeramente la velocidad de trabajo y reduce la tasa de hambre.</DankPyon_AteBake.description>
   <DankPyon_AteBakeFine.label>comió horneado fino</DankPyon_AteBakeFine.label>
@@ -39,13 +40,20 @@
   <DankPyon_LindwurmAcid.description>Ácido poderoso de la sangre de un lindworm. Corroe la durabilidad de la armadura.</DankPyon_LindwurmAcid.description>
   <!-- Daze -->
   <DankPyon_Daze.label>aturdido</DankPyon_Daze.label>
-  <DankPyon_Daze.description>PLATZHALTER</DankPyon_Daze.description>
+  <DankPyon_Daze.description>Un estado que provoca una reducción temporal en la eficacia del combate.</DankPyon_Daze.description>
+  <!-- Apparel Added Hediffs -->
   <DankPyon_LindwurmAcidImmune.label>inmunidad al ácido de lindworm</DankPyon_LindwurmAcidImmune.label>
-  <DankPyon_LindwurmAcidImmune.description>PLATZHALTER</DankPyon_LindwurmAcidImmune.description>
+  <DankPyon_LindwurmAcidImmune.description>Inmune al ácido de Lindwurm.</DankPyon_LindwurmAcidImmune.description>
   <DankPyon_StunImmune.label>inmunidad al aturdimiento</DankPyon_StunImmune.label>
-  <DankPyon_StunImmune.description>PLATZHALTER</DankPyon_StunImmune.description>
-  <DankPyon_DazeImmune.label>inmunidad al aturdimiento</DankPyon_DazeImmune.label>
-  <DankPyon_DazeImmune.description>PLATZHALTER</DankPyon_DazeImmune.description>
-  <DankPyon_SigilMood.label>sello rúnico</DankPyon_SigilMood.label>
-  <DankPyon_SigilMood.description>PLATZHALTER</DankPyon_SigilMood.description>
+  <DankPyon_StunImmune.description>Inmune a los efectos de aturdimiento.</DankPyon_StunImmune.description>
+  <DankPyon_DazeImmune.label>inmunidad al deslumbramiento</DankPyon_DazeImmune.label>
+  <DankPyon_DazeImmune.description>Inmune al deslumbramiento.</DankPyon_DazeImmune.description>
+  <DankPyon_SigilMood.label>sigilo rúnico</DankPyon_SigilMood.label>
+  <DankPyon_SigilMood.description>Aumento del estado de ánimo gracias al sigilo.</DankPyon_SigilMood.description>
+  <DankPyon_AlpSleep.label>sueño magico</DankPyon_AlpSleep.label>
+  <DankPyon_AlpSleep.description>Un estado mental temporal que dificulta la eficacia del combate.</DankPyon_AlpSleep.description>
+  <DankPyon_NightmareDamage.label>trauma mental</DankPyon_NightmareDamage.label>
+  <DankPyon_NightmareDamage.description>trauma mental</DankPyon_NightmareDamage.description>
+  <DankPyon_NightmareDamage.labelNoun>trauma mental</DankPyon_NightmareDamage.labelNoun>
+  <DankPyon_NightmareDamage.labelNounPretty>{1}interno{0}</DankPyon_NightmareDamage.labelNounPretty>
 </LanguageData>

@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Rox.label>Rox</DankPyon_Rox.label>
-  <DankPyon_AncientTroll.lifeStages.0.label>Roxcalvo</DankPyon_AncientTroll.lifeStages.0.label>
-  <DankPyon_AncientTroll.lifeStages.0.labelPlural>Roxcalvos</DankPyon_AncientTroll.lifeStages.0.labelPlural>
+
+  <DankPyon_Rox.label>rox</DankPyon_Rox.label>
+  <DankPyon_Rox.labelPlural>rox</DankPyon_Rox.labelPlural>
+  <DankPyon_Rox.lifeStages.0.label>ternero rox</DankPyon_Rox.lifeStages.0.label>
+  <DankPyon_Rox.lifeStages.0.labelPlural>terneros rox</DankPyon_Rox.lifeStages.0.labelPlural>
+  <DankPyon_Rox.lifeStages.0.labelMale>ternero rox</DankPyon_Rox.lifeStages.0.labelMale>
+  <DankPyon_Rox.lifeStages.0.labelMalePlural>terneros rox</DankPyon_Rox.lifeStages.0.labelMalePlural>
+  <DankPyon_Rox.lifeStages.0.labelFemale>ternera rox</DankPyon_Rox.lifeStages.0.labelFemale>
+  <DankPyon_Rox.lifeStages.0.labelFemalePlural>terneras rox</DankPyon_Rox.lifeStages.0.labelFemalePlural>
+  <DankPyon_Rox.lifeStages.1.label>novillo rox</DankPyon_Rox.lifeStages.1.label>
+  <DankPyon_Rox.lifeStages.1.labelPlural>novillos rox</DankPyon_Rox.lifeStages.1.labelPlural>
+  <DankPyon_Rox.lifeStages.1.labelMale>novillo rox</DankPyon_Rox.lifeStages.1.labelMale>
+  <DankPyon_Rox.lifeStages.1.labelMalePlural>novillos rox</DankPyon_Rox.lifeStages.1.labelMalePlural>
+  <DankPyon_Rox.lifeStages.1.labelFemale>novilla rox</DankPyon_Rox.lifeStages.1.labelFemale>
+  <DankPyon_Rox.lifeStages.1.labelFemalePlural>novillas rox</DankPyon_Rox.lifeStages.1.labelFemalePlural>
+  <DankPyon_Rox.lifeStages.2.label>rox</DankPyon_Rox.lifeStages.2.label>
+  <DankPyon_Rox.lifeStages.2.labelPlural>rox</DankPyon_Rox.lifeStages.2.labelPlural>
+  <DankPyon_Rox.lifeStages.2.labelMale>toro rox</DankPyon_Rox.lifeStages.2.labelMale>
+  <DankPyon_Rox.lifeStages.2.labelMalePlural>toros rox</DankPyon_Rox.lifeStages.2.labelMalePlural>
+  <DankPyon_Rox.lifeStages.2.labelFemale>vaca rox</DankPyon_Rox.lifeStages.2.labelFemale>
+  <DankPyon_Rox.lifeStages.2.labelFemalePlural>vacas rox</DankPyon_Rox.lifeStages.2.labelFemalePlural>
+  <DankPyon_Rox.labelMale>toro rox</DankPyon_Rox.labelMale>
+  <DankPyon_Rox.labelMalePlural>toros rox</DankPyon_Rox.labelMalePlural>
+  <DankPyon_Rox.labelFemale>vaca rox</DankPyon_Rox.labelFemale>
+  <DankPyon_Rox.labelFemalePlural>vacas rox</DankPyon_Rox.labelFemalePlural>
+
 </LanguageData>

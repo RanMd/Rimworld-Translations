@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Griffon -->
+
   <DankPyon_Griffon.label>Grifo</DankPyon_Griffon.label>
   <DankPyon_Griffon.labelPlural>Grifos</DankPyon_Griffon.labelPlural>
-  <DankPyon_Griffon.lifeStages.0.label>Pichón</DankPyon_Griffon.lifeStages.0.label>
+  <DankPyon_Griffon.lifeStages.0.label>pichón</DankPyon_Griffon.lifeStages.0.label>
+  <DankPyon_Griffon.lifeStages.0.labelPlural>pichones</DankPyon_Griffon.lifeStages.0.labelPlural>
+  <DankPyon_Griffon.lifeStages.0.labelMale>pichón</DankPyon_Griffon.lifeStages.0.labelMale>
+  <DankPyon_Griffon.lifeStages.0.labelMalePlural>pichones</DankPyon_Griffon.lifeStages.0.labelMalePlural>
+  <DankPyon_Griffon.lifeStages.0.labelFemale>pichón</DankPyon_Griffon.lifeStages.0.labelFemale>
+  <DankPyon_Griffon.lifeStages.0.labelFemalePlural>pichones</DankPyon_Griffon.lifeStages.0.labelFemalePlural>
+  <DankPyon_Griffon.lifeStages.1.label>grifo joven</DankPyon_Griffon.lifeStages.1.label>
+  <DankPyon_Griffon.lifeStages.1.labelPlural>grifos jóvenes</DankPyon_Griffon.lifeStages.1.labelPlural>
+  <DankPyon_Griffon.lifeStages.1.labelMale>grifo joven macho</DankPyon_Griffon.lifeStages.1.labelMale>
+  <DankPyon_Griffon.lifeStages.1.labelMalePlural>grifos jóvenes machos</DankPyon_Griffon.lifeStages.1.labelMalePlural>
+  <DankPyon_Griffon.lifeStages.1.labelFemale>grifo joven hembra</DankPyon_Griffon.lifeStages.1.labelFemale>
+  <DankPyon_Griffon.lifeStages.1.labelFemalePlural>grifos jóvenes hembras</DankPyon_Griffon.lifeStages.1.labelFemalePlural>
+  <DankPyon_Griffon.lifeStages.2.label>grifo</DankPyon_Griffon.lifeStages.2.label>
+  <DankPyon_Griffon.lifeStages.2.labelPlural>grifos</DankPyon_Griffon.lifeStages.2.labelPlural>
+  <DankPyon_Griffon.lifeStages.2.labelMale>grifo macho</DankPyon_Griffon.lifeStages.2.labelMale>
+  <DankPyon_Griffon.lifeStages.2.labelMalePlural>grifos machos</DankPyon_Griffon.lifeStages.2.labelMalePlural>
+  <DankPyon_Griffon.lifeStages.2.labelFemale>grifo hembra</DankPyon_Griffon.lifeStages.2.labelFemale>
+  <DankPyon_Griffon.lifeStages.2.labelFemalePlural>grifos hembras</DankPyon_Griffon.lifeStages.2.labelFemalePlural>
+  <DankPyon_Griffon.labelMale>grifo macho</DankPyon_Griffon.labelMale>
+  <DankPyon_Griffon.labelMalePlural>grifos machos</DankPyon_Griffon.labelMalePlural>
+  <DankPyon_Griffon.labelFemale>grifo hembra</DankPyon_Griffon.labelFemale>
+  <DankPyon_Griffon.labelFemalePlural>grifos hembras</DankPyon_Griffon.labelFemalePlural>
+
 </LanguageData>

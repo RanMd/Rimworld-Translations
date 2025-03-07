@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Cultist_Novice.label>Iniciante</DankPyon_Cultist_Novice.label>
-  <DankPyon_CultistAcolyteBase.label>Acólito</DankPyon_CultistAcolyteBase.label>
-  <DankPyon_CultistAdeptBase.label>Adepto</DankPyon_CultistAdeptBase.label>
-  <DankPyon_Cultist_HighPristBase.label>Sumo Sacerdote de la Secta de las Sombras</DankPyon_Cultist_HighPristBase.label>
+
+  <!-- Cultists -->
+
+  <DankPyon_Cultist_Novice.label>iniciado</DankPyon_Cultist_Novice.label>
+  <DankPyon_Cultist_Novice.labelPlural>iniciados</DankPyon_Cultist_Novice.labelPlural>
+
+  <!-- Tier 2 -->
+
+  <DanyPyon_Cultist_Acolyte_Melee.label>acólito</DanyPyon_Cultist_Acolyte_Melee.label>
+  <DanyPyon_Cultist_Acolyte_Melee.labelPlural>acólitos</DanyPyon_Cultist_Acolyte_Melee.labelPlural>
+
+  <DanyPyon_Cultist_Acolyte_Ranged.label>acólito</DanyPyon_Cultist_Acolyte_Ranged.label>
+  <DanyPyon_Cultist_Acolyte_Ranged.labelPlural>acólitos</DanyPyon_Cultist_Acolyte_Ranged.labelPlural>
+
+  <!-- Tier 3 -->
+
+  <DanyPyon_Cultist_Adept_Melee.label>adepto</DanyPyon_Cultist_Adept_Melee.label>
+  <DanyPyon_Cultist_Adept_Melee.labelPlural>adeptos</DanyPyon_Cultist_Adept_Melee.labelPlural>
+
+  <DanyPyon_Cultist_Adept_Ranged.label>adepto</DanyPyon_Cultist_Adept_Ranged.label>
+  <DanyPyon_Cultist_Adept_Ranged.labelPlural>adeptos</DanyPyon_Cultist_Adept_Ranged.labelPlural>
+
+  <!-- Tier 4 -->
+
+  <DanyPyon_Cultist_HighPriest_Melee.label>maestro de la secta sombría</DanyPyon_Cultist_HighPriest_Melee.label>
+  <DanyPyon_Cultist_HighPriest_Melee.labelPlural>maestros de la secta sombría</DanyPyon_Cultist_HighPriest_Melee.labelPlural>
+
+  <DanyPyon_Cultist_HighPriest_Ranged.label>maestro de la secta sombría</DanyPyon_Cultist_HighPriest_Ranged.label>
+  <DanyPyon_Cultist_HighPriest_Ranged.labelPlural>maestros de la secta sombría</DanyPyon_Cultist_HighPriest_Ranged.labelPlural>
+
 </LanguageData>

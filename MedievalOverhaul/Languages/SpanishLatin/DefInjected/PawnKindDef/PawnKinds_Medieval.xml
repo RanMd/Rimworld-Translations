@@ -1,20 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Medieval_Peasant.label>Campesino</DankPyon_Medieval_Peasant.label>
-  <DankPyon_Medieval_Merchant.label>Comerciante</DankPyon_Medieval_Merchant.label>
-  <DankPyon_Medieval_Mercenary.label>Mercenario</DankPyon_Medieval_Mercenary.label>
-  <DankPyon_Medieval_MercenaryHeavy.label>Mercenario Pesado</DankPyon_Medieval_MercenaryHeavy.label>
-  <DankPyon_Medieval_Footman.label>Sirviente</DankPyon_Medieval_Footman.label>
-  <DankPyon_Medieval_Billman.label>Alabardero</DankPyon_Medieval_Billman.label>
-  <DankPyon_StandardAmboise.label>Abanderado</DankPyon_StandardAmboise.label>
-  <DankPyon_Medieval_Bowman.label>Arquero</DankPyon_Medieval_Bowman.label>
-  <DankPyon_Medieval_Arbalester.label>Ballestero</DankPyon_Medieval_Arbalester.label>
-  <DankPyon_Zweihander.label>Zweihander</DankPyon_Zweihander.label>
-  <DankPyon_Medieval_Knight.label>Caballero</DankPyon_Medieval_Knight.label>
-  <DankPyon_Medieval_Lord.label>Señor</DankPyon_Medieval_Lord.label>
-  <!-- ========== Bandits ========== -->
-  <DankPyon_BrigandThug.label>Bandido Matón</DankPyon_BrigandThug.label>
-  <DankPyon_BrigandRaider.label>Bandido Saqueador</DankPyon_BrigandRaider.label>
-  <DankPyon_BrigandLeader.label>Bandido Líder</DankPyon_BrigandLeader.label>
-  <DankPyon_BrigandMarksman.label>Arquero</DankPyon_BrigandMarksman.label>
+
+  <DankPyon_Medieval_Peasant.label>aldeano</DankPyon_Medieval_Peasant.label>
+  <DankPyon_Medieval_Peasant.labelPlural>aldeanos</DankPyon_Medieval_Peasant.labelPlural>
+
+  <!-- Low-tier - merchant, squire -->
+
+  <DankPyon_Medieval_Merchant.label>comerciante</DankPyon_Medieval_Merchant.label>
+  <DankPyon_Medieval_Merchant.labelPlural>comerciantes</DankPyon_Medieval_Merchant.labelPlural>
+
+  <!-- Mercenary -->
+
+  <DankPyon_Medieval_Mercenary.label>mercenario</DankPyon_Medieval_Mercenary.label>
+  <DankPyon_Medieval_Mercenary.labelPlural>mercenarios</DankPyon_Medieval_Mercenary.labelPlural>
+
+  <DankPyon_Medieval_MercenaryHeavy.label>mercenario</DankPyon_Medieval_MercenaryHeavy.label>
+  <DankPyon_Medieval_MercenaryHeavy.labelPlural>mercenarios</DankPyon_Medieval_MercenaryHeavy.labelPlural>
+
+  <!-- Soldiers -->
+
+  <DankPyon_Medieval_Footman.label>soldado</DankPyon_Medieval_Footman.label>
+  <DankPyon_Medieval_Footman.labelPlural>soldados</DankPyon_Medieval_Footman.labelPlural>
+
+  <DankPyon_FootmanAmboise.label>soldado</DankPyon_FootmanAmboise.label>
+  <DankPyon_FootmanAmboise.labelPlural>soldados</DankPyon_FootmanAmboise.labelPlural>
+
+  <DankPyon_FootmanSoren.label>soldado</DankPyon_FootmanSoren.label>
+  <DankPyon_FootmanSoren.labelPlural>soldados</DankPyon_FootmanSoren.labelPlural>
+
+  <DankPyon_FootmanOswin.label>soldado</DankPyon_FootmanOswin.label>
+  <DankPyon_FootmanOswin.labelPlural>soldados</DankPyon_FootmanOswin.labelPlural>
+
+  <DankPyon_FootmanHesse.label>soldado</DankPyon_FootmanHesse.label>
+  <DankPyon_FootmanHesse.labelPlural>soldados</DankPyon_FootmanHesse.labelPlural>
+
+  <DankPyon_Medieval_Billman.label>alabardero</DankPyon_Medieval_Billman.label>
+  <DankPyon_Medieval_Billman.labelPlural>alabarderos</DankPyon_Medieval_Billman.labelPlural>
+
+  <DankPyon_StandardAmboise.label>portaestandarte</DankPyon_StandardAmboise.label>
+  <DankPyon_StandardAmboise.labelPlural>portaestandartes</DankPyon_StandardAmboise.labelPlural>
+
+  <DankPyon_StandardSoren.label>portaestandarte</DankPyon_StandardSoren.label>
+  <DankPyon_StandardSoren.labelPlural>portaestandartes</DankPyon_StandardSoren.labelPlural>
+
+  <DankPyon_StandardOswin.label>portaestandarte</DankPyon_StandardOswin.label>
+  <DankPyon_StandardOswin.labelPlural>portaestandarte</DankPyon_StandardOswin.labelPlural>
+
+  <DankPyon_StandardHesse.label>portaestandarte</DankPyon_StandardHesse.label>
+  <DankPyon_StandardHesse.labelPlural>portaestandartes</DankPyon_StandardHesse.labelPlural>
+
+  <DankPyon_Medieval_Bowman.label>arquero</DankPyon_Medieval_Bowman.label>
+  <DankPyon_Medieval_Bowman.labelPlural>arqueros</DankPyon_Medieval_Bowman.labelPlural>
+
+  <DankPyon_Medieval_Arbalester.label>ballestero</DankPyon_Medieval_Arbalester.label>
+  <DankPyon_Medieval_Arbalester.labelPlural>ballesteros</DankPyon_Medieval_Arbalester.labelPlural>
+
+  <DankPyon_ZweihanderAmboise.label>espadachín</DankPyon_ZweihanderAmboise.label>
+  <DankPyon_ZweihanderAmboise.labelPlural>espadachínes</DankPyon_ZweihanderAmboise.labelPlural>
+
+  <DankPyon_ZweihanderSoren.label>espadachín</DankPyon_ZweihanderSoren.label>
+  <DankPyon_ZweihanderSoren.labelPlural>espadachínes</DankPyon_ZweihanderSoren.labelPlural>
+
+  <DankPyon_ZweihanderOswin.label>espadachín</DankPyon_ZweihanderOswin.label>
+  <DankPyon_ZweihanderOswin.labelPlural>espadachínes</DankPyon_ZweihanderOswin.labelPlural>
+
+  <DankPyon_ZweihanderHesse.label>espadachín</DankPyon_ZweihanderHesse.label>
+  <DankPyon_ZweihanderHesse.labelPlural>espadachínes</DankPyon_ZweihanderHesse.labelPlural>
+
+  <DankPyon_KnightAmboise.label>caballero</DankPyon_KnightAmboise.label>
+  <DankPyon_KnightAmboise.labelPlural>caballeros</DankPyon_KnightAmboise.labelPlural>
+
+  <DankPyon_KnightSoren.label>caballero</DankPyon_KnightSoren.label>
+  <DankPyon_KnightSoren.labelPlural>caballeros</DankPyon_KnightSoren.labelPlural>
+
+  <DankPyon_KnightOswin.label>caballero</DankPyon_KnightOswin.label>
+  <DankPyon_KnightOswin.labelPlural>caballeros</DankPyon_KnightOswin.labelPlural>
+
+  <DankPyon_KnightHesse.label>caballero</DankPyon_KnightHesse.label>
+  <DankPyon_KnightHesse.labelPlural>caballeros</DankPyon_KnightHesse.labelPlural>
+
+  <DankPyon_Medieval_Knight.label>caballero</DankPyon_Medieval_Knight.label>
+  <DankPyon_Medieval_Knight.labelPlural>caballeros</DankPyon_Medieval_Knight.labelPlural>
+
+  <DankPyon_Medieval_Lord.label>señor</DankPyon_Medieval_Lord.label>
+  <DankPyon_Medieval_Lord.labelPlural>señores medievales</DankPyon_Medieval_Lord.labelPlural>
+
+  <!-- Bandits -->
+
+  <DankPyon_BrigandThug.label>bandido matón</DankPyon_BrigandThug.label>
+  <DankPyon_BrigandThug.labelPlural>bandidos matónes</DankPyon_BrigandThug.labelPlural>
+
+  <DankPyon_BrigandRaider.label>bandido saqueador</DankPyon_BrigandRaider.label>
+  <DankPyon_BrigandRaider.labelPlural>bandidos saqueadores</DankPyon_BrigandRaider.labelPlural>
+
+  <DankPyon_BrigandLeader.label>bandido líder</DankPyon_BrigandLeader.label>
+  <DankPyon_BrigandLeader.labelPlural>bandidos lider</DankPyon_BrigandLeader.labelPlural>
+
+  <DankPyon_BrigandMarksman.label>bandido arquero</DankPyon_BrigandMarksman.label>
+  <DankPyon_BrigandMarksman.labelPlural>bandidos arquero</DankPyon_BrigandMarksman.labelPlural>
+
 </LanguageData>

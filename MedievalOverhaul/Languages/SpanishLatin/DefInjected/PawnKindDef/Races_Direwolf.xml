@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Direwolf.label>Lobo Sombrío</DankPyon_Direwolf.label>
-  <DankPyon_Direwolf.lifeStages.0.label>Cachorro de Lobo Sombrío</DankPyon_Direwolf.lifeStages.0.label>
-  <DankPyon_Direwolf.lifeStages.0.labelPlural>Cachorros de Lobo Sombrío</DankPyon_Direwolf.lifeStages.0.labelPlural>
+
+  <!-- Warg -->
+
+  <DankPyon_Direwolf.label>lobo sombrío</DankPyon_Direwolf.label>
+  <DankPyon_Direwolf.labelPlural>lobos sombríos</DankPyon_Direwolf.labelPlural>
+  <DankPyon_Direwolf.lifeStages.0.label>cachorro de lobo sombrío</DankPyon_Direwolf.lifeStages.0.label>
+  <DankPyon_Direwolf.lifeStages.0.labelPlural>cachorros de lobo sombrío</DankPyon_Direwolf.lifeStages.0.labelPlural>
+  <DankPyon_Direwolf.lifeStages.0.labelMale>cachorro de lobo sombrío</DankPyon_Direwolf.lifeStages.0.labelMale>
+  <DankPyon_Direwolf.lifeStages.0.labelMalePlural>cachorros de lobo sombrío</DankPyon_Direwolf.lifeStages.0.labelMalePlural>
+  <DankPyon_Direwolf.lifeStages.0.labelFemale>cachorra de lobo sombrío</DankPyon_Direwolf.lifeStages.0.labelFemale>
+  <DankPyon_Direwolf.lifeStages.0.labelFemalePlural>cachorras de lobo sombrío</DankPyon_Direwolf.lifeStages.0.labelFemalePlural>
+  <DankPyon_Direwolf.lifeStages.1.label>lobo sombrío joven</DankPyon_Direwolf.lifeStages.1.label>
+  <DankPyon_Direwolf.lifeStages.1.labelPlural>lobos sombríos jovenes</DankPyon_Direwolf.lifeStages.1.labelPlural>
+  <DankPyon_Direwolf.lifeStages.1.labelMale>lobo sombrío joven</DankPyon_Direwolf.lifeStages.1.labelMale>
+  <DankPyon_Direwolf.lifeStages.1.labelMalePlural>lobos sombríos jovenes</DankPyon_Direwolf.lifeStages.1.labelMalePlural>
+  <DankPyon_Direwolf.lifeStages.1.labelFemale>loba sombría joven</DankPyon_Direwolf.lifeStages.1.labelFemale>
+  <DankPyon_Direwolf.lifeStages.1.labelFemalePlural>lobas sombrías jovenes</DankPyon_Direwolf.lifeStages.1.labelFemalePlural>
+  <DankPyon_Direwolf.lifeStages.2.label>lobo sombrío</DankPyon_Direwolf.lifeStages.2.label>
+  <DankPyon_Direwolf.lifeStages.2.labelPlural>lobos sombríos</DankPyon_Direwolf.lifeStages.2.labelPlural>
+  <DankPyon_Direwolf.lifeStages.2.labelMale>lobo sombrío</DankPyon_Direwolf.lifeStages.2.labelMale>
+  <DankPyon_Direwolf.lifeStages.2.labelMalePlural>lobos sombríos</DankPyon_Direwolf.lifeStages.2.labelMalePlural>
+  <DankPyon_Direwolf.lifeStages.2.labelFemale>loba sombría</DankPyon_Direwolf.lifeStages.2.labelFemale>
+  <DankPyon_Direwolf.lifeStages.2.labelFemalePlural>lobas sombrías</DankPyon_Direwolf.lifeStages.2.labelFemalePlural>
+  <DankPyon_Direwolf.labelMale>lobo sombrío</DankPyon_Direwolf.labelMale>
+  <DankPyon_Direwolf.labelMalePlural>lobos sombríos</DankPyon_Direwolf.labelMalePlural>
+  <DankPyon_Direwolf.labelFemale>loba sombría</DankPyon_Direwolf.labelFemale>
+  <DankPyon_Direwolf.labelFemalePlural>lobas sombrías</DankPyon_Direwolf.labelFemalePlural>
+
 </LanguageData>

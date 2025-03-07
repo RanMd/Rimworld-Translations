@@ -1,16 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Hampshire.label>Hampshire</DankPyon_Hampshire.label>
-  <DankPyon_Hampshire.lifeStages.0.label>Hampshire-Lechón</DankPyon_Hampshire.lifeStages.0.label>
-  <DankPyon_Gloucestershire.label>Gloucestershire</DankPyon_Gloucestershire.label>
-  <DankPyon_Gloucestershire.lifeStages.0.label>Gloucestershire-Lechón</DankPyon_Gloucestershire.lifeStages.0.label>
-  <DankPyon_NorthernBoar.label>Jabalí</DankPyon_NorthernBoar.label>
-  <DankPyon_Ravelder.label>Ravelder</DankPyon_Ravelder.label>
-  <DankPyon_Ravelder.labelMale>Ravelder Toro</DankPyon_Ravelder.labelMale>
-  <DankPyon_Ravelder.lifeStages.0.label>Ravelder Ternero</DankPyon_Ravelder.lifeStages.0.label>
-  <DankPyon_Ravelder.lifeStages.0.labelPlural>Terneros</DankPyon_Ravelder.lifeStages.0.labelPlural>
-  <DankPyon_Angus.label>Angus</DankPyon_Angus.label>
-  <DankPyon_Angus.labelMale>Angus Toro</DankPyon_Angus.labelMale>
-  <DankPyon_Angus.lifeStages.0.label>Angus Ternero</DankPyon_Angus.lifeStages.0.label>
-  <DankPyon_Angus.lifeStages.0.labelPlural>Terneros</DankPyon_Angus.lifeStages.0.labelPlural>
+
+  <!-- Pigs -->
+
+  <DankPyon_Hampshire.label>hampshire</DankPyon_Hampshire.label>
+  <DankPyon_Hampshire.labelPlural>manada hampshire</DankPyon_Hampshire.labelPlural>
+  <DankPyon_Hampshire.lifeStages.0.label>lechón hampshire</DankPyon_Hampshire.lifeStages.0.label>
+  <DankPyon_Hampshire.lifeStages.0.labelPlural>lechónes hampshire</DankPyon_Hampshire.lifeStages.0.labelPlural>
+  <DankPyon_Hampshire.lifeStages.0.labelMale>lechón hampshire</DankPyon_Hampshire.lifeStages.0.labelMale>
+  <DankPyon_Hampshire.lifeStages.0.labelMalePlural>lechónes</DankPyon_Hampshire.lifeStages.0.labelMalePlural>
+  <DankPyon_Hampshire.lifeStages.0.labelFemale>lechón hampshire</DankPyon_Hampshire.lifeStages.0.labelFemale>
+  <DankPyon_Hampshire.lifeStages.0.labelFemalePlural>lechónes hampshire</DankPyon_Hampshire.lifeStages.0.labelFemalePlural>
+  <DankPyon_Hampshire.lifeStages.1.label>cerdo joven hampshire</DankPyon_Hampshire.lifeStages.1.label>
+  <DankPyon_Hampshire.lifeStages.1.labelPlural>cerdos jovenes hampshire</DankPyon_Hampshire.lifeStages.1.labelPlural>
+  <DankPyon_Hampshire.lifeStages.1.labelMale>cerdo joven hampshire</DankPyon_Hampshire.lifeStages.1.labelMale>
+  <DankPyon_Hampshire.lifeStages.1.labelMalePlural>cerdos jovenes hampshire</DankPyon_Hampshire.lifeStages.1.labelMalePlural>
+  <DankPyon_Hampshire.lifeStages.1.labelFemale>cerda joven hampshire</DankPyon_Hampshire.lifeStages.1.labelFemale>
+  <DankPyon_Hampshire.lifeStages.1.labelFemalePlural>cerdas jovenes hampshire</DankPyon_Hampshire.lifeStages.1.labelFemalePlural>
+  <DankPyon_Hampshire.lifeStages.2.label>cerdo hampshire</DankPyon_Hampshire.lifeStages.2.label>
+  <DankPyon_Hampshire.lifeStages.2.labelPlural>cerdos hampshire</DankPyon_Hampshire.lifeStages.2.labelPlural>
+  <DankPyon_Hampshire.lifeStages.2.labelMale>cerdo hampshire</DankPyon_Hampshire.lifeStages.2.labelMale>
+  <DankPyon_Hampshire.lifeStages.2.labelMalePlural>cerdos hampshire</DankPyon_Hampshire.lifeStages.2.labelMalePlural>
+  <DankPyon_Hampshire.lifeStages.2.labelFemale>cerda hampshire</DankPyon_Hampshire.lifeStages.2.labelFemale>
+  <DankPyon_Hampshire.lifeStages.2.labelFemalePlural>cerdas hampshire</DankPyon_Hampshire.lifeStages.2.labelFemalePlural>
+  <DankPyon_Hampshire.labelMale>hampshire</DankPyon_Hampshire.labelMale>
+  <DankPyon_Hampshire.labelMalePlural>cerdos hampshire</DankPyon_Hampshire.labelMalePlural>
+  <DankPyon_Hampshire.labelFemale>cerda hampshire</DankPyon_Hampshire.labelFemale>
+  <DankPyon_Hampshire.labelFemalePlural>cerdas hampshire</DankPyon_Hampshire.labelFemalePlural>
+
+  <DankPyon_Gloucestershire.label>gloucestershire</DankPyon_Gloucestershire.label>
+  <DankPyon_Gloucestershire.labelPlural>manada gloucestershire</DankPyon_Gloucestershire.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.0.label>lechon gloucestershire</DankPyon_Gloucestershire.lifeStages.0.label>
+  <DankPyon_Gloucestershire.lifeStages.0.labelPlural>lechones gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.0.labelMale>lechon gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelMale>
+  <DankPyon_Gloucestershire.lifeStages.0.labelMalePlural>lechones gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelMalePlural>
+  <DankPyon_Gloucestershire.lifeStages.0.labelFemale>lechon gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelFemale>
+  <DankPyon_Gloucestershire.lifeStages.0.labelFemalePlural>lechones gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelFemalePlural>
+  <DankPyon_Gloucestershire.lifeStages.1.label>cerdo joven gloucestershire</DankPyon_Gloucestershire.lifeStages.1.label>
+  <DankPyon_Gloucestershire.lifeStages.1.labelPlural>cerdos jovenes gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.1.labelMale>cerdo joven gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelMale>
+  <DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>cerdos jovenes gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>
+  <DankPyon_Gloucestershire.lifeStages.1.labelFemale>cerda joven gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelFemale>
+  <DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>cerdas jovenes gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>
+  <DankPyon_Gloucestershire.lifeStages.2.label>cerdo gloucestershire</DankPyon_Gloucestershire.lifeStages.2.label>
+  <DankPyon_Gloucestershire.lifeStages.2.labelPlural>cerdos gloucestershire</DankPyon_Gloucestershire.lifeStages.2.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.2.labelMale>cerdo gloucestershire</DankPyon_Gloucestershire.lifeStages.2.labelMale>
+  <DankPyon_Gloucestershire.lifeStages.2.labelMalePlural>cerdos gloucestershire</DankPyon_Gloucestershire.lifeStages.2.labelMalePlural>
+  <DankPyon_Gloucestershire.lifeStages.2.labelFemale>cerda gloucestershire</DankPyon_Gloucestershire.lifeStages.2.labelFemale>
+  <DankPyon_Gloucestershire.lifeStages.2.labelFemalePlural>cerdas gloucestershire</DankPyon_Gloucestershire.lifeStages.2.labelFemalePlural>
+  <DankPyon_Gloucestershire.labelMale>cerdo gloucestershire</DankPyon_Gloucestershire.labelMale>
+  <DankPyon_Gloucestershire.labelMalePlural>cerdos gloucestershire</DankPyon_Gloucestershire.labelMalePlural>
+  <DankPyon_Gloucestershire.labelFemale>cerda gloucestershire</DankPyon_Gloucestershire.labelFemale>
+  <DankPyon_Gloucestershire.labelFemalePlural>cerdas gloucestershire</DankPyon_Gloucestershire.labelFemalePlural>
+
+  <DankPyon_NorthernBoar.label>jabalí del norte</DankPyon_NorthernBoar.label>
+  <DankPyon_NorthernBoar.labelPlural>jabalíes del norte</DankPyon_NorthernBoar.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.0.label>jabalí del norte</DankPyon_NorthernBoar.lifeStages.0.label>
+  <DankPyon_NorthernBoar.lifeStages.0.labelPlural>jabalíes del norte</DankPyon_NorthernBoar.lifeStages.0.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.0.labelMale>jabalí macho del norte</DankPyon_NorthernBoar.lifeStages.0.labelMale>
+  <DankPyon_NorthernBoar.lifeStages.0.labelMalePlural>jabalíes machos del norte</DankPyon_NorthernBoar.lifeStages.0.labelMalePlural>
+  <DankPyon_NorthernBoar.lifeStages.0.labelFemale>jabalí hembra del norte</DankPyon_NorthernBoar.lifeStages.0.labelFemale>
+  <DankPyon_NorthernBoar.lifeStages.0.labelFemalePlural>jabalíes hembras del norte</DankPyon_NorthernBoar.lifeStages.0.labelFemalePlural>
+  <DankPyon_NorthernBoar.lifeStages.1.label>jabalí joven del norte</DankPyon_NorthernBoar.lifeStages.1.label>
+  <DankPyon_NorthernBoar.lifeStages.1.labelPlural>jabalíes jovenes del norte</DankPyon_NorthernBoar.lifeStages.1.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.1.labelMale>jabalí joven del norte</DankPyon_NorthernBoar.lifeStages.1.labelMale>
+  <DankPyon_NorthernBoar.lifeStages.1.labelMalePlural>jabalíes jovenes del norte</DankPyon_NorthernBoar.lifeStages.1.labelMalePlural>
+  <DankPyon_NorthernBoar.lifeStages.1.labelFemale>jabalí hembra joven del norte</DankPyon_NorthernBoar.lifeStages.1.labelFemale>
+  <DankPyon_NorthernBoar.lifeStages.1.labelFemalePlural>jabalíes hembras jovenes del norte</DankPyon_NorthernBoar.lifeStages.1.labelFemalePlural>
+  <DankPyon_NorthernBoar.lifeStages.2.label>jabalí del norte</DankPyon_NorthernBoar.lifeStages.2.label>
+  <DankPyon_NorthernBoar.lifeStages.2.labelPlural>jabalíes del norte</DankPyon_NorthernBoar.lifeStages.2.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.2.labelMale>jabalí macho del norte</DankPyon_NorthernBoar.lifeStages.2.labelMale>
+  <DankPyon_NorthernBoar.lifeStages.2.labelMalePlural>jabalíes machos del norte</DankPyon_NorthernBoar.lifeStages.2.labelMalePlural>
+  <DankPyon_NorthernBoar.lifeStages.2.labelFemale>jabalí hembra del norte</DankPyon_NorthernBoar.lifeStages.2.labelFemale>
+  <DankPyon_NorthernBoar.lifeStages.2.labelFemalePlural>jabalíes hembras del norte</DankPyon_NorthernBoar.lifeStages.2.labelFemalePlural>
+  <DankPyon_NorthernBoar.labelMale>jabalí macho del norte</DankPyon_NorthernBoar.labelMale>
+  <DankPyon_NorthernBoar.labelMalePlural>jabalíes machos del norte</DankPyon_NorthernBoar.labelMalePlural>
+  <DankPyon_NorthernBoar.labelFemale>jabalí hembra del norte</DankPyon_NorthernBoar.labelFemale>
+  <DankPyon_NorthernBoar.labelFemalePlural>jabalíes hembras del norte</DankPyon_NorthernBoar.labelFemalePlural>
+
+  <!-- Cows -->
+
+  <DankPyon_Ravelder.label>ravelder</DankPyon_Ravelder.label>
+  <DankPyon_Ravelder.labelPlural>manada ravelder</DankPyon_Ravelder.labelPlural>
+  <DankPyon_Ravelder.lifeStages.0.label>ternero ravelder</DankPyon_Ravelder.lifeStages.0.label>
+  <DankPyon_Ravelder.lifeStages.0.labelPlural>terneros ravelder</DankPyon_Ravelder.lifeStages.0.labelPlural>
+  <DankPyon_Ravelder.lifeStages.0.labelMale>ternero ravelder</DankPyon_Ravelder.lifeStages.0.labelMale>
+  <DankPyon_Ravelder.lifeStages.0.labelMalePlural>terneros ravelder</DankPyon_Ravelder.lifeStages.0.labelMalePlural>
+  <DankPyon_Ravelder.lifeStages.0.labelFemale>ternera ravelder</DankPyon_Ravelder.lifeStages.0.labelFemale>
+  <DankPyon_Ravelder.lifeStages.0.labelFemalePlural>terneras ravelder</DankPyon_Ravelder.lifeStages.0.labelFemalePlural>
+  <DankPyon_Ravelder.lifeStages.1.label>novillo ravelder</DankPyon_Ravelder.lifeStages.1.label>
+  <DankPyon_Ravelder.lifeStages.1.labelPlural>novillos ravelder</DankPyon_Ravelder.lifeStages.1.labelPlural>
+  <DankPyon_Ravelder.lifeStages.1.labelMale>novillo ravelder</DankPyon_Ravelder.lifeStages.1.labelMale>
+  <DankPyon_Ravelder.lifeStages.1.labelMalePlural>novillos ravelder</DankPyon_Ravelder.lifeStages.1.labelMalePlural>
+  <DankPyon_Ravelder.lifeStages.1.labelFemale>novilla ravelder</DankPyon_Ravelder.lifeStages.1.labelFemale>
+  <DankPyon_Ravelder.lifeStages.1.labelFemalePlural>novillas ravelder</DankPyon_Ravelder.lifeStages.1.labelFemalePlural>
+  <DankPyon_Ravelder.lifeStages.2.label>ravelder</DankPyon_Ravelder.lifeStages.2.label>
+  <DankPyon_Ravelder.lifeStages.2.labelPlural>ravelder</DankPyon_Ravelder.lifeStages.2.labelPlural>
+  <DankPyon_Ravelder.lifeStages.2.labelMale>toro ravelder</DankPyon_Ravelder.lifeStages.2.labelMale>
+  <DankPyon_Ravelder.lifeStages.2.labelMalePlural>toros ravelder</DankPyon_Ravelder.lifeStages.2.labelMalePlural>
+  <DankPyon_Ravelder.lifeStages.2.labelFemale>vaca ravelder</DankPyon_Ravelder.lifeStages.2.labelFemale>
+  <DankPyon_Ravelder.lifeStages.2.labelFemalePlural>vacas ravelder</DankPyon_Ravelder.lifeStages.2.labelFemalePlural>
+  <DankPyon_Ravelder.labelMale>toro ravelder</DankPyon_Ravelder.labelMale>
+  <DankPyon_Ravelder.labelMalePlural>toros ravelder</DankPyon_Ravelder.labelMalePlural>
+  <DankPyon_Ravelder.labelFemale>vaca ravelder</DankPyon_Ravelder.labelFemale>
+  <DankPyon_Ravelder.labelFemalePlural>vacas ravelder</DankPyon_Ravelder.labelFemalePlural>
+
+  <DankPyon_Angus.label>angus</DankPyon_Angus.label>
+  <DankPyon_Angus.labelPlural>manada angus</DankPyon_Angus.labelPlural>
+  <DankPyon_Angus.lifeStages.0.label>ternero angus</DankPyon_Angus.lifeStages.0.label>
+  <DankPyon_Angus.lifeStages.0.labelPlural>terneros angus</DankPyon_Angus.lifeStages.0.labelPlural>
+  <DankPyon_Angus.lifeStages.0.labelMale>ternero angus</DankPyon_Angus.lifeStages.0.labelMale>
+  <DankPyon_Angus.lifeStages.0.labelMalePlural>terneros angus</DankPyon_Angus.lifeStages.0.labelMalePlural>
+  <DankPyon_Angus.lifeStages.0.labelFemale>ternera angus</DankPyon_Angus.lifeStages.0.labelFemale>
+  <DankPyon_Angus.lifeStages.0.labelFemalePlural>terneras angus</DankPyon_Angus.lifeStages.0.labelFemalePlural>
+  <DankPyon_Angus.lifeStages.1.label>novillo angus</DankPyon_Angus.lifeStages.1.label>
+  <DankPyon_Angus.lifeStages.1.labelPlural>novillos angus</DankPyon_Angus.lifeStages.1.labelPlural>
+  <DankPyon_Angus.lifeStages.1.labelMale>novillo angus</DankPyon_Angus.lifeStages.1.labelMale>
+  <DankPyon_Angus.lifeStages.1.labelMalePlural>novillos angus</DankPyon_Angus.lifeStages.1.labelMalePlural>
+  <DankPyon_Angus.lifeStages.1.labelFemale>novilla angus</DankPyon_Angus.lifeStages.1.labelFemale>
+  <DankPyon_Angus.lifeStages.1.labelFemalePlural>novillas angus</DankPyon_Angus.lifeStages.1.labelFemalePlural>
+  <DankPyon_Angus.lifeStages.2.label>angus</DankPyon_Angus.lifeStages.2.label>
+  <DankPyon_Angus.lifeStages.2.labelPlural>angus</DankPyon_Angus.lifeStages.2.labelPlural>
+  <DankPyon_Angus.lifeStages.2.labelMale>toro angus</DankPyon_Angus.lifeStages.2.labelMale>
+  <DankPyon_Angus.lifeStages.2.labelMalePlural>toros angus</DankPyon_Angus.lifeStages.2.labelMalePlural>
+  <DankPyon_Angus.lifeStages.2.labelFemale>vaca angus</DankPyon_Angus.lifeStages.2.labelFemale>
+  <DankPyon_Angus.lifeStages.2.labelFemalePlural>vacas angus</DankPyon_Angus.lifeStages.2.labelFemalePlural>
+  <DankPyon_Angus.labelMale>toro angus</DankPyon_Angus.labelMale>
+  <DankPyon_Angus.labelMalePlural>toros angus</DankPyon_Angus.labelMalePlural>
+  <DankPyon_Angus.labelFemale>vaca angus</DankPyon_Angus.labelFemale>
+  <DankPyon_Angus.labelFemalePlural>vacas angus</DankPyon_Angus.labelFemalePlural>
+
 </LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: darkening terror -->
+  <DankPyon_AlpEclipse.label>Oscuridad aterradora</DankPyon_AlpEclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime.\n(Medieval Overhaul) -->
+  <DankPyon_AlpEclipse.description>Un eclipse está oscureciendo la superficie. Estará oscuro, incluso durante el día.</DankPyon_AlpEclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <DankPyon_AlpEclipse.endMessage>El eclipse está terminando.</DankPyon_AlpEclipse.endMessage>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <DankPyon_AlpEclipse.letterText>Una de las lunas de este planeta ha orbitado frente al sol. Ha comenzado un eclipse.</DankPyon_AlpEclipse.letterText>
+</LanguageData>

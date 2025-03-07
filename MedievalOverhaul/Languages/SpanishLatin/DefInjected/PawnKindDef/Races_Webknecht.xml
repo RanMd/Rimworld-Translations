@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Webknecht.label>Telaraña</DankPyon_Webknecht.label>
+
+  <DankPyon_Webknecht.label>Tejedora</DankPyon_Webknecht.label>
+  <DankPyon_Webknecht.labelPlural>tejedoras</DankPyon_Webknecht.labelPlural>
+  <DankPyon_Webknecht.lifeStages.0.label>cría de tejedora</DankPyon_Webknecht.lifeStages.0.label>
+  <DankPyon_Webknecht.lifeStages.0.labelPlural>crías tejedoras</DankPyon_Webknecht.lifeStages.0.labelPlural>
+  <DankPyon_Webknecht.lifeStages.0.labelMale>cría de tejedora</DankPyon_Webknecht.lifeStages.0.labelMale>
+  <DankPyon_Webknecht.lifeStages.0.labelMalePlural>crías de tejedora</DankPyon_Webknecht.lifeStages.0.labelMalePlural>
+  <DankPyon_Webknecht.lifeStages.0.labelFemale>cría de tejedora</DankPyon_Webknecht.lifeStages.0.labelFemale>
+  <DankPyon_Webknecht.lifeStages.0.labelFemalePlural>crías de tejedora</DankPyon_Webknecht.lifeStages.0.labelFemalePlural>
+  <DankPyon_Webknecht.lifeStages.1.label>tejedora joven</DankPyon_Webknecht.lifeStages.1.label>
+  <DankPyon_Webknecht.lifeStages.1.labelPlural>tejedoras jovenes</DankPyon_Webknecht.lifeStages.1.labelPlural>
+  <DankPyon_Webknecht.lifeStages.1.labelMale>tejedor joven</DankPyon_Webknecht.lifeStages.1.labelMale>
+  <DankPyon_Webknecht.lifeStages.1.labelMalePlural>tejedores jovenes</DankPyon_Webknecht.lifeStages.1.labelMalePlural>
+  <DankPyon_Webknecht.lifeStages.1.labelFemale>tejedora joven</DankPyon_Webknecht.lifeStages.1.labelFemale>
+  <DankPyon_Webknecht.lifeStages.1.labelFemalePlural>tejedoras jovenes</DankPyon_Webknecht.lifeStages.1.labelFemalePlural>
+  <DankPyon_Webknecht.lifeStages.2.label>tejedora</DankPyon_Webknecht.lifeStages.2.label>
+  <DankPyon_Webknecht.lifeStages.2.labelPlural>tejedoras</DankPyon_Webknecht.lifeStages.2.labelPlural>
+  <DankPyon_Webknecht.lifeStages.2.labelMale>tejedor</DankPyon_Webknecht.lifeStages.2.labelMale>
+  <DankPyon_Webknecht.lifeStages.2.labelMalePlural>tejedores</DankPyon_Webknecht.lifeStages.2.labelMalePlural>
+  <DankPyon_Webknecht.lifeStages.2.labelFemale>tejedora</DankPyon_Webknecht.lifeStages.2.labelFemale>
+  <DankPyon_Webknecht.lifeStages.2.labelFemalePlural>tejedoras</DankPyon_Webknecht.lifeStages.2.labelFemalePlural>
+  <DankPyon_Webknecht.labelMale>tejedor</DankPyon_Webknecht.labelMale>
+  <DankPyon_Webknecht.labelMalePlural>tejedores</DankPyon_Webknecht.labelMalePlural>
+  <DankPyon_Webknecht.labelFemale>tejedora</DankPyon_Webknecht.labelFemale>
+  <DankPyon_Webknecht.labelFemalePlural>tejedoras</DankPyon_Webknecht.labelFemalePlural>
+
 </LanguageData>

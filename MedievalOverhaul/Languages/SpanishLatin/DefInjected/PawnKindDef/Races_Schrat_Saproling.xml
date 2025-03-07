@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_SchratDark_Sapling.label>Schrat-Brote</DankPyon_SchratDark_Sapling.label>
-  <DankPyon_SchratPlain_Sapling.label>Schrat-Brote</DankPyon_SchratPlain_Sapling.label>
+
+  <DankPyon_SchratDark_Sapling.label>Brote de schrat oscuro</DankPyon_SchratDark_Sapling.label>
+  <DankPyon_SchratDark_Sapling.labelPlural>Brotes de schrat oscuro</DankPyon_SchratDark_Sapling.labelPlural>
+  <DankPyon_SchratDark_Sapling.labelMale>brote de schrat oscuro</DankPyon_SchratDark_Sapling.labelMale>
+  <DankPyon_SchratDark_Sapling.labelMalePlural>brotes de schrat oscuro</DankPyon_SchratDark_Sapling.labelMalePlural>
+  <DankPyon_SchratDark_Sapling.labelFemale>brote de schrat oscuro</DankPyon_SchratDark_Sapling.labelFemale>
+  <DankPyon_SchratDark_Sapling.labelFemalePlural>brotes de schrat oscuro</DankPyon_SchratDark_Sapling.labelFemalePlural>
+
+  <!-- Schrat Plains -->
+
+  <DankPyon_SchratPlain_Sapling.label>Brote de schrat</DankPyon_SchratPlain_Sapling.label>
+  <DankPyon_SchratPlain_Sapling.labelPlural>Brotes de schrat</DankPyon_SchratPlain_Sapling.labelPlural>
+  <DankPyon_SchratPlain_Sapling.labelMale>brote de schrat</DankPyon_SchratPlain_Sapling.labelMale>
+  <DankPyon_SchratPlain_Sapling.labelMalePlural>brotes de schrat</DankPyon_SchratPlain_Sapling.labelMalePlural>
+  <DankPyon_SchratPlain_Sapling.labelFemale>brote de schrat</DankPyon_SchratPlain_Sapling.labelFemale>
+  <DankPyon_SchratPlain_Sapling.labelFemalePlural>brotes de schrat</DankPyon_SchratPlain_Sapling.labelFemalePlural>
+
 </LanguageData>
