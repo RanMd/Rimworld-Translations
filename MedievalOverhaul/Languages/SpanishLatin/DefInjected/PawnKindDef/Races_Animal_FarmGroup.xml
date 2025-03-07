@@ -11,12 +11,12 @@
   <DankPyon_Hampshire.lifeStages.0.labelMalePlural>lechónes</DankPyon_Hampshire.lifeStages.0.labelMalePlural>
   <DankPyon_Hampshire.lifeStages.0.labelFemale>lechón hampshire</DankPyon_Hampshire.lifeStages.0.labelFemale>
   <DankPyon_Hampshire.lifeStages.0.labelFemalePlural>lechónes hampshire</DankPyon_Hampshire.lifeStages.0.labelFemalePlural>
-  <DankPyon_Hampshire.lifeStages.1.label>cerdo joven hampshire</DankPyon_Hampshire.lifeStages.1.label>
-  <DankPyon_Hampshire.lifeStages.1.labelPlural>cerdos jovenes hampshire</DankPyon_Hampshire.lifeStages.1.labelPlural>
-  <DankPyon_Hampshire.lifeStages.1.labelMale>cerdo joven hampshire</DankPyon_Hampshire.lifeStages.1.labelMale>
-  <DankPyon_Hampshire.lifeStages.1.labelMalePlural>cerdos jovenes hampshire</DankPyon_Hampshire.lifeStages.1.labelMalePlural>
-  <DankPyon_Hampshire.lifeStages.1.labelFemale>cerda joven hampshire</DankPyon_Hampshire.lifeStages.1.labelFemale>
-  <DankPyon_Hampshire.lifeStages.1.labelFemalePlural>cerdas jovenes hampshire</DankPyon_Hampshire.lifeStages.1.labelFemalePlural>
+  <DankPyon_Hampshire.lifeStages.1.label>cerdo hampshire joven</DankPyon_Hampshire.lifeStages.1.label>
+  <DankPyon_Hampshire.lifeStages.1.labelPlural>cerdos hampshire jovenes</DankPyon_Hampshire.lifeStages.1.labelPlural>
+  <DankPyon_Hampshire.lifeStages.1.labelMale>cerdo hampshire joven</DankPyon_Hampshire.lifeStages.1.labelMale>
+  <DankPyon_Hampshire.lifeStages.1.labelMalePlural>cerdos hampshire jovenes</DankPyon_Hampshire.lifeStages.1.labelMalePlural>
+  <DankPyon_Hampshire.lifeStages.1.labelFemale>cerda hampshire joven</DankPyon_Hampshire.lifeStages.1.labelFemale>
+  <DankPyon_Hampshire.lifeStages.1.labelFemalePlural>cerdas hampshire jovenes</DankPyon_Hampshire.lifeStages.1.labelFemalePlural>
   <DankPyon_Hampshire.lifeStages.2.label>cerdo hampshire</DankPyon_Hampshire.lifeStages.2.label>
   <DankPyon_Hampshire.lifeStages.2.labelPlural>cerdos hampshire</DankPyon_Hampshire.lifeStages.2.labelPlural>
   <DankPyon_Hampshire.lifeStages.2.labelMale>cerdo hampshire</DankPyon_Hampshire.lifeStages.2.labelMale>
@@ -36,12 +36,12 @@
   <DankPyon_Gloucestershire.lifeStages.0.labelMalePlural>lechones gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelMalePlural>
   <DankPyon_Gloucestershire.lifeStages.0.labelFemale>lechon gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelFemale>
   <DankPyon_Gloucestershire.lifeStages.0.labelFemalePlural>lechones gloucestershire</DankPyon_Gloucestershire.lifeStages.0.labelFemalePlural>
-  <DankPyon_Gloucestershire.lifeStages.1.label>cerdo joven gloucestershire</DankPyon_Gloucestershire.lifeStages.1.label>
-  <DankPyon_Gloucestershire.lifeStages.1.labelPlural>cerdos jovenes gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelPlural>
-  <DankPyon_Gloucestershire.lifeStages.1.labelMale>cerdo joven gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelMale>
-  <DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>cerdos jovenes gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>
-  <DankPyon_Gloucestershire.lifeStages.1.labelFemale>cerda joven gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelFemale>
-  <DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>cerdas jovenes gloucestershire</DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>
+  <DankPyon_Gloucestershire.lifeStages.1.label>cerdo gloucestershire joven</DankPyon_Gloucestershire.lifeStages.1.label>
+  <DankPyon_Gloucestershire.lifeStages.1.labelPlural>cerdos gloucestershire jovenes</DankPyon_Gloucestershire.lifeStages.1.labelPlural>
+  <DankPyon_Gloucestershire.lifeStages.1.labelMale>cerdo gloucestershire joven</DankPyon_Gloucestershire.lifeStages.1.labelMale>
+  <DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>cerdos gloucestershire jovenes</DankPyon_Gloucestershire.lifeStages.1.labelMalePlural>
+  <DankPyon_Gloucestershire.lifeStages.1.labelFemale>cerda gloucestershire joven</DankPyon_Gloucestershire.lifeStages.1.labelFemale>
+  <DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>cerdas gloucestershire jovenes</DankPyon_Gloucestershire.lifeStages.1.labelFemalePlural>
   <DankPyon_Gloucestershire.lifeStages.2.label>cerdo gloucestershire</DankPyon_Gloucestershire.lifeStages.2.label>
   <DankPyon_Gloucestershire.lifeStages.2.labelPlural>cerdos gloucestershire</DankPyon_Gloucestershire.lifeStages.2.labelPlural>
   <DankPyon_Gloucestershire.lifeStages.2.labelMale>cerdo gloucestershire</DankPyon_Gloucestershire.lifeStages.2.labelMale>
@@ -55,28 +55,12 @@
 
   <DankPyon_NorthernBoar.label>jabalí del norte</DankPyon_NorthernBoar.label>
   <DankPyon_NorthernBoar.labelPlural>jabalíes del norte</DankPyon_NorthernBoar.labelPlural>
-  <DankPyon_NorthernBoar.lifeStages.0.label>jabalí del norte</DankPyon_NorthernBoar.lifeStages.0.label>
-  <DankPyon_NorthernBoar.lifeStages.0.labelPlural>jabalíes del norte</DankPyon_NorthernBoar.lifeStages.0.labelPlural>
-  <DankPyon_NorthernBoar.lifeStages.0.labelMale>jabalí macho del norte</DankPyon_NorthernBoar.lifeStages.0.labelMale>
-  <DankPyon_NorthernBoar.lifeStages.0.labelMalePlural>jabalíes machos del norte</DankPyon_NorthernBoar.lifeStages.0.labelMalePlural>
-  <DankPyon_NorthernBoar.lifeStages.0.labelFemale>jabalí hembra del norte</DankPyon_NorthernBoar.lifeStages.0.labelFemale>
-  <DankPyon_NorthernBoar.lifeStages.0.labelFemalePlural>jabalíes hembras del norte</DankPyon_NorthernBoar.lifeStages.0.labelFemalePlural>
-  <DankPyon_NorthernBoar.lifeStages.1.label>jabalí joven del norte</DankPyon_NorthernBoar.lifeStages.1.label>
-  <DankPyon_NorthernBoar.lifeStages.1.labelPlural>jabalíes jovenes del norte</DankPyon_NorthernBoar.lifeStages.1.labelPlural>
-  <DankPyon_NorthernBoar.lifeStages.1.labelMale>jabalí joven del norte</DankPyon_NorthernBoar.lifeStages.1.labelMale>
-  <DankPyon_NorthernBoar.lifeStages.1.labelMalePlural>jabalíes jovenes del norte</DankPyon_NorthernBoar.lifeStages.1.labelMalePlural>
-  <DankPyon_NorthernBoar.lifeStages.1.labelFemale>jabalí hembra joven del norte</DankPyon_NorthernBoar.lifeStages.1.labelFemale>
-  <DankPyon_NorthernBoar.lifeStages.1.labelFemalePlural>jabalíes hembras jovenes del norte</DankPyon_NorthernBoar.lifeStages.1.labelFemalePlural>
+  <DankPyon_NorthernBoar.lifeStages.0.label>cría de jabalí del norte</DankPyon_NorthernBoar.lifeStages.0.label>
+  <DankPyon_NorthernBoar.lifeStages.0.labelPlural>crías de jabalí del norte</DankPyon_NorthernBoar.lifeStages.0.labelPlural>
+  <DankPyon_NorthernBoar.lifeStages.1.label>jabalí del norte joven</DankPyon_NorthernBoar.lifeStages.1.label>
+  <DankPyon_NorthernBoar.lifeStages.1.labelPlural>jabalíes del norte jovenes</DankPyon_NorthernBoar.lifeStages.1.labelPlural>
   <DankPyon_NorthernBoar.lifeStages.2.label>jabalí del norte</DankPyon_NorthernBoar.lifeStages.2.label>
   <DankPyon_NorthernBoar.lifeStages.2.labelPlural>jabalíes del norte</DankPyon_NorthernBoar.lifeStages.2.labelPlural>
-  <DankPyon_NorthernBoar.lifeStages.2.labelMale>jabalí macho del norte</DankPyon_NorthernBoar.lifeStages.2.labelMale>
-  <DankPyon_NorthernBoar.lifeStages.2.labelMalePlural>jabalíes machos del norte</DankPyon_NorthernBoar.lifeStages.2.labelMalePlural>
-  <DankPyon_NorthernBoar.lifeStages.2.labelFemale>jabalí hembra del norte</DankPyon_NorthernBoar.lifeStages.2.labelFemale>
-  <DankPyon_NorthernBoar.lifeStages.2.labelFemalePlural>jabalíes hembras del norte</DankPyon_NorthernBoar.lifeStages.2.labelFemalePlural>
-  <DankPyon_NorthernBoar.labelMale>jabalí macho del norte</DankPyon_NorthernBoar.labelMale>
-  <DankPyon_NorthernBoar.labelMalePlural>jabalíes machos del norte</DankPyon_NorthernBoar.labelMalePlural>
-  <DankPyon_NorthernBoar.labelFemale>jabalí hembra del norte</DankPyon_NorthernBoar.labelFemale>
-  <DankPyon_NorthernBoar.labelFemalePlural>jabalíes hembras del norte</DankPyon_NorthernBoar.labelFemalePlural>
 
   <!-- Cows -->
 

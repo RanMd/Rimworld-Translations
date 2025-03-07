@@ -5,27 +5,37 @@
 
   <DankPyon_DireBoar.label>jabalí aterrador</DankPyon_DireBoar.label>
   <DankPyon_DireBoar.labelPlural>jabalíes aterradores</DankPyon_DireBoar.labelPlural>
-  <DankPyon_DireBoar.lifeStages.0.label>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.label>
-  <DankPyon_DireBoar.lifeStages.0.labelPlural>bebés de jabalí aterrador</DankPyon_DireBoar.lifeStages.0.labelPlural>
-  <DankPyon_DireBoar.lifeStages.0.labelMale>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.labelMale>
-  <DankPyon_DireBoar.lifeStages.0.labelMalePlural>jabalíes aterradores bebés</DankPyon_DireBoar.lifeStages.0.labelMalePlural>
-  <DankPyon_DireBoar.lifeStages.0.labelFemale>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.labelFemale>
-  <DankPyon_DireBoar.lifeStages.0.labelFemalePlural>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.labelFemalePlural>
+  <DankPyon_DireBoar.lifeStages.0.label>cría de jabalí aterrador</DankPyon_DireBoar.lifeStages.0.label>
+  <DankPyon_DireBoar.lifeStages.0.labelPlural>crías de jabalí aterrador</DankPyon_DireBoar.lifeStages.0.labelPlural>
   <DankPyon_DireBoar.lifeStages.1.label>jabalí aterrador joven</DankPyon_DireBoar.lifeStages.1.label>
-  <DankPyon_DireBoar.lifeStages.1.labelPlural>jabalíes machos jóvenes</DankPyon_DireBoar.lifeStages.1.labelPlural>
-  <DankPyon_DireBoar.lifeStages.1.labelMale>jabalí aterrador macho joven</DankPyon_DireBoar.lifeStages.1.labelMale>
-  <DankPyon_DireBoar.lifeStages.1.labelMalePlural>jabalíes aterradores machos jóvenes</DankPyon_DireBoar.lifeStages.1.labelMalePlural>
-  <DankPyon_DireBoar.lifeStages.1.labelFemale>jabalí aterrador hembra joven</DankPyon_DireBoar.lifeStages.1.labelFemale>
-  <DankPyon_DireBoar.lifeStages.1.labelFemalePlural>jabalíes hembras jóvenes</DankPyon_DireBoar.lifeStages.1.labelFemalePlural>
+  <DankPyon_DireBoar.lifeStages.1.labelPlural>jabalíes aterradores jóvenes</DankPyon_DireBoar.lifeStages.1.labelPlural>
   <DankPyon_DireBoar.lifeStages.2.label>jabalí aterrador</DankPyon_DireBoar.lifeStages.2.label>
   <DankPyon_DireBoar.lifeStages.2.labelPlural>jabalíes aterradores</DankPyon_DireBoar.lifeStages.2.labelPlural>
-  <DankPyon_DireBoar.lifeStages.2.labelMale>jabalí aterrador macho</DankPyon_DireBoar.lifeStages.2.labelMale>
-  <DankPyon_DireBoar.lifeStages.2.labelMalePlural>jabalíes aterradores machos</DankPyon_DireBoar.lifeStages.2.labelMalePlural>
-  <DankPyon_DireBoar.lifeStages.2.labelFemale>jabalí aterrador hembra</DankPyon_DireBoar.lifeStages.2.labelFemale>
-  <DankPyon_DireBoar.lifeStages.2.labelFemalePlural>jabalíes aterradores hembras</DankPyon_DireBoar.lifeStages.2.labelFemalePlural>
-  <DankPyon_DireBoar.labelMale>jabalí aterrador macho</DankPyon_DireBoar.labelMale>
-  <DankPyon_DireBoar.labelMalePlural>jabalíes aterradores machos</DankPyon_DireBoar.labelMalePlural>
-  <DankPyon_DireBoar.labelFemale>jabalí aterrador hembra</DankPyon_DireBoar.labelFemale>
-  <DankPyon_DireBoar.labelFemalePlural>jabalíes aterradores hembras</DankPyon_DireBoar.labelFemalePlural>
+
+  <!-- Ejemplo traduccion completa -->
+  <!-- <DankPyon_DireBoar.label>jabalí aterrador</DankPyon_DireBoar.label> -->
+  <!-- <DankPyon_DireBoar.labelPlural>jabalíes aterradores</DankPyon_DireBoar.labelPlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.0.label>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.label> -->
+  <!-- <DankPyon_DireBoar.lifeStages.0.labelPlural>bebés de jabalí aterrador</DankPyon_DireBoar.lifeStages.0.labelPlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.0.labelMale>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.labelMale> -->
+  <!-- <DankPyon_DireBoar.lifeStages.0.labelMalePlural>jabalíes aterradores bebés</DankPyon_DireBoar.lifeStages.0.labelMalePlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.0.labelFemale>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.labelFemale> -->
+  <!-- <DankPyon_DireBoar.lifeStages.0.labelFemalePlural>jabalí aterrador bebé</DankPyon_DireBoar.lifeStages.0.labelFemalePlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.1.label>jabalí aterrador joven</DankPyon_DireBoar.lifeStages.1.label> -->
+  <!-- <DankPyon_DireBoar.lifeStages.1.labelPlural>jabalíes machos jóvenes</DankPyon_DireBoar.lifeStages.1.labelPlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.1.labelMale>jabalí aterrador macho joven</DankPyon_DireBoar.lifeStages.1.labelMale> -->
+  <!-- <DankPyon_DireBoar.lifeStages.1.labelMalePlural>jabalíes aterradores machos jóvenes</DankPyon_DireBoar.lifeStages.1.labelMalePlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.1.labelFemale>jabalí aterrador hembra joven</DankPyon_DireBoar.lifeStages.1.labelFemale> -->
+  <!-- <DankPyon_DireBoar.lifeStages.1.labelFemalePlural>jabalíes hembras jóvenes</DankPyon_DireBoar.lifeStages.1.labelFemalePlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.2.label>jabalí aterrador</DankPyon_DireBoar.lifeStages.2.label> -->
+  <!-- <DankPyon_DireBoar.lifeStages.2.labelPlural>jabalíes aterradores</DankPyon_DireBoar.lifeStages.2.labelPlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.2.labelMale>jabalí aterrador macho</DankPyon_DireBoar.lifeStages.2.labelMale> -->
+  <!-- <DankPyon_DireBoar.lifeStages.2.labelMalePlural>jabalíes aterradores machos</DankPyon_DireBoar.lifeStages.2.labelMalePlural> -->
+  <!-- <DankPyon_DireBoar.lifeStages.2.labelFemale>jabalí aterrador hembra</DankPyon_DireBoar.lifeStages.2.labelFemale> -->
+  <!-- <DankPyon_DireBoar.lifeStages.2.labelFemalePlural>jabalíes aterradores hembras</DankPyon_DireBoar.lifeStages.2.labelFemalePlural> -->
+  <!-- <DankPyon_DireBoar.labelMale>jabalí aterrador macho</DankPyon_DireBoar.labelMale> -->
+  <!-- <DankPyon_DireBoar.labelMalePlural>jabalíes aterradores machos</DankPyon_DireBoar.labelMalePlural> -->
+  <!-- <DankPyon_DireBoar.labelFemale>jabalí aterrador hembra</DankPyon_DireBoar.labelFemale> -->
+  <!-- <DankPyon_DireBoar.labelFemalePlural>jabalíes aterradores hembras</DankPyon_DireBoar.labelFemalePlural> -->
 
 </LanguageData>

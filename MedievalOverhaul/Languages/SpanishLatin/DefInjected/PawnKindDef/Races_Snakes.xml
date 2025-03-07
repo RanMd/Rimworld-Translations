@@ -7,150 +7,54 @@
   <DankPyon_LargeCobraForest.labelPlural>cobra gigante de bosque</DankPyon_LargeCobraForest.labelPlural>
   <DankPyon_LargeCobraForest.lifeStages.0.label>cría de cobra gigante</DankPyon_LargeCobraForest.lifeStages.0.label>
   <DankPyon_LargeCobraForest.lifeStages.0.labelPlural>crías de cobra gigante</DankPyon_LargeCobraForest.lifeStages.0.labelPlural>
-  <DankPyon_LargeCobraForest.lifeStages.0.labelMale>críade cobra gigante</DankPyon_LargeCobraForest.lifeStages.0.labelMale>
-  <DankPyon_LargeCobraForest.lifeStages.0.labelMalePlural>crías de cobra gigante de bosque</DankPyon_LargeCobraForest.lifeStages.0.labelMalePlural>
-  <DankPyon_LargeCobraForest.lifeStages.0.labelFemale>cría de cobra gigante de bosque</DankPyon_LargeCobraForest.lifeStages.0.labelFemale>
-  <DankPyon_LargeCobraForest.lifeStages.0.labelFemalePlural>crías de cobra gigante de bosque</DankPyon_LargeCobraForest.lifeStages.0.labelFemalePlural>
   <DankPyon_LargeCobraForest.lifeStages.1.label>cobra gigante de bosque joven</DankPyon_LargeCobraForest.lifeStages.1.label>
   <DankPyon_LargeCobraForest.lifeStages.1.labelPlural>cobras gigantes de bosque jóvenes</DankPyon_LargeCobraForest.lifeStages.1.labelPlural>
-  <DankPyon_LargeCobraForest.lifeStages.1.labelMale>cobra gigante de bosque joven</DankPyon_LargeCobraForest.lifeStages.1.labelMale>
-  <DankPyon_LargeCobraForest.lifeStages.1.labelMalePlural>cobras gigantes de bosque jóvenes</DankPyon_LargeCobraForest.lifeStages.1.labelMalePlural>
-  <DankPyon_LargeCobraForest.lifeStages.1.labelFemale>cobra gigante de bosque joven</DankPyon_LargeCobraForest.lifeStages.1.labelFemale>
-  <DankPyon_LargeCobraForest.lifeStages.1.labelFemalePlural>cobras gigantes de bosque jóvenes</DankPyon_LargeCobraForest.lifeStages.1.labelFemalePlural>
   <DankPyon_LargeCobraForest.lifeStages.2.label>cobra gigante de bosque</DankPyon_LargeCobraForest.lifeStages.2.label>
   <DankPyon_LargeCobraForest.lifeStages.2.labelPlural>cobras gigantes de bosque</DankPyon_LargeCobraForest.lifeStages.2.labelPlural>
-  <DankPyon_LargeCobraForest.lifeStages.2.labelMale>cobra gigante de bosque</DankPyon_LargeCobraForest.lifeStages.2.labelMale>
-  <DankPyon_LargeCobraForest.lifeStages.2.labelMalePlural>cobras gigantes de bosque</DankPyon_LargeCobraForest.lifeStages.2.labelMalePlural>
-  <DankPyon_LargeCobraForest.lifeStages.2.labelFemale>cobra gigante de bosque</DankPyon_LargeCobraForest.lifeStages.2.labelFemale>
-  <DankPyon_LargeCobraForest.lifeStages.2.labelFemalePlural>cobras gigantes de bosque</DankPyon_LargeCobraForest.lifeStages.2.labelFemalePlural>
-  <DankPyon_LargeCobraForest.labelMale>cobra gigante de bosque</DankPyon_LargeCobraForest.labelMale>
-  <DankPyon_LargeCobraForest.labelMalePlural>cobras gigantes de bosque</DankPyon_LargeCobraForest.labelMalePlural>
-  <DankPyon_LargeCobraForest.labelFemale>cobra gigante de bosque</DankPyon_LargeCobraForest.labelFemale>
-  <DankPyon_LargeCobraForest.labelFemalePlural>cobras gigantes de bosque</DankPyon_LargeCobraForest.labelFemalePlural>
 
   <DankPyon_LargeCobraCave.label>Cobra gigante de cueva</DankPyon_LargeCobraCave.label>
   <DankPyon_LargeCobraCave.labelPlural>cobra gigante de cueva</DankPyon_LargeCobraCave.labelPlural>
   <DankPyon_LargeCobraCave.lifeStages.0.label>cría de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.label>
   <DankPyon_LargeCobraCave.lifeStages.0.labelPlural>crías de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.labelPlural>
-  <DankPyon_LargeCobraCave.lifeStages.0.labelMale>cría de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.labelMale>
-  <DankPyon_LargeCobraCave.lifeStages.0.labelMalePlural>crías de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.labelMalePlural>
-  <DankPyon_LargeCobraCave.lifeStages.0.labelFemale>cría de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.labelFemale>
-  <DankPyon_LargeCobraCave.lifeStages.0.labelFemalePlural>crías de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.labelFemalePlural>
   <DankPyon_LargeCobraCave.lifeStages.1.label>cobra gigante de cueva joven</DankPyon_LargeCobraCave.lifeStages.1.label>
   <DankPyon_LargeCobraCave.lifeStages.1.labelPlural>cobras gigantes de cueva jóvenes</DankPyon_LargeCobraCave.lifeStages.1.labelPlural>
-  <DankPyon_LargeCobraCave.lifeStages.1.labelMale>cobra gigante de cueva joven</DankPyon_LargeCobraCave.lifeStages.1.labelMale>
-  <DankPyon_LargeCobraCave.lifeStages.1.labelMalePlural>cobras gigantes de cueva jóvenes</DankPyon_LargeCobraCave.lifeStages.1.labelMalePlural>
-  <DankPyon_LargeCobraCave.lifeStages.1.labelFemale>cobra gigante de cueva joven</DankPyon_LargeCobraCave.lifeStages.1.labelFemale>
-  <DankPyon_LargeCobraCave.lifeStages.1.labelFemalePlural>cobras gigantes de cueva jóvenes</DankPyon_LargeCobraCave.lifeStages.1.labelFemalePlural>
   <DankPyon_LargeCobraCave.lifeStages.2.label>cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.2.label>
   <DankPyon_LargeCobraCave.lifeStages.2.labelPlural>cobras gigantes de cueva</DankPyon_LargeCobraCave.lifeStages.2.labelPlural>
-  <DankPyon_LargeCobraCave.lifeStages.2.labelMale>cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.2.labelMale>
-  <DankPyon_LargeCobraCave.lifeStages.2.labelMalePlural>cobras gigantes de cueva</DankPyon_LargeCobraCave.lifeStages.2.labelMalePlural>
-  <DankPyon_LargeCobraCave.lifeStages.2.labelFemale>cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.2.labelFemale>
-  <DankPyon_LargeCobraCave.lifeStages.2.labelFemalePlural>cobras gigantes de cueva</DankPyon_LargeCobraCave.lifeStages.2.labelFemalePlural>
-  <DankPyon_LargeCobraCave.labelMale>cobra gigante de cueva</DankPyon_LargeCobraCave.labelMale>
-  <DankPyon_LargeCobraCave.labelMalePlural>cobras gigantes de cueva</DankPyon_LargeCobraCave.labelMalePlural>
-  <DankPyon_LargeCobraCave.labelFemale>cobra gigante de cueva</DankPyon_LargeCobraCave.labelFemale>
-  <DankPyon_LargeCobraCave.labelFemalePlural>cobras gigantes de cueva</DankPyon_LargeCobraCave.labelFemalePlural>
 
   <DankPyon_GiantConstrictorForest.label>Constrictor gigante de bosque</DankPyon_GiantConstrictorForest.label>
   <DankPyon_GiantConstrictorForest.labelPlural>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.labelPlural>
   <DankPyon_GiantConstrictorForest.lifeStages.0.label>cría de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.label>
   <DankPyon_GiantConstrictorForest.lifeStages.0.labelPlural>crías de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.labelPlural>
-  <DankPyon_GiantConstrictorForest.lifeStages.0.labelMale>cría de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.labelMale>
-  <DankPyon_GiantConstrictorForest.lifeStages.0.labelMalePlural>crías de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.labelMalePlural>
-  <DankPyon_GiantConstrictorForest.lifeStages.0.labelFemale>cría de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.labelFemale>
-  <DankPyon_GiantConstrictorForest.lifeStages.0.labelFemalePlural>crías de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.labelFemalePlural>
   <DankPyon_GiantConstrictorForest.lifeStages.1.label>constrictor gigante de bosque joven</DankPyon_GiantConstrictorForest.lifeStages.1.label>
   <DankPyon_GiantConstrictorForest.lifeStages.1.labelPlural>constrictores gigantes de bosque jóvenes</DankPyon_GiantConstrictorForest.lifeStages.1.labelPlural>
-  <DankPyon_GiantConstrictorForest.lifeStages.1.labelMale>constrictor gigante de bosque joven</DankPyon_GiantConstrictorForest.lifeStages.1.labelMale>
-  <DankPyon_GiantConstrictorForest.lifeStages.1.labelMalePlural>constrictores gigantes de bosque jóvenes</DankPyon_GiantConstrictorForest.lifeStages.1.labelMalePlural>
-  <DankPyon_GiantConstrictorForest.lifeStages.1.labelFemale>constrictor gigante de bosque joven</DankPyon_GiantConstrictorForest.lifeStages.1.labelFemale>
-  <DankPyon_GiantConstrictorForest.lifeStages.1.labelFemalePlural>constrictores gigantes de bosque jóvenes</DankPyon_GiantConstrictorForest.lifeStages.1.labelFemalePlural>
   <DankPyon_GiantConstrictorForest.lifeStages.2.label>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.label>
   <DankPyon_GiantConstrictorForest.lifeStages.2.labelPlural>constrictores gigantes de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.labelPlural>
-  <DankPyon_GiantConstrictorForest.lifeStages.2.labelMale>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.labelMale>
-  <DankPyon_GiantConstrictorForest.lifeStages.2.labelMalePlural>constrictores gigantes de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.labelMalePlural>
-  <DankPyon_GiantConstrictorForest.lifeStages.2.labelFemale>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.labelFemale>
-  <DankPyon_GiantConstrictorForest.lifeStages.2.labelFemalePlural>constrictores gigantes de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.labelFemalePlural>
-  <DankPyon_GiantConstrictorForest.labelMale>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.labelMale>
-  <DankPyon_GiantConstrictorForest.labelMalePlural>constrictores gigantes de bosque</DankPyon_GiantConstrictorForest.labelMalePlural>
-  <DankPyon_GiantConstrictorForest.labelFemale>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.labelFemale>
-  <DankPyon_GiantConstrictorForest.labelFemalePlural>constrictores gigantes de bosque</DankPyon_GiantConstrictorForest.labelFemalePlural>
 
   <DankPyon_GiantConstrictorCave.label>Constrictor gigante de cueva</DankPyon_GiantConstrictorCave.label>
   <DankPyon_GiantConstrictorCave.labelPlural>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.labelPlural>
   <DankPyon_GiantConstrictorCave.lifeStages.0.label>cría de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.label>
   <DankPyon_GiantConstrictorCave.lifeStages.0.labelPlural>crías de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.labelPlural>
-  <DankPyon_GiantConstrictorCave.lifeStages.0.labelMale>cría de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.labelMale>
-  <DankPyon_GiantConstrictorCave.lifeStages.0.labelMalePlural>crías de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.labelMalePlural>
-  <DankPyon_GiantConstrictorCave.lifeStages.0.labelFemale>cría de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.labelFemale>
-  <DankPyon_GiantConstrictorCave.lifeStages.0.labelFemalePlural>crías de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.labelFemalePlural>
   <DankPyon_GiantConstrictorCave.lifeStages.1.label>constrictor gigante de cueva joven</DankPyon_GiantConstrictorCave.lifeStages.1.label>
   <DankPyon_GiantConstrictorCave.lifeStages.1.labelPlural>constrictores gigantes de cueva jóvenes</DankPyon_GiantConstrictorCave.lifeStages.1.labelPlural>
-  <DankPyon_GiantConstrictorCave.lifeStages.1.labelMale>constrictor gigante de cueva joven</DankPyon_GiantConstrictorCave.lifeStages.1.labelMale>
-  <DankPyon_GiantConstrictorCave.lifeStages.1.labelMalePlural>constrictores gigantes de cueva jóvenes</DankPyon_GiantConstrictorCave.lifeStages.1.labelMalePlural>
-  <DankPyon_GiantConstrictorCave.lifeStages.1.labelFemale>constrictor gigante de cueva joven</DankPyon_GiantConstrictorCave.lifeStages.1.labelFemale>
-  <DankPyon_GiantConstrictorCave.lifeStages.1.labelFemalePlural>constrictores gigantes de cueva jóvenes</DankPyon_GiantConstrictorCave.lifeStages.1.labelFemalePlural>
   <DankPyon_GiantConstrictorCave.lifeStages.2.label>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.label>
   <DankPyon_GiantConstrictorCave.lifeStages.2.labelPlural>constrictores gigantes de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.labelPlural>
-  <DankPyon_GiantConstrictorCave.lifeStages.2.labelMale>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.labelMale>
-  <DankPyon_GiantConstrictorCave.lifeStages.2.labelMalePlural>constrictores gigantes de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.labelMalePlural>
-  <DankPyon_GiantConstrictorCave.lifeStages.2.labelFemale>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.labelFemale>
-  <DankPyon_GiantConstrictorCave.lifeStages.2.labelFemalePlural>constrictores gigantes de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.labelFemalePlural>
-  <DankPyon_GiantConstrictorCave.labelMale>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.labelMale>
-  <DankPyon_GiantConstrictorCave.labelMalePlural>constrictores gigantes de cueva</DankPyon_GiantConstrictorCave.labelMalePlural>
-  <DankPyon_GiantConstrictorCave.labelFemale>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.labelFemale>
-  <DankPyon_GiantConstrictorCave.labelFemalePlural>constrictores gigantes de cueva</DankPyon_GiantConstrictorCave.labelFemalePlural>
 
   <DankPyon_LindwurmForest.label>Lindworm</DankPyon_LindwurmForest.label>
   <DankPyon_LindwurmForest.labelPlural>lindworm</DankPyon_LindwurmForest.labelPlural>
   <DankPyon_LindwurmForest.lifeStages.0.label>cría de lindworm</DankPyon_LindwurmForest.lifeStages.0.label>
   <DankPyon_LindwurmForest.lifeStages.0.labelPlural>crías de lindworm</DankPyon_LindwurmForest.lifeStages.0.labelPlural>
-  <DankPyon_LindwurmForest.lifeStages.0.labelMale>cría de lindworm</DankPyon_LindwurmForest.lifeStages.0.labelMale>
-  <DankPyon_LindwurmForest.lifeStages.0.labelMalePlural>crías de lindworm</DankPyon_LindwurmForest.lifeStages.0.labelMalePlural>
-  <DankPyon_LindwurmForest.lifeStages.0.labelFemale>cría de lindworm</DankPyon_LindwurmForest.lifeStages.0.labelFemale>
-  <DankPyon_LindwurmForest.lifeStages.0.labelFemalePlural>crías de lindworm</DankPyon_LindwurmForest.lifeStages.0.labelFemalePlural>
   <DankPyon_LindwurmForest.lifeStages.1.label>lindworm joven</DankPyon_LindwurmForest.lifeStages.1.label>
   <DankPyon_LindwurmForest.lifeStages.1.labelPlural>lindworms jovenes</DankPyon_LindwurmForest.lifeStages.1.labelPlural>
-  <DankPyon_LindwurmForest.lifeStages.1.labelMale>lindworm joven</DankPyon_LindwurmForest.lifeStages.1.labelMale>
-  <DankPyon_LindwurmForest.lifeStages.1.labelMalePlural>lindworms jovenes</DankPyon_LindwurmForest.lifeStages.1.labelMalePlural>
-  <DankPyon_LindwurmForest.lifeStages.1.labelFemale>lindworm joven</DankPyon_LindwurmForest.lifeStages.1.labelFemale>
-  <DankPyon_LindwurmForest.lifeStages.1.labelFemalePlural>lindworms jovenes</DankPyon_LindwurmForest.lifeStages.1.labelFemalePlural>
   <DankPyon_LindwurmForest.lifeStages.2.label>lindworm</DankPyon_LindwurmForest.lifeStages.2.label>
   <DankPyon_LindwurmForest.lifeStages.2.labelPlural>lindworms</DankPyon_LindwurmForest.lifeStages.2.labelPlural>
-  <DankPyon_LindwurmForest.lifeStages.2.labelMale>lindworm</DankPyon_LindwurmForest.lifeStages.2.labelMale>
-  <DankPyon_LindwurmForest.lifeStages.2.labelMalePlural>lindworms</DankPyon_LindwurmForest.lifeStages.2.labelMalePlural>
-  <DankPyon_LindwurmForest.lifeStages.2.labelFemale>lindworm</DankPyon_LindwurmForest.lifeStages.2.labelFemale>
-  <DankPyon_LindwurmForest.lifeStages.2.labelFemalePlural>lindworms</DankPyon_LindwurmForest.lifeStages.2.labelFemalePlural>
-  <DankPyon_LindwurmForest.labelMale>lindworm</DankPyon_LindwurmForest.labelMale>
-  <DankPyon_LindwurmForest.labelMalePlural>lindworms</DankPyon_LindwurmForest.labelMalePlural>
-  <DankPyon_LindwurmForest.labelFemale>lindworm</DankPyon_LindwurmForest.labelFemale>
-  <DankPyon_LindwurmForest.labelFemalePlural>lindworms</DankPyon_LindwurmForest.labelFemalePlural>
 
   <DankPyon_LindwurmCave.label>Lindworm de cueva</DankPyon_LindwurmCave.label>
   <DankPyon_LindwurmCave.labelPlural>lindworm de cueva</DankPyon_LindwurmCave.labelPlural>
   <DankPyon_LindwurmCave.lifeStages.0.label>cría de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.label>
   <DankPyon_LindwurmCave.lifeStages.0.labelPlural>crías de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.labelPlural>
-  <DankPyon_LindwurmCave.lifeStages.0.labelMale>cría de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.labelMale>
-  <DankPyon_LindwurmCave.lifeStages.0.labelMalePlural>crías de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.labelMalePlural>
-  <DankPyon_LindwurmCave.lifeStages.0.labelFemale>cría de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.labelFemale>
-  <DankPyon_LindwurmCave.lifeStages.0.labelFemalePlural>crías de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.labelFemalePlural>
   <DankPyon_LindwurmCave.lifeStages.1.label>lindworm de cueva joven</DankPyon_LindwurmCave.lifeStages.1.label>
   <DankPyon_LindwurmCave.lifeStages.1.labelPlural>lindworms de cueva jovenes</DankPyon_LindwurmCave.lifeStages.1.labelPlural>
-  <DankPyon_LindwurmCave.lifeStages.1.labelMale>lindworm de cueva joven</DankPyon_LindwurmCave.lifeStages.1.labelMale>
-  <DankPyon_LindwurmCave.lifeStages.1.labelMalePlural>lindworms de cueva jovenes</DankPyon_LindwurmCave.lifeStages.1.labelMalePlural>
-  <DankPyon_LindwurmCave.lifeStages.1.labelFemale>lindworm de cueva joven</DankPyon_LindwurmCave.lifeStages.1.labelFemale>
-  <DankPyon_LindwurmCave.lifeStages.1.labelFemalePlural>lindworms de cueva jovenes</DankPyon_LindwurmCave.lifeStages.1.labelFemalePlural>
   <DankPyon_LindwurmCave.lifeStages.2.label>lindworm de cueva</DankPyon_LindwurmCave.lifeStages.2.label>
   <DankPyon_LindwurmCave.lifeStages.2.labelPlural>lindworms de cueva</DankPyon_LindwurmCave.lifeStages.2.labelPlural>
-  <DankPyon_LindwurmCave.lifeStages.2.labelMale>lindworm de cueva</DankPyon_LindwurmCave.lifeStages.2.labelMale>
-  <DankPyon_LindwurmCave.lifeStages.2.labelMalePlural>lindworms de cueva</DankPyon_LindwurmCave.lifeStages.2.labelMalePlural>
-  <DankPyon_LindwurmCave.lifeStages.2.labelFemale>lindworm de cueva</DankPyon_LindwurmCave.lifeStages.2.labelFemale>
-  <DankPyon_LindwurmCave.lifeStages.2.labelFemalePlural>lindworms de cueva</DankPyon_LindwurmCave.lifeStages.2.labelFemalePlural>
-  <DankPyon_LindwurmCave.labelMale>lindworm de cueva</DankPyon_LindwurmCave.labelMale>
-  <DankPyon_LindwurmCave.labelMalePlural>lindworms de cueva</DankPyon_LindwurmCave.labelMalePlural>
-  <DankPyon_LindwurmCave.labelFemale>lindworm de cueva</DankPyon_LindwurmCave.labelFemale>
-  <DankPyon_LindwurmCave.labelFemalePlural>lindworms de cueva</DankPyon_LindwurmCave.labelFemalePlural>
 
 </LanguageData>
