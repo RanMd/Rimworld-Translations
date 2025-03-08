@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.2>title->Las Crónicas de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.2>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.3>title->Secretos de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.3>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.4>title->Un Tratado sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.4>
@@ -14,13 +15,13 @@
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.13>title>Crónicas de [subject_primary], Vol. [volNumeral]</DankPyon_AncientLore_Name.rulePack.rulesStrings.13>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.14>title>Perspectivas [randAdjective] sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.14>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.15>title>Secretos [randAdjective] de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.15>
-  <!-- Libros Autorizados -->
+
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.22>maybe_authored_title->Códice de [author_gen]</DankPyon_AncientLore_Name.rulePack.rulesStrings.22>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.23>maybe_authored_title->Manuscrito de [author_gen]</DankPyon_AncientLore_Name.rulePack.rulesStrings.23>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.24>author_gen->Tratado de [ANYPAWN_nameIndef]</DankPyon_AncientLore_Name.rulePack.rulesStrings.24>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.25>author_gen->Crónica de [ANYPAWN_nameIndef]</DankPyon_AncientLore_Name.rulePack.rulesStrings.25>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.26>author_gen->Anales de [ANYPAWN_nameIndef]</DankPyon_AncientLore_Name.rulePack.rulesStrings.26>
-  <!-- Títulos -->
+
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.27>randAdjective->Antiguo</DankPyon_AncientLore_Name.rulePack.rulesStrings.27>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.28>randAdjective->Místico</DankPyon_AncientLore_Name.rulePack.rulesStrings.28>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.29>randAdjective->Olvidado</DankPyon_AncientLore_Name.rulePack.rulesStrings.29>
@@ -39,4 +40,5 @@
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.42>randAdjective->Mágico</DankPyon_AncientLore_Name.rulePack.rulesStrings.42>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.43>randAdjective->Pesado</DankPyon_AncientLore_Name.rulePack.rulesStrings.43>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.44>randAdjective->Prehistórico</DankPyon_AncientLore_Name.rulePack.rulesStrings.44>
+
 </LanguageData>

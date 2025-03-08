@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Unique Books -->
+
+  <DankPyon_Title_OnEnglish.rulePack.rulesStrings.0>title->《Sur y Norte—De Dialectos a Inglés Medio》</DankPyon_Title_OnEnglish.rulePack.rulesStrings.0>
+  <DankPyon_Description_OnEnglish.rulePack.rulesStrings.0>desc->“Un comerciante llamado Sheffield vino del norte de Inglaterra. Entró en una casa y preguntó a la dueña si podía comprar algunos "egges (huevos)". Ella respondió que no hablaba francés, lo que enfureció al comerciante porque él tampoco hablaba francés. Afortunadamente, un espectador intervino y explicó a la dueña que el comerciante quería comprar "eyren (huevos)", resolviendo así el malentendido.”\n\nEntonces, ¿cuál es la forma estándar de escribir huevos? ¿Debería usarse el término del norte "egges" o el del sur "eyren"? Debido a la diversidad y el cambio del lenguaje, es difícil satisfacer a todos. Problemas como este tardaron años en resolverse, pero gradualmente formaron lo que más tarde se conoció como "Inglés Medio (Middle English)".</DankPyon_Description_OnEnglish.rulePack.rulesStrings.0>
+
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.0>title->[titleBasic]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.0>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.1>titleBasic->[medievalTopic] de [goldAdjective] lección</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.1>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.2>titleBasic>Un [goldAdjective] [medievalTopic] [textbook]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.2>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.3>titleBasic>[goldAdjective] [medievalTopic] [textbook]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.3>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.4>titleBasic>Un [goldAdjective] [textbook] sobre [medievalTopic]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.4>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.5>titleBasic>[medievalTopic] [goldAdjective] claves</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.5>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.6>titleBasic>[goldAdjective] [textbook]: Dominando [medievalTopic]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.6>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.7>titleBasic>[goldAdjective] [textbook]: Fundamentos de [medievalTopic]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.7>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.8>titleBasic>Conceptos clave de [medievalTopic]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.8>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.9>titleBasic>El arte [goldAdjective] de [medievalTopic]</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.9>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.10>goldAdjective->Dorado</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.10>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.11>goldAdjective->Lujoso</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.11>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.12>goldAdjective->Oro</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.12>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.13>textbook->Tomo</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.13>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.14>textbook->Código</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.14>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.15>textbook->Registro</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.15>
+  <DankPyon_Namer_OrnateTome.rulePack.rulesStrings.16>textbook->Introducción</DankPyon_Namer_OrnateTome.rulePack.rulesStrings.16>
+
+  <!-- Ornate Tome -->
+
+  <Description_OrnateTome.rulePack.rulesStrings.0>desc->[discusión]。\n\n[anécdota]。[producción]。\n\n[declaración_de_calidad]。</Description_OrnateTome.rulePack.rulesStrings.0>
+  <Description_OrnateTome.rulePack.rulesStrings.1>discussion->Este [libro_de_texto] detallado documenta [tema_medieval] con [información_útil][detalle]</Description_OrnateTome.rulePack.rulesStrings.1>
+  <Description_OrnateTome.rulePack.rulesStrings.2>discussion->Este [libro_de_texto] ornamentado establece la autoridad de [tipo_de_autor] en el campo de [tema_medieval][detalle]</Description_OrnateTome.rulePack.rulesStrings.2>
+  <Description_OrnateTome.rulePack.rulesStrings.3>discussion->Aquellos que buscan [tema_medieval][sinónimo_de_comprensión] han leído este [adjetivo_notable][libro_de_texto][detalle]</Description_OrnateTome.rulePack.rulesStrings.3>
+  <Description_OrnateTome.rulePack.rulesStrings.4>discussion->Un antiguo [libro_de_texto] documenta [tema_medieval][detalle]</Description_OrnateTome.rulePack.rulesStrings.4>
+  <Description_OrnateTome.rulePack.rulesStrings.5>discussion->Un manuscrito [libro_de_texto] que documenta [tema_medieval], escrito por un [tipo_de_autor] olvidado hace mucho tiempo[detalle]</Description_OrnateTome.rulePack.rulesStrings.5>
+  <Description_OrnateTome.rulePack.rulesStrings.6>detail->。Su [sinónimo_de_resumen] se centra en las técnicas prácticas de su tema</Description_OrnateTome.rulePack.rulesStrings.6>
+  <Description_OrnateTome.rulePack.rulesStrings.7>detail->。Es un [sinónimo_de_resumen] de un tema complejo</Description_OrnateTome.rulePack.rulesStrings.7>
+  <Description_OrnateTome.rulePack.rulesStrings.8>detail->。[sinónimo_de_resumen] menciona que, en el momento de escribir bajo [nombre_medieval], su contenido era el conocimiento más avanzado en ese campo</Description_OrnateTome.rulePack.rulesStrings.8>
+  <Description_OrnateTome.rulePack.rulesStrings.9>detail->。En [ubicación_de_nota] hay una frase que dice: "Los verdaderos [estudiantes] de [tema_medieval] nunca deben ignorar el libro de [nombre_medieval]"</Description_OrnateTome.rulePack.rulesStrings.9>
+  <Description_OrnateTome.rulePack.rulesStrings.10>students->estudiantes</Description_OrnateTome.rulePack.rulesStrings.10>
+  <Description_OrnateTome.rulePack.rulesStrings.11>students->académicos</Description_OrnateTome.rulePack.rulesStrings.11>
+  <Description_OrnateTome.rulePack.rulesStrings.12>students->historiadores</Description_OrnateTome.rulePack.rulesStrings.12>
+  <Description_OrnateTome.rulePack.rulesStrings.13>detail->。Te llevará a comprender su tema paso a paso</Description_OrnateTome.rulePack.rulesStrings.13>
+  <Description_OrnateTome.rulePack.rulesStrings.14>detail(quality[less_than]4)->，aunque [tipo_de_autor] solo toca superficialmente su tema</Description_OrnateTome.rulePack.rulesStrings.14>
+  <Description_OrnateTome.rulePack.rulesStrings.15>detail(quality[greater_than]3)->。Integra y condensa la esencia del tema</Description_OrnateTome.rulePack.rulesStrings.15>
+  <Description_OrnateTome.rulePack.rulesStrings.16>detail->。[tipo_de_autor] menciona en [sinónimo_de_resumen] que aunque hay innumerables copias falsas, esta es definitivamente la original</Description_OrnateTome.rulePack.rulesStrings.16>
+  <Description_OrnateTome.rulePack.rulesStrings.17>detail(quality[less_than]4)->，aunque intentar transmitir sus ideas con palabras en lugar de discurso fue un error</Description_OrnateTome.rulePack.rulesStrings.17>
+  <Description_OrnateTome.rulePack.rulesStrings.18>detail->。[tipo_de_autor] usa un lenguaje exagerado en [sinónimo_de_resumen] que no afecta la expresión de su concepto central</Description_OrnateTome.rulePack.rulesStrings.18>
+  <Description_OrnateTome.rulePack.rulesStrings.19>detail->。[tipo_de_autor] usa un lenguaje exagerado en [sinónimo_de_resumen] que no afecta la expresión de su concepto central</Description_OrnateTome.rulePack.rulesStrings.19>
+  <Description_OrnateTome.rulePack.rulesStrings.20>authorType->escriba</Description_OrnateTome.rulePack.rulesStrings.20>
+  <Description_OrnateTome.rulePack.rulesStrings.21>authorType->cronista</Description_OrnateTome.rulePack.rulesStrings.21>
+  <Description_OrnateTome.rulePack.rulesStrings.22>authorType->historiador</Description_OrnateTome.rulePack.rulesStrings.22>
+  <Description_OrnateTome.rulePack.rulesStrings.23>authorType->escritor</Description_OrnateTome.rulePack.rulesStrings.23>
+  <Description_OrnateTome.rulePack.rulesStrings.24>authorType->guardián_del_tiempo</Description_OrnateTome.rulePack.rulesStrings.24>
+  <Description_OrnateTome.rulePack.rulesStrings.25>production->Su [sinónimo_de_resumen] menciona que es una copia manuscrita transcrita en [imperio_antiguo]</Description_OrnateTome.rulePack.rulesStrings.25>
+  <Description_OrnateTome.rulePack.rulesStrings.26>production->Su [sinónimo_de_resumen] menciona que los [tipo_de_autor] de [imperio_antiguo] lo consideraban una obra maestra</Description_OrnateTome.rulePack.rulesStrings.26>
+  <Description_OrnateTome.rulePack.rulesStrings.27>production->Su [sinónimo_de_resumen] menciona que aunque estos materiales fueron originalmente para las notas personales de [nombre_medieval], se difundieron ampliamente</Description_OrnateTome.rulePack.rulesStrings.27>
+  <Description_OrnateTome.rulePack.rulesStrings.28>production->Las partes útiles de este [libro_de_texto] están ocultas en la biografía</Description_OrnateTome.rulePack.rulesStrings.28>
+  <Description_OrnateTome.rulePack.rulesStrings.29>production->La [nota] escrita a mano en [ubicación_de_nota] indica que la imprenta de [región_medieval] cerró después del caos en [imperio_antiguo], por lo que estas versiones posteriores son raras</Description_OrnateTome.rulePack.rulesStrings.29>
+  <Description_OrnateTome.rulePack.rulesStrings.30>production->La [nota] grabada dice que la mayoría de los manuscritos de este [libro_de_texto] se perdieron durante el evento de [región_medieval]</Description_OrnateTome.rulePack.rulesStrings.30>
+  <Description_OrnateTome.rulePack.rulesStrings.31>production->El [sinónimo_de_resumen] deja claro que los lectores interesados en la tecnología de transmisión de información antigua tienden a evitar esta serie de [libro_de_texto], pero no dice por qué</Description_OrnateTome.rulePack.rulesStrings.31>
+  <Description_OrnateTome.rulePack.rulesStrings.32>production->Es evidente en [ubicación_de_nota] que los seguidores de [tema_medieval] de [imperio_antiguo] gastaron grandes sumas de dinero para copiar este libro y luego lo distribuyeron ampliamente</Description_OrnateTome.rulePack.rulesStrings.32>
+  <Description_OrnateTome.rulePack.rulesStrings.33>production->[ubicación_de_nota] explica que los primeros manuscritos de este libro fueron escritos a mano por [nombre_medieval][objetivo_de_ANYPAWN]</Description_OrnateTome.rulePack.rulesStrings.33>
+  <Description_OrnateTome.rulePack.rulesStrings.34>production->La duquesa de [imperio_antiguo] patrocinó este [libro_de_texto] con la condición de que se distribuyera gratuitamente</Description_OrnateTome.rulePack.rulesStrings.34>
+  <Description_OrnateTome.rulePack.rulesStrings.35>production->Al ver la gramática desordenada dentro, los [tipo_de_autor] podrían haber cumplido con sus deberes editoriales de manera más directa</Description_OrnateTome.rulePack.rulesStrings.35>
+  <Description_OrnateTome.rulePack.rulesStrings.36>quality_statement->[calidad_exterior][calidad_de_página]</Description_OrnateTome.rulePack.rulesStrings.36>
+  <Description_OrnateTome.rulePack.rulesStrings.37>anecdote->Dado que hay una gran diferencia entre el año de nacimiento de [nombre_completo_de_ANYPAWN] y la fecha de publicación de este libro, es poco probable que [pronombre_de_ANYPAWN] haya vivido para ver la publicación de este libro</Description_OrnateTome.rulePack.rulesStrings.37>
+  <Description_OrnateTome.rulePack.rulesStrings.38>anecdote->En [ubicación_de_nota], alguien dejó un comentario severo sobre este libro</Description_OrnateTome.rulePack.rulesStrings.38>
+  <Description_OrnateTome.rulePack.rulesStrings.39>anecdote->El [sinónimo_de_resumen] muestra que este libro pasó la revisión de la biblioteca principal de [región_medieval]</Description_OrnateTome.rulePack.rulesStrings.39>
+  <Description_OrnateTome.rulePack.rulesStrings.40>anecdote->Según [ubicación_de_nota], [nombre_completo_de_ANYPAWN] era conocido por su dominio de múltiples disciplinas</Description_OrnateTome.rulePack.rulesStrings.40>
+  <Description_OrnateTome.rulePack.rulesStrings.41>anecdote->Según [ubicación_de_nota], la gente de [región_medieval] todavía habla de [nombre_completo_de_ANYPAWN] y recuerda su amor por [tema_medieval]</Description_OrnateTome.rulePack.rulesStrings.41>
+  <Description_OrnateTome.rulePack.rulesStrings.42>anecdote->Según [ubicación_de_nota], el autor [tipo_de_autor] murió poco después de la publicación debido a un incidente inusual</Description_OrnateTome.rulePack.rulesStrings.42>
+  <Description_OrnateTome.rulePack.rulesStrings.43>anecdote->Según [sinónimo_de_resumen], [nombre_completo_de_ANYPAWN] pasaba todo el día enseñando en la academia de [región_medieval]. El contenido de este libro se extrajo de sus conferencias</Description_OrnateTome.rulePack.rulesStrings.43>
+  <Description_OrnateTome.rulePack.rulesStrings.44>anecdote->Según [ubicación_de_nota], [nombre_completo_de_ANYPAWN] estaba en la miseria y vendió los derechos de la serie a un precio muy bajo</Description_OrnateTome.rulePack.rulesStrings.44>
+  <Description_OrnateTome.rulePack.rulesStrings.45>anecdote->Según [ubicación_de_nota], [nombre_completo_de_ANYPAWN] nació ciego, por lo que nunca pudo leer su propio libro</Description_OrnateTome.rulePack.rulesStrings.45>
+  <Description_OrnateTome.rulePack.rulesStrings.46>anecdote->Según [ubicación_de_nota], el borrador inicial del libro de [nombre_completo_de_ANYPAWN] fue criticado por tener cincuenta páginas de digresiones. Luego, la segunda edición fue reducida</Description_OrnateTome.rulePack.rulesStrings.46>
+  <Description_OrnateTome.rulePack.rulesStrings.47>anecdote->Según [ubicación_de_nota], la reputación personal de [nombre_completo_de_ANYPAWN] era tan mala que [pronombre_de_ANYPAWN] publicó este libro bajo un seudónimo</Description_OrnateTome.rulePack.rulesStrings.47>
+  <Description_OrnateTome.rulePack.rulesStrings.48>anecdote->Según [ubicación_de_nota], [nombre_completo_de_ANYPAWN] no mostró ninguna habilidad en su infancia, lo que llevó a sus padres a desesperarse hasta que este libro demostró sus habilidades</Description_OrnateTome.rulePack.rulesStrings.48>
+  <Description_OrnateTome.rulePack.rulesStrings.49>textbook->tomo_ornamentado</Description_OrnateTome.rulePack.rulesStrings.49>
+  <Description_OrnateTome.rulePack.rulesStrings.50>textbook->tomo_dorado</Description_OrnateTome.rulePack.rulesStrings.50>
+  <Description_OrnateTome.rulePack.rulesStrings.51>textbook->tomo_antiguo</Description_OrnateTome.rulePack.rulesStrings.51>
+  <Description_OrnateTome.rulePack.rulesStrings.52>textbook->registro_histórico</Description_OrnateTome.rulePack.rulesStrings.52>
+  <Description_OrnateTome.rulePack.rulesStrings.53>textbook(p=6)->libro</Description_OrnateTome.rulePack.rulesStrings.53>
+  <Description_OrnateTome.rulePack.rulesStrings.54>textbook->resumen_ornamentado</Description_OrnateTome.rulePack.rulesStrings.54>
+  <Description_OrnateTome.rulePack.rulesStrings.55>precis_synonym->resumen</Description_OrnateTome.rulePack.rulesStrings.55>
+  <Description_OrnateTome.rulePack.rulesStrings.56>precis_synonym->ilustración_de_portada</Description_OrnateTome.rulePack.rulesStrings.56>
+  <Description_OrnateTome.rulePack.rulesStrings.57>precis_synonym->extracto</Description_OrnateTome.rulePack.rulesStrings.57>
+  <Description_OrnateTome.rulePack.rulesStrings.58>precis_synonym->sinopsis</Description_OrnateTome.rulePack.rulesStrings.58>
+  <Description_OrnateTome.rulePack.rulesStrings.59>precis_synonym->esquema</Description_OrnateTome.rulePack.rulesStrings.59>
+  <Description_OrnateTome.rulePack.rulesStrings.60>note_location->portada</Description_OrnateTome.rulePack.rulesStrings.60>
+  <Description_OrnateTome.rulePack.rulesStrings.61>note_location->contraportada</Description_OrnateTome.rulePack.rulesStrings.61>
+  <Description_OrnateTome.rulePack.rulesStrings.62>note_location->cubierta_frontal</Description_OrnateTome.rulePack.rulesStrings.62>
+  <Description_OrnateTome.rulePack.rulesStrings.63>note_location->cubierta_trasera</Description_OrnateTome.rulePack.rulesStrings.63>
+  <Description_OrnateTome.rulePack.rulesStrings.64>note_location->primera_página</Description_OrnateTome.rulePack.rulesStrings.64>
+  <Description_OrnateTome.rulePack.rulesStrings.65>note_location->última_página</Description_OrnateTome.rulePack.rulesStrings.65>
+  <Description_OrnateTome.rulePack.rulesStrings.66>note_location->margen</Description_OrnateTome.rulePack.rulesStrings.66>
+  <Description_OrnateTome.rulePack.rulesStrings.67>note_location->página_de_guardia</Description_OrnateTome.rulePack.rulesStrings.67>
+  <Description_OrnateTome.rulePack.rulesStrings.68>note_location->nota_al_pie</Description_OrnateTome.rulePack.rulesStrings.68>
+  <Description_OrnateTome.rulePack.rulesStrings.69>note_location->nota_final</Description_OrnateTome.rulePack.rulesStrings.69>
+  <Description_OrnateTome.rulePack.rulesStrings.70>note_location->biografía_del_autor</Description_OrnateTome.rulePack.rulesStrings.70>
+  <Description_OrnateTome.rulePack.rulesStrings.71>note->nota</Description_OrnateTome.rulePack.rulesStrings.71>
+  <Description_OrnateTome.rulePack.rulesStrings.72>note->apéndice</Description_OrnateTome.rulePack.rulesStrings.72>
+  <Description_OrnateTome.rulePack.rulesStrings.73>note->posdata</Description_OrnateTome.rulePack.rulesStrings.73>
+  <Description_OrnateTome.rulePack.rulesStrings.74>note->epílogo</Description_OrnateTome.rulePack.rulesStrings.74>
+  <Description_OrnateTome.rulePack.rulesStrings.75>note->apéndice</Description_OrnateTome.rulePack.rulesStrings.75>
+  <Description_OrnateTome.rulePack.rulesStrings.76>note->final</Description_OrnateTome.rulePack.rulesStrings.76>
+  <Description_OrnateTome.rulePack.rulesStrings.77>note->nota_al_pie</Description_OrnateTome.rulePack.rulesStrings.77>
+  <Description_OrnateTome.rulePack.rulesStrings.78>note->nota_final</Description_OrnateTome.rulePack.rulesStrings.78>
+  <Description_OrnateTome.rulePack.rulesStrings.79>useful_information->anécdota</Description_OrnateTome.rulePack.rulesStrings.79>
+  <Description_OrnateTome.rulePack.rulesStrings.80>useful_information->información_útil</Description_OrnateTome.rulePack.rulesStrings.80>
+  <Description_OrnateTome.rulePack.rulesStrings.81>useful_information->información_interesante</Description_OrnateTome.rulePack.rulesStrings.81>
+  <Description_OrnateTome.rulePack.rulesStrings.82>useful_information->perspectiva_valiosa</Description_OrnateTome.rulePack.rulesStrings.82>
+  <Description_OrnateTome.rulePack.rulesStrings.83>useful_information->experiencia_práctica</Description_OrnateTome.rulePack.rulesStrings.83>
+  <Description_OrnateTome.rulePack.rulesStrings.84>useful_information->consejo_útil</Description_OrnateTome.rulePack.rulesStrings.84>
+  <Description_OrnateTome.rulePack.rulesStrings.85>useful_information->información_detallada</Description_OrnateTome.rulePack.rulesStrings.85>
+  <Description_OrnateTome.rulePack.rulesStrings.86>understanding_synonym->conocimiento</Description_OrnateTome.rulePack.rulesStrings.86>
+  <Description_OrnateTome.rulePack.rulesStrings.87>understanding_synonym->auto_mejora</Description_OrnateTome.rulePack.rulesStrings.87>
+  <Description_OrnateTome.rulePack.rulesStrings.88>understanding_synonym->comprensión</Description_OrnateTome.rulePack.rulesStrings.88>
+  <Description_OrnateTome.rulePack.rulesStrings.89>understanding_synonym->erudición</Description_OrnateTome.rulePack.rulesStrings.89>
+  <Description_OrnateTome.rulePack.rulesStrings.90>understanding_synonym->sabiduría</Description_OrnateTome.rulePack.rulesStrings.90>
+  <Description_OrnateTome.rulePack.rulesStrings.91>understanding_synonym->conocimiento_experto</Description_OrnateTome.rulePack.rulesStrings.91>
+  <Description_OrnateTome.rulePack.rulesStrings.92>understanding_synonym->filosofía</Description_OrnateTome.rulePack.rulesStrings.92>
+  <Description_OrnateTome.rulePack.rulesStrings.93>understanding_synonym->moral</Description_OrnateTome.rulePack.rulesStrings.93>
+  <Description_OrnateTome.rulePack.rulesStrings.94>notable_adjective->famoso</Description_OrnateTome.rulePack.rulesStrings.94>
+  <Description_OrnateTome.rulePack.rulesStrings.95>notable_adjective->desconocido</Description_OrnateTome.rulePack.rulesStrings.95>
+  <Description_OrnateTome.rulePack.rulesStrings.96>notable_adjective->icónico</Description_OrnateTome.rulePack.rulesStrings.96>
+  <Description_OrnateTome.rulePack.rulesStrings.97>notable_adjective->clásico</Description_OrnateTome.rulePack.rulesStrings.97>
+  <Description_OrnateTome.rulePack.rulesStrings.98>notable_adjective->común</Description_OrnateTome.rulePack.rulesStrings.98>
+  <Description_OrnateTome.rulePack.rulesStrings.99>notable_adjective->familiar</Description_OrnateTome.rulePack.rulesStrings.99>
+  <Description_OrnateTome.rulePack.rulesStrings.100>notable_adjective->eterno</Description_OrnateTome.rulePack.rulesStrings.100>
+  <Description_OrnateTome.rulePack.rulesStrings.101>notable_adjective->sesgado</Description_OrnateTome.rulePack.rulesStrings.101>
+  <Description_OrnateTome.rulePack.rulesStrings.102>notable_adjective->armonioso</Description_OrnateTome.rulePack.rulesStrings.102>
+  <Description_OrnateTome.rulePack.rulesStrings.103>notable_adjective->elegante</Description_OrnateTome.rulePack.rulesStrings.103>
+  <Description_OrnateTome.rulePack.rulesStrings.104>notable_adjective->simple</Description_OrnateTome.rulePack.rulesStrings.104>
+  <Description_OrnateTome.rulePack.rulesStrings.105>notable_adjective->práctico</Description_OrnateTome.rulePack.rulesStrings.105>
+  <Description_OrnateTome.rulePack.rulesStrings.106>notable_adjective->urbano</Description_OrnateTome.rulePack.rulesStrings.106>
+  <Description_OrnateTome.rulePack.rulesStrings.107>notable_adjective->primitivo</Description_OrnateTome.rulePack.rulesStrings.107>
+  <Description_OrnateTome.rulePack.rulesStrings.108>notable_adjective->decorativo</Description_OrnateTome.rulePack.rulesStrings.108>
+  <Description_OrnateTome.rulePack.rulesStrings.109>exterior_quality(quality[greater_than]4)->La cubierta dorada de este tomo ornamentado está bellamente trabajada y</Description_OrnateTome.rulePack.rulesStrings.109>
+  <Description_OrnateTome.rulePack.rulesStrings.110>exterior_quality(quality[greater_than]4)->Este tomo ornamentado es una obra maestra del arte del manuscrito iluminado, resplandeciente y</Description_OrnateTome.rulePack.rulesStrings.110>
+  <Description_OrnateTome.rulePack.rulesStrings.111>exterior_quality(quality[greater_than]4)->Su funda de cuero es áspera pero</Description_OrnateTome.rulePack.rulesStrings.111>
+  <Description_OrnateTome.rulePack.rulesStrings.112>exterior_quality(quality[greater_than]4)->Aunque la cubierta está muy desgastada,</Description_OrnateTome.rulePack.rulesStrings.112>
+  <Description_OrnateTome.rulePack.rulesStrings.113>exterior_quality(quality[less_than]5,quality[greater_than]1)->Este tomo ornamentado está desactualizado, pero</Description_OrnateTome.rulePack.rulesStrings.113>
+  <Description_OrnateTome.rulePack.rulesStrings.114>exterior_quality(quality[less_than]5,quality[greater_than]1)->Este tomo ornamentado ha pasado por muchas manos, pero</Description_OrnateTome.rulePack.rulesStrings.114>
+  <Description_OrnateTome.rulePack.rulesStrings.115>exterior_quality(quality[less_than]2)->La cubierta de este tomo ornamentado parece atractiva, pero</Description_OrnateTome.rulePack.rulesStrings.115>
+  <Description_OrnateTome.rulePack.rulesStrings.116>exterior_quality(quality[less_than]2)->Alguien arrancó el primer tercio de este libro y</Description_OrnateTome.rulePack.rulesStrings.116>
+  <Description_OrnateTome.rulePack.rulesStrings.117>exterior_quality(quality[less_than]2)->La lujosa cubierta parece haber absorbido un líquido de olor fuerte,</Description_OrnateTome.rulePack.rulesStrings.117>
+  <Description_OrnateTome.rulePack.rulesStrings.118>exterior_quality(quality[less_than]2)->A primera vista, este libro no parece tener ningún problema, pero</Description_OrnateTome.rulePack.rulesStrings.118>
+  <Description_OrnateTome.rulePack.rulesStrings.119>page_quality->páginas[condición_de_página]</Description_OrnateTome.rulePack.rulesStrings.119>
+  <Description_OrnateTome.rulePack.rulesStrings.120>page_condition(quality[greater_than]4)->[página_excelente]</Description_OrnateTome.rulePack.rulesStrings.120>
+  <Description_OrnateTome.rulePack.rulesStrings.121>page_condition(quality[less_than]5,quality[greater_than]1)->[página_decente]</Description_OrnateTome.rulePack.rulesStrings.121>
+  <Description_OrnateTome.rulePack.rulesStrings.122>page_condition(quality[less_than]2)->[página_horrible]</Description_OrnateTome.rulePack.rulesStrings.122>
+  <Description_OrnateTome.rulePack.rulesStrings.123>page_excellent->en excelente estado, como si nunca hubiera sido tocada</Description_OrnateTome.rulePack.rulesStrings.123>
+  <Description_OrnateTome.rulePack.rulesStrings.124>page_excellent->en buen estado</Description_OrnateTome.rulePack.rulesStrings.124>
+  <Description_OrnateTome.rulePack.rulesStrings.125>page_excellent->de fabricación original</Description_OrnateTome.rulePack.rulesStrings.125>
+  <Description_OrnateTome.rulePack.rulesStrings.126>page_excellent->brillante y limpia</Description_OrnateTome.rulePack.rulesStrings.126>
+  <Description_OrnateTome.rulePack.rulesStrings.127>page_excellent->muy bien conservada</Description_OrnateTome.rulePack.rulesStrings.127>
+  <Description_OrnateTome.rulePack.rulesStrings.128>page_decent->en buen estado</Description_OrnateTome.rulePack.rulesStrings.128>
+  <Description_OrnateTome.rulePack.rulesStrings.129>page_decent->el texto es legible, aunque con algunas arrugas</Description_OrnateTome.rulePack.rulesStrings.129>
+  <Description_OrnateTome.rulePack.rulesStrings.130>page_decent->el texto es completamente legible</Description_OrnateTome.rulePack.rulesStrings.130>
+  <Description_OrnateTome.rulePack.rulesStrings.131>page_decent->bastante bien conservada, aunque con algunos rasguños</Description_OrnateTome.rulePack.rulesStrings.131>
+  <Description_OrnateTome.rulePack.rulesStrings.132>page_awful->como pergamino roto</Description_OrnateTome.rulePack.rulesStrings.132>
+  <Description_OrnateTome.rulePack.rulesStrings.133>page_awful->gravemente dañada</Description_OrnateTome.rulePack.rulesStrings.133>
+  <Description_OrnateTome.rulePack.rulesStrings.134>page_awful->manchada con una sustancia oscura</Description_OrnateTome.rulePack.rulesStrings.134>
+  <Description_OrnateTome.rulePack.rulesStrings.135>page_awful->el texto es difícil de leer</Description_OrnateTome.rulePack.rulesStrings.135>
+  <Description_OrnateTome.rulePack.rulesStrings.136>page_awful->anotada con escritura ilegible</Description_OrnateTome.rulePack.rulesStrings.136>
+  <Description_OrnateTome.rulePack.rulesStrings.137>medievalregion->Aldara</Description_OrnateTome.rulePack.rulesStrings.137>
+  <Description_OrnateTome.rulePack.rulesStrings.138>medievalregion->Brinhild</Description_OrnateTome.rulePack.rulesStrings.138>
+  <Description_OrnateTome.rulePack.rulesStrings.139>medievalregion->Sornheim</Description_OrnateTome.rulePack.rulesStrings.139>
+  <Description_OrnateTome.rulePack.rulesStrings.140>medievalregion->Ravenmoor</Description_OrnateTome.rulePack.rulesStrings.140>
+  <Description_OrnateTome.rulePack.rulesStrings.141>medievalregion->Fenwick</Description_OrnateTome.rulePack.rulesStrings.141>
+  <Description_OrnateTome.rulePack.rulesStrings.142>medievalregion->Hallech</Description_OrnateTome.rulePack.rulesStrings.142>
+  <Description_OrnateTome.rulePack.rulesStrings.143>medievalregion->Sunfield</Description_OrnateTome.rulePack.rulesStrings.143>
+  <Description_OrnateTome.rulePack.rulesStrings.144>medievalregion->Wolfsbane_Wilderness</Description_OrnateTome.rulePack.rulesStrings.144>
+  <Description_OrnateTome.rulePack.rulesStrings.145>medievalregion->Dragon_Fjord</Description_OrnateTome.rulePack.rulesStrings.145>
+  <Description_OrnateTome.rulePack.rulesStrings.146>medievalregion->Carleon</Description_OrnateTome.rulePack.rulesStrings.146>
+  <Description_OrnateTome.rulePack.rulesStrings.147>medievalregion->Morningside_Highlands</Description_OrnateTome.rulePack.rulesStrings.147>
+  <Description_OrnateTome.rulePack.rulesStrings.148>medievalregion->Blackwater_Lake</Description_OrnateTome.rulePack.rulesStrings.148>
+  <Description_OrnateTome.rulePack.rulesStrings.149>medievalregion->Ironwood_Forest</Description_OrnateTome.rulePack.rulesStrings.149>
+  <Description_OrnateTome.rulePack.rulesStrings.150>medievalregion->Stag_Valley</Description_OrnateTome.rulePack.rulesStrings.150>
+  <Description_OrnateTome.rulePack.rulesStrings.151>medievalregion->Kingsbridge</Description_OrnateTome.rulePack.rulesStrings.151>
+  <Description_OrnateTome.rulePack.rulesStrings.152>medievalregion->Raven's_Nest</Description_OrnateTome.rulePack.rulesStrings.152>
+  <Description_OrnateTome.rulePack.rulesStrings.153>medievalregion->Greenstone</Description_OrnateTome.rulePack.rulesStrings.153>
+  <Description_OrnateTome.rulePack.rulesStrings.154>medievalregion->Silver_Marsh</Description_OrnateTome.rulePack.rulesStrings.154>
+  <Description_OrnateTome.rulePack.rulesStrings.155>medievalregion->Stormwatch</Description_OrnateTome.rulePack.rulesStrings.155>
+  <Description_OrnateTome.rulePack.rulesStrings.156>medievalregion->Evergreen_Woodlands</Description_OrnateTome.rulePack.rulesStrings.156>
+  <Description_OrnateTome.rulePack.rulesStrings.157>medievalfaction->Amboise</Description_OrnateTome.rulePack.rulesStrings.157>
+  <Description_OrnateTome.rulePack.rulesStrings.158>medievalfaction->Hessen</Description_OrnateTome.rulePack.rulesStrings.158>
+  <Description_OrnateTome.rulePack.rulesStrings.159>medievalfaction->Soren</Description_OrnateTome.rulePack.rulesStrings.159>
+  <Description_OrnateTome.rulePack.rulesStrings.160>medievalfaction->Oswin</Description_OrnateTome.rulePack.rulesStrings.160>
+  <Description_OrnateTome.rulePack.rulesStrings.161>ancientempire->Imperio_Antiguo</Description_OrnateTome.rulePack.rulesStrings.161>
+  <Description_OrnateTome.rulePack.rulesStrings.162>ancientempire->Imperio_Olvidado</Description_OrnateTome.rulePack.rulesStrings.162>
+  <Description_OrnateTome.rulePack.rulesStrings.163>ancientempire->Imperio_Subterráneo</Description_OrnateTome.rulePack.rulesStrings.163>
+
+  <!-- Medieval Names -->
+
+  <DankPyon_MedievalNames.rulePack.rulesStrings.0>medievalname->Alarico</DankPyon_MedievalNames.rulePack.rulesStrings.0>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.1>medievalname->Beatriz</DankPyon_MedievalNames.rulePack.rulesStrings.1>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.2>medievalname->Conrado</DankPyon_MedievalNames.rulePack.rulesStrings.2>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.3>medievalname->Eleanor</DankPyon_MedievalNames.rulePack.rulesStrings.3>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.4>medievalname->Godofredo</DankPyon_MedievalNames.rulePack.rulesStrings.4>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.5>medievalname->Isolda</DankPyon_MedievalNames.rulePack.rulesStrings.5>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.6>medievalname->Lancelot</DankPyon_MedievalNames.rulePack.rulesStrings.6>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.7>medievalname->Matilda</DankPyon_MedievalNames.rulePack.rulesStrings.7>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.8>medievalname->Percival</DankPyon_MedievalNames.rulePack.rulesStrings.8>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.9>medievalname->Rosamund</DankPyon_MedievalNames.rulePack.rulesStrings.9>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.10>medievalname->Sigurd</DankPyon_MedievalNames.rulePack.rulesStrings.10>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.11>medievalname->Dardo</DankPyon_MedievalNames.rulePack.rulesStrings.11>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.12>medievalname->Ulrich</DankPyon_MedievalNames.rulePack.rulesStrings.12>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.13>medievalname->Winifred</DankPyon_MedievalNames.rulePack.rulesStrings.13>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.14>medievalname->Baldwin</DankPyon_MedievalNames.rulePack.rulesStrings.14>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.15>medievalname->Cecilia</DankPyon_MedievalNames.rulePack.rulesStrings.15>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.16>medievalname->Dorian</DankPyon_MedievalNames.rulePack.rulesStrings.16>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.17>medievalname->Ethelred</DankPyon_MedievalNames.rulePack.rulesStrings.17>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.18>medievalname->Eloísa</DankPyon_MedievalNames.rulePack.rulesStrings.18>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.19>medievalname->Roderico</DankPyon_MedievalNames.rulePack.rulesStrings.19>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.20>medievalname->Inés</DankPyon_MedievalNames.rulePack.rulesStrings.20>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.21>medievalname->Bertrán</DankPyon_MedievalNames.rulePack.rulesStrings.21>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.22>medievalname->Cuthbert</DankPyon_MedievalNames.rulePack.rulesStrings.22>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.23>medievalname->Edwina</DankPyon_MedievalNames.rulePack.rulesStrings.23>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.24>medievalname->Fulco</DankPyon_MedievalNames.rulePack.rulesStrings.24>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.25>medievalname->Gwendolyn</DankPyon_MedievalNames.rulePack.rulesStrings.25>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.26>medievalname->Huberto</DankPyon_MedievalNames.rulePack.rulesStrings.26>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.27>medievalname->Ada</DankPyon_MedievalNames.rulePack.rulesStrings.27>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.28>medievalname->Jocelyn</DankPyon_MedievalNames.rulePack.rulesStrings.28>
+  <DankPyon_MedievalNames.rulePack.rulesStrings.29>medievalname->Kenelm</DankPyon_MedievalNames.rulePack.rulesStrings.29>
+
+  <!-- Medieval Topics -->
+
+  <DankPyon_medievalTopics.rulePack.rulesStrings.0>medievalTopic->Feudalismo</DankPyon_medievalTopics.rulePack.rulesStrings.0>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.1>medievalTopic->Caballería</DankPyon_medievalTopics.rulePack.rulesStrings.1>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.2>medievalTopic->Cruzadas</DankPyon_medievalTopics.rulePack.rulesStrings.2>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.3>medievalTopic->Gremios</DankPyon_medievalTopics.rulePack.rulesStrings.3>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.4>medievalTopic->Peste Negra</DankPyon_medievalTopics.rulePack.rulesStrings.4>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.5>medievalTopic->Monasticismo</DankPyon_medievalTopics.rulePack.rulesStrings.5>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.6>medievalTopic->Heráldica</DankPyon_medievalTopics.rulePack.rulesStrings.6>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.7>medievalTopic->Inquisición</DankPyon_medievalTopics.rulePack.rulesStrings.7>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.8>medievalTopic->Caballerosidad</DankPyon_medievalTopics.rulePack.rulesStrings.8>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.9>medievalTopic->Guerras Medievales</DankPyon_medievalTopics.rulePack.rulesStrings.9>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.10>medievalTopic->Sistema Hereditario</DankPyon_medievalTopics.rulePack.rulesStrings.10>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.11>medievalTopic->Peregrinación</DankPyon_medievalTopics.rulePack.rulesStrings.11>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.12>medievalTopic->Amor Cortés</DankPyon_medievalTopics.rulePack.rulesStrings.12>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.13>medievalTopic->Era Vikinga</DankPyon_medievalTopics.rulePack.rulesStrings.13>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.14>medievalTopic->Guerra de los Cien Años</DankPyon_medievalTopics.rulePack.rulesStrings.14>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.15>medievalTopic->Batalla de las Colinas</DankPyon_medievalTopics.rulePack.rulesStrings.15>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.16>medievalTopic->Guerra del Norte</DankPyon_medievalTopics.rulePack.rulesStrings.16>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.17>medievalTopic->Carta Magna</DankPyon_medievalTopics.rulePack.rulesStrings.17>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.18>medievalTopic->Universidades Medievales</DankPyon_medievalTopics.rulePack.rulesStrings.18>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.19>medievalTopic->Escolástica</DankPyon_medievalTopics.rulePack.rulesStrings.19>
+  <DankPyon_medievalTopics.rulePack.rulesStrings.20>medievalTopic->Reconquista</DankPyon_medievalTopics.rulePack.rulesStrings.20>
+</LanguageData>

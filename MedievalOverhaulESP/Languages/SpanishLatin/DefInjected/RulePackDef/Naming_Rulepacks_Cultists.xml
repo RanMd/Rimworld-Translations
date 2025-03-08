@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_AG_NamemakerFaction.rulePack.rulesStrings.0>r_name->La Hermandad de la Espada</DankPyon_AG_NamemakerFaction.rulePack.rulesStrings.0>
   <DankPyon_SC_NamemakerFaction.rulePack.rulesStrings.0>r_name->Cultistas</DankPyon_SC_NamemakerFaction.rulePack.rulesStrings.0>
-  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>list1->Cima de Aurora</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>
+
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.0>r_name->[list1]</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.0>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>list1->Cumbre de Aurora</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.1>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.2>list1->Fortaleza Blackwood</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.2>
-  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>list1->Cima de Aurora</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>list1->Cumbre de Aurora</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.3>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.4>list1->Aguas Claras</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.4>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.5>list1->Kallaheim</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.5>
-  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>list1->Campo Frío</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>list1->Campo Helado</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.6>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.7>list1->Fortaleza Púrpura</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.7>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.8>list1->Reino de los Elfos</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.8>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.9>list1->Fortaleza Helada</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.9>
@@ -43,4 +46,6 @@
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.39>list1->Guardia de la Tormenta</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.39>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.40>list1->Ciudad del Trueno</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.40>
   <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.41>list1->Ciudad Salvaje</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.41>
+  <DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.42>list1->Fortaleza Salvaje</DankPyon_AG_NamemakerSettlement.rulePack.rulesStrings.42>
+
 </LanguageData>
