@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DankPyon_Gather_Water.label>recolectar agua</DankPyon_Gather_Water.label>
+  <DankPyon_Gather_Water.description>Recolecta agua en una bolsa, que puede ser llenada con agua o hielo picado según el tipo de terreno.</DankPyon_Gather_Water.description>
+  <DankPyon_Gather_Water.jobString>Recolectando agua.</DankPyon_Gather_Water.jobString>
+
+</LanguageData>

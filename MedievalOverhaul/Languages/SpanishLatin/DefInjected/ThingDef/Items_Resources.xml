@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_RawWood.label>Madera Cruda</DankPyon_RawWood.label>
   <DankPyon_RawWood.description>Madera de árboles u otras plantas fibrosas. Útil para la construcción de estructuras y armas. Es un buen combustible para fogatas y generadores y puede ser refinado en combustible químico. En caso de emergencia, un trozo de madera puede ser usado como arma o pierna.</DankPyon_RawWood.description>
-  <DankPyon_RawWood.stuffProps.stuffAdjective>maderoso</DankPyon_RawWood.stuffProps.stuffAdjective>
+  <DankPyon_RawWood.stuffProps.stuffAdjective>madera</DankPyon_RawWood.stuffProps.stuffAdjective>
   <DankPyon_RawDarkWood.label>Madera Oscura</DankPyon_RawDarkWood.label>
   <DankPyon_RawDarkWood.description>Un tipo de madera oscura, dura y antigua que ha resistido el paso del tiempo. Útil para la construcción de estructuras y armas. Es un buen combustible para fogatas.</DankPyon_RawDarkWood.description>
   <DankPyon_Coal.label>Trozo de Carbón</DankPyon_Coal.label>
@@ -41,4 +42,5 @@
   <DankPyon_Sapphire.description>Debido a su faceta cristalina, es una de las gemas más valiosas y codiciadas. Su tono azul y su brillo proporcionan una joyería estética, aunque la gema en sí tiene suficiente valor para atraer la atención de vagabundos peligrosos.</DankPyon_Sapphire.description>
   <DankPyon_Ruby.label>Rubí</DankPyon_Ruby.label>
   <DankPyon_Ruby.description>La gema más codiciada con un color tan sangriento como los sacrificios que la gente hace para obtenerla. Culturas de todo el país se sienten atraídas por la rica estética de esta gema, que se utiliza para el comercio, la fabricación de joyas e incluso para la presentación.</DankPyon_Ruby.description>
+
 </LanguageData>

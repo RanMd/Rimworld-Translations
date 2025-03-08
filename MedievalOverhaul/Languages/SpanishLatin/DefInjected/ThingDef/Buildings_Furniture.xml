@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_RusticTorchLamp.label>Antorcha Rústica</DankPyon_RusticTorchLamp.label>
+
+  <DankPyon_RusticTorchLamp.label>Antorcha rústica</DankPyon_RusticTorchLamp.label>
   <DankPyon_RusticTorchLamp.description>Una antorcha de madera rústica para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_RusticTorchLamp.description>
-  <DankPyon_WallTorch.label>Antorcha de Pared</DankPyon_WallTorch.label>
+  <DankPyon_WallTorch.label>Antorcha de pared</DankPyon_WallTorch.label>
   <DankPyon_WallTorch.description>Una antorcha de pared para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_WallTorch.description>
-  <DankPyon_WallLamp.label>Lámpara de Pared</DankPyon_WallLamp.label>
+  <DankPyon_WallLamp.label>Lámpara de pared</DankPyon_WallLamp.label>
   <DankPyon_WallLamp.description>Una lámpara de pared de metal para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_WallLamp.description>
-  <DankPyon_LampPost.label>Poste de Luz</DankPyon_LampPost.label>
+  <DankPyon_LampPost.label>Poste de luz</DankPyon_LampPost.label>
   <DankPyon_LampPost.description>Un poste de luz para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_LampPost.description>
-  <DankPyon_LogTable1x2c.label>Mesa de Troncos (1x2)</DankPyon_LogTable1x2c.label>
-  <DankPyon_LogTable1x3c.label>Mesa de Troncos (1x3)</DankPyon_LogTable1x3c.label>
-  <DankPyon_LogTable1x4c.label>Mesa de Troncos (1x4)</DankPyon_LogTable1x4c.label>
-  <DankPyon_LogTable2x4c.label>Mesa de Troncos (2x4)</DankPyon_LogTable2x4c.label>
-  <DankPyon_LogChair.label>Silla de Troncos</DankPyon_LogChair.label>
+  <DankPyon_LogTable1x2c.label>Mesa de troncos (1x2)</DankPyon_LogTable1x2c.label>
+  <DankPyon_LogTable1x3c.label>Mesa de troncos (1x3)</DankPyon_LogTable1x3c.label>
+  <DankPyon_LogTable1x4c.label>Mesa de troncos (1x4)</DankPyon_LogTable1x4c.label>
+  <DankPyon_LogTable2x4c.label>Mesa de troncos (2x4)</DankPyon_LogTable2x4c.label>
+  <DankPyon_LogChair.label>Silla de troncos</DankPyon_LogChair.label>
   <DankPyon_LogChair.description>Una silla cómoda y atractiva. Puede ser utilizada en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogChair.description>
-  <DankPyon_LogBench1x2c.label>Banco de Troncos (1x2)</DankPyon_LogBench1x2c.label>
+  <DankPyon_LogBench1x2c.label>Banco de troncos (1x2)</DankPyon_LogBench1x2c.label>
   <DankPyon_LogBench1x2c.description>Un banco cómodo y atractivo. Puede ser utilizado en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogBench1x2c.description>
-  <DankPyon_LogBench1x3c.label>Banco de Troncos (1x3)</DankPyon_LogBench1x3c.label>
+  <DankPyon_LogBench1x3c.label>Banco de troncos (1x3)</DankPyon_LogBench1x3c.label>
   <DankPyon_LogBench1x3c.description>Un banco cómodo y atractivo. Puede ser utilizado en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogBench1x3c.description>
-  <DankPyon_LogBench1x4c.label>Banco de Troncos (1x4)</DankPyon_LogBench1x4c.label>
+  <DankPyon_LogBench1x4c.label>Banco de troncos (1x4)</DankPyon_LogBench1x4c.label>
   <DankPyon_LogBench1x4c.description>Un banco cómodo y atractivo. Puede ser utilizado en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogBench1x4c.description>
-  <DankPyon_RusticStool.label>Taburete Rústico Redondo</DankPyon_RusticStool.label>
+  <DankPyon_RusticStool.label>Taburete rústico redondo</DankPyon_RusticStool.label>
   <DankPyon_RusticStool.description>Una plataforma simple para sentarse. No es muy cómoda, pero es mucho mejor que nada. Comúnmente vista en tabernas y posadas. Puede ser utilizada en mesas, estaciones de trabajo y otros lugares.</DankPyon_RusticStool.description>
   <DankPyon_RusticChair.label>Silla de comedor rústica</DankPyon_RusticChair.label>
   <DankPyon_RusticChair.description>Una silla cómoda y atractiva. Puede usarse en mesas, estaciones de trabajo y otros lugares.</DankPyon_RusticChair.description>
@@ -86,4 +87,5 @@
   <DankPyon_WoodBurningStove.description>Una pequeña estufa de leña para calentar una habitación pequeña.</DankPyon_WoodBurningStove.description>
   <DankPyon_RusticHearth.label>Hogar rústico</DankPyon_RusticHearth.label>
   <DankPyon_RusticHearth.description>Un hogar de piedra que proporciona calor y un ambiente acogedor.</DankPyon_RusticHearth.description>
+
 </LanguageData>

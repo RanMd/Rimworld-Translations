@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Clay -->
+
+  <DankPyon_Gather_Clay.label>recolectar arcilla x20</DankPyon_Gather_Clay.label>
+  <DankPyon_Gather_Clay.description>recolectar arcilla utilizable del subsuelo.</DankPyon_Gather_Clay.description>
+  <DankPyon_Gather_Clay.jobString>recolectando arcilla.</DankPyon_Gather_Clay.jobString>
+
+</LanguageData>

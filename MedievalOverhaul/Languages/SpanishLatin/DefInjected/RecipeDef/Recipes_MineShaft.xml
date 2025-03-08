@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal Chunks -->
+
+  <DankPyon_MakeStoneChunks_Coal.label>extraer trozos de carbón x25</DankPyon_MakeStoneChunks_Coal.label>
+  <DankPyon_MakeStoneChunks_Coal.description>Minería profunda bajo tierra para obtener trozos de carbón.</DankPyon_MakeStoneChunks_Coal.description>
+  <DankPyon_MakeStoneChunks_Coal.jobString>Extrayendo trozos de carbón.</DankPyon_MakeStoneChunks_Coal.jobString>
+
+  <!-- Stone Chunks: Sandstone -->
+
+  <DankPyon_MakeStoneChunks_Sandstone.label>extraer un trozo de arenisca</DankPyon_MakeStoneChunks_Sandstone.label>
+  <DankPyon_MakeStoneChunks_Sandstone.description>Minería profunda bajo tierra para obtener trozos de arenisca.</DankPyon_MakeStoneChunks_Sandstone.description>
+  <DankPyon_MakeStoneChunks_Sandstone.jobString>Extrayendo arenisca.</DankPyon_MakeStoneChunks_Sandstone.jobString>
+
+  <!-- Stone Chunks: Granite -->
+
+  <DankPyon_MakeStoneChunks_Granite.label>extraer un trozo de granito</DankPyon_MakeStoneChunks_Granite.label>
+  <DankPyon_MakeStoneChunks_Granite.description>Minería profunda bajo tierra para obtener trozos de granito.</DankPyon_MakeStoneChunks_Granite.description>
+  <DankPyon_MakeStoneChunks_Granite.jobString>Extrayendo granito.</DankPyon_MakeStoneChunks_Granite.jobString>
+
+  <!-- Stone Chunks: Limestone -->
+
+  <DankPyon_MakeStoneChunks_Limestone.label>extraer un trozo de piedra caliza</DankPyon_MakeStoneChunks_Limestone.label>
+  <DankPyon_MakeStoneChunks_Limestone.description>Minería profunda bajo tierra para obtener trozos de piedra caliza.</DankPyon_MakeStoneChunks_Limestone.description>
+  <DankPyon_MakeStoneChunks_Limestone.jobString>Extrayendo piedra caliza.</DankPyon_MakeStoneChunks_Limestone.jobString>
+
+  <!-- Stone Chunks: Slate -->
+
+  <DankPyon_MakeStoneChunks_Slate.label>extraer un trozo de pizarra</DankPyon_MakeStoneChunks_Slate.label>
+  <DankPyon_MakeStoneChunks_Slate.description>Minería profunda bajo tierra para obtener trozos de pizarra.</DankPyon_MakeStoneChunks_Slate.description>
+  <DankPyon_MakeStoneChunks_Slate.jobString>Extrayendo pizarra.</DankPyon_MakeStoneChunks_Slate.jobString>
+
+  <!-- Stone Chunks: Marble -->
+
+  <DankPyon_MakeStoneChunks_Marble.label>extraer un trozo de mármol</DankPyon_MakeStoneChunks_Marble.label>
+  <DankPyon_MakeStoneChunks_Marble.description>Minería profunda bajo tierra para obtener trozos de mármol.</DankPyon_MakeStoneChunks_Marble.description>
+  <DankPyon_MakeStoneChunks_Marble.jobString>Extrayendo mármol.</DankPyon_MakeStoneChunks_Marble.jobString>
+
+  <!-- Salt -->
+
+  <DankPyon_MakeSalt.label>extraer sal</DankPyon_MakeSalt.label>
+  <DankPyon_MakeSalt.description>Minería profunda bajo tierra para obtener sal.</DankPyon_MakeSalt.description>
+  <DankPyon_MakeSalt.jobString>Extrayendo sal.</DankPyon_MakeSalt.jobString>
+
+  <DankPyon_MakeSaltBulk.label>extraer sal x10</DankPyon_MakeSaltBulk.label>
+  <DankPyon_MakeSaltBulk.description>Minería profunda bajo tierra para obtener sal.</DankPyon_MakeSaltBulk.description>
+  <DankPyon_MakeSaltBulk.jobString>Extrayendo sal.</DankPyon_MakeSaltBulk.jobString>
+
+  <!-- Tar -->
+
+  <DankPyon_MakeTar.label>extraer alquitrán</DankPyon_MakeTar.label>
+  <DankPyon_MakeTar.description>Minería profunda bajo tierra para obtener alquitrán.</DankPyon_MakeTar.description>
+  <DankPyon_MakeTar.jobString>Extrayendo alquitrán.</DankPyon_MakeTar.jobString>
+
+  <DankPyon_MakeTarBulk.label>extraer alquitrán x5</DankPyon_MakeTarBulk.label>
+  <DankPyon_MakeTarBulk.description>Minería profunda bajo tierra para obtener alquitrán.</DankPyon_MakeTarBulk.description>
+  <DankPyon_MakeTarBulk.jobString>Extrayendo alquitrán.</DankPyon_MakeTarBulk.jobString>
+
+  <!-- Gunpowder -->
+
+  <DankPyon_MakeGunpowder.label>extraer pólvora</DankPyon_MakeGunpowder.label>
+  <DankPyon_MakeGunpowder.description>Minería profunda bajo tierra para obtener pólvora.</DankPyon_MakeGunpowder.description>
+  <DankPyon_MakeGunpowder.jobString>Extrayendo pólvora.</DankPyon_MakeGunpowder.jobString>
+
+  <DankPyon_MakeGunpowderBulk.label>extraer pólvora x10</DankPyon_MakeGunpowderBulk.label>
+  <DankPyon_MakeGunpowderBulk.description>Minería profunda bajo tierra para obtener pólvora.</DankPyon_MakeGunpowderBulk.description>
+  <DankPyon_MakeGunpowderBulk.jobString>Extrayendo pólvora.</DankPyon_MakeGunpowderBulk.jobString>
+
+  <!-- Ores -->
+
+  <DankPyon_MakeOre_IronOre.label>extraer mena de hierro</DankPyon_MakeOre_IronOre.label>
+  <DankPyon_MakeOre_IronOre.description>Minería profunda bajo tierra para obtener menas de hierro.</DankPyon_MakeOre_IronOre.description>
+  <DankPyon_MakeOre_IronOre.jobString>Extrayendo mena de hierro.</DankPyon_MakeOre_IronOre.jobString>
+
+  <DankPyon_MakeOre_IronOreBulk.label>extraer mena de hierro x5</DankPyon_MakeOre_IronOreBulk.label>
+  <DankPyon_MakeOre_IronOreBulk.description>Minería profunda bajo tierra para obtener menas de hierro.</DankPyon_MakeOre_IronOreBulk.description>
+  <DankPyon_MakeOre_IronOreBulk.jobString>Extrayendo menas de hierro.</DankPyon_MakeOre_IronOreBulk.jobString>
+
+  <DankPyon_MakeOre_SilverOre.label>extraer mena de plata</DankPyon_MakeOre_SilverOre.label>
+  <DankPyon_MakeOre_SilverOre.description>Minería profunda bajo tierra para obtener menas de plata.</DankPyon_MakeOre_SilverOre.description>
+  <DankPyon_MakeOre_SilverOre.jobString>Extrayendo mena de plata.</DankPyon_MakeOre_SilverOre.jobString>
+
+  <DankPyon_MakeOre_SilverOreBulk.label>extraer mena de plata x5</DankPyon_MakeOre_SilverOreBulk.label>
+  <DankPyon_MakeOre_SilverOreBulk.description>Minería profunda bajo tierra para obtener menas de plata.</DankPyon_MakeOre_SilverOreBulk.description>
+  <DankPyon_MakeOre_SilverOreBulk.jobString>Extrayendo menas de plata.</DankPyon_MakeOre_SilverOreBulk.jobString>
+
+</LanguageData>

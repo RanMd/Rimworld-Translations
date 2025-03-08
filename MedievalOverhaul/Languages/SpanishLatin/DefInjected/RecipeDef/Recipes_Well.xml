@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Make_Water.label>recolectar agua</DankPyon_Make_Water.label>
+  <DankPyon_Make_Water.description>Recolecta agua en un recipiente.</DankPyon_Make_Water.description>
+  <DankPyon_Make_Water.jobString>Recolentando agua.</DankPyon_Make_Water.jobString>
+
+  <DankPyon_Make_WaterBulk.label>recolectar agua x5</DankPyon_Make_WaterBulk.label>
+  <DankPyon_Make_WaterBulk.description>Recolecta agua en un recipiente.</DankPyon_Make_WaterBulk.description>
+  <DankPyon_Make_WaterBulk.jobString>Recolentando agua</DankPyon_Make_WaterBulk.jobString>
+
+</LanguageData>

@@ -1,30 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_HoodBase.description>Haz una capucha de piel de un animal.</DankPyon_HoodBase.description>
   <DankPyon_HoodBase.jobString>Fabricación de una capucha de piel.</DankPyon_HoodBase.jobString>
+
   <DankPyon_MakeHeadgear_WolfTimber.label>Fabricar capucha de lobo (Timber)</DankPyon_MakeHeadgear_WolfTimber.label>
+  <DankPyon_MakeHeadgear_WolfTimber.description>Fabricar capucha de piel de lobo.</DankPyon_MakeHeadgear_WolfTimber.description>
+  <DankPyon_MakeHeadgear_WolfTimber.jobString>Fabricando capucha de piel de lobo.</DankPyon_MakeHeadgear_WolfTimber.jobString>
+
   <DankPyon_MakeHeadgear_WolfArctic.label>Fabricar capucha de lobo (Ártico)</DankPyon_MakeHeadgear_WolfArctic.label>
+  <DankPyon_MakeHeadgear_WolfArctic.description>Fabricar capucha de piel de lobo ártico.</DankPyon_MakeHeadgear_WolfArctic.description>
+  <DankPyon_MakeHeadgear_WolfArctic.jobString>Fabricando capucha de piel de lobo ártico.</DankPyon_MakeHeadgear_WolfArctic.jobString>
+
   <DankPyon_MakeHeadgear_BearGrizzly.label>Fabricar capucha de oso (Grizzly)</DankPyon_MakeHeadgear_BearGrizzly.label>
+  <DankPyon_MakeHeadgear_BearGrizzly.description>Fabricar capucha de piel de oso grizzly.</DankPyon_MakeHeadgear_BearGrizzly.description>
+  <DankPyon_MakeHeadgear_BearGrizzly.jobString>Fabricando capucha de piel de oso grizzly.</DankPyon_MakeHeadgear_BearGrizzly.jobString>
+
   <DankPyon_MakeHeadgear_BearPolar.label>Fabricar capucha de oso (Polar)</DankPyon_MakeHeadgear_BearPolar.label>
-  <DankPyon_MakeHeadgear_Direwolf.label>Fabricar piel de lobo terrible</DankPyon_MakeHeadgear_Direwolf.label>
-  <DankPyon_MakeHeadgear_Direwolf.description>Haz una piel de lobo terrible.</DankPyon_MakeHeadgear_Direwolf.description>
+  <DankPyon_MakeHeadgear_BearPolar.description>Fabricar capucha de piel de oso polar.</DankPyon_MakeHeadgear_BearPolar.description>
+  <DankPyon_MakeHeadgear_BearPolar.jobString>Fabricando capucha de piel de oso polar.</DankPyon_MakeHeadgear_BearPolar.jobString>
+
+  <DankPyon_MakeHeadgear_Direwolf.label>Fabricar capucha de lobo terrible</DankPyon_MakeHeadgear_Direwolf.label>
+  <DankPyon_MakeHeadgear_Direwolf.description>Fabricar capucha de lobo terrible.</DankPyon_MakeHeadgear_Direwolf.description>
   <DankPyon_MakeHeadgear_Direwolf.jobString>Fabricación de una piel de lobo terrible.</DankPyon_MakeHeadgear_Direwolf.jobString>
-  <DankPyon_MakeHeadgear_HyenaPelt.label>Fabricar piel de hiena</DankPyon_MakeHeadgear_HyenaPelt.label>
-  <DankPyon_MakeHeadgear_HyenaPelt.description>Haz una piel de hiena.</DankPyon_MakeHeadgear_HyenaPelt.description>
+
+  <DankPyon_MakeHeadgear_HyenaPelt.label>Fabricar capucha de hiena</DankPyon_MakeHeadgear_HyenaPelt.label>
+  <DankPyon_MakeHeadgear_HyenaPelt.description>Fabricar capucha de hiena.</DankPyon_MakeHeadgear_HyenaPelt.description>
   <DankPyon_MakeHeadgear_HyenaPelt.jobString>Fabricación de una piel de hiena.</DankPyon_MakeHeadgear_HyenaPelt.jobString>
+
   <DankPyon_Apparel_LindwurmCloak.label>Fabricar capa de lindworm</DankPyon_Apparel_LindwurmCloak.label>
   <DankPyon_Apparel_LindwurmCloak.description>Haz una capa de lindworm.</DankPyon_Apparel_LindwurmCloak.description>
   <DankPyon_Apparel_LindwurmCloak.jobString>Fabricación de una capa de lindworm.</DankPyon_Apparel_LindwurmCloak.jobString>
+
   <DankPyon_Apparel_FurCloak.label>Fabricar capa de piel</DankPyon_Apparel_FurCloak.label>
   <DankPyon_Apparel_FurCloak.description>Haz una capa de piel.</DankPyon_Apparel_FurCloak.description>
   <DankPyon_Apparel_FurCloak.jobString>Fabricación de una capa de piel.</DankPyon_Apparel_FurCloak.jobString>
+
   <DankPyon_Apparel_BonePlating.label>Fabricar placa de hueso</DankPyon_Apparel_BonePlating.label>
   <DankPyon_Apparel_BonePlating.description>Haz una placa de hueso.</DankPyon_Apparel_BonePlating.description>
   <DankPyon_Apparel_BonePlating.jobString>Fabricación de una placa de hueso.</DankPyon_Apparel_BonePlating.jobString>
+
   <DankPyon_Apparel_AdditionalFurPadding.label>Fabricar acolchado adicional de piel</DankPyon_Apparel_AdditionalFurPadding.label>
   <DankPyon_Apparel_AdditionalFurPadding.description>Haz un acolchado adicional de piel.</DankPyon_Apparel_AdditionalFurPadding.description>
   <DankPyon_Apparel_AdditionalFurPadding.jobString>Fabricación de un acolchado adicional de piel.</DankPyon_Apparel_AdditionalFurPadding.jobString>
+
   <DankPyon_Apparel_RunesAndSigils.label>Fabricar runas y sigilos</DankPyon_Apparel_RunesAndSigils.label>
   <DankPyon_Apparel_RunesAndSigils.description>Haz runas y sigilos.</DankPyon_Apparel_RunesAndSigils.description>
   <DankPyon_Apparel_RunesAndSigils.jobString>Fabricación de runas y sigilos.</DankPyon_Apparel_RunesAndSigils.jobString>
+
 </LanguageData>

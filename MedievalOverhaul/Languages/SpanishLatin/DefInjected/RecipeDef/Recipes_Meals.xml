@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ingredients -->
+
+  <DankPyon_MakeTallow.label>fabricar sebo</DankPyon_MakeTallow.label>
+  <DankPyon_MakeTallow.description>Procesar grasa para obtener sebo.</DankPyon_MakeTallow.description>
+  <DankPyon_MakeTallow.jobString>Fabricando sebo.</DankPyon_MakeTallow.jobString>
+
+  <DankPyon_MakeTallowBulk.label>fabricar sebo 5x</DankPyon_MakeTallowBulk.label>
+  <DankPyon_MakeTallowBulk.description>Procesar grasa para obtener sebo.</DankPyon_MakeTallowBulk.description>
+  <DankPyon_MakeTallowBulk.jobString>Fabricando sebo.</DankPyon_MakeTallowBulk.jobString>
+
+  <DankPyon_MakeSpice.label>fabricar especias</DankPyon_MakeSpice.label>
+  <DankPyon_MakeSpice.description>Elaborar especias a partir de hierbas crudas.</DankPyon_MakeSpice.description>
+  <DankPyon_MakeSpice.jobString>Fabricando especia.</DankPyon_MakeSpice.jobString>
+
+  <DankPyon_MakeSpiceBulk.label>fabricar especias 10x</DankPyon_MakeSpiceBulk.label>
+  <DankPyon_MakeSpiceBulk.description>Elaborar especias a partir de hierbas crudas.</DankPyon_MakeSpiceBulk.description>
+  <DankPyon_MakeSpiceBulk.jobString>Fabricando especias.</DankPyon_MakeSpiceBulk.jobString>
+
+  <!-- Bone Soup -->
+
+  <DankPyon_CookMealBoneSoup.label>cocinar sopa de hueso</DankPyon_CookMealBoneSoup.label>
+  <DankPyon_CookMealBoneSoup.description>Cocinar sopa de hueso.</DankPyon_CookMealBoneSoup.description>
+  <DankPyon_CookMealBoneSoup.jobString>Cocinando sopa de hueso.</DankPyon_CookMealBoneSoup.jobString>
+
+  <!-- Bone Soup Bulk -->
+
+  <DankPyon_CookMealBoneSoupBulk.label>cocinar sopa de hueso x5</DankPyon_CookMealBoneSoupBulk.label>
+  <DankPyon_CookMealBoneSoupBulk.description>Cocinar sopa de hueso.</DankPyon_CookMealBoneSoupBulk.description>
+  <DankPyon_CookMealBoneSoupBulk.jobString>Cocinando sopa de hueso.</DankPyon_CookMealBoneSoupBulk.jobString>
+
+  <!-- Bread -->
+
+  <DankPyon_BakeBread.label>hornear pan x2</DankPyon_BakeBread.label>
+  <DankPyon_BakeBread.description>Hornear pan a partir de harina.</DankPyon_BakeBread.description>
+  <DankPyon_BakeBread.jobString>Horneando pan.</DankPyon_BakeBread.jobString>
+
+  <!-- Bread Bulk -->
+
+  <DankPyon_BakeBreadBulk.label>hornear pan x10</DankPyon_BakeBreadBulk.label>
+  <DankPyon_BakeBreadBulk.description>Hornear pan a partir de harina.</DankPyon_BakeBreadBulk.description>
+  <DankPyon_BakeBreadBulk.jobString>Horneando pan.</DankPyon_BakeBreadBulk.jobString>
+
+  <!-- Mega (Milk) Bread Bulk -->
+
+  <DankPyon_BakeBreadMegaBulk.label>hornear pan x100</DankPyon_BakeBreadMegaBulk.label>
+  <DankPyon_BakeBreadMegaBulk.description>Hornear pan a partir de harina.</DankPyon_BakeBreadMegaBulk.description>
+  <DankPyon_BakeBreadMegaBulk.jobString>Horneando pan.</DankPyon_BakeBreadMegaBulk.jobString>
+
+  <!-- Sausages -->
+
+  <DankPyon_MakeSausages.label>hacer salchichas</DankPyon_MakeSausages.label>
+  <DankPyon_MakeSausages.description>Elaborar salchichas a partir de carne cruda.</DankPyon_MakeSausages.description>
+  <DankPyon_MakeSausages.jobString>Haciendo salchichas.</DankPyon_MakeSausages.jobString>
+
+  <!-- Sausages Bulk -->
+
+  <DankPyon_MakeSausagesBulk.label>fabricar salchichas x10</DankPyon_MakeSausagesBulk.label>
+  <DankPyon_MakeSausagesBulk.description>Elaborar salchichas a partir de carne cruda.</DankPyon_MakeSausagesBulk.description>
+  <DankPyon_MakeSausagesBulk.jobString>Fabricando salchichas.</DankPyon_MakeSausagesBulk.jobString>
+
+  <!-- Grilled Sausages -->
+
+  <DankPyon_CookMealGrilledSausages.label>asar salchichas</DankPyon_CookMealGrilledSausages.label>
+  <DankPyon_CookMealGrilledSausages.description>Preparar una comida sencilla con salchichas.</DankPyon_CookMealGrilledSausages.description>
+  <DankPyon_CookMealGrilledSausages.jobString>Asando salchichas.</DankPyon_CookMealGrilledSausages.jobString>
+
+  <!-- Grilled Sausages Bulk -->
+
+  <DankPyon_CookMealGrilledSausagesBulk.label>asar salchichas x5</DankPyon_CookMealGrilledSausagesBulk.label>
+  <DankPyon_CookMealGrilledSausagesBulk.description>Preparar una comida sencilla con salchichas.</DankPyon_CookMealGrilledSausagesBulk.description>
+  <DankPyon_CookMealGrilledSausagesBulk.jobString>Asando salchichas.</DankPyon_CookMealGrilledSausagesBulk.jobString>
+
+  <!-- Weak Stew -->
+
+  <DankPyon_CookMealWeakStew.label>cocinar estofado ligero x4</DankPyon_CookMealWeakStew.label>
+  <DankPyon_CookMealWeakStew.description>Cocinar un estofado ligero con pocos ingredientes.</DankPyon_CookMealWeakStew.description>
+  <DankPyon_CookMealWeakStew.jobString>Cocinando estofado ligero.</DankPyon_CookMealWeakStew.jobString>
+
+  <!-- Weak Stew Bulk -->
+
+  <DankPyon_CookMealWeakStewBulk.label>cocinar estofado ligero x8</DankPyon_CookMealWeakStewBulk.label>
+  <DankPyon_CookMealWeakStewBulk.description>Cocinar un estofado ligero con pocos ingredientes.</DankPyon_CookMealWeakStewBulk.description>
+  <DankPyon_CookMealWeakStewBulk.jobString>Cocinando estofado ligero.</DankPyon_CookMealWeakStewBulk.jobString>
+
+  <!-- Fried Eggs -->
+
+  <DankPyon_CookMealFriedEggs.label>freír huevos</DankPyon_CookMealFriedEggs.label>
+  <DankPyon_CookMealFriedEggs.description>Preparar una comida sencilla con huevos fritos.</DankPyon_CookMealFriedEggs.description>
+  <DankPyon_CookMealFriedEggs.jobString>Friendo huevos.</DankPyon_CookMealFriedEggs.jobString>
+
+  <!-- Fried Eggs Bulk -->
+
+  <DankPyon_CookMealFriedEggsBulk.label>freír huevos x5</DankPyon_CookMealFriedEggsBulk.label>
+  <DankPyon_CookMealFriedEggsBulk.description>Preparar una comida sencilla con huevos fritos.</DankPyon_CookMealFriedEggsBulk.description>
+  <DankPyon_CookMealFriedEggsBulk.jobString>Friendo huevos.</DankPyon_CookMealFriedEggsBulk.jobString>
+
+  <!-- Mashed Potatoes -->
+
+  <DankPyon_CookMealMashedPotatoes.label>cocinar puré de papas</DankPyon_CookMealMashedPotatoes.label>
+  <DankPyon_CookMealMashedPotatoes.description>Preparar una comida sencilla de papas.</DankPyon_CookMealMashedPotatoes.description>
+  <DankPyon_CookMealMashedPotatoes.jobString>Cocinando puré de papas.</DankPyon_CookMealMashedPotatoes.jobString>
+
+  <!-- Mashed Potatoes Bulk -->
+
+  <DankPyon_CookMealMashedPotatoesBulk.label>cocinar puré de papas x5</DankPyon_CookMealMashedPotatoesBulk.label>
+  <DankPyon_CookMealMashedPotatoesBulk.description>Preparar una comida sencilla de papas.</DankPyon_CookMealMashedPotatoesBulk.description>
+  <DankPyon_CookMealMashedPotatoesBulk.jobString>Cocinando puré de papas.</DankPyon_CookMealMashedPotatoesBulk.jobString>
+
+  <!-- Winter Lentil Soup -->
+
+  <DankPyon_CookMealWinterLentilSoup.label>cocinar sopa de lentejas de invierno</DankPyon_CookMealWinterLentilSoup.label>
+  <DankPyon_CookMealWinterLentilSoup.description>Preparar una comida sencilla de lentejas.</DankPyon_CookMealWinterLentilSoup.description>
+  <DankPyon_CookMealWinterLentilSoup.jobString>Cocinando sopa de lentejas de invierno.</DankPyon_CookMealWinterLentilSoup.jobString>
+
+  <!-- Winter Lentil Soup Bulk -->
+
+  <DankPyon_CookMealWinterLentilSoupBulk.label>cocinar sopa de lentejas de invierno x5</DankPyon_CookMealWinterLentilSoupBulk.label>
+  <DankPyon_CookMealWinterLentilSoupBulk.description>Preparar una comida sencilla de lentejas.</DankPyon_CookMealWinterLentilSoupBulk.description>
+  <DankPyon_CookMealWinterLentilSoupBulk.jobString>Cocinando sopa de lentejas de invierno.</DankPyon_CookMealWinterLentilSoupBulk.jobString>
+
+  <!-- Mushroom Soup -->
+
+  <DankPyon_CookMealMushroomSoup.label>cocinar sopa de champiñones</DankPyon_CookMealMushroomSoup.label>
+  <DankPyon_CookMealMushroomSoup.description>Preparar una comida sencilla de champiñones.</DankPyon_CookMealMushroomSoup.description>
+  <DankPyon_CookMealMushroomSoup.jobString>Cocinando sopa de champiñones.</DankPyon_CookMealMushroomSoup.jobString>
+
+  <!-- Mushroom Soup Bulk -->
+
+  <DankPyon_CookMealMushroomSoupBulk.label>cocinar sopa de champiñones x5</DankPyon_CookMealMushroomSoupBulk.label>
+  <DankPyon_CookMealMushroomSoupBulk.description>Preparar una comida sencilla de champiñones.</DankPyon_CookMealMushroomSoupBulk.description>
+  <DankPyon_CookMealMushroomSoupBulk.jobString>Cocinando sopa de champiñones.</DankPyon_CookMealMushroomSoupBulk.jobString>
+
+  <!-- Vegetable Pot -->
+
+  <DankPyon_CookMealVegetablePot.label>cocinar guiso de verduras</DankPyon_CookMealVegetablePot.label>
+  <DankPyon_CookMealVegetablePot.description>Cocinar guiso de verduras.</DankPyon_CookMealVegetablePot.description>
+  <DankPyon_CookMealVegetablePot.jobString>Cocinando guiso de verduras.</DankPyon_CookMealVegetablePot.jobString>
+
+  <!-- Vegetable Pot Bulk -->
+
+  <DankPyon_CookMealVegetablePotBulk.label>cocinar guiso de verduras x5</DankPyon_CookMealVegetablePotBulk.label>
+  <DankPyon_CookMealVegetablePotBulk.description>Cocinar guiso de verduras.</DankPyon_CookMealVegetablePotBulk.description>
+  <DankPyon_CookMealVegetablePotBulk.jobString>Cocinando guiso de verduras.</DankPyon_CookMealVegetablePotBulk.jobString>
+
+  <!-- Pumpkin Fritters -->
+
+  <DankPyon_CookMealPumpkinFritters.label>hornear tortitas de calabaza x3</DankPyon_CookMealPumpkinFritters.label>
+  <DankPyon_CookMealPumpkinFritters.description>Preparar ricas tortitas de calabaza.</DankPyon_CookMealPumpkinFritters.description>
+  <DankPyon_CookMealPumpkinFritters.jobString>Horneando tortitas de calabaza.</DankPyon_CookMealPumpkinFritters.jobString>
+
+  <!-- Pumpkin Fritters Bulk -->
+
+  <DankPyon_CookMealPumpkinFrittersBulk.label>hornear tortitas de calabaza x6</DankPyon_CookMealPumpkinFrittersBulk.label>
+  <DankPyon_CookMealPumpkinFrittersBulk.description>Preparar ricas tortitas de calabaza.</DankPyon_CookMealPumpkinFrittersBulk.description>
+  <DankPyon_CookMealPumpkinFrittersBulk.jobString>Horneando tortitas de calabaza.</DankPyon_CookMealPumpkinFrittersBulk.jobString>
+
+  <!-- Boiled Bean and Onion -->
+
+  <DankPyon_CookMealBoiledBeansAndOnion.label>cocinar frijoles con cebolla</DankPyon_CookMealBoiledBeansAndOnion.label>
+  <DankPyon_CookMealBoiledBeansAndOnion.description>Cocinar frijoles con cebolla.</DankPyon_CookMealBoiledBeansAndOnion.description>
+  <DankPyon_CookMealBoiledBeansAndOnion.jobString>Cocinando frijoles con cebolla.</DankPyon_CookMealBoiledBeansAndOnion.jobString>
+
+  <!-- Boiled Bean and Onion Bulk -->
+
+  <DankPyon_CookMealBoiledBeanAndOnionBulk.label>cocinar frijoles con cebolla x5</DankPyon_CookMealBoiledBeanAndOnionBulk.label>
+  <DankPyon_CookMealBoiledBeanAndOnionBulk.description>Cocinar frijoles con cebolla.</DankPyon_CookMealBoiledBeanAndOnionBulk.description>
+  <DankPyon_CookMealBoiledBeanAndOnionBulk.jobString>Cocinando frijoles con cebolla.</DankPyon_CookMealBoiledBeanAndOnionBulk.jobString>
+
+  <!-- Grilled Skewers -->
+
+  <DankPyon_CookMealGrilledSkewers.label>preparar brochetas a la parrilla</DankPyon_CookMealGrilledSkewers.label>
+  <DankPyon_CookMealGrilledSkewers.description>Preparar brochetas a la parrilla.</DankPyon_CookMealGrilledSkewers.description>
+  <DankPyon_CookMealGrilledSkewers.jobString>Preparando brochetas a la parrilla.</DankPyon_CookMealGrilledSkewers.jobString>
+
+  <!-- Grilled Skewers Bulk -->
+
+  <DankPyon_CookMealGrilledSkewersBulk.label>preparar brochetas a la parrilla x5</DankPyon_CookMealGrilledSkewersBulk.label>
+  <DankPyon_CookMealGrilledSkewersBulk.description>Preparar brochetas a la parrilla.</DankPyon_CookMealGrilledSkewersBulk.description>
+  <DankPyon_CookMealGrilledSkewersBulk.jobString>Preparando brochetas a la parrilla.</DankPyon_CookMealGrilledSkewersBulk.jobString>
+
+  <!-- Hearty Stew -->
+
+  <DankPyon_CookMealHeartyStew.label>cocinar estofado nutritivo</DankPyon_CookMealHeartyStew.label>
+  <DankPyon_CookMealHeartyStew.description>Usa carne y vegetales para cocinar un plato algo complejo.</DankPyon_CookMealHeartyStew.description>
+  <DankPyon_CookMealHeartyStew.jobString>Cocinando estofado nutritivo.</DankPyon_CookMealHeartyStew.jobString>
+
+  <!-- Hearty Stew Bulk -->
+
+  <DankPyon_CookMealHeartyStewBulk.label>cocinar estofado nutritivo x8</DankPyon_CookMealHeartyStewBulk.label>
+  <DankPyon_CookMealHeartyStewBulk.description>Usa carne y vegetales para cocinar un plato algo complejo.</DankPyon_CookMealHeartyStewBulk.description>
+  <DankPyon_CookMealHeartyStewBulk.jobString>Cocinando estofado nutritivo.</DankPyon_CookMealHeartyStewBulk.jobString>
+
+  <!-- Bread Soup -->
+
+  <DankPyon_CookMealBreadSoup.label>cocinar sopa de pan</DankPyon_CookMealBreadSoup.label>
+  <DankPyon_CookMealBreadSoup.description>Cocinar sopa de pan.</DankPyon_CookMealBreadSoup.description>
+  <DankPyon_CookMealBreadSoup.jobString>Cocinando sopa de pan.</DankPyon_CookMealBreadSoup.jobString>
+
+  <!-- Bread Soup Bulk -->
+
+  <DankPyon_CookMealBreadSoupBulk.label>cocinar sopa de pan x5</DankPyon_CookMealBreadSoupBulk.label>
+  <DankPyon_CookMealBreadSoupBulk.description>Cocinar sopa de pan.</DankPyon_CookMealBreadSoupBulk.description>
+  <DankPyon_CookMealBreadSoupBulk.jobString>Cocinando sopa de pan.</DankPyon_CookMealBreadSoupBulk.jobString>
+
+  <!-- Apple Pie -->
+
+  <DankPyon_CookMealApplePie.label>hornear pastel de manzana</DankPyon_CookMealApplePie.label>
+  <DankPyon_CookMealApplePie.description>Hornear un delicioso pastel de manzana.</DankPyon_CookMealApplePie.description>
+  <DankPyon_CookMealApplePie.jobString>Horneando pastel de manzana.</DankPyon_CookMealApplePie.jobString>
+
+  <!-- Apple Pie Bulk -->
+
+  <DankPyon_CookMealApplePieBulk.label>hornear pastel de manzana x5</DankPyon_CookMealApplePieBulk.label>
+  <DankPyon_CookMealApplePieBulk.description>Hornear un delicioso pastel de manzana.</DankPyon_CookMealApplePieBulk.description>
+  <DankPyon_CookMealApplePieBulk.jobString>Horneando pastel de manzana.</DankPyon_CookMealApplePieBulk.jobString>
+  <DankPyon_CookMealApplePieBulkier.label>hornear pastel de manzana x15</DankPyon_CookMealApplePieBulkier.label>
+  <DankPyon_CookMealApplePieBulkier.description>Hornear un delicioso pastel de manzana.</DankPyon_CookMealApplePieBulkier.description>
+  <DankPyon_CookMealApplePieBulkier.jobString>Horneando pastel de manzana.</DankPyon_CookMealApplePieBulkier.jobString>
+
+  <!-- Lemon Cake -->
+
+  <DankPyon_CookMealLemonCake.label>hornear pastel de limón</DankPyon_CookMealLemonCake.label>
+  <DankPyon_CookMealLemonCake.description>Hornear un delicioso pastel de limón.</DankPyon_CookMealLemonCake.description>
+  <DankPyon_CookMealLemonCake.jobString>Horneando pastel de limón.</DankPyon_CookMealLemonCake.jobString>
+
+  <!-- Lemon Cake Bulk -->
+
+  <DankPyon_CookMealLemonCakeBulk.label>hornear pastel de limón x5</DankPyon_CookMealLemonCakeBulk.label>
+  <DankPyon_CookMealLemonCakeBulk.description>Hornear un delicioso pastel de limón.</DankPyon_CookMealLemonCakeBulk.description>
+  <DankPyon_CookMealLemonCakeBulk.jobString>Horneando pastel de limón.</DankPyon_CookMealLemonCakeBulk.jobString>
+  <DankPyon_CookMealLemonCakeBulkier.label>hornear pastel de limón x15</DankPyon_CookMealLemonCakeBulkier.label>
+  <DankPyon_CookMealLemonCakeBulkier.description>Hornear un delicioso pastel de limón.</DankPyon_CookMealLemonCakeBulkier.description>
+  <DankPyon_CookMealLemonCakeBulkier.jobString>Horneando pastel de limón.</DankPyon_CookMealLemonCakeBulkier.jobString>
+
+  <!-- Hunters Stew -->
+
+  <DankPyon_CookMealHuntersStew.label>cocinar estofado de cazador x4</DankPyon_CookMealHuntersStew.label>
+  <DankPyon_CookMealHuntersStew.description>Cocinar estofado de cazador con ingredientes robustos..</DankPyon_CookMealHuntersStew.description>
+  <DankPyon_CookMealHuntersStew.jobString>Cocinando estofados de cazador.</DankPyon_CookMealHuntersStew.jobString>
+
+  <!-- Hunters Stew Bulk -->
+
+  <DankPyon_CookMealHuntersStewBulk.label>cocinar estofado de cazador x8</DankPyon_CookMealHuntersStewBulk.label>
+  <DankPyon_CookMealHuntersStewBulk.description>Cocinar estofado de cazador con ingredientes robustos.</DankPyon_CookMealHuntersStewBulk.description>
+  <DankPyon_CookMealHuntersStewBulk.jobString>Cocinando estofados de cazador.</DankPyon_CookMealHuntersStewBulk.jobString>
+
+  <!-- Grilled Cheese -->
+
+  <DankPyon_CookMealGrilledCheese.label>preparar queso a la parrilla</DankPyon_CookMealGrilledCheese.label>
+  <DankPyon_CookMealGrilledCheese.description>Preparar queso a la parrilla, un plato simple pero delicioso.</DankPyon_CookMealGrilledCheese.description>
+  <DankPyon_CookMealGrilledCheese.jobString>Preparando queso en la parrilla.</DankPyon_CookMealGrilledCheese.jobString>
+
+  <!-- Grilled Cheese Bulk -->
+
+  <DankPyon_CookMealGrilledCheeseBulk.label>preparar queso a la parrilla x5</DankPyon_CookMealGrilledCheeseBulk.label>
+  <DankPyon_CookMealGrilledCheeseBulk.description>Preparar queso a la parrilla, un plato simple pero delicioso.</DankPyon_CookMealGrilledCheeseBulk.description>
+  <DankPyon_CookMealGrilledCheeseBulk.jobString>Preparando queso en la parrilla.</DankPyon_CookMealGrilledCheeseBulk.jobString>
+
+  <!-- Quiche -->
+
+  <DankPyon_CookMealQuiche.label>hornear quiche</DankPyon_CookMealQuiche.label>
+  <DankPyon_CookMealQuiche.description>Hornear quiche.</DankPyon_CookMealQuiche.description>
+  <DankPyon_CookMealQuiche.jobString>Horneando quiche.</DankPyon_CookMealQuiche.jobString>
+
+  <!-- Quiche Bulk -->
+
+  <DankPyon_CookMealQuicheBulk.label>hornear quiche x5</DankPyon_CookMealQuicheBulk.label>
+  <DankPyon_CookMealQuicheBulk.description>Hornear quiche.</DankPyon_CookMealQuicheBulk.description>
+  <DankPyon_CookMealQuicheBulk.jobString>Horneando quiche.</DankPyon_CookMealQuicheBulk.jobString>
+  <DankPyon_CookMealQuicheBulkier.label>Hornear quiche x15</DankPyon_CookMealQuicheBulkier.label>
+  <DankPyon_CookMealQuicheBulkier.description>Hornear quiche.</DankPyon_CookMealQuicheBulkier.description>
+  <DankPyon_CookMealQuicheBulkier.jobString>Horneando quiche.</DankPyon_CookMealQuicheBulkier.jobString>
+
+  <!-- Sweet Pancakes -->
+
+  <DankPyon_CookMealSweetPancakes.label>cocinar panqueques dulces</DankPyon_CookMealSweetPancakes.label>
+  <DankPyon_CookMealSweetPancakes.description>Cocinar panqueques dulces.</DankPyon_CookMealSweetPancakes.description>
+  <DankPyon_CookMealSweetPancakes.jobString>Cocinando panqueques dulces.</DankPyon_CookMealSweetPancakes.jobString>
+
+  <!-- Sweet Pancakes Bulk -->
+
+  <DankPyon_CookMealSweetPancakesBulk.label>cocinar panqueques dulces x5</DankPyon_CookMealSweetPancakesBulk.label>
+  <DankPyon_CookMealSweetPancakesBulk.description>Cocinar panqueques dulces.</DankPyon_CookMealSweetPancakesBulk.description>
+  <DankPyon_CookMealSweetPancakesBulk.jobString>Cocinando panqueques dulces.</DankPyon_CookMealSweetPancakesBulk.jobString>
+
+  <!-- Tomato Omelette -->
+
+  <DankPyon_CookMealTomatoOmelette.label>cocinar omelette de tomate</DankPyon_CookMealTomatoOmelette.label>
+  <DankPyon_CookMealTomatoOmelette.description>Cocinar omelette de tomate.</DankPyon_CookMealTomatoOmelette.description>
+  <DankPyon_CookMealTomatoOmelette.jobString>Cocinando omelette de tomate.</DankPyon_CookMealTomatoOmelette.jobString>
+
+  <!-- Tomato Omelette Bulk -->
+
+  <DankPyon_CookMealTomatoOmeletteBulk.label>cocinar omelette de tomate x3</DankPyon_CookMealTomatoOmeletteBulk.label>
+  <DankPyon_CookMealTomatoOmeletteBulk.description>Cocinar omelette de tomate.</DankPyon_CookMealTomatoOmeletteBulk.description>
+  <DankPyon_CookMealTomatoOmeletteBulk.jobString>Cocinando omelette de tomate.</DankPyon_CookMealTomatoOmeletteBulk.jobString>
+
+  <!-- Pumpkin Soup -->
+
+  <DankPyon_CookMealPumpkinSoup.label>cocinar sopa de calabaza</DankPyon_CookMealPumpkinSoup.label>
+  <DankPyon_CookMealPumpkinSoup.description>Cocinar sopa de calabaza.</DankPyon_CookMealPumpkinSoup.description>
+  <DankPyon_CookMealPumpkinSoup.jobString>Cocinando sopa de calabaza.</DankPyon_CookMealPumpkinSoup.jobString>
+
+  <!-- Pumpkin Soup Bulk -->
+
+  <DankPyon_CookMealPumpkinSoupBulk.label>cocinar sopa de calabaza x6</DankPyon_CookMealPumpkinSoupBulk.label>
+  <DankPyon_CookMealPumpkinSoupBulk.description>Cocinar sopa de calabaza.</DankPyon_CookMealPumpkinSoupBulk.description>
+  <DankPyon_CookMealPumpkinSoupBulk.jobString>Cocinando sopa de calabaza.</DankPyon_CookMealPumpkinSoupBulk.jobString>
+
+  <!-- Pumpkin Pie -->
+
+  <DankPyon_CookMealPumpkinPie.label>hornear pastel de calabaza</DankPyon_CookMealPumpkinPie.label>
+  <DankPyon_CookMealPumpkinPie.description>Hornear pastel de calabaza.</DankPyon_CookMealPumpkinPie.description>
+  <DankPyon_CookMealPumpkinPie.jobString>Horneando pastel de calabaza.</DankPyon_CookMealPumpkinPie.jobString>
+
+  <!-- Pumpkin Pie Bulk -->
+
+  <DankPyon_CookMealPumpkinPieBulk.label>hornear pastel de calabaza x6</DankPyon_CookMealPumpkinPieBulk.label>
+  <DankPyon_CookMealPumpkinPieBulk.description>Hornear pastel de calabaza.</DankPyon_CookMealPumpkinPieBulk.description>
+  <DankPyon_CookMealPumpkinPieBulk.jobString>Horneando pastel de calabaza.</DankPyon_CookMealPumpkinPieBulk.jobString>
+  <DankPyon_CookMealPumpkinPieBulkier.label>hornear pastel de calabaza x18</DankPyon_CookMealPumpkinPieBulkier.label>
+  <DankPyon_CookMealPumpkinPieBulkier.description>Hornear pastel de calabaza.</DankPyon_CookMealPumpkinPieBulkier.description>
+  <DankPyon_CookMealPumpkinPieBulkier.jobString>Horneando pastel de calabaza.</DankPyon_CookMealPumpkinPieBulkier.jobString>
+
+  <!-- Carrot Cake -->
+
+  <DankPyon_CookMealCarrotCake.label>hornear pastel de zanahoria</DankPyon_CookMealCarrotCake.label>
+  <DankPyon_CookMealCarrotCake.description>Hornear pastel de zanahoria.</DankPyon_CookMealCarrotCake.description>
+  <DankPyon_CookMealCarrotCake.jobString>Horneando pastel de zanahoria.</DankPyon_CookMealCarrotCake.jobString>
+
+  <!-- Carrot Cake Bulk -->
+
+  <DankPyon_CookMealCarrotCakeBulk.label>hornear pastel de zanahoria x6</DankPyon_CookMealCarrotCakeBulk.label>
+  <DankPyon_CookMealCarrotCakeBulk.description>Hornear pastel de zanahoria.</DankPyon_CookMealCarrotCakeBulk.description>
+  <DankPyon_CookMealCarrotCakeBulk.jobString>Horneando pastel de zanahoria.</DankPyon_CookMealCarrotCakeBulk.jobString>
+  <DankPyon_CookMealCarrotCakeBulkier.label>hornear pastel de zanahoria x18</DankPyon_CookMealCarrotCakeBulkier.label>
+  <DankPyon_CookMealCarrotCakeBulkier.description>Hornear pastel de zanahoria.</DankPyon_CookMealCarrotCakeBulkier.description>
+  <DankPyon_CookMealCarrotCakeBulkier.jobString>Horneando pastel de zanahoria.</DankPyon_CookMealCarrotCakeBulkier.jobString>
+
+  <!-- Cheese Soup -->
+
+  <DankPyon_CookMealCheeseSoup.label>cocinar sopa de queso</DankPyon_CookMealCheeseSoup.label>
+  <DankPyon_CookMealCheeseSoup.description>Cocinar sopa de queso.</DankPyon_CookMealCheeseSoup.description>
+  <DankPyon_CookMealCheeseSoup.jobString>Cocinando sopa de queso.</DankPyon_CookMealCheeseSoup.jobString>
+
+  <!-- Cheese Soup Bulk -->
+
+  <DankPyon_CookMealCheeseSoupBulk.label>cocinar sopa de queso x3</DankPyon_CookMealCheeseSoupBulk.label>
+  <DankPyon_CookMealCheeseSoupBulk.description>Cocinar sopa de queso.</DankPyon_CookMealCheeseSoupBulk.description>
+  <DankPyon_CookMealCheeseSoupBulk.jobString>Cocinando sopa de queso.</DankPyon_CookMealCheeseSoupBulk.jobString>
+
+  <!-- Steak with Wine -->
+
+  <DankPyon_CookMealSteakWithWine.label>cocinar filete con salsa de vino</DankPyon_CookMealSteakWithWine.label>
+  <DankPyon_CookMealSteakWithWine.description>Cocinar filete con salsa de vino.</DankPyon_CookMealSteakWithWine.description>
+  <DankPyon_CookMealSteakWithWine.jobString>Cocinando filete con salsa de vino.</DankPyon_CookMealSteakWithWine.jobString>
+
+  <!-- Steak with Wine Bulk -->
+
+  <DankPyon_CookMealSteakWithWineBulk.label>cocinar filete con salsa de vino x3</DankPyon_CookMealSteakWithWineBulk.label>
+  <DankPyon_CookMealSteakWithWineBulk.description>Cocinar filete con salsa de vino.</DankPyon_CookMealSteakWithWineBulk.description>
+  <DankPyon_CookMealSteakWithWineBulk.jobString>Cocinando filete con salsa de vino.</DankPyon_CookMealSteakWithWineBulk.jobString>
+
+  <!-- Rox Steak -->
+
+  <DankPyon_CookMealRoxSteak.label>cocinar filete de rox</DankPyon_CookMealRoxSteak.label>
+  <DankPyon_CookMealRoxSteak.description>Cocinar un filete extravagante de Rox.</DankPyon_CookMealRoxSteak.description>
+  <DankPyon_CookMealRoxSteak.jobString>Cocinando filete de Rox.</DankPyon_CookMealRoxSteak.jobString>
+
+  <!-- Rox Steak Bulk -->
+
+  <DankPyon_CookMealRoxSteakBulk.label>cocinar filete de Rox x5</DankPyon_CookMealRoxSteakBulk.label>
+  <DankPyon_CookMealRoxSteakBulk.description>Cocinar un filete extravagante de Rox.</DankPyon_CookMealRoxSteakBulk.description>
+  <DankPyon_CookMealRoxSteakBulk.jobString>Cocinando filete de Rox.</DankPyon_CookMealRoxSteakBulk.jobString>
+
+  <!-- Griffon Berry Pie -->
+
+  <DankPyon_CookMealGriffonBerryPie.label>hornear pastel de bayas de grifo</DankPyon_CookMealGriffonBerryPie.label>
+  <DankPyon_CookMealGriffonBerryPie.description>Hornear un pastel extravagante de bayas de grifo.</DankPyon_CookMealGriffonBerryPie.description>
+  <DankPyon_CookMealGriffonBerryPie.jobString>Horneando pastel de bayas de grifo.</DankPyon_CookMealGriffonBerryPie.jobString>
+
+  <!-- Griffon Berry Pie Bulk -->
+
+  <DankPyon_CookMealGriffonBerryPieBulk.label>hornear pastel de bayas de grifo x3</DankPyon_CookMealGriffonBerryPieBulk.label>
+  <DankPyon_CookMealGriffonBerryPieBulk.description>Hornear un pastel extravagante de bayas de grifo.</DankPyon_CookMealGriffonBerryPieBulk.description>
+  <DankPyon_CookMealGriffonBerryPieBulk.jobString>Horneando pastel de bayas de grifo.</DankPyon_CookMealGriffonBerryPieBulk.jobString>
+  <DankPyon_CookMealGriffonBerryPieBulkier.label>hornear pastel de bayas de grifo x9</DankPyon_CookMealGriffonBerryPieBulkier.label>
+  <DankPyon_CookMealGriffonBerryPieBulkier.description>Hornear un pastel extravagante de bayas de grifo.</DankPyon_CookMealGriffonBerryPieBulkier.description>
+  <DankPyon_CookMealGriffonBerryPieBulkier.jobString>Horneando pastel de bayas de grifo.</DankPyon_CookMealGriffonBerryPieBulkier.jobString>
+
+  <!-- Survival meal -->
+
+  <DankPyon_CookMealRations.label>cocinar raciones empaquetadas</DankPyon_CookMealRations.label>
+  <DankPyon_CookMealRations.description>Preparar una ración empaquetada con una combinación de ingredientes de carne y vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRations.description>
+  <DankPyon_CookMealRations.jobString>Cocinando raciones empaquetadas.</DankPyon_CookMealRations.jobString>
+
+  <DankPyon_CookMealRationsBulk.label>cocinar raciones empaquetadas x5</DankPyon_CookMealRationsBulk.label>
+  <DankPyon_CookMealRationsBulk.description>Preparar una ración empaquetada con una combinación de ingredientes de carne y vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRationsBulk.description>
+  <DankPyon_CookMealRationsBulk.jobString>Cocinando raciones empaquetadas.</DankPyon_CookMealRationsBulk.jobString>
+
+  <DankPyon_CookMealRationsVegan.label>cocinar raciones vegetarianas empaquetadas</DankPyon_CookMealRationsVegan.label>
+  <DankPyon_CookMealRationsVegan.description>Preparar una ración vegetariana empaquetada con ingredientes vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRationsVegan.description>
+  <DankPyon_CookMealRationsVegan.jobString>Cocinando raciones vegetarianas empaquetadas.</DankPyon_CookMealRationsVegan.jobString>
+
+  <DankPyon_CookMealRationsVeganBulk.label>cocinar raciones vegetarianas empaquetadas x5</DankPyon_CookMealRationsVeganBulk.label>
+  <DankPyon_CookMealRationsVeganBulk.description>Preparar una ración vegetariana empaquetada con ingredientes vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRationsVeganBulk.description>
+  <DankPyon_CookMealRationsVeganBulk.jobString>Cocinando raciones vegetarianas empaquetadas.</DankPyon_CookMealRationsVeganBulk.jobString>
+
+</LanguageData>

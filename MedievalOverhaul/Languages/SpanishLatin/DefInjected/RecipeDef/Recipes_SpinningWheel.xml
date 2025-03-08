@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MakeCloth.label>hilar algodón</DankPyon_MakeCloth.label>
+  <DankPyon_MakeCloth.description>Hila algodón crudo para convertirlo en tela.</DankPyon_MakeCloth.description>
+  <DankPyon_MakeCloth.jobString>Hilando algodón.</DankPyon_MakeCloth.jobString>
+
+  <DankPyon_MakeClothBulk.label>hilar algodón x50</DankPyon_MakeClothBulk.label>
+  <DankPyon_MakeClothBulk.description>Hila algodón crudo para convertirlo en tela.</DankPyon_MakeClothBulk.description>
+  <DankPyon_MakeClothBulk.jobString>Hilando algodón.</DankPyon_MakeClothBulk.jobString>
+
+  <DankPyon_MakeLinen.label>hilar lino</DankPyon_MakeLinen.label>
+  <DankPyon_MakeLinen.description>Hila lino crudo para transformarlo en tela de lino.</DankPyon_MakeLinen.description>
+  <DankPyon_MakeLinen.jobString>Hilando lino.</DankPyon_MakeLinen.jobString>
+
+  <DankPyon_MakeLinenBulk.label>hilar lino x50</DankPyon_MakeLinenBulk.label>
+  <DankPyon_MakeLinenBulk.description>Hila lino crudo para transformarlo en tela de lino.</DankPyon_MakeLinenBulk.description>
+  <DankPyon_MakeLinenBulk.jobString>Hilando lino.</DankPyon_MakeLinenBulk.jobString>
+
+  <DankPyon_MakeClothFromWool.label>hilar lana</DankPyon_MakeClothFromWool.label>
+  <DankPyon_MakeClothFromWool.description>Hila lana cruda para transformarla en tela.</DankPyon_MakeClothFromWool.description>
+  <DankPyon_MakeClothFromWool.jobString>Hilando lana.</DankPyon_MakeClothFromWool.jobString>
+
+  <DankPyon_Make50ClothFromWool.label>hilar lana x50</DankPyon_Make50ClothFromWool.label>
+  <DankPyon_Make50ClothFromWool.description>Hila lana cruda para transformarla en tela.</DankPyon_Make50ClothFromWool.description>
+  <DankPyon_Make50ClothFromWool.jobString>Hilando lana.</DankPyon_Make50ClothFromWool.jobString>
+
+</LanguageData>

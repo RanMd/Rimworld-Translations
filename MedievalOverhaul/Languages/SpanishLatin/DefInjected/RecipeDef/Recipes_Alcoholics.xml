@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Abstract -->
+
+  <DankPyon_Make_MincedApple.label>hacer manzana picada</DankPyon_Make_MincedApple.label>
+  <DankPyon_Make_MincedApple.description>Hacer manzana picada.</DankPyon_Make_MincedApple.description>
+  <DankPyon_Make_MincedApple.jobString>Haciendo manzana picada.</DankPyon_Make_MincedApple.jobString>
+
+  <DankPyon_Make_JuiceAppleUnfermented.label>fermentar jugo de manzana</DankPyon_Make_JuiceAppleUnfermented.label>
+  <DankPyon_Make_JuiceAppleUnfermented.description>Fermentar jugo de manzana.</DankPyon_Make_JuiceAppleUnfermented.description>
+  <DankPyon_Make_JuiceAppleUnfermented.jobString>Fermentando jugo de manzana.</DankPyon_Make_JuiceAppleUnfermented.jobString>
+
+  <DankPyon_Make_WortAle.label>hacer mosto de cerveza</DankPyon_Make_WortAle.label>
+  <DankPyon_Make_WortAle.description>Hacer mosto de cerveza cocinando trigo.</DankPyon_Make_WortAle.description>
+  <DankPyon_Make_WortAle.jobString>Haciendo mosto de cerveza.</DankPyon_Make_WortAle.jobString>
+
+  <DankPyon_MakeMustWine.label>hacer mosto de uva</DankPyon_MakeMustWine.label>
+  <DankPyon_MakeMustWine.description>Hacer mosto de uva triturandolas.</DankPyon_MakeMustWine.description>
+  <DankPyon_MakeMustWine.jobString>Haciendo mosto de uva.</DankPyon_MakeMustWine.jobString>
+
+  <DankPyon_MakeMustMulberry.label>hacer mosto de mora</DankPyon_MakeMustMulberry.label>
+  <DankPyon_MakeMustMulberry.description>Hacer mosto de mora triturandolas.</DankPyon_MakeMustMulberry.description>
+  <DankPyon_MakeMustMulberry.jobString>Haciendo mosto de mora.</DankPyon_MakeMustMulberry.jobString>
+
+  <DankPyon_MakeMustGriffon.label>hacer mosto de bayas de grifo</DankPyon_MakeMustGriffon.label>
+  <DankPyon_MakeMustGriffon.description>Hacer mosto de bayas de grifo triturandolas.</DankPyon_MakeMustGriffon.description>
+  <DankPyon_MakeMustGriffon.jobString>Haciendo mosto de bayas de grifo.</DankPyon_MakeMustGriffon.jobString>
+
+</LanguageData>

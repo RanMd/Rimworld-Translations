@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coal Chunks -->
+
+  <DankPyon_Gather_Coal.label>extrae trozos de carbón x5</DankPyon_Gather_Coal.label>
+  <DankPyon_Gather_Coal.description>Minar en lo profundo del subsuelo para obtener carbón.</DankPyon_Gather_Coal.description>
+  <DankPyon_Gather_Coal.jobString>Extrayendo carbón.</DankPyon_Gather_Coal.jobString>
+
+  <!-- Salt Chunks -->
+
+  <DankPyon_Gather_Salt.label>extrae sal x5</DankPyon_Gather_Salt.label>
+  <DankPyon_Gather_Salt.description>Minar en lo profundo del subsuelo para obtener sal.</DankPyon_Gather_Salt.description>
+  <DankPyon_Gather_Salt.jobString>Extrayendo sal.</DankPyon_Gather_Salt.jobString>
+
+</LanguageData>

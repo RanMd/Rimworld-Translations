@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_ExtractMetalFromScrap.label>fundir chatarra</DankPyon_ExtractMetalFromScrap.label>
+  <DankPyon_ExtractMetalFromScrap.description>Utiliza el calor para extraer el metal aprovechable de la chatarra</DankPyon_ExtractMetalFromScrap.description>
+  <DankPyon_ExtractMetalFromScrap.jobString>fundir chatarra.</DankPyon_ExtractMetalFromScrap.jobString>
+
+  <!-- Tar -->
+
+  <DankPyon_Make_Tar.label>Hacer alquitrán x5</DankPyon_Make_Tar.label>
+  <DankPyon_Make_Tar.description>Produce alquitrán quemando madera.</DankPyon_Make_Tar.description>
+  <DankPyon_Make_Tar.jobString>produciendo alquitrán</DankPyon_Make_Tar.jobString>
+
+  <DankPyon_Make_TarBulk.label>Hacer alquitrán x25</DankPyon_Make_TarBulk.label>
+  <DankPyon_Make_TarBulk.description>Produce alquitrán quemando madera.</DankPyon_Make_TarBulk.description>
+  <DankPyon_Make_TarBulk.jobString>produciendo alquitrán</DankPyon_Make_TarBulk.jobString>
+
+  <!-- Coal -->
+
+  <DankPyon_MakeChunk_Coal.label>Hacer carbón</DankPyon_MakeChunk_Coal.label>
+  <DankPyon_MakeChunk_Coal.description>Produce carbón quemando madera.</DankPyon_MakeChunk_Coal.description>
+  <DankPyon_MakeChunk_Coal.jobString>produciendo carbón</DankPyon_MakeChunk_Coal.jobString>
+
+  <!-- Smelt any ore -->
+
+  <DankPyon_MakeIngots_Any.label>Fundir cualquier mena en lingotes</DankPyon_MakeIngots_Any.label>
+  <DankPyon_MakeIngots_Any.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_Any.description>
+  <DankPyon_MakeIngots_Any.jobString>Fundiendo menas en lingotes.</DankPyon_MakeIngots_Any.jobString>
+
+  <!-- Iron Ingots -->
+
+  <DankPyon_MakeIngots_Iron.label>Fundir una mena de hierro en un lingote</DankPyon_MakeIngots_Iron.label>
+  <DankPyon_MakeIngots_Iron.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_Iron.description>
+  <DankPyon_MakeIngots_Iron.jobString>Fundiendo mena de hierro.</DankPyon_MakeIngots_Iron.jobString>
+
+  <DankPyon_MakeIngots_IronBulk.label>Fundir mena de hierro en lingotes x30</DankPyon_MakeIngots_IronBulk.label>
+  <DankPyon_MakeIngots_IronBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_IronBulk.description>
+  <DankPyon_MakeIngots_IronBulk.jobString>Fundiendo menas de hierro.</DankPyon_MakeIngots_IronBulk.jobString>
+
+  <DankPyon_MakeIngots_IronExtraBulk.label>Fundir mena de hierro en lingotes x60</DankPyon_MakeIngots_IronExtraBulk.label>
+  <DankPyon_MakeIngots_IronExtraBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_IronExtraBulk.description>
+  <DankPyon_MakeIngots_IronExtraBulk.jobString>Fundiendo menas de hierro.</DankPyon_MakeIngots_IronExtraBulk.jobString>
+
+  <!-- Silver Ingots -->
+
+  <DankPyon_MakeIngots_Silver.label>Fundir una mena de plata en un lingote</DankPyon_MakeIngots_Silver.label>
+  <DankPyon_MakeIngots_Silver.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_Silver.description>
+  <DankPyon_MakeIngots_Silver.jobString>Fundiendo mena de plata.</DankPyon_MakeIngots_Silver.jobString>
+
+  <DankPyon_MakeIngots_SilverBulk.label>Fundir mena de plata en lingotes x30</DankPyon_MakeIngots_SilverBulk.label>
+  <DankPyon_MakeIngots_SilverBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_SilverBulk.description>
+  <DankPyon_MakeIngots_SilverBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeIngots_SilverBulk.jobString>
+
+  <DankPyon_MakeIngots_SilverExtraBulk.label>Fundir mena de plata en lingotes x60</DankPyon_MakeIngots_SilverExtraBulk.label>
+  <DankPyon_MakeIngots_SilverExtraBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_SilverExtraBulk.description>
+  <DankPyon_MakeIngots_SilverExtraBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeIngots_SilverExtraBulk.jobString>
+
+  <DankPyon_MakeCoins_SilverBulk.label>Fundir mena de plata en monedas x30</DankPyon_MakeCoins_SilverBulk.label>
+  <DankPyon_MakeCoins_SilverBulk.description>Funde menas de plata para hacer monedas.</DankPyon_MakeCoins_SilverBulk.description>
+  <DankPyon_MakeCoins_SilverBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeCoins_SilverBulk.jobString>
+
+  <DankPyon_MakeCoin_SilverExtraBulk.label>Fundir mena de plata en monedas x60</DankPyon_MakeCoin_SilverExtraBulk.label>
+  <DankPyon_MakeCoin_SilverExtraBulk.description>Funde menas de plata para hacer monedas.</DankPyon_MakeCoin_SilverExtraBulk.description>
+  <DankPyon_MakeCoin_SilverExtraBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeCoin_SilverExtraBulk.jobString>
+
+  <!-- Gold Ingots -->
+
+  <DankPyon_MakeIngots_Gold.label>Fundir una mena de oro en un lingote</DankPyon_MakeIngots_Gold.label>
+  <DankPyon_MakeIngots_Gold.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_Gold.description>
+  <DankPyon_MakeIngots_Gold.jobString>Fundiendo mena de oro.</DankPyon_MakeIngots_Gold.jobString>
+
+  <DankPyon_MakeIngots_GoldBulk.label>Fundir mena de oro en lingotes x30</DankPyon_MakeIngots_GoldBulk.label>
+  <DankPyon_MakeIngots_GoldBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_GoldBulk.description>
+  <DankPyon_MakeIngots_GoldBulk.jobString>Fundiendo menas de oro.</DankPyon_MakeIngots_GoldBulk.jobString>
+
+  <DankPyon_MakeIngots_GoldExtraBulk.label>Fundir mena de oro en lingotes x60</DankPyon_MakeIngots_GoldExtraBulk.label>
+  <DankPyon_MakeIngots_GoldExtraBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_GoldExtraBulk.description>
+  <DankPyon_MakeIngots_GoldExtraBulk.jobString>Fundiendo menas de oro.</DankPyon_MakeIngots_GoldExtraBulk.jobString>
+
+  <!-- Steel Ingots -->
+
+  <DankPyon_MakeIngots_Steel.label>Fundir una mena de acero en un lingote</DankPyon_MakeIngots_Steel.label>
+  <DankPyon_MakeIngots_Steel.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_Steel.description>
+  <DankPyon_MakeIngots_Steel.jobString>Fundiendo mena de acero</DankPyon_MakeIngots_Steel.jobString>
+
+  <DankPyon_MakeIngots_SteelBulk.label>Fundir mena de acero en lingotes x30</DankPyon_MakeIngots_SteelBulk.label>
+  <DankPyon_MakeIngots_SteelBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_SteelBulk.description>
+  <DankPyon_MakeIngots_SteelBulk.jobString>Fundiendo menas de acero</DankPyon_MakeIngots_SteelBulk.jobString>
+
+  <DankPyon_MakeIngots_SteelExtraBulk.label>Fundir mena de acero en lingotes x60</DankPyon_MakeIngots_SteelExtraBulk.label>
+  <DankPyon_MakeIngots_SteelExtraBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_SteelExtraBulk.description>
+  <DankPyon_MakeIngots_SteelExtraBulk.jobString>Fundiendo menas de acero</DankPyon_MakeIngots_SteelExtraBulk.jobString>
+
+  <!-- Plasteel Ingots -->
+
+  <DankPyon_MakeIngots_Plasteel.label>Fundir una mena de plastiacero en un lingote</DankPyon_MakeIngots_Plasteel.label>
+  <DankPyon_MakeIngots_Plasteel.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_Plasteel.description>
+  <DankPyon_MakeIngots_Plasteel.jobString>Fundiendo mena de plastiacero</DankPyon_MakeIngots_Plasteel.jobString>
+
+  <DankPyon_MakeIngots_PlasteelBulk.label>Fundir mena de plastiacero en lingotes x30</DankPyon_MakeIngots_PlasteelBulk.label>
+  <DankPyon_MakeIngots_PlasteelBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_PlasteelBulk.description>
+  <DankPyon_MakeIngots_PlasteelBulk.jobString>Fundiendo menas de plastiacero</DankPyon_MakeIngots_PlasteelBulk.jobString>
+
+  <DankPyon_MakeIngots_PlasteelExtraBulk.label>Fundir mena de plastiacero en lingotes x60</DankPyon_MakeIngots_PlasteelExtraBulk.label>
+  <DankPyon_MakeIngots_PlasteelExtraBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_PlasteelExtraBulk.description>
+  <DankPyon_MakeIngots_PlasteelExtraBulk.jobString>Fundiendo menas de plastiacero</DankPyon_MakeIngots_PlasteelExtraBulk.jobString>
+
+</LanguageData>

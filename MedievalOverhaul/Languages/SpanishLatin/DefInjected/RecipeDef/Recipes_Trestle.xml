@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Make_TimberAny.label>producir tablones x2</DankPyon_Make_TimberAny.label>
+  <DankPyon_Make_TimberAny.description>Procesar troncos para convertirlos en tablones.</DankPyon_Make_TimberAny.description>
+  <DankPyon_Make_TimberAny.jobString>Aserrando troncos.</DankPyon_Make_TimberAny.jobString>
+
+  <DankPyon_Make_TimberAny_Bulk.label>producir tablones 40x</DankPyon_Make_TimberAny_Bulk.label>
+  <DankPyon_Make_TimberAny_Bulk.description>Procesar troncos para convertirlos en tablones.</DankPyon_Make_TimberAny_Bulk.description>
+  <DankPyon_Make_TimberAny_Bulk.jobString>Aserrando troncos.</DankPyon_Make_TimberAny_Bulk.jobString>
+
+  <DankPyon_Make_TimberAny_Bulkier.label>producir tablones 400x</DankPyon_Make_TimberAny_Bulkier.label>
+  <DankPyon_Make_TimberAny_Bulkier.description>Procesar troncos para convertirlos en tablones.</DankPyon_Make_TimberAny_Bulkier.description>
+  <DankPyon_Make_TimberAny_Bulkier.jobString>Aserrando troncos.</DankPyon_Make_TimberAny_Bulkier.jobString>
+
+  <DankPyon_Make_Timber.label>producir tablones x2</DankPyon_Make_Timber.label>
+  <DankPyon_Make_Timber.description>Procesar troncos para convertirlos en tablones.</DankPyon_Make_Timber.description>
+  <DankPyon_Make_Timber.jobString>Aserrando troncos.</DankPyon_Make_Timber.jobString>
+
+  <DankPyon_Make_TimberBulk.label>producir tablones x40</DankPyon_Make_TimberBulk.label>
+  <DankPyon_Make_TimberBulk.description>Procesar troncos para convertirlos en tablones.</DankPyon_Make_TimberBulk.description>
+  <DankPyon_Make_TimberBulk.jobString>Aserrando troncos.</DankPyon_Make_TimberBulk.jobString>
+
+  <DankPyon_Make_TimberBulkExtra.label>producir tablones x200</DankPyon_Make_TimberBulkExtra.label>
+  <DankPyon_Make_TimberBulkExtra.description>Procesar troncos para convertirlos en tablones.</DankPyon_Make_TimberBulkExtra.description>
+  <DankPyon_Make_TimberBulkExtra.jobString>Aserrando troncos.</DankPyon_Make_TimberBulkExtra.jobString>
+
+  <DankPyon_Make_TimberDark.label>producir tablones oscuros x2</DankPyon_Make_TimberDark.label>
+  <DankPyon_Make_TimberDark.description>Procesar troncos oscuros para convertirlos en tablones oscuros.</DankPyon_Make_TimberDark.description>
+  <DankPyon_Make_TimberDark.jobString>Aserrando troncos oscuros.</DankPyon_Make_TimberDark.jobString>
+
+  <DankPyon_Make_TimberDarkBulk.label>producir tablones oscuros x40</DankPyon_Make_TimberDarkBulk.label>
+  <DankPyon_Make_TimberDarkBulk.description>Procesar troncos oscuros para convertirlos en tablones oscuros.</DankPyon_Make_TimberDarkBulk.description>
+  <DankPyon_Make_TimberDarkBulk.jobString>Aserrando troncos oscuros.</DankPyon_Make_TimberDarkBulk.jobString>
+
+  <DankPyon_Make_TimberDarkBulkExtra.label>producir tablones oscuros x200</DankPyon_Make_TimberDarkBulkExtra.label>
+  <DankPyon_Make_TimberDarkBulkExtra.description>Procesar troncos oscuros para convertirlos en tablones oscuros.</DankPyon_Make_TimberDarkBulkExtra.description>
+  <DankPyon_Make_TimberDarkBulkExtra.jobString>Aserrando troncos oscuros.</DankPyon_Make_TimberDarkBulkExtra.jobString>
+
+  <DankPyon_Make_TimberAny_Tribal.label>producir cualquier madera</DankPyon_Make_TimberAny_Tribal.label>
+  <DankPyon_Make_TimberAny_Tribal.description>Procesar cualquier tronco para convertirlo en sus tablones correspondientes.</DankPyon_Make_TimberAny_Tribal.description>
+  <DankPyon_Make_TimberAny_Tribal.jobString>Aserrando troncos.</DankPyon_Make_TimberAny_Tribal.jobString>
+
+  <DankPyon_Make_Timber_Tribal.label>producir tablones</DankPyon_Make_Timber_Tribal.label>
+  <DankPyon_Make_Timber_Tribal.description>Procesar troncos oscuros para convertirlos en tablones.</DankPyon_Make_Timber_Tribal.description>
+  <DankPyon_Make_Timber_Tribal.jobString>Aserrando tronco.</DankPyon_Make_Timber_Tribal.jobString>
+
+  <DankPyon_Make_TimberDark_Tribal.label>producir tablones oscuros</DankPyon_Make_TimberDark_Tribal.label>
+  <DankPyon_Make_TimberDark_Tribal.description>Procesar troncos oscuros para convertirlos en tablones oscuros.</DankPyon_Make_TimberDark_Tribal.description>
+  <DankPyon_Make_TimberDark_Tribal.jobString>Aserrando tronco oscuro.</DankPyon_Make_TimberDark_Tribal.jobString>
+
+</LanguageData>

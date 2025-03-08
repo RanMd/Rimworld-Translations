@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <DankPyon_RugBase.description>Haz una alfombra remendada con varios tipos de cuero.</DankPyon_RugBase.description>
-  <DankPyon_RugBase.jobString>Fabricación de una alfombra remendada.</DankPyon_RugBase.jobString>
-  <DankPyon_MakeRugPatched1x1c.label>Fabricar alfombra remendada (1x1)</DankPyon_MakeRugPatched1x1c.label>
-  <DankPyon_MakeRugPatched2x2c.label>Fabricar alfombra remendada (2x2)</DankPyon_MakeRugPatched2x2c.label>
-  <DankPyon_MakeRugPatched3x3c.label>Fabricar alfombra remendada (3x3)</DankPyon_MakeRugPatched3x3c.label>
-</LanguageData>

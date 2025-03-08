@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Chalice -->
+
   <DankPyon_CleanLoot_ChaliceSilver.label>Limpiar cáliz de plata</DankPyon_CleanLoot_ChaliceSilver.label>
   <DankPyon_CleanLoot_ChaliceSilver.jobString>Limpiar cáliz de plata.</DankPyon_CleanLoot_ChaliceSilver.jobString>
+
   <DankPyon_CleanLoot_ChaliceGold.label>Limpiar cáliz de oro</DankPyon_CleanLoot_ChaliceGold.label>
   <DankPyon_CleanLoot_ChaliceGold.jobString>Limpiar cáliz de oro.</DankPyon_CleanLoot_ChaliceGold.jobString>
+
+  <!-- Bowl -->
+
   <DankPyon_CleanLoot_BowlSilver.label>Limpiar cuenco de plata</DankPyon_CleanLoot_BowlSilver.label>
   <DankPyon_CleanLoot_BowlSilver.jobString>Limpiar cuenco de plata.</DankPyon_CleanLoot_BowlSilver.jobString>
+
   <DankPyon_CleanLoot_BowlGold.label>Limpiar cuenco de oro</DankPyon_CleanLoot_BowlGold.label>
   <DankPyon_CleanLoot_BowlGold.jobString>Limpiar cuenco de oro.</DankPyon_CleanLoot_BowlGold.jobString>
+
   <DankPyon_CleanLoot_SkullGold.label>Limpiar calavera de oro</DankPyon_CleanLoot_SkullGold.label>
   <DankPyon_CleanLoot_SkullGold.jobString>Limpiar calavera de oro.</DankPyon_CleanLoot_SkullGold.jobString>
+
   <DankPyon_CleanLoot_SkullEmerald.label>Limpiar calavera de esmeralda</DankPyon_CleanLoot_SkullEmerald.label>
   <DankPyon_CleanLoot_SkullEmerald.jobString>Limpiar calavera de esmeralda.</DankPyon_CleanLoot_SkullEmerald.jobString>
+
   <DankPyon_CleanLoot_SkullSapphire.label>Limpiar calavera de zafiro</DankPyon_CleanLoot_SkullSapphire.label>
   <DankPyon_CleanLoot_SkullSapphire.jobString>Limpiar calavera de zafiro.</DankPyon_CleanLoot_SkullSapphire.jobString>
+
   <DankPyon_CleanLoot_SkullRuby.label>Limpiar calavera de rubí</DankPyon_CleanLoot_SkullRuby.label>
   <DankPyon_CleanLoot_SkullRuby.jobString>Limpiar calavera de rubí.</DankPyon_CleanLoot_SkullRuby.jobString>
+
 </LanguageData>

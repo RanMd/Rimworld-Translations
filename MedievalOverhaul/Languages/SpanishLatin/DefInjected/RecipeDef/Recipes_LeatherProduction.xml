@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeTanningLiquorFromWood.label>Preparar licor de curtido con madera</MakeTanningLiquorFromWood.label>
+  <MakeTanningLiquorFromWood.description>Preparar licor de curtido a partir de las cortezas y partes de madera de los troncos de los árboles.</MakeTanningLiquorFromWood.description>
+  <MakeTanningLiquorFromWood.jobString>Hirviendo madera hacer licor de curtido.</MakeTanningLiquorFromWood.jobString>
+
+  <DankPyon_MakeTanningLiquorFromFood.label>Preparar licor de curtido con plantas</DankPyon_MakeTanningLiquorFromFood.label>
+  <DankPyon_MakeTanningLiquorFromFood.description>Preparar licor de curtido utilizando ingredientes orgánicos conocidos por contener taninos.</DankPyon_MakeTanningLiquorFromFood.description>
+  <DankPyon_MakeTanningLiquorFromFood.jobString>Hirviendo plantas para hacer licor de curtido.</DankPyon_MakeTanningLiquorFromFood.jobString>
+
+  <DankPyon_MakeTanningLiquorFromMeat.label>Preparar licor de curtido con carne</DankPyon_MakeTanningLiquorFromMeat.label>
+  <DankPyon_MakeTanningLiquorFromMeat.description>Preparar licor de curtido utilizando ingredientes orgánicos conocidos por contener taninos.</DankPyon_MakeTanningLiquorFromMeat.description>
+  <DankPyon_MakeTanningLiquorFromMeat.jobString>Hirviendo carne para hacer licor de curtido.</DankPyon_MakeTanningLiquorFromMeat.jobString>
+
+  <!-- 10X -->
+
+  <MakeTanningLiquorFromWood10X.label>Preparar licor de curtido con madera x10</MakeTanningLiquorFromWood10X.label>
+  <MakeTanningLiquorFromWood10X.description>Preparar un lote de licor de curtido a partir de las cortezas y partes de madera de los troncos de los árboles.</MakeTanningLiquorFromWood10X.description>
+  <MakeTanningLiquorFromWood10X.jobString>Hirviendo madera para hacer licor de curtido.</MakeTanningLiquorFromWood10X.jobString>
+
+  <DankPyon_MakeTanningLiquorFromFood10X.label>Preparar licor de curtido con plantas x10</DankPyon_MakeTanningLiquorFromFood10X.label>
+  <DankPyon_MakeTanningLiquorFromFood10X.description>Preparar un lote de licor de curtido utilizando ingredientes orgánicos conocidos por contener taninos.</DankPyon_MakeTanningLiquorFromFood10X.description>
+  <DankPyon_MakeTanningLiquorFromFood10X.jobString>Hirviendo plantas para hacer licor de curtido.</DankPyon_MakeTanningLiquorFromFood10X.jobString>
+
+  <DankPyon_MakeTanningLiquorFromMeat10X.label>Preparar licor de curtido con carne x10</DankPyon_MakeTanningLiquorFromMeat10X.label>
+  <DankPyon_MakeTanningLiquorFromMeat10X.description>Preparar un lote de licor de curtido utilizando ingredientes orgánicos conocidos por contener taninos.</DankPyon_MakeTanningLiquorFromMeat10X.description>
+  <DankPyon_MakeTanningLiquorFromMeat10X.jobString>Hirviendo carne para hacer licor de curtido.</DankPyon_MakeTanningLiquorFromMeat10X.jobString>
+
+</LanguageData>

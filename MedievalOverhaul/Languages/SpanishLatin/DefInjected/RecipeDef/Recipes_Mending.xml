@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_MendApparel.label>reparar ropa</DankPyon_MendApparel.label>
+  <DankPyon_MendApparel.description>Repara ropa dañada.</DankPyon_MendApparel.description>
+  <DankPyon_MendApparel.jobString>Reparando ropa dañada.</DankPyon_MendApparel.jobString>
+
+  <DankPyon_MendWeapon.label>reparar arma</DankPyon_MendWeapon.label>
+  <DankPyon_MendWeapon.description>Reparar arma dañada.</DankPyon_MendWeapon.description>
+  <DankPyon_MendWeapon.jobString>Reparando arma dañada.</DankPyon_MendWeapon.jobString>
+
+  <DankPyon_MendArmor.label>reparar armadura</DankPyon_MendArmor.label>
+  <DankPyon_MendArmor.description>Reparar armadura dañada.</DankPyon_MendArmor.description>
+  <DankPyon_MendArmor.jobString>Reparando armadura dañada.</DankPyon_MendArmor.jobString>
+
+</LanguageData>
