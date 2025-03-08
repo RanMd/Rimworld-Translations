@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_Treatise_Shooting.label>tomo encantado (tiro)</DankPyon_Treatise_Shooting.label>
-  <DankPyon_Treatise_Shooting.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Shooting.description>
-  <DankPyon_Treatise_Shooting.jobString>leer tomo</DankPyon_Treatise_Shooting.jobString>
+  <DankPyon_TreatiseShooting.label>tomo encantado (tiro)</DankPyon_TreatiseShooting.label>
+  <DankPyon_TreatiseShooting.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseShooting.description>
+  <DankPyon_TreatiseShooting.jobString>leer tomo</DankPyon_TreatiseShooting.jobString>
 
-  <DankPyon_Treatise_Melee.label>tomo encantado (combate)</DankPyon_Treatise_Melee.label>
-  <DankPyon_Treatise_Melee.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Melee.description>
-  <DankPyon_Treatise_Melee.jobString>leer tomo</DankPyon_Treatise_Melee.jobString>
+  <DankPyon_TreatiseMelee.label>tomo encantado (combate)</DankPyon_TreatiseMelee.label>
+  <DankPyon_TreatiseMelee.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseMelee.description>
+  <DankPyon_TreatiseMelee.jobString>leer tomo</DankPyon_TreatiseMelee.jobString>
 
-  <DankPyon_Treatise_Construction.label>tomo encantado (construcción)</DankPyon_Treatise_Construction.label>
-  <DankPyon_Treatise_Construction.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Construction.description>
-  <DankPyon_Treatise_Construction.jobString>leer tomo</DankPyon_Treatise_Construction.jobString>
+  <DankPyon_TreatiseConstruction.label>tomo encantado (construcción)</DankPyon_TreatiseConstruction.label>
+  <DankPyon_TreatiseConstruction.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseConstruction.description>
+  <DankPyon_TreatiseConstruction.jobString>leer tomo</DankPyon_TreatiseConstruction.jobString>
 
-  <DankPyon_Treatise_Mining.label>tomo encantado (minería)</DankPyon_Treatise_Mining.label>
-  <DankPyon_Treatise_Mining.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Mining.description>
-  <DankPyon_Treatise_Mining.jobString>leer tomo</DankPyon_Treatise_Mining.jobString>
+  <DankPyon_TreatiseMining.label>tomo encantado (minería)</DankPyon_TreatiseMining.label>
+  <DankPyon_TreatiseMining.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseMining.description>
+  <DankPyon_TreatiseMining.jobString>leer tomo</DankPyon_TreatiseMining.jobString>
 
-  <DankPyon_Treatise_Cooking.label>tomo encantado (cocina)</DankPyon_Treatise_Cooking.label>
-  <DankPyon_Treatise_Cooking.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Cooking.description>
-  <DankPyon_Treatise_Cooking.jobString>leer tomo</DankPyon_Treatise_Cooking.jobString>
+  <DankPyon_TreatiseCooking.label>tomo encantado (cocina)</DankPyon_TreatiseCooking.label>
+  <DankPyon_TreatiseCooking.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseCooking.description>
+  <DankPyon_TreatiseCooking.jobString>leer tomo</DankPyon_TreatiseCooking.jobString>
 
-  <DankPyon_Treatise_Growing.label>tomo encantado (cultivo)</DankPyon_Treatise_Growing.label>
-  <DankPyon_Treatise_Growing.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Growing.description>
-  <DankPyon_Treatise_Growing.jobString>leer tomo</DankPyon_Treatise_Growing.jobString>
+  <DankPyon_TreatiseGrowing.label>tomo encantado (cultivo)</DankPyon_TreatiseGrowing.label>
+  <DankPyon_TreatiseGrowing.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseGrowing.description>
+  <DankPyon_TreatiseGrowing.jobString>leer tomo</DankPyon_TreatiseGrowing.jobString>
 
-  <DankPyon_Treatise_Animals.label>tomo encantado (animales)</DankPyon_Treatise_Animals.label>
-  <DankPyon_Treatise_Animals.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Animals.description>
-  <DankPyon_Treatise_Animals.jobString>leer tomo</DankPyon_Treatise_Animals.jobString>
+  <DankPyon_TreatiseAnimals.label>tomo encantado (animales)</DankPyon_TreatiseAnimals.label>
+  <DankPyon_TreatiseAnimals.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseAnimals.description>
+  <DankPyon_TreatiseAnimals.jobString>leer tomo</DankPyon_TreatiseAnimals.jobString>
 
-  <DankPyon_Treatise_Crafting.label>tomo encantado (artesanía)</DankPyon_Treatise_Crafting.label>
-  <DankPyon_Treatise_Crafting.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Crafting.description>
-  <DankPyon_Treatise_Crafting.jobString>leer tomo</DankPyon_Treatise_Crafting.jobString>
+  <DankPyon_TreatiseCrafting.label>tomo encantado (artesanía)</DankPyon_TreatiseCrafting.label>
+  <DankPyon_TreatiseCrafting.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseCrafting.description>
+  <DankPyon_TreatiseCrafting.jobString>leer tomo</DankPyon_TreatiseCrafting.jobString>
 
-  <DankPyon_Treatise_Art.label>tomo encantado (arte)</DankPyon_Treatise_Art.label>
-  <DankPyon_Treatise_Art.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Art.description>
-  <DankPyon_Treatise_Art.jobString>leer tomo</DankPyon_Treatise_Art.jobString>
+  <DankPyon_TreatiseArt.label>tomo encantado (arte)</DankPyon_TreatiseArt.label>
+  <DankPyon_TreatiseArt.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseArt.description>
+  <DankPyon_TreatiseArt.jobString>leer tomo</DankPyon_TreatiseArt.jobString>
 
-  <DankPyon_Treatise_Medical.label>tomo encantado (medicina)</DankPyon_Treatise_Medical.label>
-  <DankPyon_Treatise_Medical.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Medical.description>
-  <DankPyon_Treatise_Medical.jobString>leer tomo</DankPyon_Treatise_Medical.jobString>
+  <DankPyon_TreatiseMedical.label>tomo encantado (medicina)</DankPyon_TreatiseMedical.label>
+  <DankPyon_TreatiseMedical.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseMedical.description>
+  <DankPyon_TreatiseMedical.jobString>leer tomo</DankPyon_TreatiseMedical.jobString>
 
-  <DankPyon_Treatise_Social.label>tomo encantado (social)</DankPyon_Treatise_Social.label>
-  <DankPyon_Treatise_Social.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Social.description>
-  <DankPyon_Treatise_Social.jobString>leer tomo</DankPyon_Treatise_Social.jobString>
+  <DankPyon_TreatiseSocial.label>tomo encantado (social)</DankPyon_TreatiseSocial.label>
+  <DankPyon_TreatiseSocial.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseSocial.description>
+  <DankPyon_TreatiseSocial.jobString>leer tomo</DankPyon_TreatiseSocial.jobString>
 
-  <DankPyon_Treatise_Intellectual.label>tomo encantado (intelectual)</DankPyon_Treatise_Intellectual.label>
-  <DankPyon_Treatise_Intellectual.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Intellectual.description>
-  <DankPyon_Treatise_Intellectual.jobString>leer tomo</DankPyon_Treatise_Intellectual.jobString>
+  <DankPyon_TreatiseIntellectual.label>tomo encantado (intelectual)</DankPyon_TreatiseIntellectual.label>
+  <DankPyon_TreatiseIntellectual.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_TreatiseIntellectual.description>
+  <DankPyon_TreatiseIntellectual.jobString>leer tomo</DankPyon_TreatiseIntellectual.jobString>
 
 </LanguageData>

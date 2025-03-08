@@ -4,7 +4,7 @@
   <!-- Clay -->
 
   <DankPyon_Gather_Clay.label>recolectar arcilla x20</DankPyon_Gather_Clay.label>
-  <DankPyon_Gather_Clay.description>recolectar arcilla utilizable del subsuelo.</DankPyon_Gather_Clay.description>
-  <DankPyon_Gather_Clay.jobString>recolectando arcilla.</DankPyon_Gather_Clay.jobString>
+  <DankPyon_Gather_Clay.description>Recolectar arcilla utilizable del subsuelo.</DankPyon_Gather_Clay.description>
+  <DankPyon_Gather_Clay.jobString>Recolectando arcilla.</DankPyon_Gather_Clay.jobString>
 
 </LanguageData>
