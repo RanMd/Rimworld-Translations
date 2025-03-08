@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_BrokenWeapons.label>Armas Rotas</DankPyon_BrokenWeapons.label>
   <DankPyon_BrokenWeapons.description>Restos de armas de metal están rotos e inutilizables. Se pueden fundir para recuperar recursos.</DankPyon_BrokenWeapons.description>
   <DankPyon_Book.label>Libro</DankPyon_Book.label>
@@ -32,4 +33,5 @@
   <DankPyon_DiceGold.description>Un juego de dados con gemas de diferentes valores; Aunque pequeños, cada dado vale más que una bonita moneda.</DankPyon_DiceGold.description>
   <DankPyon_TornNote_Hideout.label>Nota Rasgada</DankPyon_TornNote_Hideout.label>
   <DankPyon_TornNote_Hideout.description>Las notas rasgadas se pueden usar en la mesa del explorador (como combustible). Contienen información sobre escondites y otros lugares, como vetas de mineral explotables. Puedes encontrarlas en escondites o comprarlas a comerciantes de bienes masivos o caravanas de eruditos, pero solo si la caravana pertenece a una de las casas nobles MOs. Además, se pueden almacenar en el archivo del explorador, una estantería en escondites. ¡Así que asegúrate de llevarlas contigo!</DankPyon_TornNote_Hideout.description>
+
 </LanguageData>
