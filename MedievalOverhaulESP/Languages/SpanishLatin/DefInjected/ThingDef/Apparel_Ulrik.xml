@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Apparel_AdornedMailShirt.label>camisa de malla adornada pesada</DankPyon_Apparel_AdornedMailShirt.label>
+
+  <!-- Body Armor -->
+
+  <DankPyon_Apparel_AdornedMailShirt.label>camisa de malla adornadapesada</DankPyon_Apparel_AdornedMailShirt.label>
   <DankPyon_Apparel_AdornedMailShirt.description>Una camisa de malla gruesa y robusta, cubierta con un tabardo acolchado fino. La construcción en capas proporciona mucho calor. En general, una armadura impresionante, adornada con trofeos y símbolos sagrados.</DankPyon_Apparel_AdornedMailShirt.description>
-  <DankPyon_Apparel_AdornedWarriorArmor.label>armadura de guerrero adornada</DankPyon_Apparel_AdornedWarriorArmor.label>
+
+  <DankPyon_Apparel_AdornedWarriorArmor.label>armadura adornada</DankPyon_Apparel_AdornedWarriorArmor.label>
   <DankPyon_Apparel_AdornedWarriorArmor.description>Una camisa de malla robusta, cubierta con un tabardo acolchado fino. La construcción en capas proporciona mucho calor. En general, una armadura impresionante, adornada con trofeos y símbolos sagrados.</DankPyon_Apparel_AdornedWarriorArmor.description>
+
   <DankPyon_Apparel_AdornedHeavyPlate.label>armadura de placas adornada</DankPyon_Apparel_AdornedHeavyPlate.label>
   <DankPyon_Apparel_AdornedHeavyPlate.description>Una armadura de placas pesada, cubierta con un revestimiento grueso y remachado y brazales reforzados. La construcción en capas proporciona mucho calor. Típicamente usada por los Juramentados, los mejores tomadores de juramentos, finamente adornada con trofeos y símbolos religiosos.</DankPyon_Apparel_AdornedHeavyPlate.description>
-  <!--==================== Headgear ====================-->
-  <DankPyon_Adorned_HeavyMailCoif.label>cofia de malla pesada adornada</DankPyon_Adorned_HeavyMailCoif.label>
-  <DankPyon_Adorned_HeavyMailCoif.description>Una cofia gruesa forjada de cadenas de metal con una protección adicional para la nariz hecha de chapa metálica, que protege casi completamente la cara. Hace que sea un poco difícil ver, pero ofrece una excelente protección contra cortes.</DankPyon_Adorned_HeavyMailCoif.description>
-  <DankPyon_Adorned_FlatTop.label>casco cerrado de cima plana adornado</DankPyon_Adorned_FlatTop.label>
+
+  <!-- Headgear -->
+
+  <DankPyon_Adorned_HeavyMailCoif.label>yelmo de malla adornada</DankPyon_Adorned_HeavyMailCoif.label>
+  <DankPyon_Adorned_HeavyMailCoif.description>Un casco grueso forjado de cadenas de metal con una protección adicional para la nariz hecha de chapa metálica, que protege casi completamente la cara. Hace que sea un poco difícil ver, pero ofrece una excelente protección contra cortes.</DankPyon_Adorned_HeavyMailCoif.description>
+
+  <DankPyon_Adorned_FlatTop.label>yelmo de tope plano adornado</DankPyon_Adorned_FlatTop.label>
   <DankPyon_Adorned_FlatTop.description>Un diseño temprano del casco integral, que consiste en un casco de cima plana reforzada con una placa facial adicional y cofia de malla. Ofrece una excelente protección para toda la cabeza, pero dificulta la visión y la respiración.</DankPyon_Adorned_FlatTop.description>
-  <DankPyon_Adorned_GreatHelm.label>gran casco adornado</DankPyon_Adorned_GreatHelm.label>
-  <DankPyon_Adorned_GreatHelm.description>Un gran casco ricamente adornado con armadura completa, que a menudo es usado por combatientes de torneos y campeones heráldicos, así como por personalidades notables de casas renombradas en la guerra. Representa el estatus nobiliario y, sin embargo, ofrece una considerable protección en combate. \n\nEste gran casco lleva los colores de la Orden de Ulrik.</DankPyon_Adorned_GreatHelm.description>
+
+  <DankPyon_Adorned_GreatHelm.label>yelmo grande adornado</DankPyon_Adorned_GreatHelm.label>
+  <DankPyon_Adorned_GreatHelm.description>Un gran casco ricamente adornado, que a menudo es usado por combatientes de torneos y campeones heráldicos, así como por personalidades notables de casas renombradas en la guerra. Representa el estatus nobiliario y, sin embargo, ofrece una considerable protección en combate. \n\nEste gran casco lleva los colores de la Orden de Ulrik.</DankPyon_Adorned_GreatHelm.description>
+
 </LanguageData>

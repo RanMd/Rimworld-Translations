@@ -1,32 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Necklace_Citrine.label>Collar de Citrino</DankPyon_Necklace_Citrine.label>
+
+  <!-- Necklace -->
+
+  <DankPyon_Necklace_Citrine.label>collar de citrino</DankPyon_Necklace_Citrine.label>
   <DankPyon_Necklace_Citrine.description>Este collar incrustado con un citrino aumenta ligeramente la prosperidad de hombres y mujeres que desean mejorar su estatus social.</DankPyon_Necklace_Citrine.description>
-  <DankPyon_Necklace_Jade.label>Collar de Jade</DankPyon_Necklace_Jade.label>
+
+  <DankPyon_Necklace_Jade.label>collar de jade</DankPyon_Necklace_Jade.label>
   <DankPyon_Necklace_Jade.description>Este collar es tan robusto y hermoso como la piedra de jade y ofrece a quienes pueden permitírselo una riqueza moderada.</DankPyon_Necklace_Jade.description>
-  <DankPyon_Necklace_Amber.label>Collar de Ámbar</DankPyon_Necklace_Amber.label>
+
+  <DankPyon_Necklace_Amber.label>collar de ámbar</DankPyon_Necklace_Amber.label>
   <DankPyon_Necklace_Amber.description>Este collar de ámbar, que muestra el tono amarillo-naranja natural de la piedra preciosa, es tanto familiar como valioso debido a su belleza natural.</DankPyon_Necklace_Amber.description>
-  <DankPyon_Necklace_Onyx.label>Collar de Ónix</DankPyon_Necklace_Onyx.label>
+
+  <DankPyon_Necklace_Onyx.label>collar de ónix</DankPyon_Necklace_Onyx.label>
   <DankPyon_Necklace_Onyx.description>Este collar, negro como el ónix mismo, demuestra una increíble riqueza para hombres y mujeres comunes, ya que la piedra preciosa en su interior brilla incesantemente a pesar de su color oscuro.</DankPyon_Necklace_Onyx.description>
-  <DankPyon_Necklace_Emerald.label>Collar de Esmeralda</DankPyon_Necklace_Emerald.label>
+
+  <!-- Gold and Above tier -->
+
+  <DankPyon_Necklace_Emerald.label>collar de esmeralda</DankPyon_Necklace_Emerald.label>
   <DankPyon_Necklace_Emerald.description>Este collar de oro incrustado con una esmeralda impecable ofrece a su portador un aumento significativo de la prosperidad y es frecuentemente visto entre nobles y comerciantes.</DankPyon_Necklace_Emerald.description>
-  <DankPyon_Necklace_Sapphire.label>Collar de Zafiro</DankPyon_Necklace_Sapphire.label>
+
+  <DankPyon_Necklace_Sapphire.label>collar de zafiro</DankPyon_Necklace_Sapphire.label>
   <DankPyon_Necklace_Sapphire.description>Este collar incrustado con zafiros brilla con su familiar resplandor azul y asegura que las personas alrededor del portador noten al hombre o mujer adinerado que está entre ellos.</DankPyon_Necklace_Sapphire.description>
-  <DankPyon_Necklace_Ruby.label>Collar de Rubí</DankPyon_Necklace_Ruby.label>
+
+  <DankPyon_Necklace_Ruby.label>collar de rubí</DankPyon_Necklace_Ruby.label>
   <DankPyon_Necklace_Ruby.description>Este collar de oro adornado con varios rubíes en forma de gota ofrece gran riqueza y simboliza gran poder, ya que alguien que puede permitirse o robar un collar así no es alguien con quien se deba jugar.</DankPyon_Necklace_Ruby.description>
-  <!--========== Rings ==========-->
-  <DankPyon_Ring_Citrine.label>Anillo de Citrino</DankPyon_Ring_Citrine.label>
+
+  <!-- Rings -->
+
+  <DankPyon_Ring_Citrine.label>anillo de citrino</DankPyon_Ring_Citrine.label>
   <DankPyon_Ring_Citrine.description>Este anillo incrustado con un citrino aumenta ligeramente la fortuna de hombres y mujeres que desean mejorar su estatus social.</DankPyon_Ring_Citrine.description>
-  <DankPyon_Ring_Jade.label>Anillo de Jade</DankPyon_Ring_Jade.label>
+
+  <DankPyon_Ring_Jade.label>anillo de jade</DankPyon_Ring_Jade.label>
   <DankPyon_Ring_Jade.description>Este anillo es tan robusto y hermoso como la piedra de jade y ofrece a quienes pueden permitírselo una riqueza moderada.</DankPyon_Ring_Jade.description>
-  <DankPyon_Ring_Amber.label>Anillo de Ámbar</DankPyon_Ring_Amber.label>
+
+  <DankPyon_Ring_Amber.label>anillo de ámbar</DankPyon_Ring_Amber.label>
   <DankPyon_Ring_Amber.description>Este anillo de ámbar, que muestra el tono amarillo-naranja natural de la piedra preciosa, es tanto familiar como valioso debido a su belleza natural.</DankPyon_Ring_Amber.description>
-  <DankPyon_Ring_Onyx.label>Anillo de Ónix</DankPyon_Ring_Onyx.label>
+
+  <DankPyon_Ring_Onyx.label>anillo de ónix</DankPyon_Ring_Onyx.label>
   <DankPyon_Ring_Onyx.description>Este anillo, negro como el ónix mismo, demuestra una increíble riqueza para el hombre o la mujer promedio, ya que la piedra preciosa en su interior brilla incesantemente a pesar de su color oscuro.</DankPyon_Ring_Onyx.description>
-  <DankPyon_Ring_Emerald.label>Anillo de Esmeralda</DankPyon_Ring_Emerald.label>
+
+  <!-- Gold and Above tier -->
+
+  <DankPyon_Ring_Emerald.label>anillo de esmeralda</DankPyon_Ring_Emerald.label>
   <DankPyon_Ring_Emerald.description>Este anillo de oro incrustado con una esmeralda impecable ofrece a su portador un aumento significativo de la prosperidad y es frecuentemente visto entre nobles y comerciantes.</DankPyon_Ring_Emerald.description>
-  <DankPyon_Ring_Sapphire.label>Anillo de Zafiro</DankPyon_Ring_Sapphire.label>
+
+  <DankPyon_Ring_Sapphire.label>anillo de zafiro</DankPyon_Ring_Sapphire.label>
   <DankPyon_Ring_Sapphire.description>Este anillo incrustado con zafiros brilla con su familiar resplandor azul y asegura que las personas alrededor del portador noten al hombre o mujer adinerado que está entre ellos.</DankPyon_Ring_Sapphire.description>
-  <DankPyon_Ring_Ruby.label>Anillo de Rubí</DankPyon_Ring_Ruby.label>
+
+  <DankPyon_Ring_Ruby.label>anillo de rubí</DankPyon_Ring_Ruby.label>
   <DankPyon_Ring_Ruby.description>Este anillo adornado con varios rubíes en forma de gota ofrece gran riqueza y simboliza gran poder, ya que alguien que puede permitirse o robar un anillo así no es alguien con quien se deba jugar.</DankPyon_Ring_Ruby.description>
+
 </LanguageData>

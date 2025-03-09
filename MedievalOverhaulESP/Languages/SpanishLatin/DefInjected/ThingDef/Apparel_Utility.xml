@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Apparel_Quiver.label>Carcaj</DankPyon_Apparel_Quiver.label>
+
+  <DankPyon_Apparel_Quiver.label>carcaj</DankPyon_Apparel_Quiver.label>
   <DankPyon_Apparel_Quiver.description>Un contenedor de cuero portátil para almacenar flechas. Llevar el carcaj reduce el tiempo necesario para disparar con arcos y ballestas.</DankPyon_Apparel_Quiver.description>
-  <DankPyon_Apparel_FlashPotBelt.label>Cinturón de Olla de Destello</DankPyon_Apparel_FlashPotBelt.label>
-  <DankPyon_Apparel_FlashPotBelt.description>Un cinturón equipado con ollas de destello, diseñadas para cegar temporalmente a los enemigos en combate.</DankPyon_Apparel_FlashPotBelt.description>
-  <DankPyon_Apparel_FlashPotBelt.verbs.0.label>Lanzar Olla de Destello</DankPyon_Apparel_FlashPotBelt.verbs.0.label>
-  <DankPyon_Apparel_FirePotBelt.label>Cinturón de Olla de Fuego</DankPyon_Apparel_FirePotBelt.label>
-  <DankPyon_Apparel_FirePotBelt.description>Un cinturón con ollas incendiarias, ideales para prender fuego a enemigos y estructuras.</DankPyon_Apparel_FirePotBelt.description>
-  <DankPyon_Apparel_FirePotBelt.verbs.0.label>Lanzar Olla de Fuego</DankPyon_Apparel_FirePotBelt.verbs.0.label>
-  <DankPyon_Apparel_SmokePotBelt.label>Cinturón de Olla de Humo</DankPyon_Apparel_SmokePotBelt.label>
-  <DankPyon_Apparel_SmokePotBelt.description>Un cinturón con ollas de humo, útiles para cubrir la retirada o confundir a los oponentes.</DankPyon_Apparel_SmokePotBelt.description>
-  <DankPyon_Apparel_SmokePotBelt.verbs.0.label>Lanzar Olla de Humo</DankPyon_Apparel_SmokePotBelt.verbs.0.label>
-  <DankPyon_Apparel_AcidFlaskBelt.label>Cinturón de Olla de Ácido</DankPyon_Apparel_AcidFlaskBelt.label>
-  <DankPyon_Apparel_AcidFlaskBelt.description>Un cinturón con ollas de ácido capaces de corroer armaduras y causar graves heridas.</DankPyon_Apparel_AcidFlaskBelt.description>
-  <DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>Lanzar Olla de Ácido</DankPyon_Apparel_AcidFlaskBelt.verbs.0.label>
+
+  <DankPyon_Apparel_FlashPotBelt.label>cinturón de frascos radiante</DankPyon_Apparel_FlashPotBelt.label>
+  <DankPyon_Apparel_FlashPotBelt.description>Un cinturón equipado con frascos radiantes, diseñadas para cegar temporalmente a los enemigos en combate.</DankPyon_Apparel_FlashPotBelt.description>
+  <DankPyon_Apparel_FlashPotBelt.verbs.throw_flash_pot.label>Lanzar frasco radiante</DankPyon_Apparel_FlashPotBelt.verbs.throw_flash_pot.label>
+  <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>frasco radiante</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>tiempo de enfriamiento</DankPyon_Apparel_FlashPotBelt.comps.CompApparelReloadable.cooldownGerund>
+
+  <DankPyon_Apparel_FirePotBelt.label>cinturón de frascos incendiarios</DankPyon_Apparel_FirePotBelt.label>
+  <DankPyon_Apparel_FirePotBelt.description>Un cinturón con frasco incendiarias, ideales para prender fuego a enemigos y estructuras.</DankPyon_Apparel_FirePotBelt.description>
+  <DankPyon_Apparel_FirePotBelt.verbs.throw_fire_pot.label>Lanzar frasco incendiario</DankPyon_Apparel_FirePotBelt.verbs.throw_fire_pot.label>
+  <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>frasco incendiario</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>tiempo de enfriamiento</DankPyon_Apparel_FirePotBelt.comps.CompApparelReloadable.cooldownGerund>
+
+  <DankPyon_Apparel_SmokePotBelt.label>Cinturón de frascos de Humo</DankPyon_Apparel_SmokePotBelt.label>
+  <DankPyon_Apparel_SmokePotBelt.description>Un cinturón con frascos de humo, útiles para cubrir la retirada o confundir a los oponentes.</DankPyon_Apparel_SmokePotBelt.description>
+  <DankPyon_Apparel_SmokePotBelt.verbs.throw_smoke_pot.label>Lanzar frasco de humo</DankPyon_Apparel_SmokePotBelt.verbs.throw_smoke_pot.label>
+  <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>frasco de humo</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>tiempo de enfriamiento</DankPyon_Apparel_SmokePotBelt.comps.CompApparelReloadable.cooldownGerund>
+
+  <DankPyon_Apparel_AcidFlaskBelt.label>Cinturón de frasco de ácido</DankPyon_Apparel_AcidFlaskBelt.label>
+  <DankPyon_Apparel_AcidFlaskBelt.description>Un cinturón con frascos de ácido capaces de corroer armaduras y causar graves heridas.</DankPyon_Apparel_AcidFlaskBelt.description>
+  <DankPyon_Apparel_AcidFlaskBelt.verbs.throw_acid_flask.label>Lanzar frasco de ácido</DankPyon_Apparel_AcidFlaskBelt.verbs.throw_acid_flask.label>
+  <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>frasco de ácido</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.chargeNoun>
+  <DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>tiempo de enfriamiento</DankPyon_Apparel_AcidFlaskBelt.comps.CompApparelReloadable.cooldownGerund>
+
 </LanguageData>

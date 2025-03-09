@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Apparel_Sackcloth.label>Arpillera</DankPyon_Apparel_Sackcloth.label>
+
+  <DankPyon_Apparel_Sackcloth.label>arapos</DankPyon_Apparel_Sackcloth.label>
   <DankPyon_Apparel_Sackcloth.description>Una prenda hecha rápidamente, andrajosa, cosida con partes de varios tipos de cuero.</DankPyon_Apparel_Sackcloth.description>
-  <DankPyon_Apparel_Leather_Tunic.label>Túnica de cuero</DankPyon_Apparel_Leather_Tunic.label>
+
+  <DankPyon_Apparel_Leather_Tunic.label>túnica de cuero</DankPyon_Apparel_Leather_Tunic.label>
   <DankPyon_Apparel_Leather_Tunic.description>Una túnica simple hecha de cuero tratado y curtido, cómoda y pragmática a la vez. El cuero grueso ofrece un buen equilibrio entre protección y carga.</DankPyon_Apparel_Leather_Tunic.description>
-  <DankPyon_Apparel_Padded_Surcoat.label>Jubón acolchado</DankPyon_Apparel_Padded_Surcoat.label>
+
+  <DankPyon_Apparel_Padded_Surcoat.label>jubón acolchado</DankPyon_Apparel_Padded_Surcoat.label>
   <DankPyon_Apparel_Padded_Surcoat.description>Un abrigo de tela, similar a un gambesón, con un relleno grueso de lana. Ofrece acolchado adicional al usarlo, pero no protege contra estocadas de lanzas bajo escudos.</DankPyon_Apparel_Padded_Surcoat.description>
-  <Dankpyon_Apparel_Gambeson.label>Gambesón</Dankpyon_Apparel_Gambeson.label>
+
+  <Dankpyon_Apparel_Gambeson.label>gambesón</Dankpyon_Apparel_Gambeson.label>
   <Dankpyon_Apparel_Gambeson.description>Una prenda de protección ligera con capas de lino cosido firmemente, entre las cuales hay un relleno denso de madera de roble o lana. Bastante aislante y ofrece buena protección contra cortes y golpes.</Dankpyon_Apparel_Gambeson.description>
-  <DankPyon_Apparel_Padded_Leather.label>Armadura acolchada</DankPyon_Apparel_Padded_Leather.label>
+
+  <DankPyon_Apparel_Padded_Leather.label>armadura acolchada</DankPyon_Apparel_Padded_Leather.label>
   <DankPyon_Apparel_Padded_Leather.description>Una capucha gruesamente acolchada, que se usa con mayor frecuencia debajo de cascos más pesados y ofrece una capa adicional de protección. Muy aislante y ofrece por sí sola un poco de protección contundente.</DankPyon_Apparel_Padded_Leather.description>
-  <DankPyon_Apparel_Light_Lamellar.label>Armadura lamelar ligera</DankPyon_Apparel_Light_Lamellar.label>
-  <DankPyon_Apparel_Light_Lamellar.description>Una armadura lamelar de cuero hecha de placas de cuero superpuestas, que puede ofrecer un considerable nivel de protección.</DankPyon_Apparel_Light_Lamellar.description>
+
+  <DankPyon_Apparel_Light_Lamellar.label>armadura laminada ligera</DankPyon_Apparel_Light_Lamellar.label>
+  <DankPyon_Apparel_Light_Lamellar.description>Una armadura laminada de cuero hecha de placas de cuero superpuestas, que puede ofrecer un considerable nivel de protección.</DankPyon_Apparel_Light_Lamellar.description>
+
 </LanguageData>

@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_WebknechtWeb.label>Telaraña</DankPyon_WebknechtWeb.label>
+
+  <DankPyon_AlpSleep.label>pesadilla hipnótica</DankPyon_AlpSleep.label>
+  <DankPyon_WebknechtWeb.label>telaraña</DankPyon_WebknechtWeb.label>
+
 </LanguageData>

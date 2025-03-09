@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Apparel_Brigandine.label>Brigantina</DankPyon_Apparel_Brigandine.label>
+
+  <DankPyon_Apparel_Brigandine.label>brigantina</DankPyon_Apparel_Brigandine.label>
   <DankPyon_Apparel_Brigandine.description>Dos capas de armadura forman el espacio para este traje fantásticamente protector y, sin embargo, voluminoso, que consiste en capas de placas de metal forjadas y superpuestas, remachadas al tejido para proteger los órganos vitales y las extremidades.</DankPyon_Apparel_Brigandine.description>
-  <DankPyon_Apparel_Breast_Plate.label>Placa de Pecho</DankPyon_Apparel_Breast_Plate.label>
+
+  <DankPyon_Apparel_Breast_Plate.label>placa de pecho</DankPyon_Apparel_Breast_Plate.label>
   <DankPyon_Apparel_Breast_Plate.description>Una fuerte armadura de metal forjada para envolver el torso, dejando libres las extremidades. Bastante ligera y protectora.</DankPyon_Apparel_Breast_Plate.description>
-  <DankPyon_Apparel_Zweihanders_Cuirass.label>Coraza de Zweihander</DankPyon_Apparel_Zweihanders_Cuirass.label>
+
+  <DankPyon_Apparel_Zweihanders_Cuirass.label>coraza de zweihander</DankPyon_Apparel_Zweihanders_Cuirass.label>
   <DankPyon_Apparel_Zweihanders_Cuirass.description>La coraza del Zweihander es una impresionante mezcla de protección y extravagancia, con una elaborada armadura de placas complementada por ropa colorida y abultada. Cortes fuertes en la tela revelan los colores contrastantes debajo, creando una apariencia distintiva e impresionante en el campo de batalla. Esta combinación única de metal robusto y textiles llamativos encarna el espíritu intrépido y audaz de los mercenarios Zweihander.</DankPyon_Apparel_Zweihanders_Cuirass.description>
-  <DankPyon_Apparel_FullPlate.label>Armadura de Placas</DankPyon_Apparel_FullPlate.label>
+
+  <DankPyon_Apparel_Zweihanders_CuirassFloof.label>coraza de zweihander</DankPyon_Apparel_Zweihanders_CuirassFloof.label>
+  <DankPyon_Apparel_Zweihanders_CuirassFloof.description>La coraza del Zweihander es una impresionante mezcla de protección y extravagancia, con una elaborada armadura de placas complementada por ropa colorida y abultada. Cortes fuertes en la tela revelan los colores contrastantes debajo, creando una apariencia distintiva e impresionante en el campo de batalla. Esta combinación única de metal robusto y textiles llamativos encarna el espíritu intrépido y audaz de los mercenarios Zweihander.</DankPyon_Apparel_Zweihanders_CuirassFloof.description>
+
+  <DankPyon_Apparel_FullPlate.label>armadura de placas</DankPyon_Apparel_FullPlate.label>
   <DankPyon_Apparel_FullPlate.description>Pocos hombres pueden llevar una armadura tan protectora como el conjunto completo de placas, que ofrece la mayor protección en forma de placas de metal estratificadas. Se trata de nobles, señores y hombres que tienen los medios para comprar la armadura magistralmente elaborada que repele eficazmente muchos ataques. La luz que brilla sobre el metal pulido revela al enemigo que el portador no solo es rico, sino también un señor de la guerra.</DankPyon_Apparel_FullPlate.description>
-  <DankPyon_Apparel_FullPlateGilded.label>Armadura de Placas Dorada</DankPyon_Apparel_FullPlateGilded.label>
+
+  <DankPyon_Apparel_FullPlateGilded.label>armadura de placas dorada</DankPyon_Apparel_FullPlateGilded.label>
   <DankPyon_Apparel_FullPlateGilded.description>Pocos hombres pueden llevar una armadura tan protectora como el conjunto completo de placas, que ofrece la mayor protección en forma de placas de metal estratificadas. Se trata de nobles, señores y hombres que tienen los medios para comprar la armadura magistralmente elaborada que repele eficazmente muchos ataques. La luz que brilla sobre el metal pulido revela al enemigo que el portador no solo es rico, sino también un señor de la guerra.</DankPyon_Apparel_FullPlateGilded.description>
-  <DankPyon_Apparel_FullPlateNamed.label>Armadura de Placas Decorada</DankPyon_Apparel_FullPlateNamed.label>
+
+  <DankPyon_Apparel_FullPlateNamed.label>armadura de placas decorada</DankPyon_Apparel_FullPlateNamed.label>
   <DankPyon_Apparel_FullPlateNamed.description>Pocos hombres pueden llevar una armadura tan protectora como el conjunto completo de placas, que ofrece la mayor protección en forma de placas de metal estratificadas. Se trata de nobles, señores y hombres que tienen los medios para comprar la armadura magistralmente elaborada que repele eficazmente muchos ataques. La luz que brilla sobre el metal pulido revela al enemigo que el portador no solo es rico, sino también un señor de la guerra.</DankPyon_Apparel_FullPlateNamed.description>
+
+  <DankPyon_Apparel_Lindwurm.label>armadura de escamas de lindwurm</DankPyon_Apparel_Lindwurm.label>
+  <DankPyon_Apparel_Lindwurm.description>Una armadura escamosa hecha de las escamas de un lindwurm. Llevar esta armadura muestra la fuerza del portador, ya que es prueba de que han matado a un peligroso lindwurm para portar el trofeo. \n\nOtorga inmunidad al ácido de lindwurm.</DankPyon_Apparel_Lindwurm.description>
+
 </LanguageData>

@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Ring_Holding.label>Anillo de Carga</DankPyon_Ring_Holding.label>
+
+  <DankPyon_Ring_Holding.label>anillo de carga</DankPyon_Ring_Holding.label>
   <DankPyon_Ring_Holding.description>Este anillo es un tesoro para comerciantes y guerreros viajeros por igual, y ofrece una mayor capacidad de carga para largas campañas y caravanas comerciales.</DankPyon_Ring_Holding.description>
-  <DankPyon_Ring_Haste.label>Anillo de Prisa</DankPyon_Ring_Haste.label>
+
+  <DankPyon_Ring_Haste.label>anillo de agilidad</DankPyon_Ring_Haste.label>
   <DankPyon_Ring_Haste.description>Un anillo encantado que otorga a su portador velocidad de movimiento adicional, perfecto para exploradores que desean cubrir terreno rápidamente y escapar de expediciones peligrosas.</DankPyon_Ring_Haste.description>
-  <DankPyon_Ring_Tending.label>Anillo de Cuidado</DankPyon_Ring_Tending.label>
+
+  <DankPyon_Ring_Tending.label>anillo de médico</DankPyon_Ring_Tending.label>
   <DankPyon_Ring_Tending.description>El anillo básico de un sanador, que se fija a esta prenda, otorga a las manos una mejor calidad de cuidado y al mismo tiempo aumenta la vitalidad del portador.</DankPyon_Ring_Tending.description>
-  <DankPyon_Ring_Research.label>Anillo de Investigación</DankPyon_Ring_Research.label>
+
+  <DankPyon_Ring_Research.label>anillo de iluminación</DankPyon_Ring_Research.label>
   <DankPyon_Ring_Research.description>A través de la resistencia y el ingenio, trae los milagros del mundo. Usar este anillo bendecirá la iluminación y abrirá la mente a las profundidades de la locura y la inventiva.</DankPyon_Ring_Research.description>
-  <DankPyon_Ring_StunImmunity.label>Anillo de Inmunidad a Aturdimiento</DankPyon_Ring_StunImmunity.label>
+
+  <DankPyon_Ring_StunImmunity.label>anillo de inmunidad</DankPyon_Ring_StunImmunity.label>
   <DankPyon_Ring_StunImmunity.description>Un anillo encantado que otorga inmunidad total contra efectos de aturdimiento, permitiendo al usuario mantenerse firme en el combate.</DankPyon_Ring_StunImmunity.description>
+
 </LanguageData>

@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Apparel_Hose.label>Pantalones</DankPyon_Apparel_Hose.label>
+
+  <DankPyon_Apparel_Hose.label>pantalones</DankPyon_Apparel_Hose.label>
   <DankPyon_Apparel_Hose.description>Una prenda estándar para ciudadanos y nobles por igual.</DankPyon_Apparel_Hose.description>
-  <DankPyon_Apparel_Trousers.label>Pantalones Anchos</DankPyon_Apparel_Trousers.label>
+
+  <DankPyon_Apparel_Trousers.label>pantalones anchos</DankPyon_Apparel_Trousers.label>
   <DankPyon_Apparel_Trousers.description>Una prenda estándar para ciudadanos y nobles por igual.</DankPyon_Apparel_Trousers.description>
-  <DankPyon_Apparel_Braies.label>Braies</DankPyon_Apparel_Braies.label>
-  <DankPyon_Apparel_Braies.description>Los braies son ropa interior, generalmente de lino, aunque en algunas culturas también se usan como ropa exterior.</DankPyon_Apparel_Braies.description>
-  <!--====================Leg Outer====================-->
-  <!--==========Protective Leg Base==========-->
-  <DankPyon_Apparel_ChaussesPadded.label>Zapatos Acolchados</DankPyon_Apparel_ChaussesPadded.label>
+
+  <DankPyon_Apparel_Braies.label>calzas</DankPyon_Apparel_Braies.label>
+  <DankPyon_Apparel_Braies.description>Ropa interior, generalmente de lino, aunque en algunas culturas también se usan como ropa exterior.</DankPyon_Apparel_Braies.description>
+
+  <!-- Protective Leg Base -->
+
+  <DankPyon_Apparel_ChaussesPadded.label>calzas acolchadas</DankPyon_Apparel_ChaussesPadded.label>
   <DankPyon_Apparel_ChaussesPadded.description>Una prenda acolchada para las piernas que ofrece protección con tela acolchada.</DankPyon_Apparel_ChaussesPadded.description>
-  <DankPyon_Apparel_ChaussesSplinted.label>Protectores de Piernas con Férulas</DankPyon_Apparel_ChaussesSplinted.label>
+
+  <DankPyon_Apparel_ChaussesSplinted.label>calzas reforzadas</DankPyon_Apparel_ChaussesSplinted.label>
   <DankPyon_Apparel_ChaussesSplinted.description>Un par de protectores de piernas con férulas para proteger la pierna con placas de metal remachadas. Finamente elaborados para permitir casi total libertad de movimiento al usuario.</DankPyon_Apparel_ChaussesSplinted.description>
-  <DankPyon_Apparel_ChaussesPlate.label>Protectores de Piernas con Placas</DankPyon_Apparel_ChaussesPlate.label>
+
+  <DankPyon_Apparel_ChaussesPlate.label>calzas de placas</DankPyon_Apparel_ChaussesPlate.label>
   <DankPyon_Apparel_ChaussesPlate.description>Un par de protectores de piernas con placas para proteger la pierna con placas excepcionalmente elaboradas y adaptadas al usuario. Las fuertes placas remachadas y la estructura finamente articulada proporcionan casi total movilidad.</DankPyon_Apparel_ChaussesPlate.description>
+
 </LanguageData>
