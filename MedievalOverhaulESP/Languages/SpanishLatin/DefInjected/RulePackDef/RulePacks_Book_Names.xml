@@ -14,9 +14,9 @@
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.10>title->[subject_primary] revelado</DankPyon_AncientLore_Name.rulePack.rulesStrings.10>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.11>title->[subject_primary] explorado</DankPyon_AncientLore_Name.rulePack.rulesStrings.11>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.12>title->[subject_primary] y sus Aplicaciones</DankPyon_AncientLore_Name.rulePack.rulesStrings.12>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.13>title>Crónicas de [subject_primary], Vol. [volNumeral]</DankPyon_AncientLore_Name.rulePack.rulesStrings.13>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.14>title>Perspectivas [randAdjective] sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.14>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.15>title>Secretos [randAdjective] de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.15>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.13>title->Crónicas de [subject_primary], Vol. [volNumeral]</DankPyon_AncientLore_Name.rulePack.rulesStrings.13>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.14>title->Perspectivas [randAdjective] sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.14>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.15>title->Secretos [randAdjective] de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.15>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.16>title->[maybe_authored_title]</DankPyon_AncientLore_Name.rulePack.rulesStrings.16>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.17>volNumeral->I</DankPyon_AncientLore_Name.rulePack.rulesStrings.17>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.18>volNumeral->II</DankPyon_AncientLore_Name.rulePack.rulesStrings.18>
