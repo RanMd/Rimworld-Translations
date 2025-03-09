@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Condiments.label>Condimentos</DankPyon_Condiments.label>
-  <DankPyon_Hides.label>Cuero</DankPyon_Hides.label>
-  <DankPyon_Metallic.label>Metales</DankPyon_Metallic.label>
-  <DankPyon_RawOres.label>Minerales en bruto</DankPyon_RawOres.label>
-  <DankPyon_RawWood.label>Troncos</DankPyon_RawWood.label>
-  <DankPyon_Wood.label>Madera</DankPyon_Wood.label>
-  <DankPyon_Handwear.label>Guantes</DankPyon_Handwear.label>
-  <DankPyon_Legwear.label>Pantalones</DankPyon_Legwear.label>
-  <DankPyon_Footwear.label>Calzado</DankPyon_Footwear.label>
-  <DankPyon_Shields.label>Escudos</DankPyon_Shields.label>
-  <DankPyon_NonAlcoholic.label>Sin alcohol</DankPyon_NonAlcoholic.label>
-  <DankPyon_Milk.label>Leche</DankPyon_Milk.label>
-  <DankPyon_Cheese.label>Queso</DankPyon_Cheese.label>
-  <DankPyon_Flour.label>Harina</DankPyon_Flour.label>
-  <DankPyon_Treatise.label>Tratado</DankPyon_Treatise.label>
-  <DankPyon_Loot.label>Botín</DankPyon_Loot.label>
-  <DankPyon_AlchemyIngredients.label>Ingredientes de alquimia</DankPyon_AlchemyIngredients.label>
-  <DankPyon_ApparelJewelry.label>Joyería</DankPyon_ApparelJewelry.label>
-  <DankPyon_BuildingsLoot.label>Botín pulido</DankPyon_BuildingsLoot.label>
-  <DankPyon_BuildingsBook.label>Libros</DankPyon_BuildingsBook.label>
-  <DankPyon_TrebuchetAmmo.label>Munición de trebuchet</DankPyon_TrebuchetAmmo.label>
-  <DankPyon_CorpsesMonsters.label>Cadáveres de monstruos</DankPyon_CorpsesMonsters.label>
-  <DankPyon_WeaponsMeleeNamed.label>Armas especiales</DankPyon_WeaponsMeleeNamed.label>
-  <DankPyon_GemStones.label>Gemas</DankPyon_GemStones.label>
-  <DankPyon_QuestStuff.label>Objetos de misión</DankPyon_QuestStuff.label>
+
+  <DankPyon_Condiments.label>condimentos</DankPyon_Condiments.label>
+  <DankPyon_Hides.label>pieles</DankPyon_Hides.label>
+  <DankPyon_Metallic.label>metales</DankPyon_Metallic.label>
+  <DankPyon_RawOres.label>menas</DankPyon_RawOres.label>
+  <DankPyon_RawWood.label>troncos</DankPyon_RawWood.label>
+  <DankPyon_Wood.label>madera</DankPyon_Wood.label>
+  <DankPyon_Handwear.label>guantes</DankPyon_Handwear.label>
+  <DankPyon_Legwear.label>pantalones</DankPyon_Legwear.label>
+  <DankPyon_Footwear.label>calzado</DankPyon_Footwear.label>
+  <DankPyon_Shields.label>escudos</DankPyon_Shields.label>
+  <DankPyon_NonAlcoholic.label>sin alcohol</DankPyon_NonAlcoholic.label>
+  <DankPyon_Milk.label>leches</DankPyon_Milk.label>
+  <DankPyon_Cheese.label>quesos</DankPyon_Cheese.label>
+  <DankPyon_Flour.label>harinas</DankPyon_Flour.label>
+  <DankPyon_Treatise.label>tomos</DankPyon_Treatise.label>
+  <DankPyon_Loot.label>botín</DankPyon_Loot.label>
+  <DankPyon_AlchemyIngredients.label>alquimia</DankPyon_AlchemyIngredients.label>
+  <DankPyon_ApparelJewelry.label>joyería</DankPyon_ApparelJewelry.label>
+  <DankPyon_BuildingsLoot.label>relucientes</DankPyon_BuildingsLoot.label>
+  <DankPyon_BuildingsBook.label>libros</DankPyon_BuildingsBook.label>
+  <DankPyon_TrebuchetAmmo.label>munición de trebuchet</DankPyon_TrebuchetAmmo.label>
+  <DankPyon_CorpsesMonsters.label>cadáveres de monstruos</DankPyon_CorpsesMonsters.label>
+  <DankPyon_WeaponsMeleeNamed.label>armas especiales</DankPyon_WeaponsMeleeNamed.label>
+  <DankPyon_GemStones.label>gemas</DankPyon_GemStones.label>
+  <DankPyon_QuestStuff.label>objetos de misión</DankPyon_QuestStuff.label>
+  <DankPyon_Honey.label>miel</DankPyon_Honey.label>
+
 </LanguageData>

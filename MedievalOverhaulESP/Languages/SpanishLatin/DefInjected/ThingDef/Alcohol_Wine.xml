@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_Wine.label>Vino</DankPyon_Wine.label>
   <DankPyon_Wine.description>Alcohol con muchas facetas. Los vinos añejos son bebidas exquisitas para conocedores y paladares más exigentes: elementos imprescindibles en fiestas reales, celebraciones y mascaradas. Los más jóvenes suelen venderse a los campesinos en tabernas junto al camino y se diluyen con agua según lo permita la conciencia del tabernero.</DankPyon_Wine.description>
+  <DankPyon_Wine.tools.0.label>瓶身</DankPyon_Wine.tools.0.label>
+  <DankPyon_Wine.tools.1.label>瓶颈</DankPyon_Wine.tools.1.label>
+  <DankPyon_Wine.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine.ingestible.ingestCommandString>
+  <DankPyon_Wine.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine.ingestible.ingestReportString>
+
   <DankPyon_MustWine.label>Mosto de uva</DankPyon_MustWine.label>
   <DankPyon_MustWine.description>Uvas trituradas. Para convertirse en vino, debe someterse a fermentación.</DankPyon_MustWine.description>
+
+  <!-- Mulberry Wine -->
+
   <DankPyon_Wine_Mulberry.label>Vino de mora</DankPyon_Wine_Mulberry.label>
   <DankPyon_Wine_Mulberry.description>Este encantador elixir se elabora a partir de la abundante riqueza de las plantaciones de moras y encarna la esencia de la versatilidad. Las añadas envejecidas cuentan historias de sofisticación, atraen a los conocedores con sus complejos aromas y son una parte integral de reuniones distinguidas y banquetes reales.</DankPyon_Wine_Mulberry.description>
-  <DankPyon_MustWine_Mulberry.label>Mosto de mora</DankPyon_MustWine_Mulberry.label>
+  <DankPyon_Wine_Mulberry.tools.0.label>瓶身</DankPyon_Wine_Mulberry.tools.0.label>
+  <DankPyon_Wine_Mulberry.tools.1.label>瓶颈</DankPyon_Wine_Mulberry.tools.1.label>
+  <DankPyon_Wine_Mulberry.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine_Mulberry.ingestible.ingestCommandString>
+  <DankPyon_Wine_Mulberry.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine_Mulberry.ingestible.ingestReportString>
+
+  <DankPyon_MustWine_Mulberry.label>桑葚浆</DankPyon_MustWine_Mulberry.label>
+  <DankPyon_MustWine_Mulberry.description>压碎的桑葚。需要在质朴发酵桶发酵以酿成桑葚酒。</DankPyon_MustWine_Mulberry.description>
+
+  <!-- Griffon Wine -->
+
   <DankPyon_Wine_Griffon.label>Vino de bayas de grifo</DankPyon_Wine_Griffon.label>
+  <DankPyon_Wine_Griffon.description>一种风味万千的酒。陈年狮鹫莓酒是专为鉴赏家和相当挑剔的酒饕而设计的精致饮品——在皇家派对、宴会和化装舞会上必不可少。年份短的狮鹫莓酒则经常在路边的酒馆里贩售给农民——只不过会先在老板良心允许的范围内用水稀释过。</DankPyon_Wine_Griffon.description>
+  <DankPyon_Wine_Griffon.tools.0.label>瓶身</DankPyon_Wine_Griffon.tools.0.label>
+  <DankPyon_Wine_Griffon.tools.1.label>瓶颈</DankPyon_Wine_Griffon.tools.1.label>
+  <DankPyon_Wine_Griffon.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine_Griffon.ingestible.ingestCommandString>
+  <DankPyon_Wine_Griffon.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine_Griffon.ingestible.ingestReportString>
+
   <DankPyon_MustWine_Griffon.label>Mosto de bayas de grifo</DankPyon_MustWine_Griffon.label>
+  <DankPyon_MustWine_Griffon.description>压碎的狮鹫莓。需要在质朴发酵桶发酵以酿成狮鹫莓酒。</DankPyon_MustWine_Griffon.description>
+
+  <!-- Ice Wine -->
+
   <DankPyon_Wine_Ice.label>Vino de hielo</DankPyon_Wine_Ice.label>
   <DankPyon_Wine_Ice.description>Hielo de vino.</DankPyon_Wine_Ice.description>
+  <DankPyon_Wine_Ice.tools.0.label>瓶身</DankPyon_Wine_Ice.tools.0.label>
+  <DankPyon_Wine_Ice.tools.1.label>瓶颈</DankPyon_Wine_Ice.tools.1.label>
+  <DankPyon_Wine_Ice.ingestible.ingestCommandString>饮用{0}</DankPyon_Wine_Ice.ingestible.ingestCommandString>
+  <DankPyon_Wine_Ice.ingestible.ingestReportString>正在饮用{0}。</DankPyon_Wine_Ice.ingestible.ingestReportString>
+
+  <DankPyon_MustWine_Ice.label>霜莓浆</DankPyon_MustWine_Ice.label>
+  <DankPyon_MustWine_Ice.description>压碎的霜莓。需要在质朴发酵桶发酵以酿成霜莓酒。</DankPyon_MustWine_Ice.description>
+
 </LanguageData>

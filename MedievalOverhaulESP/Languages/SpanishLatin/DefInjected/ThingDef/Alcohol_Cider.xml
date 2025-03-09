@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Cider.label>Sidra</DankPyon_Cider.label>
+
+  <DankPyon_Cider.label>sidra</DankPyon_Cider.label>
   <DankPyon_Cider.description>Jugo de manzana que se fermenta durante algunos días para desarrollar su contenido de alcohol. Si consumes suficiente sidra, puedes emborracharte.</DankPyon_Cider.description>
+  <DankPyon_Cider.tools.0.label>botella</DankPyon_Cider.tools.0.label>
+  <DankPyon_Cider.tools.1.label>cuello de botella</DankPyon_Cider.tools.1.label>
+  <DankPyon_Cider.ingestible.ingestCommandString>Beber {0}</DankPyon_Cider.ingestible.ingestCommandString>
+  <DankPyon_Cider.ingestible.ingestReportString>Bebiendo {0}.</DankPyon_Cider.ingestible.ingestReportString>
+
 </LanguageData>

@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Floor_RuinedStoneTile.description>Azulejos de piedra arruinados. Son bonitos de ver, pero colocarlos lleva mucho tiempo.</DankPyon_Floor_RuinedStoneTile.description>
-  <DankPyon_Floor_RuinedStoneTile_Sandstone.label>Azulejo de arenisca arruinado</DankPyon_Floor_RuinedStoneTile_Sandstone.label>
-  <DankPyon_Floor_RuinedStoneTile_Granite.label>Azulejo de granito arruinado</DankPyon_Floor_RuinedStoneTile_Granite.label>
-  <DankPyon_Floor_RuinedStoneTile_Limestone.label>Azulejo de piedra caliza arruinado</DankPyon_Floor_RuinedStoneTile_Limestone.label>
-  <DankPyon_Floor_RuinedStoneTile_Slate.label>Azulejo de pizarra arruinado</DankPyon_Floor_RuinedStoneTile_Slate.label>
-  <DankPyon_Floor_RuinedStoneTile_Marble.label>Azulejo de mármol arruinado</DankPyon_Floor_RuinedStoneTile_Marble.label>
+
+  <DankPyon_Floor_RuinedStoneTile_Sandstone.label>azulejo de arenisca arruinado</DankPyon_Floor_RuinedStoneTile_Sandstone.label>
+  <DankPyon_Floor_RuinedStoneTile_Sandstone.description>Azulejo de piedra arruinada. Son bonitas a la vista, pero su colocación lleva mucho tiempo.</DankPyon_Floor_RuinedStoneTile_Sandstone.description>
+
+  <DankPyon_Floor_RuinedStoneTile_Granite.label>azulejo de granito arruinado</DankPyon_Floor_RuinedStoneTile_Granite.label>
+  <DankPyon_Floor_RuinedStoneTile_Granite.description>Azulejo de piedra arruinada. Son bonitas a la vista, pero su colocación lleva mucho tiempo.</DankPyon_Floor_RuinedStoneTile_Granite.description>
+
+  <DankPyon_Floor_RuinedStoneTile_Limestone.label>azulejo de piedra caliza arruinado</DankPyon_Floor_RuinedStoneTile_Limestone.label>
+  <DankPyon_Floor_RuinedStoneTile_Limestone.description>Azulejo de piedra arruinada. Son bonitas a la vista, pero su colocación lleva mucho tiempo.</DankPyon_Floor_RuinedStoneTile_Limestone.description>
+
+  <DankPyon_Floor_RuinedStoneTile_Slate.label>azulejo de pizarra arruinado</DankPyon_Floor_RuinedStoneTile_Slate.label>
+  <DankPyon_Floor_RuinedStoneTile_Slate.description>Azulejo de piedra arruinada. Son bonitas a la vista, pero su colocación lleva mucho tiempo.</DankPyon_Floor_RuinedStoneTile_Slate.description>
+
+  <DankPyon_Floor_RuinedStoneTile_Marble.label>azulejo de mármol arruinado</DankPyon_Floor_RuinedStoneTile_Marble.label>
+  <DankPyon_Floor_RuinedStoneTile_Marble.description>Azulejo de piedra arruinada. Son bonitas a la vista, pero su colocación lleva mucho tiempo.</DankPyon_Floor_RuinedStoneTile_Marble.description>
+
+  <DankPyon_Floor_RuinedStoneTile_Clay.label>azulejo de arcilla arruinado</DankPyon_Floor_RuinedStoneTile_Clay.label>
+  <DankPyon_Floor_RuinedStoneTile_Clay.description>Azulejo de piedra arruinada. Son bonitas a la vista, pero su colocación lleva mucho tiempo.</DankPyon_Floor_RuinedStoneTile_Clay.description>
+
 </LanguageData>

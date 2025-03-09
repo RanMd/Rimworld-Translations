@@ -1,87 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <DankPyon_RefuelCustom.label>补充燃料</DankPyon_RefuelCustom.label>
+  <DankPyon_RefuelCustom.gerund>补充燃料</DankPyon_RefuelCustom.gerund>
+  <DankPyon_RefuelCustom.verb>补充燃料至</DankPyon_RefuelCustom.verb>
+
+  <DankPyon_DoBillsScribeTable.label>抄写手稿</DankPyon_DoBillsScribeTable.label>
+  <DankPyon_DoBillsScribeTable.verb>抄写</DankPyon_DoBillsScribeTable.verb>
+  <DankPyon_DoBillsScribeTable.gerund>抄写于</DankPyon_DoBillsScribeTable.gerund>
+
   <DankPyon_DoBillsWell.label>recoger agua</DankPyon_DoBillsWell.label>
   <DankPyon_DoBillsWell.verb>recoger</DankPyon_DoBillsWell.verb>
   <DankPyon_DoBillsWell.gerund>recogiendo</DankPyon_DoBillsWell.gerund>
+
+  <DankPyon_DoBillsWaterGather.label>在凿冰取水点工作</DankPyon_DoBillsWaterGather.label>
+  <DankPyon_DoBillsWaterGather.gerund>凿冰取水</DankPyon_DoBillsWaterGather.gerund>
+  <DankPyon_DoBillsWaterGather.verb>凿冰取水于</DankPyon_DoBillsWaterGather.verb>
+
   <DankPyon_WorkGatherIce.label>recoger hielo o agua</DankPyon_WorkGatherIce.label>
   <DankPyon_WorkGatherIce.verb>recoger hielo</DankPyon_WorkGatherIce.verb>
   <DankPyon_WorkGatherIce.gerund>recogiendo</DankPyon_WorkGatherIce.gerund>
+
   <DankPyon_OperateQuest.label>operar buscador de misiones</DankPyon_OperateQuest.label>
   <DankPyon_OperateQuest.verb>buscar</DankPyon_OperateQuest.verb>
   <DankPyon_OperateQuest.gerund>buscando</DankPyon_OperateQuest.gerund>
+
   <DankPyon_DoMine_Golem.label>minar</DankPyon_DoMine_Golem.label>
   <DankPyon_DoMine_Golem.verb>minar</DankPyon_DoMine_Golem.verb>
   <DankPyon_DoMine_Golem.gerund>minando</DankPyon_DoMine_Golem.gerund>
+
   <DankPyon_DoBillsRusticCookingTable.label>cocinar platos</DankPyon_DoBillsRusticCookingTable.label>
   <DankPyon_DoBillsRusticCookingTable.verb>cocinar</DankPyon_DoBillsRusticCookingTable.verb>
   <DankPyon_DoBillsRusticCookingTable.gerund>cocinando</DankPyon_DoBillsRusticCookingTable.gerund>
+
   <DankPyon_DoBillsStewPot.label>cocinar sopa</DankPyon_DoBillsStewPot.label>
   <DankPyon_DoBillsStewPot.verb>cocinar</DankPyon_DoBillsStewPot.verb>
   <DankPyon_DoBillsStewPot.gerund>cocinando</DankPyon_DoBillsStewPot.gerund>
+
   <DankPyon_DoBillStewDispenser.label>llenar olla</DankPyon_DoBillStewDispenser.label>
   <DankPyon_DoBillStewDispenser.verb>entregar</DankPyon_DoBillStewDispenser.verb>
   <DankPyon_DoBillStewDispenser.gerund>entregando comida</DankPyon_DoBillStewDispenser.gerund>
+
   <DankPyon_DoBillsStoneOven.label>hornear algo</DankPyon_DoBillsStoneOven.label>
   <DankPyon_DoBillsStoneOven.verb>hornear</DankPyon_DoBillsStoneOven.verb>
   <DankPyon_DoBillsStoneOven.gerund>horneando</DankPyon_DoBillsStoneOven.gerund>
+
   <DankPyon_DoBillsSpinningWheel.label>hilar algodón</DankPyon_DoBillsSpinningWheel.label>
   <DankPyon_DoBillsSpinningWheel.verb>hilar</DankPyon_DoBillsSpinningWheel.verb>
   <DankPyon_DoBillsSpinningWheel.gerund>hilando</DankPyon_DoBillsSpinningWheel.gerund>
+
   <DankPyon_DoBillsMillstone.label>moler varios granos</DankPyon_DoBillsMillstone.label>
   <DankPyon_DoBillsMillstone.verb>moler</DankPyon_DoBillsMillstone.verb>
   <DankPyon_DoBillsMillstone.gerund>moliendo</DankPyon_DoBillsMillstone.gerund>
+
   <DankPyon_DoBillsGrill.label>asar</DankPyon_DoBillsGrill.label>
   <DankPyon_DoBillsGrill.verb>asar</DankPyon_DoBillsGrill.verb>
   <DankPyon_DoBillsGrill.gerund>asando</DankPyon_DoBillsGrill.gerund>
+
   <DankPyon_DoBillsMineshaft.label>extraer piedras</DankPyon_DoBillsMineshaft.label>
   <DankPyon_DoBillsMineshaft.verb>extraer</DankPyon_DoBillsMineshaft.verb>
   <DankPyon_DoBillsMineshaft.gerund>extrayendo</DankPyon_DoBillsMineshaft.gerund>
+
   <DankPyon_DoBillsWorkbench.label>fabricar algo</DankPyon_DoBillsWorkbench.label>
   <DankPyon_DoBillsWorkbench.verb>fabricar</DankPyon_DoBillsWorkbench.verb>
   <DankPyon_DoBillsWorkbench.gerund>fabricando</DankPyon_DoBillsWorkbench.gerund>
+
   <DankPyon_DoBillsFurnace.label>fundir algo</DankPyon_DoBillsFurnace.label>
   <DankPyon_DoBillsFurnace.verb>refinar</DankPyon_DoBillsFurnace.verb>
   <DankPyon_DoBillsFurnace.gerund>refinando</DankPyon_DoBillsFurnace.gerund>
+
   <DankPyon_DoBillsTanningRack.label>curtir piel</DankPyon_DoBillsTanningRack.label>
   <DankPyon_DoBillsTanningRack.verb>curtir piel</DankPyon_DoBillsTanningRack.verb>
   <DankPyon_DoBillsTanningRack.gerund>curtiendo piel</DankPyon_DoBillsTanningRack.gerund>
+
   <DankPyon_DoBillsButcherFlesh.label>despiezar criaturas</DankPyon_DoBillsButcherFlesh.label>
   <DankPyon_DoBillsButcherFlesh.verb>despiezar</DankPyon_DoBillsButcherFlesh.verb>
   <DankPyon_DoBillsButcherFlesh.gerund>despiezando</DankPyon_DoBillsButcherFlesh.gerund>
+
   <DankPyon_DoBillsMakeApparel.label>fabricar ropa</DankPyon_DoBillsMakeApparel.label>
   <DankPyon_DoBillsMakeApparel.verb>coser</DankPyon_DoBillsMakeApparel.verb>
   <DankPyon_DoBillsMakeApparel.gerund>cosiendo</DankPyon_DoBillsMakeApparel.gerund>
+
+  <DankPyon_DoBillsDigging.label>在掘土点工作</DankPyon_DoBillsDigging.label>
+  <DankPyon_DoBillsDigging.verb>挖掘</DankPyon_DoBillsDigging.verb>
+  <DankPyon_DoBillsDigging.gerund>挖掘于</DankPyon_DoBillsDigging.gerund>
+
   <DankPyon_DoBillsStonecut.label>fabricar bloques de piedra</DankPyon_DoBillsStonecut.label>
   <DankPyon_DoBillsStonecut.verb>extraer</DankPyon_DoBillsStonecut.verb>
   <DankPyon_DoBillsStonecut.gerund>extrayendo</DankPyon_DoBillsStonecut.gerund>
+
   <DankPyon_DoBillsMining.label>extraer</DankPyon_DoBillsMining.label>
   <DankPyon_DoBillsMining.verb>cortar piedra</DankPyon_DoBillsMining.verb>
   <DankPyon_DoBillsMining.gerund>cortando bloques de piedra</DankPyon_DoBillsMining.gerund>
+
   <DankPyon_DoBillsMakeWeapons.label>fabricar armas</DankPyon_DoBillsMakeWeapons.label>
   <DankPyon_DoBillsMakeWeapons.verb>forjar</DankPyon_DoBillsMakeWeapons.verb>
   <DankPyon_DoBillsMakeWeapons.gerund>forjando</DankPyon_DoBillsMakeWeapons.gerund>
+
   <DankPyon_DoBillsCleaningBench.label>limpiar objetos</DankPyon_DoBillsCleaningBench.label>
   <DankPyon_DoBillsCleaningBench.verb>limpiar</DankPyon_DoBillsCleaningBench.verb>
   <DankPyon_DoBillsCleaningBench.gerund>limpiando</DankPyon_DoBillsCleaningBench.gerund>
+
   <DankPyon_DoBillsMakeJewelry.label>fabricar joyas</DankPyon_DoBillsMakeJewelry.label>
   <DankPyon_DoBillsMakeJewelry.verb>fabricar</DankPyon_DoBillsMakeJewelry.verb>
   <DankPyon_DoBillsMakeJewelry.gerund>fabricando</DankPyon_DoBillsMakeJewelry.gerund>
+
   <DankPyon_DoBillsMakeTimber.label>fabricar madera</DankPyon_DoBillsMakeTimber.label>
   <DankPyon_DoBillsMakeTimber.verb>fabricar</DankPyon_DoBillsMakeTimber.verb>
   <DankPyon_DoBillsMakeTimber.gerund>fabricando</DankPyon_DoBillsMakeTimber.gerund>
+
   <DankPyon_DoBillsWorkAlchemy.label>hacer alquimia</DankPyon_DoBillsWorkAlchemy.label>
   <DankPyon_DoBillsWorkAlchemy.verb>fabricar</DankPyon_DoBillsWorkAlchemy.verb>
   <DankPyon_DoBillsWorkAlchemy.gerund>fabricando</DankPyon_DoBillsWorkAlchemy.gerund>
+
   <DankPyon_DoBillsCookHearth.label>cocinar comidas en el hogar</DankPyon_DoBillsCookHearth.label>
   <DankPyon_DoBillsCookHearth.verb>cocinar</DankPyon_DoBillsCookHearth.verb>
   <DankPyon_DoBillsCookHearth.gerund>cocinando</DankPyon_DoBillsCookHearth.gerund>
+
   <DankPyon_DoBillsHaulHearth.label>hacer tareas en el hogar</DankPyon_DoBillsHaulHearth.label>
   <DankPyon_DoBillsHaulHearth.verb>trabajar en</DankPyon_DoBillsHaulHearth.verb>
   <DankPyon_DoBillsHaulHearth.gerund>trabajando en</DankPyon_DoBillsHaulHearth.gerund>
+
   <DoBillMakesMending.label>reparar objetos</DoBillMakesMending.label>
   <DoBillMakesMending.verb>remendar</DoBillMakesMending.verb>
   <DoBillMakesMending.gerund>reparando</DoBillMakesMending.gerund>
+
   <DankPyon_DoBillsCremate.label>hacer tareas para la cremación</DankPyon_DoBillsCremate.label>
   <DankPyon_DoBillsCremate.verb>cremar</DankPyon_DoBillsCremate.verb>
   <DankPyon_DoBillsCremate.gerund>cremando</DankPyon_DoBillsCremate.gerund>
+
 </LanguageData>

@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_DrankWine.stages.0.label>bebí vino terrible</DankPyon_DrankWine.stages.0.label>
-  <DankPyon_DrankWine.stages.0.description>Tuve la desafortunada experiencia de beber vino de terrible calidad. El sabor aún persiste y atormenta mis pensamientos.</DankPyon_DrankWine.stages.0.description>
-  <DankPyon_DrankWine.stages.1.label>bebí vino malo</DankPyon_DrankWine.stages.1.label>
-  <DankPyon_DrankWine.stages.1.description>Bebí vino de mala calidad. El sabor no fue satisfactorio.</DankPyon_DrankWine.stages.1.description>
-  <DankPyon_DrankWine.stages.2.label>bebí vino normal</DankPyon_DrankWine.stages.2.label>
-  <DankPyon_DrankWine.stages.2.description>Bebí vino promedio.</DankPyon_DrankWine.stages.2.description>
-  <DankPyon_DrankWine.stages.3.label>bebí buen vino</DankPyon_DrankWine.stages.3.label>
-  <DankPyon_DrankWine.stages.3.description>El sabor del vino de buena calidad que acabo de beber me dibuja una sonrisa en el rostro.</DankPyon_DrankWine.stages.3.description>
-  <DankPyon_DrankWine.stages.4.label>bebí vino excelente</DankPyon_DrankWine.stages.4.label>
-  <DankPyon_DrankWine.stages.4.description>El increíble sabor del vino de primera clase que acabo de disfrutar me ha llevado a un puro deleite culinario.</DankPyon_DrankWine.stages.4.description>
-  <DankPyon_DrankWine.stages.5.label>bebí vino magistral</DankPyon_DrankWine.stages.5.label>
-  <DankPyon_DrankWine.stages.5.description>El sabor incomparable del vino de primera clase que acabo de disfrutar me ha llevado a un reino de éxtasis gustativo.</DankPyon_DrankWine.stages.5.description>
-  <DankPyon_DrankWine.stages.6.label>bebí vino legendario</DankPyon_DrankWine.stages.6.label>
-  <DankPyon_DrankWine.stages.6.description>El sabor divino del vino de calidad legendaria que acabo de disfrutar ha cambiado para siempre mi percepción de la perfección culinaria.</DankPyon_DrankWine.stages.6.description>
+
+  <!-- EN: drank awful wine -->
+  <DankPyon_DrankWine.stages.drank_awful_wine.label>bebió vino terrible</DankPyon_DrankWine.stages.drank_awful_wine.label>
+  <!-- EN: I had the unfortunate experience of drinking awful-quality wine. The taste still lingers, haunting my thoughts. -->
+  <DankPyon_DrankWine.stages.drank_awful_wine.description>Tuve la desafortunada experiencia de beber vino de terrible calidad. El sabor aún persiste y atormenta mis pensamientos.</DankPyon_DrankWine.stages.drank_awful_wine.description>
+  <!-- EN: drank poor wine -->
+  <DankPyon_DrankWine.stages.drank_poor_wine.label>bebió vino malo</DankPyon_DrankWine.stages.drank_poor_wine.label>
+  <!-- EN: I drank some poor-quality wine. The taste was less than satisfying -->
+  <DankPyon_DrankWine.stages.drank_poor_wine.description>Bebí vino pobre. El sabor no fue satisfactorio.</DankPyon_DrankWine.stages.drank_poor_wine.description>
+  <!-- EN: drank normal wine -->
+  <DankPyon_DrankWine.stages.drank_normal_wine.label>bebió vino normal</DankPyon_DrankWine.stages.drank_normal_wine.label>
+  <!-- EN: I drank some average wine. -->
+  <DankPyon_DrankWine.stages.drank_normal_wine.description>Bebí vino meh.</DankPyon_DrankWine.stages.drank_normal_wine.description>
+  <!-- EN: drank good wine -->
+  <DankPyon_DrankWine.stages.drank_good_wine.label>bebió buen vino</DankPyon_DrankWine.stages.drank_good_wine.label>
+  <!-- EN: The taste of the good-quality wine you just drank lingers on your paldrank, bringing a smile to your face. -->
+  <DankPyon_DrankWine.stages.drank_good_wine.description>El sabor del vino de buena calidad que acabo de beber me dibuja una sonrisa en el rostro.</DankPyon_DrankWine.stages.drank_good_wine.description>
+  <!-- EN: drank excellent wine -->
+  <DankPyon_DrankWine.stages.drank_excellent_wine.label>bebió vino excelente</DankPyon_DrankWine.stages.drank_excellent_wine.label>
+  <!-- EN: The incredible taste of the excellent-quality wine you just indulged in has left you in a stdrank of pure culinary delight -->
+  <DankPyon_DrankWine.stages.drank_excellent_wine.description>El increíble sabor del vino de primera clase que acabo de disfrutar me ha llevado a un puro deleite culinario.</DankPyon_DrankWine.stages.drank_excellent_wine.description>
+  <!-- EN: drank masterwork wine -->
+  <DankPyon_DrankWine.stages.drank_masterwork_wine.label>bebió vino magistral</DankPyon_DrankWine.stages.drank_masterwork_wine.label>
+  <!-- EN: The unparalleled taste of the masterwork-quality wine you just savored has transported you to a realm of gustatory ecstasy. -->
+  <DankPyon_DrankWine.stages.drank_masterwork_wine.description>El sabor incomparable del vino de primera clase que acabo de disfrutar me ha llevado a un reino de éxtasis gustativo.</DankPyon_DrankWine.stages.drank_masterwork_wine.description>
+  <!-- EN: drank legendary wine -->
+  <DankPyon_DrankWine.stages.drank_legendary_wine.label>bebió vino legendario</DankPyon_DrankWine.stages.drank_legendary_wine.label>
+  <!-- EN: The divine taste of the legendary-quality wine you just experienced has forever altered your perception of culinary perfection. -->
+  <DankPyon_DrankWine.stages.drank_legendary_wine.description>El sabor divino del vino de calidad legendaria que acabo de disfrutar ha cambiado para siempre mi percepción de la perfección culinaria.</DankPyon_DrankWine.stages.drank_legendary_wine.description>
+
 </LanguageData>

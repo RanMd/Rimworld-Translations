@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_PlayerKingdom.pawnSingular>Súbdito</DankPyon_PlayerKingdom.pawnSingular>
   <DankPyon_PlayerKingdom.pawnsPlural>Súbditos</DankPyon_PlayerKingdom.pawnsPlural>
   <DankPyon_PlayerKingdom.label>Nuevo Reino</DankPyon_PlayerKingdom.label>
   <DankPyon_PlayerKingdom.description>Un pequeño reino.</DankPyon_PlayerKingdom.description>
+
   <DankPyon_LoneWolf.pawnSingular>Súbdito</DankPyon_LoneWolf.pawnSingular>
   <DankPyon_LoneWolf.pawnsPlural>Súbditos</DankPyon_LoneWolf.pawnsPlural>
-  <DankPyon_LoneWolf.label>Nuevo Reino</DankPyon_LoneWolf.label>
+  <DankPyon_LoneWolf.label>Nuevo reino</DankPyon_LoneWolf.label>
   <DankPyon_LoneWolf.description>Un pequeño reino.</DankPyon_LoneWolf.description>
+
   <DankPyon_MercenaryCompany.pawnSingular>Mercenario</DankPyon_MercenaryCompany.pawnSingular>
   <DankPyon_MercenaryCompany.pawnsPlural>Mercenarios</DankPyon_MercenaryCompany.pawnsPlural>
-  <DankPyon_MercenaryCompany.label>Nueva Compañía de Mercenarios</DankPyon_MercenaryCompany.label>
+  <DankPyon_MercenaryCompany.label>Nueva compañía de mercenarios</DankPyon_MercenaryCompany.label>
   <DankPyon_MercenaryCompany.description>Una pequeña compañía de mercenarios.</DankPyon_MercenaryCompany.description>
+
 </LanguageData>

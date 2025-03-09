@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_WearRunes.stages.0.label>usar runas</DankPyon_WearRunes.stages.0.label>
+  <DankPyon_WearRunes.stages.0.description>Mira estas runas cheveres.</DankPyon_WearRunes.stages.0.description>
+
+  <DankPyon_AlpEclipse.stages.darkening_terror.label>terror creciente</DankPyon_AlpEclipse.stages.darkening_terror.label>
+  <DankPyon_AlpEclipse.stages.darkening_terror.description>Debo irme de aquí, los gritos se acercan cada vez más…</DankPyon_AlpEclipse.stages.darkening_terror.description>
+
+  <DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.label>terror disipado</DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.label>
+  <DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.description>¡Finalmente, las pesadillas han cesado su ataque!</DankPyon_AlpRaidFinished.stages.darkening_terror_stopped.description>
+
+</LanguageData>

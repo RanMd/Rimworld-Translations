@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_MercenaryStart.label>Hermanos de Armas</DankPyon_MercenaryStart.label>
   <DankPyon_MercenaryStart.description>Tu señor, a quien tú y tus camaradas han permanecido eternamente leales mientras hubiera dinero, ha caído en una breve batalla. Libre de tu juramento, tu banda de mercenarios se dirigió a ciudades y pueblos vecinos en busca de oportunidades para obtener plata y renombre, pero se sintieron decepcionados al encontrar asentamientos pacíficos con recompensas que solo alcanzaban para un salario diario. Ansiosos por un nuevo comienzo, tú y tus camaradas colonizan tierras en la naturaleza, con la esperanza de algún día alcanzar la prosperidad y regresar a la antigua gloria.</DankPyon_MercenaryStart.description>
-  <DankPyon_MercenaryStart.scenario.summary>Cinco guerreros endurecidos que buscan recuperar su antigua gloria.</DankPyon_MercenaryStart.scenario.summary>
-  <DankPyon_MercenaryStart.scenario.parts.2.structureLabel>Una ruina de castillo</DankPyon_MercenaryStart.scenario.parts.2.structureLabel>
   <DankPyon_MercenaryStart.scenario.name>Hermanos de Armas</DankPyon_MercenaryStart.scenario.name>
   <DankPyon_MercenaryStart.scenario.summary>Cinco guerreros endurecidos que buscan recuperar su antigua gloria.</DankPyon_MercenaryStart.scenario.summary>
   <DankPyon_MercenaryStart.scenario.description>Tu señor, a quien tú y tus camaradas han permanecido eternamente leales mientras hubiera dinero, ha caído en una breve batalla. Libre de tu juramento, tu banda de mercenarios se dirigió a ciudades y pueblos vecinos en busca de oportunidades para obtener plata y renombre, pero se sintieron decepcionados al encontrar asentamientos pacíficos con recompensas que solo alcanzaban para un salario diario. Ansiosos por un nuevo comienzo, tú y tus camaradas colonizan tierras en la naturaleza, con la esperanza de algún día alcanzar la prosperidad y regresar a la antigua gloria.</DankPyon_MercenaryStart.scenario.description>
+  <DankPyon_MercenaryStart.scenario.summary>Cinco guerreros endurecidos que buscan recuperar su antigua gloria.</DankPyon_MercenaryStart.scenario.summary>
+  <DankPyon_MercenaryStart.scenario.parts.VFEC_AddStartingStructure.structureLabel>Una ruina de castillo</DankPyon_MercenaryStart.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+
 </LanguageData>

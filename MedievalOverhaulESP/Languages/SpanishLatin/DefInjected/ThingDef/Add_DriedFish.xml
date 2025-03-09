@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_DriedFish.label>Pescado Seco</DankPyon_DriedFish.label>
-  <DankPyon_DriedFish.description>Pescado seco para conservación y prolongación de la vida útil.</DankPyon_DriedFish.description>
+
+  <DankPyon_DriedFish.label>pescado seco</DankPyon_DriedFish.label>
+  <DankPyon_DriedFish.description>Seco para conservación y prolongación de la vida útil.</DankPyon_DriedFish.description>
+
 </LanguageData>

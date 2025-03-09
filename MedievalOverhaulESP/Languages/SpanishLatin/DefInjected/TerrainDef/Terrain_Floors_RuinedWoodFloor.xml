@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Floor_RuinedStoneTile.description>Tablas de madera para una sensación cálida y acogedora. Aunque se puede instalar rápidamente, también es muy inflamable.</DankPyon_Floor_RuinedStoneTile.description>
-  <DankPyon_Floor_RusticWoodFloor_Wood.label>Suelo de madera rústica</DankPyon_Floor_RusticWoodFloor_Wood.label>
-  <DankPyon_Floor_RusticWoodFloor_DarkWood.label>Suelo de madera rústica oscura</DankPyon_Floor_RusticWoodFloor_DarkWood.label>
+
+  <DankPyon_Floor_RusticWoodFloor_Wood.label>Suelo de madera rústico</DankPyon_Floor_RusticWoodFloor_Wood.label>
+  <DankPyon_Floor_RusticWoodFloor_Wood.description>Tablas de madera para una sensación cálida y hogareña. Aunque es muy rapido de colocar, también es muy inflamable.</DankPyon_Floor_RusticWoodFloor_Wood.description>
+
+  <DankPyon_Floor_RusticWoodFloor_DarkWood.label>Suelo de madera oscura rústico</DankPyon_Floor_RusticWoodFloor_DarkWood.label>
+  <DankPyon_Floor_RusticWoodFloor_DarkWood.description>Tablas de madera para una sensación cálida y hogareña. Aunque es muy rapido de colocar, también es muy inflamable.</DankPyon_Floor_RusticWoodFloor_DarkWood.description>
+
 </LanguageData>

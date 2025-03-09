@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Floor_CobblestoneBase.description>Empedrado rugoso colocado en patrones ajustados. Son bonitos de ver, pero colocarlos lleva tiempo.</DankPyon_Floor_CobblestoneBase.description>
-  <DankPyon_Floor_Cobblestone_Sandstone.label>Empedrado de arenisca</DankPyon_Floor_Cobblestone_Sandstone.label>
-  <DankPyon_Floor_Cobblestone_Granite.label>Empedrado de granito</DankPyon_Floor_Cobblestone_Granite.label>
-  <DankPyon_Floor_Cobblestone_Limestone.label>Empedrado de piedra caliza</DankPyon_Floor_Cobblestone_Limestone.label>
-  <DankPyon_Floor_Cobblestone_Slate.label>Empedrado de pizarra</DankPyon_Floor_Cobblestone_Slate.label>
-  <DankPyon_Floor_Cobblestone_Marble.label>Empedrado de mármol</DankPyon_Floor_Cobblestone_Marble.label>
+
+  <DankPyon_Floor_Cobblestone_Sandstone.label>adoquín de arenisca</DankPyon_Floor_Cobblestone_Sandstone.label>
+  <DankPyon_Floor_Cobblestone_Sandstone.description>Un pavimento ordenado hecho de adoquines rugosos, se ve bastante bien, pero es bastante laborioso de colocar.</DankPyon_Floor_Cobblestone_Sandstone.description>
+
+  <DankPyon_Floor_Cobblestone_Granite.label>adoquín de granito</DankPyon_Floor_Cobblestone_Granite.label>
+  <DankPyon_Floor_Cobblestone_Granite.description>Un pavimento ordenado hecho de adoquines rugosos, se ve bastante bien, pero es bastante laborioso de colocar.</DankPyon_Floor_Cobblestone_Granite.description>
+
+  <DankPyon_Floor_Cobblestone_Limestone.label>adoquín de piedra caliza</DankPyon_Floor_Cobblestone_Limestone.label>
+  <DankPyon_Floor_Cobblestone_Limestone.description>Un pavimento ordenado hecho de adoquines rugosos, se ve bastante bien, pero es bastante laborioso de colocar.</DankPyon_Floor_Cobblestone_Limestone.description>
+
+  <DankPyon_Floor_Cobblestone_Slate.label>adoquín de pizarra</DankPyon_Floor_Cobblestone_Slate.label>
+  <DankPyon_Floor_Cobblestone_Slate.description>Un pavimento ordenado hecho de adoquines rugosos, se ve bastante bien, pero es bastante laborioso de colocar.</DankPyon_Floor_Cobblestone_Slate.description>
+
+  <DankPyon_Floor_Cobblestone_Marble.label>adoquín de mármol</DankPyon_Floor_Cobblestone_Marble.label>
+  <DankPyon_Floor_Cobblestone_Marble.description>Un pavimento de adoquines de mármol, que se ve bastante bien pero es bastante laborioso de colocar.</DankPyon_Floor_Cobblestone_Marble.description>
+
+  <DankPyon_Floor_Cobblestone_Clay.label>adoquín de arcilla medieval</DankPyon_Floor_Cobblestone_Clay.label>
+  <DankPyon_Floor_Cobblestone_Clay.description>Un pavimento de adoquines de arcilla, que se ve bastante bien pero es bastante laborioso de colocar.</DankPyon_Floor_Cobblestone_Clay.description>
+
 </LanguageData>

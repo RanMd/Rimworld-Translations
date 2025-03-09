@@ -1,33 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Thought_BattleElixir.stages.0.label>Estimulado por el Elixir de Batalla</DankPyon_Thought_BattleElixir.stages.0.label>
-  <DankPyon_Thought_BattleElixir.stages.0.description>Me siento bombeado, pero estable. Soy la bala en vuelo, lista para atravesarte.</DankPyon_Thought_BattleElixir.stages.0.description>
-  <DankPyon_Withdrawal_BattleElixir.stages.1.label>Abstinencia de Elixir de Batalla</DankPyon_Withdrawal_BattleElixir.stages.1.label>
+
+  <!-- Battle Elixix -->
+
+  <DankPyon_Thought_BattleElixir.stages.0.label>estimulado por el elixir de batalla</DankPyon_Thought_BattleElixir.stages.0.label>
+  <DankPyon_Thought_BattleElixir.stages.0.description>Me siento bombeado, velocidad. Soy veloz.</DankPyon_Thought_BattleElixir.stages.0.description>
+
+  <!-- Battle Elixix Addiction -->
+
+  <DankPyon_Withdrawal_BattleElixir.stages.1.label>abstinencia de elixir de batalla</DankPyon_Withdrawal_BattleElixir.stages.1.label>
   <DankPyon_Withdrawal_BattleElixir.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_Withdrawal_BattleElixir.stages.1.description>
-  <DankPyon_Thought_HappyPowder.stages.0.label>Estimulado por Polvo de Felicidad</DankPyon_Thought_HappyPowder.stages.0.label>
-  <DankPyon_Thought_HappyPowder.stages.0.description>¡Me siento bombeado! ¡Vamos a empezar!</DankPyon_Thought_HappyPowder.stages.0.description>
-  <DankPyon_Withdrawal_HappyPowder.stages.1.label>Abstinencia de Polvo de Felicidad</DankPyon_Withdrawal_HappyPowder.stages.1.label>
+
+  <!-- Happy Powder -->
+
+  <DankPyon_Thought_HappyPowder.stages.0.label>estimulado por polvo de felicidad</DankPyon_Thought_HappyPowder.stages.0.label>
+  <DankPyon_Thought_HappyPowder.stages.0.description>Marihuanícen la Legaliguana.</DankPyon_Thought_HappyPowder.stages.0.description>
+
+  <!-- Happy Powder Addiction -->
+
+  <DankPyon_Withdrawal_HappyPowder.stages.1.label>abstinencia de polvo de felicidad</DankPyon_Withdrawal_HappyPowder.stages.1.label>
   <DankPyon_Withdrawal_HappyPowder.stages.1.description>Dios, estoy cansado. Todo es tan lento y aburrido. Especialmente yo.</DankPyon_Withdrawal_HappyPowder.stages.1.description>
-  <DankPyon_HornetHoneyHigh.stages.0.label>Estimulado por Miel de Avispa</DankPyon_HornetHoneyHigh.stages.0.label>
+
+  <!-- Hornet High -->
+
+  <DankPyon_HornetHoneyHigh.stages.0.label>estimulado por miel de avispa</DankPyon_HornetHoneyHigh.stages.0.label>
   <DankPyon_HornetHoneyHigh.stages.0.description>Me siento bombeado, pero estable. Soy la bala en vuelo, lista para atravesarte.</DankPyon_HornetHoneyHigh.stages.0.description>
-  <DankPyon_HornetHoneyWithdrawal.stages.1.label>Abstinencia de Miel de Avispa</DankPyon_HornetHoneyWithdrawal.stages.1.label>
+
+  <!-- Hornet High Addiction -->
+
+  <DankPyon_HornetHoneyWithdrawal.stages.1.label>abstinencia de miel de avispa</DankPyon_HornetHoneyWithdrawal.stages.1.label>
   <DankPyon_HornetHoneyWithdrawal.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_HornetHoneyWithdrawal.stages.1.description>
-  <DankPyon_UnpleasantAftermathThought.stages.1.label>Efectos Secundarios Leves</DankPyon_UnpleasantAftermathThought.stages.1.label>
+
+  <!-- Hangover -->
+
+  <DankPyon_UnpleasantAftermathThought.stages.1.label>efectos secundarios leves</DankPyon_UnpleasantAftermathThought.stages.1.label>
   <DankPyon_UnpleasantAftermathThought.stages.1.description>El dolor de cabeza casi ha desaparecido.</DankPyon_UnpleasantAftermathThought.stages.1.description>
-  <DankPyon_UnpleasantAftermathThought.stages.2.label>Efectos Secundarios Graves</DankPyon_UnpleasantAftermathThought.stages.2.label>
-  <DankPyon_UnpleasantAftermathThought.stages.2.description>Mi cabeza duele por todas estas cosas.</DankPyon_UnpleasantAftermathThought.stages.2.description>
-  <DankPyon_UnpleasantAftermathThought.stages.3.label>Martilleantes Efectos Secundarios Desagradables</DankPyon_UnpleasantAftermathThought.stages.3.label>
+  <DankPyon_UnpleasantAftermathThought.stages.2.label>efectos secundarios graves</DankPyon_UnpleasantAftermathThought.stages.2.label>
+  <DankPyon_UnpleasantAftermathThought.stages.2.description>¡Qué chuchaqui!</DankPyon_UnpleasantAftermathThought.stages.2.description>
+  <DankPyon_UnpleasantAftermathThought.stages.3.label>martilleantes efectos secundarios desagradables</DankPyon_UnpleasantAftermathThought.stages.3.label>
   <DankPyon_UnpleasantAftermathThought.stages.3.description>Se siente como si una bandada de gansos estuviera picoteando mi cráneo.</DankPyon_UnpleasantAftermathThought.stages.3.description>
-  <DankPyon_Thought_Luhix.stages.0.label>Estimulado por Luhix</DankPyon_Thought_Luhix.stages.0.label>
+
+  <!-- Luhix -->
+
+  <DankPyon_Thought_Luhix.stages.0.label>estimulado por luhix</DankPyon_Thought_Luhix.stages.0.label>
   <DankPyon_Thought_Luhix.stages.0.description>Mi mente se aclara con cada segundo y me insta a buscar conocimiento.</DankPyon_Thought_Luhix.stages.0.description>
-  <DankPyon_Withdrawal_Luhix.stages.1.label>Abstinencia de Luhix</DankPyon_Withdrawal_Luhix.stages.1.label>
+
+  <!-- Luhix Addiction -->
+
+  <DankPyon_Withdrawal_Luhix.stages.1.label>abstinencia de luhix</DankPyon_Withdrawal_Luhix.stages.1.label>
   <DankPyon_Withdrawal_Luhix.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_Withdrawal_Luhix.stages.1.description>
-  <DankPyon_Thought_Paregoric.stages.0.label>Tomó Paregórico</DankPyon_Thought_Paregoric.stages.0.label>
-  <DankPyon_Thought_Paregoric.stages.0.description>Beber este medicamento asegura mi salud.</DankPyon_Thought_Paregoric.stages.0.description>
-  <DankPyon_Thought_Stardust.stages.0.label>Estimulado por Polvo de Estrellas</DankPyon_Thought_Stardust.stages.0.label>
-  <DankPyon_Thought_Stardust.stages.0.description>Mi mente se aclara con cada segundo y me insta a buscar conocimiento.</DankPyon_Thought_Stardust.stages.0.description>
-  <DankPyon_Withdrawal_Stardust.stages.1.label>Abstinencia de Polvo de Estrellas</DankPyon_Withdrawal_Stardust.stages.1.label>
-  <DankPyon_Withdrawal_Stardust.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Mis extremidades se sienten pesadas, estoy cansado y hambriento, todo duele. ¿Y por qué mis ojos no se enfocan correctamente?</DankPyon_Withdrawal_Stardust.stages.1.description>
-  <DankPyon_Withdrawal_VigorPill.stages.1.label>Abstinencia de Píldora de Vigor</DankPyon_Withdrawal_VigorPill.stages.1.label>
-  <DankPyon_Withdrawal_VigorPill.stages.1.description>Me siento mareado y desconcentrado. Y estoy tan cansado.</DankPyon_Withdrawal_VigorPill.stages.1.description>
+
+  <!-- Paregoric -->
+
+  <DankPyon_Thought_Paregoric.stages.0.label>bebió paregórico</DankPyon_Thought_Paregoric.stages.0.label>
+  <DankPyon_Thought_Paregoric.stages.0.description>Beber este medicamento me sana, creo.</DankPyon_Thought_Paregoric.stages.0.description>
+
+  <!-- Stardust -->
+
+  <DankPyon_Thought_Stardust.stages.0.label>estimulado por stardust</DankPyon_Thought_Stardust.stages.0.label>
+  <DankPyon_Thought_Stardust.stages.0.description>Mi mente se aclara, el conocimiento es poder.</DankPyon_Thought_Stardust.stages.0.description>
+
+  <!-- Stardust Addiction -->
+
+  <DankPyon_Withdrawal_Stardust.stages.1.label>Abstinencia de stardust</DankPyon_Withdrawal_Stardust.stages.1.label>
+  <DankPyon_Withdrawal_Stardust.stages.1.description>Estoy completamente confundido y no puedo pensar con claridad. Me voa morir</DankPyon_Withdrawal_Stardust.stages.1.description>
+
+  <!-- VigorPill Addiction -->
+
+  <DankPyon_Withdrawal_VigorPill.stages.1.label>abstinencia de píldora vital</DankPyon_Withdrawal_VigorPill.stages.1.label>
+  <DankPyon_Withdrawal_VigorPill.stages.1.description>Me siento mareado y desconcentrado. Se me bajo el azucar.</DankPyon_Withdrawal_VigorPill.stages.1.description>
+
 </LanguageData>

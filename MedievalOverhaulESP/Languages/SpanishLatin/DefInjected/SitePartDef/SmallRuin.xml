@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Small_Ruin.label>Pequeña Ruina</DankPyon_Small_Ruin.label>
+
+  <DankPyon_Small_Ruin.label>Ruina pequeña </DankPyon_Small_Ruin.label>
   <DankPyon_Small_Ruin.description>Una pequeña ruina.</DankPyon_Small_Ruin.description>
-  <DankPyon_Medium_Ruin.label>Ruina Mediana</DankPyon_Medium_Ruin.label>
+
+  <DankPyon_Medium_Ruin.label>Ruina mediana</DankPyon_Medium_Ruin.label>
   <DankPyon_Medium_Ruin.description>Una ruina mediana.</DankPyon_Medium_Ruin.description>
-  <DankPyon_Big_Snake_Ruin.label>Ruina Infestada de Serpientes</DankPyon_Big_Snake_Ruin.label>
+
+  <!-- Big Ruin -->
+
+  <DankPyon_Big_Snake_Ruin.label>Ruina infestada de serpientes</DankPyon_Big_Snake_Ruin.label>
   <DankPyon_Big_Snake_Ruin.description>Una gran ruina infestada de serpientes.</DankPyon_Big_Snake_Ruin.description>
+
 </LanguageData>

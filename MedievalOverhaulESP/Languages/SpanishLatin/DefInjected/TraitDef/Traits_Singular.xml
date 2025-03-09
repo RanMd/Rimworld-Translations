@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Fighter.degreeDatas.0.label>Guerrero</DankPyon_Fighter.degreeDatas.0.label>
+
+  <DankPyon_Fighter.degreeDatas.0.label>guerrero</DankPyon_Fighter.degreeDatas.0.label>
   <DankPyon_Fighter.degreeDatas.0.description>[PAWN_nameDef] es un impresionante guerrero. [PAWN_pronoun] sabe cómo manejar eficazmente un arma y recibir golpes.</DankPyon_Fighter.degreeDatas.0.description>
-  <DankPyon_Veteran.degreeDatas.0.label>Veterano</DankPyon_Veteran.degreeDatas.0.label>
+  <DankPyon_Veteran.degreeDatas.0.label>veterano</DankPyon_Veteran.degreeDatas.0.label>
   <DankPyon_Veteran.degreeDatas.0.description>[PAWN_nameDef] es un veterano. [PAWN_pronoun] ha vivido innumerables batallas terribles, suficientes para romper a un hombre común.</DankPyon_Veteran.degreeDatas.0.description>
+
 </LanguageData>

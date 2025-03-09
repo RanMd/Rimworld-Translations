@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Caravan_Medieval_BulkGoodsMerchant.label>Mercader de bienes a granel</DankPyon_Caravan_Medieval_BulkGoodsMerchant.label>
-  <DankPyon_Caravan_Medieval_ArtPatron.label>Mecenas de arte</DankPyon_Caravan_Medieval_ArtPatron.label>
-  <DankPyon_Caravan_Medieval_Armorsmith.label>Herrero de armaduras</DankPyon_Caravan_Medieval_Armorsmith.label>
-  <DankPyon_Caravan_Medieval_Weaponsmith.label>Herrero de armas</DankPyon_Caravan_Medieval_Weaponsmith.label>
-  <DankPyon_Caravan_Medieval_RuinsMerchant.label>Comerciante de ruinas</DankPyon_Caravan_Medieval_RuinsMerchant.label>
-  <DankPyon_Caravan_Medieval_Scholar.label>Erudito</DankPyon_Caravan_Medieval_Scholar.label>
+
+  <DankPyon_Caravan_Medieval_BulkGoodsMerchant.label>mercader de articulos al por mayor </DankPyon_Caravan_Medieval_BulkGoodsMerchant.label>
+  <DankPyon_Caravan_Medieval_ArtPatron.label>mecenas de arte</DankPyon_Caravan_Medieval_ArtPatron.label>
+  <DankPyon_Caravan_Medieval_Armorsmith.label>herrero de armaduras</DankPyon_Caravan_Medieval_Armorsmith.label>
+  <DankPyon_Caravan_Medieval_Weaponsmith.label>herrero de armas</DankPyon_Caravan_Medieval_Weaponsmith.label>
+  <DankPyon_Caravan_Medieval_RuinsMerchant.label>comerciante de ruinas</DankPyon_Caravan_Medieval_RuinsMerchant.label>
+  <DankPyon_Caravan_Medieval_Scholar.label>erudito</DankPyon_Caravan_Medieval_Scholar.label>
+
 </LanguageData>

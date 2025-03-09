@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Mead.label>Hidromiel</DankPyon_Mead.label>
+
+  <DankPyon_Mead.label>hidromiel</DankPyon_Mead.label>
   <DankPyon_Mead.description>Bebida fermentada de color dorado profundo, un verdadero elixir de la vida social en estas regiones. Unas pocas tazas en la taberna son suficientes para olvidar las fatigas del trabajo en el campo, los peligros en la carretera o las promesas matrimoniales imprudentes. Déjese abrazar por la cálida neblina de la embriaguez, sin preocuparse por nada. No hoy.</DankPyon_Mead.description>
+  <DankPyon_Mead.tools.0.label>botella</DankPyon_Mead.tools.0.label>
+  <DankPyon_Mead.tools.1.label>cuello de botella</DankPyon_Mead.tools.1.label>
+  <DankPyon_Mead.ingestible.ingestCommandString>Beber {0}</DankPyon_Mead.ingestible.ingestCommandString>
+  <DankPyon_Mead.ingestible.ingestReportString>Bebiendo {0}.</DankPyon_Mead.ingestible.ingestReportString>
+
 </LanguageData>

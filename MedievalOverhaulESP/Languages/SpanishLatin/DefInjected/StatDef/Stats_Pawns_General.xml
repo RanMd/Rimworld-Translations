@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Dank_ToxicBuildupHediffFallRateMult.label>Tasa de Caída de Hediff</Dank_ToxicBuildupHediffFallRateMult.label>
+
+  <Dank_ToxicBuildupHediffFallRateMult.label>Tasa de caída de emfermedad</Dank_ToxicBuildupHediffFallRateMult.label>
   <Dank_ToxicBuildupHediffFallRateMult.description>Velocidad de movimiento en celdas por segundo.</Dank_ToxicBuildupHediffFallRateMult.description>
+
 </LanguageData>

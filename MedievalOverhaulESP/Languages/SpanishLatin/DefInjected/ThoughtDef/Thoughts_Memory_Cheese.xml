@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_AteCheese.stages.0.label>comió queso horrible</DankPyon_AteCheese.stages.0.label>
-  <DankPyon_AteCheese.stages.0.description>Tuve la desafortunada experiencia de comer queso de terrible calidad. El sabor aún persiste y atormenta mis pensamientos.</DankPyon_AteCheese.stages.0.description>
-  <DankPyon_AteCheese.stages.1.label>comió queso malo</DankPyon_AteCheese.stages.1.label>
-  <DankPyon_AteCheese.stages.1.description>He comido queso de mala calidad. El sabor no fue satisfactorio.</DankPyon_AteCheese.stages.1.description>
-  <DankPyon_AteCheese.stages.2.label>comió queso normal</DankPyon_AteCheese.stages.2.label>
-  <DankPyon_AteCheese.stages.2.description>He comido queso promedio.</DankPyon_AteCheese.stages.2.description>
-  <DankPyon_AteCheese.stages.3.label>comió buen queso</DankPyon_AteCheese.stages.3.label>
-  <DankPyon_AteCheese.stages.3.description>El sabor del queso de buena calidad que acabo de comer me dibuja una sonrisa en el rostro.</DankPyon_AteCheese.stages.3.description>
-  <DankPyon_AteCheese.stages.4.label>comió queso excelente</DankPyon_AteCheese.stages.4.label>
-  <DankPyon_AteCheese.stages.4.description>El increíble sabor del queso de primera calidad que acabo de disfrutar me ha llevado a un puro placer culinario.</DankPyon_AteCheese.stages.4.description>
-  <DankPyon_AteCheese.stages.5.label>comió queso magistral</DankPyon_AteCheese.stages.5.label>
-  <DankPyon_AteCheese.stages.5.description>El sabor incomparable del queso de primera calidad que acabo de disfrutar me ha llevado a un reino de éxtasis gustativo.</DankPyon_AteCheese.stages.5.description>
-  <DankPyon_AteCheese.stages.6.label>comió queso legendario</DankPyon_AteCheese.stages.6.label>
-  <DankPyon_AteCheese.stages.6.description>El sabor divino del queso de calidad legendaria que acabo de disfrutar ha cambiado para siempre mi percepción de la perfección culinaria.</DankPyon_AteCheese.stages.6.description>
+
+  <!-- EN: ate awful cheese -->
+  <DankPyon_AteCheese.stages.ate_awful_cheese.label>comió queso horrible</DankPyon_AteCheese.stages.ate_awful_cheese.label>
+  <!-- EN: I had the unfortunate experience of eating awful-quality cheese. The taste still lingers, haunting my thoughts. -->
+  <DankPyon_AteCheese.stages.ate_awful_cheese.description>Tuve la desafortunada experiencia de comer queso de terrible calidad. El sabor aún persiste y atormenta mis pensamientos.</DankPyon_AteCheese.stages.ate_awful_cheese.description>
+  <!-- EN: ate poor cheese -->
+  <DankPyon_AteCheese.stages.ate_poor_cheese.label>comió queso pobre</DankPyon_AteCheese.stages.ate_poor_cheese.label>
+  <!-- EN: I ate some poor-quality cheese. The taste was less than satisfying -->
+  <DankPyon_AteCheese.stages.ate_poor_cheese.description>Comí queso de calidad pobre.DankPyon_AteCheese.stages.ate_poor_cheese.description>
+  <!-- EN: ate normal cheese -->
+  <DankPyon_AteCheese.stages.ate_normal_cheese.label>comió queso normal</DankPyon_AteCheese.stages.ate_normal_cheese.label>
+  <!-- EN: I ate some average cheese. -->
+  <DankPyon_AteCheese.stages.ate_normal_cheese.description>Comí queso meh.</DankPyon_AteCheese.stages.ate_normal_cheese.description>
+  <!-- EN: ate good cheese -->
+  <DankPyon_AteCheese.stages.ate_good_cheese.label>comió buen queso</DankPyon_AteCheese.stages.ate_good_cheese.label>
+  <!-- EN: The taste of the good-quality cheese you just ate lingers on your palate, bringing a smile to your face. -->
+  <DankPyon_AteCheese.stages.ate_good_cheese.description>El sabor de este queso que acabo de comer me dibuja una sonrisa en el rostro :).</DankPyon_AteCheese.stages.ate_good_cheese.description>
+  <!-- EN: ate excellent cheese -->
+  <DankPyon_AteCheese.stages.ate_excellent_cheese.label>comió queso excelente</DankPyon_AteCheese.stages.ate_excellent_cheese.label>
+  <!-- EN: The incredible taste of the excellent-quality cheese you just indulged in has left you in a state of pure culinary delight -->
+  <DankPyon_AteCheese.stages.ate_excellent_cheese.description>El increíble sabor del queso de primera calidad que acabo de disfrutar me ha llevado a un puro placer culinario.</DankPyon_AteCheese.stages.ate_excellent_cheese.description>
+  <!-- EN: ate masterwork cheese -->
+  <DankPyon_AteCheese.stages.ate_masterwork_cheese.label>comió queso magistral</DankPyon_AteCheese.stages.ate_masterwork_cheese.label>
+  <!-- EN: The unparalleled taste of the masterwork-quality cheese you just savored has transported you to a realm of gustatory ecstasy. -->
+  <DankPyon_AteCheese.stages.ate_masterwork_cheese.description>El sabor incomparable del queso de primera calidad que acabo de disfrutar me ha llevado a un reino de orgasmos gustativos.</DankPyon_AteCheese.stages.ate_masterwork_cheese.description>
+  <!-- EN: ate legendary cheese -->
+  <DankPyon_AteCheese.stages.ate_legendary_cheese.label>comió queso legendario</DankPyon_AteCheese.stages.ate_legendary_cheese.label>
+  <!-- EN: The divine taste of the legendary-quality cheese you just experienced has forever altered your perception of culinary perfection. -->
+  <DankPyon_AteCheese.stages.ate_legendary_cheese.description>El sabor divino del queso fue RIKOPOLLO.</DankPyon_AteCheese.stages.ate_legendary_cheese.description>
+
 </LanguageData>

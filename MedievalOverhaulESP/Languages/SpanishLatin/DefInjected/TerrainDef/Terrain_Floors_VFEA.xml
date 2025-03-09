@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_VFEArch_WoodenParquetDarkWood.label>parquet de madera oscura</DankPyon_VFEArch_WoodenParquetDarkWood.label>
+  <DankPyon_VFEArch_WoodenParquetDarkWood.description>Hermoso parquet de madera que crea una atmósfera lujosa y elegante. Aunque es muy bonito, requiere mucho tiempo para su construcción y es altamente inflamable.</DankPyon_VFEArch_WoodenParquetDarkWood.description>
+
+  <DankPyon_VFEArch_CobblestoneFloorClay.label>suelo de arcilla y adoquines</DankPyon_VFEArch_CobblestoneFloorClay.label>
+  <DankPyon_VFEArch_CobblestoneFloorClay.description>Un pavimento hecho con piedras de diferentes tamaños dispuestas al azar, que da una sensación de castillo rural. Aunque la velocidad de instalación es mucho más rápida que la de los pavimentos de piedra normales y no requiere conocimientos especializados de corte de piedra, carece de la estética del diseño pulido.</DankPyon_VFEArch_CobblestoneFloorClay.description>
+
+  <DankPyon_VFEArch_PolishedStoneFloorClay.label>suelo de piedra pulida de arcilla</DankPyon_VFEArch_PolishedStoneFloorClay.label>
+  <DankPyon_VFEArch_PolishedStoneFloorClay.description>Un pavimento de piedra pulida exquisita, ideal para crear mansiones elegantes. Aunque la velocidad de instalación es mucho más rápida que la de los pavimentos de piedra finos, consume una gran cantidad de recursos. Se ve muy bonito.</DankPyon_VFEArch_PolishedStoneFloorClay.description>
+
+  <DankPyon_VFEArch_SlabsClay.label>Losas de arcilla</DankPyon_VFEArch_SlabsClay.label>
+  <DankPyon_VFEArch_SlabsClay.description>Un pavimento hecho con grandes losas de piedra dispuestas al azar, ideal para crear templos o santuarios. Se ve muy bonito, pero requiere mucho tiempo y recursos para su instalación.</DankPyon_VFEArch_SlabsClay.description>
+
+  <DankPyon_Floor_RusticWoodFloor_Walnut.label>suelo de nogal</DankPyon_Floor_RusticWoodFloor_Walnut.label>
+  <DankPyon_Floor_RusticWoodFloor_Walnut.description>Un pavimento de madera que da una sensación cálida y acogedora. Fácil de instalar, pero muy inflamable.</DankPyon_Floor_RusticWoodFloor_Walnut.description>
+
+  <DankPyon_Floor_RusticWoodFloor_Birch.label>suelo de abedul</DankPyon_Floor_RusticWoodFloor_Birch.label>
+  <DankPyon_Floor_RusticWoodFloor_Birch.description>Un pavimento de madera que da una sensación cálida y acogedora. Fácil de instalar, pero muy inflamable.</DankPyon_Floor_RusticWoodFloor_Birch.description>
+
+  <DankPyon_Floor_RusticWoodFloor_Mahogany.label>suelo de caoba</DankPyon_Floor_RusticWoodFloor_Mahogany.label>
+  <DankPyon_Floor_RusticWoodFloor_Mahogany.description>Un pavimento de madera que da una sensación cálida y acogedora. Fácil de instalar, pero muy inflamable.</DankPyon_Floor_RusticWoodFloor_Mahogany.description>
+
+  <DankPyon_VFEArch_FineDarkWoodenFloor.label>suelo de madera oscura fina</DankPyon_VFEArch_FineDarkWoodenFloor.label>
+  <DankPyon_VFEArch_FineDarkWoodenFloor.description>Un pavimento de madera finamente incrustado, que muestra bien el poder económico y el estatus. La velocidad de instalación es lenta.</DankPyon_VFEArch_FineDarkWoodenFloor.description>
+
+  <DankPyon_VFEArch_FineIronTile.label>baldosa de hierro fino</DankPyon_VFEArch_FineIronTile.label>
+  <DankPyon_VFEArch_FineIronTile.description>Un pavimento de azulejos de hierro finos, que muestra bien el poder económico y el estatus. La velocidad de instalación es lenta.</DankPyon_VFEArch_FineIronTile.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_ReadInLibrary.stages.3.label>biblioteca decente</DankPyon_ReadInLibrary.stages.3.label>
+  <DankPyon_ReadInLibrary.stages.3.description>Leí un libro en una biblioteca decente.</DankPyon_ReadInLibrary.stages.3.description>
+  <DankPyon_ReadInLibrary.stages.4.label>biblioteca algo impresionante</DankPyon_ReadInLibrary.stages.4.label>
+  <DankPyon_ReadInLibrary.stages.4.description>Leí un libro en una biblioteca algo impresionante.</DankPyon_ReadInLibrary.stages.4.description>
+  <DankPyon_ReadInLibrary.stages.5.label>biblioteca bastante impresionante</DankPyon_ReadInLibrary.stages.5.label>
+  <DankPyon_ReadInLibrary.stages.5.description>Pasé un buen rato leyendo en una biblioteca bastante impresionante.</DankPyon_ReadInLibrary.stages.5.description>
+  <DankPyon_ReadInLibrary.stages.6.label>biblioteca muy impresionante</DankPyon_ReadInLibrary.stages.6.label>
+  <DankPyon_ReadInLibrary.stages.6.description>Pasé un buen rato leyendo en una biblioteca muy impresionante.</DankPyon_ReadInLibrary.stages.6.description>
+  <DankPyon_ReadInLibrary.stages.7.label>biblioteca extremadamente impresionante</DankPyon_ReadInLibrary.stages.7.label>
+  <DankPyon_ReadInLibrary.stages.7.description>Pasé un buen rato leyendo en una biblioteca extremadamente impresionante, podría quedarme allí para siempre.</DankPyon_ReadInLibrary.stages.7.description>
+  <DankPyon_ReadInLibrary.stages.8.label>biblioteca increíble</DankPyon_ReadInLibrary.stages.8.label>
+  <DankPyon_ReadInLibrary.stages.8.description>Pasé un buen rato leyendo en una biblioteca increíble, podría quedarme allí para siempre.</DankPyon_ReadInLibrary.stages.8.description>
+  <DankPyon_ReadInLibrary.stages.9.label>biblioteca extraordinaria</DankPyon_ReadInLibrary.stages.9.label>
+  <DankPyon_ReadInLibrary.stages.9.description>Pasé un buen rato leyendo en una biblioteca extraordinaria, es mi cuarto de placer.</DankPyon_ReadInLibrary.stages.9.description>
+
+</LanguageData>

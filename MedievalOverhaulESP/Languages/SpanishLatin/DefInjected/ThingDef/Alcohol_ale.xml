@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Ale.label>Cerveza</DankPyon_Ale.label>
+
+  <DankPyon_Ale.label>cerveza</DankPyon_Ale.label>
   <DankPyon_Ale.description>Bebida fermentada de color dorado profundo, un verdadero elixir de la vida social en estas regiones. Unas pocas tazas en la taberna son suficientes para olvidar las fatigas del trabajo en el campo, los peligros en la carretera o las promesas matrimoniales imprudentes. Déjese abrazar por la cálida neblina de la embriaguez, sin preocuparse por nada. No hoy.</DankPyon_Ale.description>
+  <DankPyon_Ale.tools.0.label>botella</DankPyon_Ale.tools.0.label>
+  <DankPyon_Ale.tools.1.label>cuello de botella</DankPyon_Ale.tools.1.label>
+  <DankPyon_Ale.ingestible.ingestCommandString>Beber {0}</DankPyon_Ale.ingestible.ingestCommandString>
+  <DankPyon_Ale.ingestible.ingestReportString>Bebiendo {0}.</DankPyon_Ale.ingestible.ingestReportString>
+
   <DankPyon_WortAle.label>Mosto de cerveza</DankPyon_WortAle.label>
   <DankPyon_WortAle.description>Mosto sin fermentar. Esta sustancia debe fermentar en un barril antes de convertirse en cerveza potable.</DankPyon_WortAle.description>
+
 </LanguageData>

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_PlowedSoil.label>Suelo Arado</DankPyon_PlowedSoil.label>
+
+  <DankPyon_PlowedSoil.label>suelo arado</DankPyon_PlowedSoil.label>
   <DankPyon_PlowedSoil.description>Ara el suelo para aumentar su fertilidad.</DankPyon_PlowedSoil.description>
+  <DankPyon_PlowedSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>Arando el suelo.</DankPyon_PlowedSoil.modExtensions.0.constructionSkillRequirement.reportStringOverride>
+  <DankPyon_PlowedSoil.tools.0.label>Suelo</DankPyon_PlowedSoil.tools.0.label>
+
   <IronTile.label>Azulejo de Hierro</IronTile.label>
   <IronTile.description>Azulejos de hierro para un aspecto robusto. Son fáciles de limpiar y ofrecen una pequeña ventaja de limpieza para su uso en áreas médicas.</IronTile.description>
+
+  <DankPyon_DarkWoodPlankFloor.label>piso de madera oscura</DankPyon_DarkWoodPlankFloor.label>
+  <DankPyon_DarkWoodPlankFloor.description>Los pisos de madera dan una sensación cálida y acogedora. Fáciles de colocar, pero muy inflamables.</DankPyon_DarkWoodPlankFloor.description>
+
 </LanguageData>
