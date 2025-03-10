@@ -1,19 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_RuinedShelfEmpty.label>Estante Arruinado</DankPyon_RuinedShelfEmpty.label>
+
+  <!-- Shelf -->
+
+  <DankPyon_RuinedShelfEmpty.label>estante arruinado</DankPyon_RuinedShelfEmpty.label>
   <DankPyon_RuinedShelfEmpty.description>Un estante arruinado.</DankPyon_RuinedShelfEmpty.description>
-  <DankPyon_LootableShelf_ChaliceSilver.label>Estante Lleno</DankPyon_LootableShelf_ChaliceSilver.label>
+
+  <!-- Alchemy Shelf -->
+
+  <DankPyon_LootableShelf_AssortedHerbs.label>estante de hierbas surtidas</DankPyon_LootableShelf_AssortedHerbs.label>
+  <DankPyon_LootableShelf_AssortedHerbs.description>Un estante lleno de artículos.</DankPyon_LootableShelf_AssortedHerbs.description>
+
+  <DankPyon_LootableShelf_GreenHerbs.label>estante de hierbas verdes</DankPyon_LootableShelf_GreenHerbs.label>
+  <DankPyon_LootableShelf_GreenHerbs.description>Un estante lleno de artículos.</DankPyon_LootableShelf_GreenHerbs.description>
+
+  <DankPyon_LootableShelf_RedHerbs.label>estante de hierbas rojas</DankPyon_LootableShelf_RedHerbs.label>
+  <DankPyon_LootableShelf_RedHerbs.description>Un estante lleno de artículos.</DankPyon_LootableShelf_RedHerbs.description>
+
+  <!-- Drugs Shelf -->
+
+  <DankPyon_LootableShelf_BattleElixir.label>estante lleno de elixir de batalla</DankPyon_LootableShelf_BattleElixir.label>
+  <DankPyon_LootableShelf_BattleElixir.description>Un estante lleno de elixires de batalla.</DankPyon_LootableShelf_BattleElixir.description>
+
+  <DankPyon_LootableShelf_HappyPowder.label>estante lleno de polvo de la felicidad</DankPyon_LootableShelf_HappyPowder.label>
+  <DankPyon_LootableShelf_HappyPowder.description>Un estante lleno de polvo feliz.</DankPyon_LootableShelf_HappyPowder.description>
+
+  <DankPyon_LootableShelf_VigorPill.label>estante lleno de píldoras de vigor</DankPyon_LootableShelf_VigorPill.label>
+  <DankPyon_LootableShelf_VigorPill.description>Un estante lleno de píldoras de vigor.</DankPyon_LootableShelf_VigorPill.description>
+
+  <DankPyon_LootableShelf_AssortedDrugsA.label>estante lleno de drogas surtidas</DankPyon_LootableShelf_AssortedDrugsA.label>
+  <DankPyon_LootableShelf_AssortedDrugsA.description>Un estante lleno de drogas surtidas.</DankPyon_LootableShelf_AssortedDrugsA.description>
+
+  <DankPyon_LootableShelf_Stardust.label>estante lleno de stardust</DankPyon_LootableShelf_Stardust.label>
+  <DankPyon_LootableShelf_Stardust.description>Un estante lleno de polvo de estrellas.</DankPyon_LootableShelf_Stardust.description>
+
+  <DankPyon_LootableShelf_Luhix.label>estante lleno de luhix</DankPyon_LootableShelf_Luhix.label>
+  <DankPyon_LootableShelf_Luhix.description>Un estante lleno de Luhix.</DankPyon_LootableShelf_Luhix.description>
+
+  <DankPyon_LootableShelf_Paregoric.label>estante lleno de paregórico</DankPyon_LootableShelf_Paregoric.label>
+  <DankPyon_LootableShelf_Paregoric.description>Un estante lleno de paregórico.</DankPyon_LootableShelf_Paregoric.description>
+
+  <DankPyon_LootableShelf_AssortedDrugsB.label>estante lleno de drogas surtidas</DankPyon_LootableShelf_AssortedDrugsB.label>
+  <DankPyon_LootableShelf_AssortedDrugsB.description>Un estante lleno de drogas surtidas.</DankPyon_LootableShelf_AssortedDrugsB.description>
+
+  <!-- Jewelry Shelf -->
+
+  <DankPyon_LootableShelf_ChaliceSilver.label>estante lleno</DankPyon_LootableShelf_ChaliceSilver.label>
   <DankPyon_LootableShelf_ChaliceSilver.description>Un estante lleno de objetos.</DankPyon_LootableShelf_ChaliceSilver.description>
-  <DankPyon_Lootable_RackMix.label>Soporte de Armas</DankPyon_Lootable_RackMix.label>
-  <DankPyon_Lootable_RackMix.description>Un soporte para almacenar espadas ordenadamente.</DankPyon_Lootable_RackMix.description>
-  <DankPyon_Lootable_RackSword.label>Soporte de Espadas</DankPyon_Lootable_RackSword.label>
-  <DankPyon_Lootable_RackSword.description>Un soporte para almacenar espadas ordenadamente.</DankPyon_Lootable_RackSword.description>
-  <DankPyon_Lootable_RackSpear.label>Soporte de Lanzas</DankPyon_Lootable_RackSpear.label>
-  <DankPyon_Lootable_RackSpear.description>Un estante para almacenar lanzas ordenadamente.</DankPyon_Lootable_RackSpear.description>
-  <DankPyon_LootableChest_RusticChest.label>Cofre</DankPyon_LootableChest_RusticChest.label>
+
+  <DankPyon_LootableShelf_Emerald.label>estante lleno</DankPyon_LootableShelf_Emerald.label>
+  <DankPyon_LootableShelf_Emerald.description>Un estante lleno de objetos.</DankPyon_LootableShelf_Emerald.description>
+
+  <DankPyon_LootableShelf_Ruby.label>estante lleno</DankPyon_LootableShelf_Ruby.label>
+  <DankPyon_LootableShelf_Ruby.description>Un estante lleno de objetos.</DankPyon_LootableShelf_Ruby.description>
+
+  <DankPyon_LootableShelf_Sapphire.label>estante lleno</DankPyon_LootableShelf_Sapphire.label>
+  <DankPyon_LootableShelf_Sapphire.description>Un estante lleno de objetos.</DankPyon_LootableShelf_Sapphire.description>
+
+  <DankPyon_LootableShelf_Rations.label>estante lleno</DankPyon_LootableShelf_Rations.label>
+  <DankPyon_LootableShelf_Rations.description>Un estante lleno de objetos.</DankPyon_LootableShelf_Rations.description>
+
+  <DankPyon_LootableShelf_IronIngot.label>estante lleno</DankPyon_LootableShelf_IronIngot.label>
+  <DankPyon_LootableShelf_IronIngot.description>Un estante lleno de objetos.</DankPyon_LootableShelf_IronIngot.description>
+
+  <DankPyon_LootableShelf_Bowl.label>estante lleno</DankPyon_LootableShelf_Bowl.label>
+  <DankPyon_LootableShelf_Bowl.description>Un estante lleno de objetos.</DankPyon_LootableShelf_Bowl.description>
+
+  <DankPyon_LootableShelf_Book.label>estante lleno</DankPyon_LootableShelf_Book.label>
+  <DankPyon_LootableShelf_Book.description>Un estante lleno de objetos.</DankPyon_LootableShelf_Book.description>
+
+  <!-- Lootable Rack -->
+
+  <DankPyon_Lootable_RackMix.label>soporte de armas arruinado</DankPyon_Lootable_RackMix.label>
+  <DankPyon_Lootable_RackMix.description>Un soporte dañado para almacenar armas.</DankPyon_Lootable_RackMix.description>
+
+  <DankPyon_Lootable_RackSword.label>soporte de espadas arruinado</DankPyon_Lootable_RackSword.label>
+  <DankPyon_Lootable_RackSword.description>Un soporte dañado para almacenar espadas.</DankPyon_Lootable_RackSword.description>
+
+  <DankPyon_Lootable_RackSpear.label>soporte de lanzas arruinado</DankPyon_Lootable_RackSpear.label>
+  <DankPyon_Lootable_RackSpear.description>Un soporte dañado para almacenar lanzas.</DankPyon_Lootable_RackSpear.description>
+
+  <!-- Lootable Chest -->
+
+  <DankPyon_LootableChest_RusticChest.label>cofre</DankPyon_LootableChest_RusticChest.label>
   <DankPyon_LootableChest_RusticChest.description>Un cofre para almacenar tesoros y basura.</DankPyon_LootableChest_RusticChest.description>
-  <DankPyon_LootableChest_RoyalChest.label>Cofre Real</DankPyon_LootableChest_RoyalChest.label>
+
+  <DankPyon_LootableChest_RoyalChest.label>cofre real</DankPyon_LootableChest_RoyalChest.label>
   <DankPyon_LootableChest_RoyalChest.description>Un cofre real para almacenar tesoros reales y basura real.</DankPyon_LootableChest_RoyalChest.description>
-  <DankPyon_Lootable_ArmorStatueNamed.label>Estatua de Armadura Nombrada</DankPyon_Lootable_ArmorStatueNamed.label>
+
+  <DankPyon_Lootable_ArmorStatueNamed.label>estatua de armadura nombrada</DankPyon_Lootable_ArmorStatueNamed.label>
   <DankPyon_Lootable_ArmorStatueNamed.description>Un soporte con armaduras prestigiosas usadas por antiguos reyes y héroes.</DankPyon_Lootable_ArmorStatueNamed.description>
+
 </LanguageData>

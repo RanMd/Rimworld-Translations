@@ -1,27 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_ToolRack.label>Estante de herramientas</DankPyon_ToolRack.label>
+
+  <!-- Linkables -->
+
+  <DankPyon_MiningTools.label>herramientas de minería</DankPyon_MiningTools.label>
+  <DankPyon_MiningTools.description>Un conjunto de herramientas diseñadas específicamente para la extracción de recursos subterráneos. Cuando se colocan cerca de puntos de minería y excavación, pueden aumentar la velocidad de trabajo.</DankPyon_MiningTools.description>
+
+  <DankPyon_ToolRack.label>estante de herramientas</DankPyon_ToolRack.label>
   <DankPyon_ToolRack.description>Una colección de herramientas de herrería. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_ToolRack.description>
-  <DankPyon_QuenchingBucket.label>Cubo de enfriamiento</DankPyon_QuenchingBucket.label>
+
+  <DankPyon_QuenchingBucket.label>cubo de enfriamiento</DankPyon_QuenchingBucket.label>
   <DankPyon_QuenchingBucket.description>Un cubo lleno de aceite utilizado para enfriar metales al rojo vivo. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_QuenchingBucket.description>
-  <DankPyon_Grinder.label>Rueda de afilar</DankPyon_Grinder.label>
+
+  <DankPyon_Grinder.label>rueda de afilar</DankPyon_Grinder.label>
   <DankPyon_Grinder.description>Se utiliza para afilar armas. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_Grinder.description>
-  <DankPyon_Bellows.label>Fuelle</DankPyon_Bellows.label>
+
+  <DankPyon_Bellows.label>fuelle</DankPyon_Bellows.label>
   <DankPyon_Bellows.description>Se utiliza para generar una ráfaga de aire fuerte. Aumenta la velocidad de trabajo cuando se coloca cerca de bancos de trabajo medievales.</DankPyon_Bellows.description>
-  <DankPyon_VialsTable.label>Mesa de frascos</DankPyon_VialsTable.label>
+
+  <DankPyon_VialsTable.label>mesa de viales</DankPyon_VialsTable.label>
   <DankPyon_VialsTable.description>Se utiliza para organizar recetas y frascos. Aumenta la velocidad de trabajo cuando se coloca cerca de un banco de alquimia o un caldero de alquimia.</DankPyon_VialsTable.description>
-  <DankPyon_HerbTable.label>Mesa de hierbas</DankPyon_HerbTable.label>
+
+  <DankPyon_HerbTable.label>mesa de hierbas</DankPyon_HerbTable.label>
   <DankPyon_HerbTable.description>Se utiliza para moler hierbas e ingredientes. Aumenta la velocidad de trabajo cuando se coloca cerca de un banco de alquimia o un caldero de alquimia.</DankPyon_HerbTable.description>
-  <DankPyon_Alembic.label>Alambique</DankPyon_Alembic.label>
+
+  <DankPyon_Alembic.label>alambique</DankPyon_Alembic.label>
   <DankPyon_Alembic.description>Se utiliza para destilar mezclas. Aumenta la velocidad de trabajo cuando se coloca cerca de un banco de alquimia o un caldero de alquimia.</DankPyon_Alembic.description>
-  <DankPyon_RusticCookingTools.label>Utensilios de cocina rústicos</DankPyon_RusticCookingTools.label>
+
+  <!-- Quill and Inkwell -->
+
+  <DankPyon_PaperHangingRack.label>estante para colgar papel</DankPyon_PaperHangingRack.label>
+  <DankPyon_PaperHangingRack.description>Un estante para secar manuscritos recién escritos. Colocarlo cerca de la mesa de copia puede aumentar la velocidad de trabajo.</DankPyon_PaperHangingRack.description>
+
+  <DankPyon_QuillAndInkwell.label>escritorio con pluma y tintero</DankPyon_QuillAndInkwell.label>
+  <DankPyon_QuillAndInkwell.description>Una pequeña mesa con pluma y tintero. Colocarla cerca de la mesa de copia puede aumentar la velocidad de trabajo.</DankPyon_QuillAndInkwell.description>
+
+  <DankPyon_Stack_Books.label>pila de libros</DankPyon_Stack_Books.label>
+  <DankPyon_Stack_Books.description>Una pila de libros para consulta y referencia. Colocarla cerca de la mesa de copia puede aumentar la velocidad de trabajo.</DankPyon_Stack_Books.description>
+
+  <DankPyon_Stack_Paper.label>pila de papel</DankPyon_Stack_Paper.label>
+  <DankPyon_Stack_Paper.description>Una pila de papel de escritura de fácil acceso. Colocarla cerca de la mesa de copia puede aumentar la velocidad de trabajo.</DankPyon_Stack_Paper.description>
+
+  <DankPyon_RusticCupboard.label>estante con utensilios</DankPyon_RusticCupboard.label>
+  <DankPyon_RusticCupboard.description>Un estante de pared lleno de utensilios. Colocarlo cerca de la mesa de cocina puede aumentar la velocidad de trabajo.</DankPyon_RusticCupboard.description>
+
+  <DankPyon_RusticCookingTools.label>utensilios de cocina</DankPyon_RusticCookingTools.label>
   <DankPyon_RusticCookingTools.description>Una mesa llena de útiles utensilios de cocina. Aumenta la velocidad de trabajo cuando se coloca cerca de una mesa de cocina rústica.</DankPyon_RusticCookingTools.description>
-  <DankPyon_TableBaking.label>Utensilios de horneado</DankPyon_TableBaking.label>
+
+  <!-- Dough -->
+
+  <DankPyon_TableBaking.label>utensilios de horneado</DankPyon_TableBaking.label>
   <DankPyon_TableBaking.description>Una mesa llena de útiles utensilios de horneado. Aumenta la velocidad de trabajo cuando se coloca cerca de un horno.</DankPyon_TableBaking.description>
-  <DankPyon_BirdPost.label>Correo de aves</DankPyon_BirdPost.label>
-  <DankPyon_BirdPost.description>Algunas aves, cuando son entrenadas por entrenadores experimentados, pueden volar a un lugar específico antes de regresar a su cuartel general. Esto permite la comunicación con facciones vecinas, siempre que se puedan cumplir los costosos requisitos para la adquisición y entrenamiento del ave, así como la alimentación de los animales con carne. Requiere una mesa de escriba para la correspondencia.</DankPyon_BirdPost.description>
-  <DankPyon_ScribeTable.label>Mesa de escriba</DankPyon_ScribeTable.label>
+
+  <!-- Medieval Comms -->
+
+  <DankPyon_BirdPost.label>aves mensajeras</DankPyon_BirdPost.label>
+  <DankPyon_BirdPost.description>Las aves entrenadas pueden volar a lugares específicos y regresar, facilitando la comunicación con facciones vecinas, aunque requiere cumplir con requisitos costosos y alimentar a las aves con carne. Necesita una mesa de escriba para la correspondencia.</DankPyon_BirdPost.description>
+
+  <DankPyon_ScribeTable.label>mesa de escriba</DankPyon_ScribeTable.label>
   <DankPyon_ScribeTable.description>Una mesa con tablillas de cera que contienen registros y recibos. Junto a las tablillas había pergaminos, un sello, plumas y tinta para permitir la correspondencia. Junto con el correo de aves, las cartas escritas pueden llegar a tierras lejanas más rápido que un mensajero. Se pueden invitar aliados a fiestas, retar a rivales o invitar a facciones neutrales a comerciar.</DankPyon_ScribeTable.description>
-  <DankPyon_Cart.label>Carro</DankPyon_Cart.label>
+
+  <DankPyon_Cart.label>carro</DankPyon_Cart.label>
   <DankPyon_Cart.description>Un carro confiable que transporta novedades, artefactos y mercancías a través de las implacables tierras fronterizas. \n\nRequerido para el comercio a larga distancia. Solo puede vender mercancías a otras facciones si están cerca de un carro.</DankPyon_Cart.description>
+
 </LanguageData>

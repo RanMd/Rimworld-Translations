@@ -1,22 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Fountain1x1c.label>Fuente Pequeña</DankPyon_Fountain1x1c.label>
-  <DankPyon_Fountain2x2c.label>Fuente Grande</DankPyon_Fountain2x2c.label>
-  <DankPyon_BarrelWater.label>Barril Lleno de Agua</DankPyon_BarrelWater.label>
-  <DankPyon_BarrelWater.description>Un barril lleno de agua para limpiar a uno mismo o el entorno.</DankPyon_BarrelWater.description>
-  <DankPyon_RusticRoomDivider1x2c.label>Divisor de Habitación (1x2)</DankPyon_RusticRoomDivider1x2c.label>
+
+  <!-- Beverages -->
+
+  <DankPyon_OnTop_Bottle_Milk.label>botella de leche vacía</DankPyon_OnTop_Bottle_Milk.label>
+  <DankPyon_OnTop_Bottle_Milk.description>Una botella de leche vacía, que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Bottle_Milk.description>
+
+  <DankPyon_OnTop_Bottle_Ale.label>vaso de cerveza vacío</DankPyon_OnTop_Bottle_Ale.label>
+  <DankPyon_OnTop_Bottle_Ale.description>Un vaso de cerveza vacío, que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Bottle_Ale.description>
+
+  <DankPyon_OnTop_Bottle_Mead.label>botella de hidromiel vacía</DankPyon_OnTop_Bottle_Mead.label>
+  <DankPyon_OnTop_Bottle_Mead.description>Una botella de hidromiel vacía, que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Bottle_Mead.description>
+
+  <DankPyon_OnTop_Bottle_Wine.label>botella de vino vacía</DankPyon_OnTop_Bottle_Wine.label>
+  <DankPyon_OnTop_Bottle_Wine.description>Una botella de vino vacía, que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Bottle_Wine.description>
+
+  <DankPyon_OnTop_Bottle_MulberryWine.label>botella de vino de mora vacía</DankPyon_OnTop_Bottle_MulberryWine.label>
+  <DankPyon_OnTop_Bottle_MulberryWine.description>Una botella de vino de mora vacía, que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Bottle_MulberryWine.description>
+
+  <DankPyon_OnTop_Bottle_IceWine.label>botella de vino de hielo vacía</DankPyon_OnTop_Bottle_IceWine.label>
+  <DankPyon_OnTop_Bottle_IceWine.description>Una botella de vino de hielo vacía, que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Bottle_IceWine.description>
+
+  <DankPyon_OnTop_Bottle_GriffonWine.label>botella de vino de grifo vacía</DankPyon_OnTop_Bottle_GriffonWine.label>
+  <DankPyon_OnTop_Bottle_GriffonWine.description>Una botella de vino de grifo vacía, que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Bottle_GriffonWine.description>
+
+  <!-- Scribe Tools -->
+
+  <DankPyon_OnTop_Scribe_StackPaper.label>montón de papel</DankPyon_OnTop_Scribe_StackPaper.label>
+  <DankPyon_OnTop_Scribe_StackPaper.description>Un montón de papel desechado, mojado, roto y desordenado. Solo tiene fines decorativos y se puede colocar en una mesa o estante.</DankPyon_OnTop_Scribe_StackPaper.description>
+
+  <DankPyon_OnTop_Scribe_ScrollAndInkwell.label>pergamino y pluma</DankPyon_OnTop_Scribe_ScrollAndInkwell.label>
+  <DankPyon_OnTop_Scribe_ScrollAndInkwell.description>Pergamino roto y una pluma con la punta seca. Solo tiene fines decorativos y se puede colocar en una mesa o estante.</DankPyon_OnTop_Scribe_ScrollAndInkwell.description>
+
+  <DankPyon_OnTop_Scribe_Book.label>libro desechado</DankPyon_OnTop_Scribe_Book.label>
+  <DankPyon_OnTop_Scribe_Book.description>Un libro de desecho, mojado, roto y desordenado. Solo tiene fines decorativos y se puede colocar en una mesa o estante.</DankPyon_OnTop_Scribe_Book.description>
+
+  <!-- Kitchen Tools -->
+
+  <DankPyon_OnTop_Kitchen_Bowl.label>cuenco vacío</DankPyon_OnTop_Kitchen_Bowl.label>
+  <DankPyon_OnTop_Kitchen_Bowl.description>Un cuenco vacío que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Kitchen_Bowl.description>
+
+  <DankPyon_OnTop_Kitchen_Plate.label>plato vacío</DankPyon_OnTop_Kitchen_Plate.label>
+  <DankPyon_OnTop_Kitchen_Plate.description>Un plato vacío que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Kitchen_Plate.description>
+
+  <DankPyon_OnTop_Kitchen_CookingPot.label>olla vacía</DankPyon_OnTop_Kitchen_CookingPot.label>
+  <DankPyon_OnTop_Kitchen_CookingPot.description>Una olla vacía que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Kitchen_CookingPot.description>
+
+  <DankPyon_OnTop_Kitchen_Cup.label>copa vacía</DankPyon_OnTop_Kitchen_Cup.label>
+  <DankPyon_OnTop_Kitchen_Cup.description>Una copa vacía que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Kitchen_Cup.description>
+
+  <DankPyon_OnTop_Kitchen_EmbeddedCleaver.label>cuchillo de cocina</DankPyon_OnTop_Kitchen_EmbeddedCleaver.label>
+  <DankPyon_OnTop_Kitchen_EmbeddedCleaver.description>Un cuchillo de cocina incrustado en la superficie que se puede colocar en una mesa o estante como decoración.</DankPyon_OnTop_Kitchen_EmbeddedCleaver.description>
+
+  <!-- Research and Alchemy Tools -->
+
+  <DankPyon_OnTop_Research_Flasks.label>frascos inertes</DankPyon_OnTop_Research_Flasks.label>
+  <DankPyon_OnTop_Research_Flasks.description>Frascos que contienen sustancias químicas inertes, pueden colocarse en mesas o estantes como decoración.</DankPyon_OnTop_Research_Flasks.description>
+
+  <DankPyon_OnTop_Research_Vials.label>viales inertes</DankPyon_OnTop_Research_Vials.label>
+  <DankPyon_OnTop_Research_Vials.description>Viales que contienen sustancias químicas inertes, pueden colocarse en mesas o estantes como decoración.</DankPyon_OnTop_Research_Vials.description>
+
+  <DankPyon_OnTop_Alchemy_MortarAndPestle.label>mortero y mano dañados</DankPyon_OnTop_Alchemy_MortarAndPestle.label>
+  <DankPyon_OnTop_Alchemy_MortarAndPestle.description>Mortero y mano que no se pueden usar, pueden colocarse en mesas o estantes como decoración.</DankPyon_OnTop_Alchemy_MortarAndPestle.description>
+
+  <!-- Fountain -->
+
+  <DankPyon_Fountain1x1c.label>fuente pequeña</DankPyon_Fountain1x1c.label>
+  <DankPyon_Fountain1x1c.description>Una fuente decorativa pequeña.</DankPyon_Fountain1x1c.description>
+
+  <DankPyon_Fountain2x2c.label>fuente grande</DankPyon_Fountain2x2c.label>
+  <DankPyon_Fountain2x2c.description>Una fuente decorativa grande.</DankPyon_Fountain2x2c.description>
+
+  <DankPyon_BarrelWater.label>barril lleno de agua</DankPyon_BarrelWater.label>
+  <DankPyon_BarrelWater.description>Un barril lleno de agua para limpiarse o limpiar.</DankPyon_BarrelWater.description>
+
+  <!-- Wall Banner -->
+
+  <DankPyon_WallBanner1x2c.label>bandera de pared 1x2</DankPyon_WallBanner1x2c.label>
+  <DankPyon_WallBanner1x2c.description>Una bandera decorativa para la pared. Se puede instalar en la pared.</DankPyon_WallBanner1x2c.description>
+
+  <!-- Thin Divider -->
+
+  <DankPyon_RusticRoomDivider1x2c.label>divisor de habitación 1x2</DankPyon_RusticRoomDivider1x2c.label>
   <DankPyon_RusticRoomDivider1x2c.description>Un divisor de habitación simple que protege la privacidad de tus compañeros de cuarto.</DankPyon_RusticRoomDivider1x2c.description>
-  <DankPyon_Sign_Tavern.label>Cartel "Taberna"</DankPyon_Sign_Tavern.label>
+
+  <!-- Struct Divider -->
+
+  <DankPyon_RusticThickRoomDivider_Open1x2c.label>biombo grueso abierto 1x2</DankPyon_RusticThickRoomDivider_Open1x2c.label>
+  <DankPyon_RusticThickRoomDivider_Open1x2c.description>Un biombo grueso y sencillo parcialmente abierto, que proporciona una mínima privacidad y puede soportar el techo.</DankPyon_RusticThickRoomDivider_Open1x2c.description>
+
+  <DankPyon_RusticThickRoomDivider_Closed1x2c.label>biombo grueso cerrado 1x2</DankPyon_RusticThickRoomDivider_Closed1x2c.label>
+  <DankPyon_RusticThickRoomDivider_Closed1x2c.description>Un biombo grueso y sencillo, que proporciona privacidad y puede soportar el techo.</DankPyon_RusticThickRoomDivider_Closed1x2c.description>
+
+  <!-- Struct Column -->
+
+  <DankPyon_OrnateLamp.label>lámpara ornamentada</DankPyon_OrnateLamp.label>
+  <DankPyon_OrnateLamp.description>Una lámpara decorativa que proporciona iluminación suave y elegante.</DankPyon_OrnateLamp.description>
+
+  <!-- Signs -->
+
+  <DankPyon_Sign_Tavern.label>cartel "Taberna"</DankPyon_Sign_Tavern.label>
   <DankPyon_Sign_Tavern.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Tavern.description>
-  <DankPyon_Sign_Bread.label>Cartel "Panadería"</DankPyon_Sign_Bread.label>
-  <DankPyon_Sign_Butcher.label>Cartel "Carnicería"</DankPyon_Sign_Butcher.label>
-  <DankPyon_Sign_Smith.label>Cartel "Herrería"</DankPyon_Sign_Smith.label>
-  <DankPyon_Sign_Apothecary.label>Cartel "Farmacia"</DankPyon_Sign_Apothecary.label>
-  <DankPyon_Sign_Jewelry.label>Cartel "Joyería"</DankPyon_Sign_Jewelry.label>
-  <DankPyon_Sign_Library.label>Cartel "Biblioteca"</DankPyon_Sign_Library.label>
-  <DankPyon_Sign_Tailor.label>Cartel "Sastrería"</DankPyon_Sign_Tailor.label>
-  <DankPyon_Sign_Woodworking.label>Cartel "Carpintería"</DankPyon_Sign_Woodworking.label>
-  <DankPyon_Sign_Barn.label>Cartel "Granero"</DankPyon_Sign_Barn.label>
-  <DankPyon_Sign_Winery.label>Cartel "Viñedo"</DankPyon_Sign_Winery.label>
-  <DankPyon_Sign_Scribe.label>Cartel "Escribanía"</DankPyon_Sign_Scribe.label>
+
+  <DankPyon_Sign_Bread.label>cartel "Panadería"</DankPyon_Sign_Bread.label>
+  <DankPyon_Sign_Bread.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Bread.description>
+
+  <DankPyon_Sign_Butcher.label>cartel "carnicería"</DankPyon_Sign_Butcher.label>
+  <DankPyon_Sign_Butcher.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Butcher.description>
+
+  <DankPyon_Sign_Smith.label>cartel "Herrería"</DankPyon_Sign_Smith.label>
+  <DankPyon_Sign_Smith.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Smith.description>
+
+  <DankPyon_Sign_Apothecary.label>cartel "Farmacia"</DankPyon_Sign_Apothecary.label>
+  <DankPyon_Sign_Apothecary.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Apothecary.description>
+
+  <DankPyon_Sign_Jewelry.label>cartel "Joyería"</DankPyon_Sign_Jewelry.label>
+  <DankPyon_Sign_Jewelry.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Jewelry.description>
+
+  <DankPyon_Sign_Library.label>cartel "Biblioteca"</DankPyon_Sign_Library.label>
+  <DankPyon_Sign_Library.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Library.description>
+
+  <DankPyon_Sign_Tailor.label>cartel "Sastrería"</DankPyon_Sign_Tailor.label>
+  <DankPyon_Sign_Tailor.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Tailor.description>
+
+  <DankPyon_Sign_Woodworking.label>cartel "Carpintería"</DankPyon_Sign_Woodworking.label>
+  <DankPyon_Sign_Woodworking.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Woodworking.description>
+
+  <DankPyon_Sign_Barn.label>cartel "Granero"</DankPyon_Sign_Barn.label>
+  <DankPyon_Sign_Barn.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Barn.description>
+
+  <DankPyon_Sign_Winery.label>cartel "Viñedo"</DankPyon_Sign_Winery.label>
+  <DankPyon_Sign_Winery.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Winery.description>
+
+  <DankPyon_Sign_Scribe.label>cartel "Escribanía"</DankPyon_Sign_Scribe.label>
+  <DankPyon_Sign_Scribe.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Scribe.description>
+
 </LanguageData>

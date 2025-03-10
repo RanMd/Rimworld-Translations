@@ -1,25 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Bust.label>Busto</DankPyon_Bust.label>
+
+  <DankPyon_SculptureSmall_Ice.label>pequeña escultura de hielo</DankPyon_SculptureSmall_Ice.label>
+  <DankPyon_SculptureSmall_Ice.description>Una escultura proporcional al tamaño de un torso.</DankPyon_SculptureSmall_Ice.description>
+
+  <DankPyon_SculptureLarge_Ice.label>gran escultura de hielo</DankPyon_SculptureLarge_Ice.label>
+  <DankPyon_SculptureLarge_Ice.description>Una escultura proporcional al tamaño de una persona.</DankPyon_SculptureLarge_Ice.description>
+
+  <DankPyon_SculptureGrand_Ice.label>escultura colosal de hielo</DankPyon_SculptureGrand_Ice.label>
+  <DankPyon_SculptureGrand_Ice.description>Una escultura que es tan grande como un carro.</DankPyon_SculptureGrand_Ice.description>
+
+  <!-- Grand Statue Base -->
+
+  <DankPyon_Bust.label>busto</DankPyon_Bust.label>
   <DankPyon_Bust.description>Un trozo de material del tamaño de un torso, moldeado en una forma artística.</DankPyon_Bust.description>
-  <DankPyon_Pedestal.label>Pedestal</DankPyon_Pedestal.label>
+
+  <DankPyon_Pedestal.label>pedestal</DankPyon_Pedestal.label>
   <DankPyon_Pedestal.description>Un soporte que sirve como base para la presentación de sus artículos.</DankPyon_Pedestal.description>
-  <DankPyon_ArmorStatue.label>Estatua de armadura</DankPyon_ArmorStatue.label>
+
+  <DankPyon_ArmorStatue.label>estatua de armadura</DankPyon_ArmorStatue.label>
   <DankPyon_ArmorStatue.description>Una réplica de tamaño natural de un caballero.</DankPyon_ArmorStatue.description>
-  <DankPyon_Ancient_Column.label>Columna antigua</DankPyon_Ancient_Column.label>
+
+  <!-- Large Ancient Statues -->
+
+  <DankPyon_Ancient_Column.label>columna antigua</DankPyon_Ancient_Column.label>
   <DankPyon_Ancient_Column.description>Una columna alta con un diseño artístico.</DankPyon_Ancient_Column.description>
-  <DankPyon_RNGLarge2x2c.label>Gran escultura del dios del dado</DankPyon_RNGLarge2x2c.label>
+
+  <DankPyon_RNGLarge2x2c.label>gran escultura del dios del dado</DankPyon_RNGLarge2x2c.label>
   <DankPyon_RNGLarge2x2c.description>Una de las muchas deidades adoradas en el inframundo. Se sabe que el dios del dado a veces es misericordioso, pero la mayoría de las veces es despiadado.</DankPyon_RNGLarge2x2c.description>
-  <DankPyon_RNG2x2c.label>Gran obelisco-escultura del dios del dado</DankPyon_RNG2x2c.label>
+
+  <DankPyon_RNG2x2c.label>gran obelisco del dios del dado</DankPyon_RNG2x2c.label>
   <DankPyon_RNG2x2c.description>Una de las muchas deidades adoradas en el inframundo. Se sabe que el dios del dado a veces es misericordioso, pero la mayoría de las veces es despiadado.</DankPyon_RNG2x2c.description>
-  <DankPyon_ArchonSculpture2x2c.label>Gran escultura de arconte</DankPyon_ArchonSculpture2x2c.label>
+
+  <DankPyon_ArchonSculpture2x2c.label>gran escultura de arconte</DankPyon_ArchonSculpture2x2c.label>
   <DankPyon_ArchonSculpture2x2c.description>Un avatar de un gobernante que una vez fue prominente.</DankPyon_ArchonSculpture2x2c.description>
-  <DankPyon_ArchonObeliskSculpture2x2c.label>Gran obelisco-escultura de arconte</DankPyon_ArchonObeliskSculpture2x2c.label>
+
+  <DankPyon_ArchonObeliskSculpture2x2c.label>gran obelisco de arconte</DankPyon_ArchonObeliskSculpture2x2c.label>
   <DankPyon_ArchonObeliskSculpture2x2c.description>Un avatar de un gobernante que una vez fue prominente.</DankPyon_ArchonObeliskSculpture2x2c.description>
-  <DankPyon_Obelisk2x2c.label>Gran obelisco</DankPyon_Obelisk2x2c.label>
+
+  <DankPyon_Obelisk2x2c.label>gran obelisco</DankPyon_Obelisk2x2c.label>
   <DankPyon_Obelisk2x2c.description>Un monumento antiguo con inscripciones en un idioma desconocido.</DankPyon_Obelisk2x2c.description>
-  <DankPyon_Brazier2x2c.label>Antiguo brasero obelisco</DankPyon_Brazier2x2c.label>
+
+  <DankPyon_Brazier2x2c.label>antiguo obelisco brasero </DankPyon_Brazier2x2c.label>
   <DankPyon_Brazier2x2c.description>Un monumento antiguo con un brasero encima que arde muy brillante.</DankPyon_Brazier2x2c.description>
-  <DankPyon_Brazier1x1c.label>Antiguo brasero</DankPyon_Brazier1x1c.label>
+
+  <DankPyon_Brazier1x1c.label>antiguo brasero</DankPyon_Brazier1x1c.label>
   <DankPyon_Brazier1x1c.description>Un antiguo brasero que arde muy brillante.</DankPyon_Brazier1x1c.description>
+
 </LanguageData>

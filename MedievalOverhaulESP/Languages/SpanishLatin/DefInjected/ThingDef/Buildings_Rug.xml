@@ -1,31 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_RugPatched1x1c.label>Alfombra remendada (1x1)</DankPyon_RugPatched1x1c.label>
-  <DankPyon_RugPatched1x1c.description>Una alfombra toscamente cosida hecha de parches de cuero individuales.</DankPyon_RugPatched1x1c.description>
-  <DankPyon_RugPatched2x2c.label>Alfombra remendada (2x2)</DankPyon_RugPatched2x2c.label>
-  <DankPyon_RugPatched2x2c.description>Una alfombra toscamente cosida hecha de parches de cuero individuales.</DankPyon_RugPatched2x2c.description>
-  <DankPyon_RugPatched3x3c.label>Alfombra remendada (3x3)</DankPyon_RugPatched3x3c.label>
-  <DankPyon_RugPatched3x3c.description>Una alfombra toscamente cosida hecha de parches de cuero individuales.</DankPyon_RugPatched3x3c.description>
-  <DankPyon_RugHyena2x2c.label>Alfombra de hiena (2x2)</DankPyon_RugHyena2x2c.label>
+
+  <!-- Base -->
+
+  <DankPyon_RugPatched_Leather1x1c.label>alfombra de cuero parcheada (1x1)</DankPyon_RugPatched_Leather1x1c.label>
+  <DankPyon_RugPatched_Leather1x1c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Leather1x1c.description>
+
+  <DankPyon_RugPatched_Leather1x2c.label>alfombra de cuero parcheada (1x2)</DankPyon_RugPatched_Leather1x2c.label>
+  <DankPyon_RugPatched_Leather1x2c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Leather1x2c.description>
+
+  <DankPyon_RugPatched_Leather2x2c.label>alfombra de cuero parcheada (2x2)</DankPyon_RugPatched_Leather2x2c.label>
+  <DankPyon_RugPatched_Leather2x2c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Leather2x2c.description>
+
+  <DankPyon_RugPatched_Leather2x4c.label>alfombra de cuero parcheada (2x4)</DankPyon_RugPatched_Leather2x4c.label>
+  <DankPyon_RugPatched_Leather2x4c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Leather2x4c.description>
+
+  <DankPyon_RugPatched_Leather3x3c.label>alfombra de cuero parcheada (3x3)</DankPyon_RugPatched_Leather3x3c.label>
+  <DankPyon_RugPatched_Leather3x3c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Leather3x3c.description>
+
+  <DankPyon_RugPatched_Cloth1x1c.label>alfombra de tela parcheada (1x1)</DankPyon_RugPatched_Cloth1x1c.label>
+  <DankPyon_RugPatched_Cloth1x1c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Cloth1x1c.description>
+
+  <DankPyon_RugPatched_Cloth1x2c.label>alfombra de tela parcheada (1x2)</DankPyon_RugPatched_Cloth1x2c.label>
+  <DankPyon_RugPatched_Cloth1x2c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Cloth1x2c.description>
+
+  <DankPyon_RugPatched_Cloth2x2c.label>alfombra de tela parcheada (2x2)</DankPyon_RugPatched_Cloth2x2c.label>
+  <DankPyon_RugPatched_Cloth2x2c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Cloth2x2c.description>
+
+  <DankPyon_RugPatched_Cloth2x4c.label>alfombra de tela parcheada (2x4)</DankPyon_RugPatched_Cloth2x4c.label>
+  <DankPyon_RugPatched_Cloth2x4c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Cloth2x4c.description>
+
+  <DankPyon_RugPatched_Cloth3x3c.label>alfombra de tela parcheada (3x3)</DankPyon_RugPatched_Cloth3x3c.label>
+  <DankPyon_RugPatched_Cloth3x3c.description>Una alfombra cosida toscamente, hecha de parches de cuero separados.</DankPyon_RugPatched_Cloth3x3c.description>
+
+  <DankPyon_RugRoyal_Lys2x3c.label>alfombra real de lirios (2x3)</DankPyon_RugRoyal_Lys2x3c.label>
+  <DankPyon_RugRoyal_Lys2x3c.description>Una alfombra de seda elaborada y decorativa, hecha a medida para la nobleza.</DankPyon_RugRoyal_Lys2x3c.description>
+
+  <DankPyon_RugRoyal_LongLys2x4c.label>alfombra real de lirios larga (2x4)</DankPyon_RugRoyal_LongLys2x4c.label>
+  <DankPyon_RugRoyal_LongLys2x4c.description>Una alfombra de seda elaborada y decorativa, hecha a medida para la nobleza.</DankPyon_RugRoyal_LongLys2x4c.description>
+
+  <DankPyon_RugRoyal_LongLys3x3c.label>alfombra real de lirios larga (3x3)</DankPyon_RugRoyal_LongLys3x3c.label>
+  <DankPyon_RugRoyal_LongLys3x3c.description>Una alfombra de seda elaborada y decorativa, hecha a medida para la nobleza.</DankPyon_RugRoyal_LongLys3x3c.description>
+
+  <DankPyon_RugRoyal_GrandCross3x3c.label>alfombra real de cruz grande (4x6)</DankPyon_RugRoyal_GrandCross3x3c.label>
+  <DankPyon_RugRoyal_GrandCross3x3c.description>Una alfombra de seda elaborada y decorativa, hecha a medida para la nobleza.</DankPyon_RugRoyal_GrandCross3x3c.description>
+
+  <DankPyon_RugLoot_Lys_DeepGreen2x3c.label>alfombra verde oscuro de lirios (2x3)</DankPyon_RugLoot_Lys_DeepGreen2x3c.label>
+  <DankPyon_RugLoot_Lys_DeepGreen2x3c.description>Una alfombra de seda elaborada y colorida, hecha a medida para la nobleza.</DankPyon_RugLoot_Lys_DeepGreen2x3c.description>
+
+  <DankPyon_RugLoot_Lys_Lime2x3c.label>alfombra lima de lirios (2x3)</DankPyon_RugLoot_Lys_Lime2x3c.label>
+  <DankPyon_RugLoot_Lys_Lime2x3c.description>Una alfombra de seda elaborada y colorida, hecha a medida para la nobleza.</DankPyon_RugLoot_Lys_Lime2x3c.description>
+
+  <DankPyon_RugLoot_Lys_Blue2x3c.label>alfombra azul de lirios (2x3)</DankPyon_RugLoot_Lys_Blue2x3c.label>
+  <DankPyon_RugLoot_Lys_Blue2x3c.description>Una alfombra de seda elaborada y colorida, hecha a medida para la nobleza.</DankPyon_RugLoot_Lys_Blue2x3c.description>
+
+  <DankPyon_RugLoot_Lys_Red2x3c.label>alfombra roja de lirios (2x3)</DankPyon_RugLoot_Lys_Red2x3c.label>
+  <DankPyon_RugLoot_Lys_Red2x3c.description>Una alfombra de seda elaborada y colorida, hecha a medida para la nobleza.</DankPyon_RugLoot_Lys_Red2x3c.description>
+
+  <DankPyon_RugLoot_Diamond_DeepGreen2x4c.label>alfombra verde oscuro de diamante (2x4)</DankPyon_RugLoot_Diamond_DeepGreen2x4c.label>
+  <DankPyon_RugLoot_Diamond_DeepGreen2x4c.description>Una alfombra de seda con un diseño elaborado, hecha a medida para la nobleza.</DankPyon_RugLoot_Diamond_DeepGreen2x4c.description>
+
+  <DankPyon_RugLoot_Diamond_RedYellow2x4c.label>alfombra rojo-amarillo de diamante (2x4)</DankPyon_RugLoot_Diamond_RedYellow2x4c.label>
+  <DankPyon_RugLoot_Diamond_RedYellow2x4c.description>Una alfombra de seda con un diseño elaborado, hecha a medida para la nobleza.</DankPyon_RugLoot_Diamond_RedYellow2x4c.description>
+
+  <DankPyon_RugLoot_Diamond_LimeRed2x4c.label>alfombra lima-rojo de diamante (2x4)</DankPyon_RugLoot_Diamond_LimeRed2x4c.label>
+  <DankPyon_RugLoot_Diamond_LimeRed2x4c.description>Una alfombra de seda con un diseño elaborado, hecha a medida para la nobleza.</DankPyon_RugLoot_Diamond_LimeRed2x4c.description>
+
+  <DankPyon_RugLoot_Diamond_RGB2x4c.label>alfombra a cuadros (2x4)</DankPyon_RugLoot_Diamond_RGB2x4c.label>
+  <DankPyon_RugLoot_Diamond_RGB2x4c.description>Una alfombra de seda con un diseño elaborado, hecha a medida para la nobleza.</DankPyon_RugLoot_Diamond_RGB2x4c.description>
+
+  <DankPyon_RugLoot_Striped_RGB2x4c.label>alfombra verde oscuro a rayas (2x4)</DankPyon_RugLoot_Striped_RGB2x4c.label>
+  <DankPyon_RugLoot_Striped_RGB2x4c.description>Una alfombra de seda elaborada y colorida, hecha a medida para la nobleza.</DankPyon_RugLoot_Striped_RGB2x4c.description>
+
+  <DankPyon_RugLoot_Striped_BlueLime2x4c.label>alfombra azul-lima a rayas (2x4)</DankPyon_RugLoot_Striped_BlueLime2x4c.label>
+  <DankPyon_RugLoot_Striped_BlueLime2x4c.description>Una alfombra de seda elaborada y colorida, hecha a medida para la nobleza.</DankPyon_RugLoot_Striped_BlueLime2x4c.description>
+
+  <!-- Animal Rugs -->
+
+  <DankPyon_RugHyena2x2c.label>alfombra de hiena (2x2)</DankPyon_RugHyena2x2c.label>
   <DankPyon_RugHyena2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras de hiena son pequeñas, pero los patrones exuberantes, desde rayas hasta puntos, hacen que la pieza sea una hermosa adición a la decoración interior.</DankPyon_RugHyena2x2c.description>
-  <DankPyon_RugWolfTimber2x2c.label>Alfombra de lobo gris (2x2)</DankPyon_RugWolfTimber2x2c.label>
+
+  <DankPyon_RugWolfTimber2x2c.label>alfombra de lobo gris (2x2)</DankPyon_RugWolfTimber2x2c.label>
   <DankPyon_RugWolfTimber2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. La piel grisácea del lobo gris puede ser una alfombra valiosa, pero tiene un alto costo, ya que el cazador probablemente se enfrente a la bestia en una manada.</DankPyon_RugWolfTimber2x2c.description>
-  <DankPyon_RugWolfArctic2x2c.label>Alfombra de lobo ártico (2x2)</DankPyon_RugWolfArctic2x2c.label>
+
+  <DankPyon_RugWolfArctic2x2c.label>alfombra de lobo ártico (2x2)</DankPyon_RugWolfArctic2x2c.label>
   <DankPyon_RugWolfArctic2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras de lobo ártico son una variante del lobo y cuentan la historia de un cazador que desafió temperaturas peligrosas y venció a depredadores hambrientos adaptados biológicamente para sobrevivir.</DankPyon_RugWolfArctic2x2c.description>
-  <DankPyon_RugCougar2x2c.label>Alfombra de puma (2x2)</DankPyon_RugCougar2x2c.label>
+
+  <DankPyon_RugCougar2x2c.label>alfombra de puma (2x2)</DankPyon_RugCougar2x2c.label>
   <DankPyon_RugCougar2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Los pumas son apreciados por su lujosa piel, que a su vez representa una valiosa alternativa a las alfombras simples.</DankPyon_RugCougar2x2c.description>
-  <DankPyon_RugPanther2x2c.label>Alfombra de pantera (2x2)</DankPyon_RugPanther2x2c.label>
+
+  <DankPyon_RugPanther2x2c.label>alfombra de pantera (2x2)</DankPyon_RugPanther2x2c.label>
   <DankPyon_RugPanther2x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras de pantera se mezclan con las sombras nocturnas, pero sus ojos jaspeados brillan en la oscuridad.</DankPyon_RugPanther2x2c.description>
-  <DankPyon_RugGrizzlyBear3x3c.label>Alfombra de oso grizzly (3x3)</DankPyon_RugGrizzlyBear3x3c.label>
+
+  <DankPyon_RugGrizzlyBear3x3c.label>alfombra de oso grizzly (3x3)</DankPyon_RugGrizzlyBear3x3c.label>
   <DankPyon_RugGrizzlyBear3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. La magnífica piel del oso es uno de los materiales más buscados para alfombras de piel de animal, lo que hace que la alfombra de oso grizzly sea una elección digna para el colono valiente que se atreva a cazarlo.</DankPyon_RugGrizzlyBear3x3c.description>
-  <DankPyon_RugPolarBear3x3c.label>Alfombra de oso polar (3x3)</DankPyon_RugPolarBear3x3c.label>
+
+  <DankPyon_RugPolarBear3x3c.label>alfombra de oso polar (3x3)</DankPyon_RugPolarBear3x3c.label>
   <DankPyon_RugPolarBear3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Los osos polares, que habitan en climas helados, tienen una magnífica piel blanca que proporciona alfombras resistentes al frío. Especialmente valiosas para hogares en temperaturas frías.</DankPyon_RugPolarBear3x3c.description>
-  <DankPyon_RugRox3x3c.label>Alfombra de Rox (3x3)</DankPyon_RugRox3x3c.label>
+
+  <DankPyon_RugRox3x3c.label>alfombra de rox (3x3)</DankPyon_RugRox3x3c.label>
   <DankPyon_RugRox3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Los osos polares, que habitan en climas helados, tienen una magnífica piel blanca que proporciona alfombras resistentes al frío. Especialmente valiosas para hogares en temperaturas frías.</DankPyon_RugRox3x3c.description>
-  <DankPyon_RugThrumbo3x3c.label>Alfombra de Thrumbo (3x3)</DankPyon_RugThrumbo3x3c.label>
+
+  <DankPyon_RugThrumbo3x3c.label>alfombra de thrumbo (3x3)</DankPyon_RugThrumbo3x3c.label>
   <DankPyon_RugThrumbo3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Pocos cazadores pueden crear un trofeo con una piel más refinada y resistente que la alfombra de Thrumbo. Su largo pelaje puede atraer la atención de cualquier colono, pero la piel fuerte requiere mucho trabajo para recortarla. Tenga cuidado con el cuerno al caminar.</DankPyon_RugThrumbo3x3c.description>
-  <DankPyon_RugDaer4x4c.label>Alfombra de Daer (4x4)</DankPyon_RugDaer4x4c.label>
+
+  <DankPyon_RugDaer4x4c.label>alfombra de daer (4x4)</DankPyon_RugDaer4x4c.label>
   <DankPyon_RugDaer4x4c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Pocos cazadores pueden crear un trofeo con una piel más refinada y resistente que la alfombra de Thrumbo. Su largo pelaje puede atraer la atención de cualquier colono, pero la piel fuerte requiere mucho trabajo para recortarla. Tenga cuidado con el cuerno al caminar.</DankPyon_RugDaer4x4c.description>
-  <DankPyon_RugHuman1x2c.label>Alfombra humana (1x2)</DankPyon_RugHuman1x2c.label>
+
+  <DankPyon_RugHuman1x2c.label>alfombra de humano (1x2)</DankPyon_RugHuman1x2c.label>
   <DankPyon_RugHuman1x2c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas con fieltro y acolchado para formar alfombras. Las alfombras humanas son trofeos valiosos, admirados por algunos y despreciados por otros, pero los caníbales afines encontrarán consuelo en su decoración.</DankPyon_RugHuman1x2c.description>
+
 </LanguageData>

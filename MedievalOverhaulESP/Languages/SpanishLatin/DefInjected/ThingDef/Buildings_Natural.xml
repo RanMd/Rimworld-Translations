@@ -1,39 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_MineableCoal.label>Mineral de carbón</DankPyon_MineableCoal.label>
+
+  <!-- Coal Ore -->
+
+  <DankPyon_MineableCoal.label>veta de carbón</DankPyon_MineableCoal.label>
   <DankPyon_MineableCoal.description>Piedra que contiene trozos de carbón.</DankPyon_MineableCoal.description>
-  <DankPyon_MineableSalt.label>Mineral de sal</DankPyon_MineableSalt.label>
+
+  <!-- Salt Chunk -->
+
+  <DankPyon_MineableSalt.label>veta de sal</DankPyon_MineableSalt.label>
   <DankPyon_MineableSalt.description>Piedra con trozos de sal.</DankPyon_MineableSalt.description>
-  <DankPyon_MineableGold.label>Mineral de oro</DankPyon_MineableGold.label>
-  <DankPyon_MineableGold.description>Piedra que contiene trozos de oro.</DankPyon_MineableGold.description>
-  <DankPyon_MineableIron.label>Mineral de hierro</DankPyon_MineableIron.label>
-  <DankPyon_MineableIron.description>Piedra que contiene trozos de hierro.</DankPyon_MineableIron.description>
-  <DankPyon_MineableCitrine.label>Depósito de citrino</DankPyon_MineableCitrine.label>
+
+  <!-- Resource rocks -->
+
+  <DankPyon_MineableGold.label>veta de oro</DankPyon_MineableGold.label>
+  <DankPyon_MineableGold.description>Piedra que contiene menas de oro.</DankPyon_MineableGold.description>
+
+  <DankPyon_MineableIron.label>veta de hierro</DankPyon_MineableIron.label>
+  <DankPyon_MineableIron.description>Piedra que contiene menas de hierro.</DankPyon_MineableIron.description>
+
+  <!-- Gemstone -->
+
+  <DankPyon_MineableCitrine.label>veta de citrino</DankPyon_MineableCitrine.label>
   <DankPyon_MineableCitrine.description>Piedra con trozos de citrino.</DankPyon_MineableCitrine.description>
-  <DankPyon_MineableAmber.label>Depósito de ámbar</DankPyon_MineableAmber.label>
+
+  <DankPyon_MineableAmber.label>veta de ámbar</DankPyon_MineableAmber.label>
   <DankPyon_MineableAmber.description>Piedra que contiene trozos de ámbar.</DankPyon_MineableAmber.description>
-  <DankPyon_MineableOnyx.label>Depósito de ónix</DankPyon_MineableOnyx.label>
+
+  <DankPyon_MineableOnyx.label>veta de ónix</DankPyon_MineableOnyx.label>
   <DankPyon_MineableOnyx.description>Piedra con trozos de ónix.</DankPyon_MineableOnyx.description>
-  <DankPyon_MineableEmerald.label>Depósito de esmeralda</DankPyon_MineableEmerald.label>
+
+  <DankPyon_MineableEmerald.label>veta de esmeralda</DankPyon_MineableEmerald.label>
   <DankPyon_MineableEmerald.description>Piedra con trozos de esmeralda.</DankPyon_MineableEmerald.description>
-  <DankPyon_MineableSapphire.label>Depósito de zafiro</DankPyon_MineableSapphire.label>
+
+  <DankPyon_MineableSapphire.label>veta de zafiro</DankPyon_MineableSapphire.label>
   <DankPyon_MineableSapphire.description>Piedra que contiene trozos de zafiro.</DankPyon_MineableSapphire.description>
-  <DankPyon_MineableRuby.label>Depósito de rubí</DankPyon_MineableRuby.label>
+
+  <DankPyon_MineableRuby.label>veta de rubí</DankPyon_MineableRuby.label>
   <DankPyon_MineableRuby.description>Piedra con trozos de rubí.</DankPyon_MineableRuby.description>
-  <DankPyon_TarPit.label>Pozo de alquitrán</DankPyon_TarPit.label>
+
+  <!-- Buildings -->
+
+  <DankPyon_TarPit.label>pozo de alquitrán</DankPyon_TarPit.label>
   <DankPyon_TarPit.description>Una fuente natural de alquitrán. \n\nDesmontar para cosechar recursos.</DankPyon_TarPit.description>
-  <DankPyon_BeeHive.label>Colmena</DankPyon_BeeHive.label>
+
+  <DankPyon_BeeHive.label>colmena</DankPyon_BeeHive.label>
   <DankPyon_BeeHive.description>Una colmena. \n\nDesmontar para obtener una reina de abejas.</DankPyon_BeeHive.description>
-  <DankPyon_HornetNest.label>Nido de avispas</DankPyon_HornetNest.label>
+
+  <DankPyon_HornetNest.label>nido de avispas</DankPyon_HornetNest.label>
   <DankPyon_HornetNest.description>Un nido de insectos gigantes. Cuando se activa, produce más insectos y colmenas con el tiempo, así como valiosa miel de avispas.</DankPyon_HornetNest.description>
-  <DankPyon_GolemRock_Iron_MapGen.label>Formación de hierro inusual</DankPyon_GolemRock_Iron_MapGen.label>
+
+  <!-- Golem Rock Generator -->
+
+  <DankPyon_GolemRock_Iron_MapGen.label>formación de hierro inusual</DankPyon_GolemRock_Iron_MapGen.label>
   <DankPyon_GolemRock_Iron_MapGen.description>Una formación de hierro inusual, se escucha algo moverse dentro.</DankPyon_GolemRock_Iron_MapGen.description>
-  <DankPyon_GolemRock_Silver_MapGen.label>Formación de plata inusual</DankPyon_GolemRock_Silver_MapGen.label>
+  <DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>¡El golem emerge!</DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>
+  <DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>Un enorme gólem de hierro ha surgido del suelo. ¡Correee!</DankPyon_GolemRock_Iron_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>
+
+  <DankPyon_GolemRock_Silver_MapGen.label>formación de plata inusual</DankPyon_GolemRock_Silver_MapGen.label>
   <DankPyon_GolemRock_Silver_MapGen.description>Una formación de plata inusual, se escucha algo moverse dentro.</DankPyon_GolemRock_Silver_MapGen.description>
-  <DankPyon_GolemRock_Iron_Incident.label>Formación de hierro inusual</DankPyon_GolemRock_Iron_Incident.label>
+  <DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>¡El golem emerge!</DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterLabel>
+  <DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>Un enorme gólem de plata ha surgido del suelo. ¡Correee!</DankPyon_GolemRock_Silver_MapGen.comps.Comp_PawnSpawnerOnDestroy.letterDescription>
+
+  <DankPyon_GolemRock_Iron_Incident.label>formación de hierro inusual</DankPyon_GolemRock_Iron_Incident.label>
   <DankPyon_GolemRock_Iron_Incident.description>Una formación de hierro inusual, está tranquilo en el interior.</DankPyon_GolemRock_Iron_Incident.description>
-  <DankPyon_GolemRock_Silver_Incident.label>Formación de plata inusual</DankPyon_GolemRock_Silver_Incident.label>
+
+  <DankPyon_GolemRock_Silver_Incident.label>formación de plata inusual</DankPyon_GolemRock_Silver_Incident.label>
   <DankPyon_GolemRock_Silver_Incident.description>Una formación de plata inusual, está tranquilo en el interior.</DankPyon_GolemRock_Silver_Incident.description>
-  <DankPyon_GolemRock_Gold_Incident.label>Formación de oro inusual</DankPyon_GolemRock_Gold_Incident.label>
+
+  <DankPyon_GolemRock_Gold_Incident.label>formación de oro inusual</DankPyon_GolemRock_Gold_Incident.label>
   <DankPyon_GolemRock_Gold_Incident.description>Una formación de oro inusual, está tranquilo en el interior.</DankPyon_GolemRock_Gold_Incident.description>
+
 </LanguageData>

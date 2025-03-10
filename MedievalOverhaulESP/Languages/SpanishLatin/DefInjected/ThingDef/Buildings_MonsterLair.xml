@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_LargeClutch.label>Gran Nidada</DankPyon_LargeClutch.label>
-  <DankPyon_LargeClutch.description>Una enorme acumulación de huevos que aún no han eclosionado. Muy codiciada y puede venderse por una gran suma.</DankPyon_LargeClutch.description>
+
+  <DankPyon_LargeClutch.label>reserva de huevos</DankPyon_LargeClutch.label>
+  <DankPyon_LargeClutch.description>Una enorme acumulación de huevos que aún no han eclosionado. Muy codiciada y puede venderse por una gran suma, extrahuevordinario.</DankPyon_LargeClutch.description>
+
 </LanguageData>

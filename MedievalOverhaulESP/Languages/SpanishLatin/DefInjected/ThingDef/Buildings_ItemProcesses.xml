@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dummy leather def for icon -->
+
+  <DankPyon_DummyLeather.label>cuero</DankPyon_DummyLeather.label>
+  <DankPyon_DummyLeather.description>Cuero curtido, secado y raspado. Es un excelente material tradicional utilizado para hacer ropa y mochilas.</DankPyon_DummyLeather.description>
+
+</LanguageData>

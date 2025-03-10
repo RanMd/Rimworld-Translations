@@ -1,57 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_RuinedRusticDoor.label>Puerta rústica bloqueada</DankPyon_RuinedRusticDoor.label>
+
+  <!-- Doors and Structures -->
+
+  <DankPyon_RuinedRusticDoor.label>puerta bloqueada</DankPyon_RuinedRusticDoor.label>
   <DankPyon_RuinedRusticDoor.description>Una puerta que ha sido permanentemente cerrada con tablas de madera. Debe ser destruida para pasar.</DankPyon_RuinedRusticDoor.description>
-  <DankPyon_RuinedSlabDoor.label>Puerta de losa destruida</DankPyon_RuinedSlabDoor.label>
+
+  <DankPyon_RuinedSlabDoor.label>puerta de losa destruida</DankPyon_RuinedSlabDoor.label>
   <DankPyon_RuinedSlabDoor.description>Convertida en un montón de piedras. Es imposible pasar. Debe ser destruida para pasar.</DankPyon_RuinedSlabDoor.description>
-  <DankPyon_RuinedGate.label>Portón cerrado</DankPyon_RuinedGate.label>
+
+  <DankPyon_RuinedGate.label>portón cerrado</DankPyon_RuinedGate.label>
   <DankPyon_RuinedGate.description>Un portón de metal cerrado, la única manera de entrar es forzando la puerta.</DankPyon_RuinedGate.description>
-  <DankPyon_RuinedColumn.label>Columna destruida</DankPyon_RuinedColumn.label>
+
+  <DankPyon_RuinedColumn.label>columna destruida</DankPyon_RuinedColumn.label>
   <DankPyon_RuinedColumn.description>Una simple plataforma para sentarse. No es muy cómoda, pero mucho mejor que nada. Se ve frecuentemente en tabernas y posadas. Puede usarse en mesas, estaciones de trabajo y otros lugares.</DankPyon_RuinedColumn.description>
-  <DankPyon_Ruined_AncientColumn.label>Columna antigua</DankPyon_Ruined_AncientColumn.label>
+
+  <DankPyon_Ruined_AncientColumn.label>columna antigua</DankPyon_Ruined_AncientColumn.label>
   <DankPyon_Ruined_AncientColumn.description>Una columna alta con un diseño elaborado.</DankPyon_Ruined_AncientColumn.description>
-  <DankPyon_RuinedStool.label>Taburete redondo arruinado</DankPyon_RuinedStool.label>
+
+  <!-- Wooden Ruins -->
+
+  <DankPyon_RuinedStool.label>taburete redondo arruinado</DankPyon_RuinedStool.label>
   <DankPyon_RuinedStool.description>Una simple plataforma para sentarse. No es muy cómoda, pero mucho mejor que nada. Se ve frecuentemente en tabernas y posadas. Puede usarse en mesas, estaciones de trabajo y otros lugares.</DankPyon_RuinedStool.description>
-  <DankPyon_RuinedBedWicker.label>Cama de mimbre</DankPyon_RuinedBedWicker.label>
-  <DankPyon_RuinedBedWicker.description>Una cama de mimbre simple y rápida de fabricar.</DankPyon_RuinedBedWicker.description>
-  <DankPyon_RuinedBedWickerDouble.label>Cama doble de mimbre arruinada</DankPyon_RuinedBedWickerDouble.label>
-  <DankPyon_RuinedBedWickerDouble.description>Una cama doble de mimbre arruinada, simple y rápida de fabricar.</DankPyon_RuinedBedWickerDouble.description>
-  <DankPyon_WoodenDebris.label>Escombros</DankPyon_WoodenDebris.label>
+
+  <DankPyon_RuinedBedWicker.label>cama de paja arruinada</DankPyon_RuinedBedWicker.label>
+  <DankPyon_RuinedBedWicker.description>Una cama de paja .</DankPyon_RuinedBedWicker.description>
+
+  <DankPyon_RuinedBedWickerDouble.label>cama doble de paja arruinada</DankPyon_RuinedBedWickerDouble.label>
+  <DankPyon_RuinedBedWickerDouble.description>Una cama doble de paja arruinada.</DankPyon_RuinedBedWickerDouble.description>
+
+  <DankPyon_WoodenDebris.label>escombros</DankPyon_WoodenDebris.label>
   <DankPyon_WoodenDebris.description>Un montón de muebles destruidos, aparentemente apilados intencionalmente.</DankPyon_WoodenDebris.description>
-  <DankPyon_RuinedCloset.label>Armario arruinado</DankPyon_RuinedCloset.label>
+
+  <DankPyon_RuinedCloset.label>armario arruinado</DankPyon_RuinedCloset.label>
   <DankPyon_RuinedCloset.description>Un armario arruinado.</DankPyon_RuinedCloset.description>
-  <DankPyon_RuinedBookshelf.label>Estantería arruinada</DankPyon_RuinedBookshelf.label>
+
+  <DankPyon_RuinedBookshelf.label>estantería arruinada</DankPyon_RuinedBookshelf.label>
   <DankPyon_RuinedBookshelf.description>Una estantería destruida.</DankPyon_RuinedBookshelf.description>
-  <DankPyon_EmptyBucket.label>Cubo vacío</DankPyon_EmptyBucket.label>
+
+  <DankPyon_EmptyBucket.label>cubo vacío</DankPyon_EmptyBucket.label>
   <DankPyon_EmptyBucket.description>Un cubo de madera vacío. Podría contener algunos restos.</DankPyon_EmptyBucket.description>
-  <DankPyon_RuinedCrate1x1c.label>Caja destruida</DankPyon_RuinedCrate1x1c.label>
+
+  <DankPyon_RuinedCrate1x1c.label>caja destruida</DankPyon_RuinedCrate1x1c.label>
   <DankPyon_RuinedCrate1x1c.description>Una caja rota. Podría contener algunos restos.</DankPyon_RuinedCrate1x1c.description>
-  <DankPyon_RuinedTable1x2c.label>Mesa arruinada (1x2)</DankPyon_RuinedTable1x2c.label>
-  <DankPyon_RuinedTable2x4c.label>Mesa arruinada (2x4)</DankPyon_RuinedTable2x4c.label>
-  <DankPyon_RuinedRugGrizzlyBear3x3c.label>Alfombra de oso grizzly arruinada (3x3)</DankPyon_RuinedRugGrizzlyBear3x3c.label>
+
+  <DankPyon_RuinedTable1x2c.label>mesa arruinada (1x2)</DankPyon_RuinedTable1x2c.label>
+  <DankPyon_RuinedTable1x2c.description>Una mesa arruinada.</DankPyon_RuinedTable1x2c.description>
+
+  <DankPyon_RuinedTable2x4c.label>mesa arruinada (2x4)</DankPyon_RuinedTable2x4c.label>
+  <DankPyon_RuinedTable2x4c.description>Una mesa arruinada.</DankPyon_RuinedTable2x4c.description>
+
+  <!-- Bones -->
+
+  <DankPyon_RuinedRugGrizzlyBear3x3c.label>alfombra de oso grizzly arruinada (3x3)</DankPyon_RuinedRugGrizzlyBear3x3c.label>
   <DankPyon_RuinedRugGrizzlyBear3x3c.description>Las alfombras de animales son trofeos para cazadores experimentados y están hechas de pieles de animales teñidas y rellenas, cosidas en alfombras con fieltro y acolchado. La magnífica piel del oso es uno de los materiales más buscados para alfombras de piel de animal, lo que hace que la alfombra de oso grizzly sea una elección digna para el colono valiente que se atreve a enfrentarse a la caza.</DankPyon_RuinedRugGrizzlyBear3x3c.description>
-  <DankPyon_RuinedBonePile1x1c.label>Restos</DankPyon_RuinedBonePile1x1c.label>
+
+  <DankPyon_RuinedBonePile1x1c.label>restos</DankPyon_RuinedBonePile1x1c.label>
   <DankPyon_RuinedBonePile1x1c.description>Huesos viejos apilados toscamente en un lugar.</DankPyon_RuinedBonePile1x1c.description>
-  <DankPyon_RuinedBonePile1x2c.label>Muchos restos</DankPyon_RuinedBonePile1x2c.label>
+
+  <DankPyon_RuinedBonePile1x2c.label>pila de restos</DankPyon_RuinedBonePile1x2c.label>
   <DankPyon_RuinedBonePile1x2c.description>Huesos viejos apilados toscamente en un lugar.</DankPyon_RuinedBonePile1x2c.description>
-  <DankPyon_RuinedBonePile2x2c.label>Restos masivos</DankPyon_RuinedBonePile2x2c.label>
-  <DankPyon_RuinedBonePile2x2c.description>Huesos viejos, toscamente depositados en un lugar aleatorio.</DankPyon_RuinedBonePile2x2c.description>
-  <DankPyon_RuinedBust.label>Busto arruinado</DankPyon_RuinedBust.label>
+
+  <DankPyon_RuinedBonePile2x2c.label>pila de restos</DankPyon_RuinedBonePile2x2c.label>
+  <DankPyon_RuinedBonePile2x2c.description>Huesos viejos apilados toscamente en un lugar.</DankPyon_RuinedBonePile2x2c.description>
+
+  <!-- Furniture -->
+
+  <DankPyon_RuinedBust.label>busto arruinado</DankPyon_RuinedBust.label>
   <DankPyon_RuinedBust.description>Un avatar roto de una persona que alguna vez fue prominente.</DankPyon_RuinedBust.description>
-  <DankPyon_RuinedCandles.label>Velas arruinadas</DankPyon_RuinedCandles.label>
+
+  <DankPyon_RuinedCandles.label>velas arruinadas</DankPyon_RuinedCandles.label>
   <DankPyon_RuinedCandles.description>Velas viejas y polvorientas, inservibles.</DankPyon_RuinedCandles.description>
-  <DankPyon_RuinedCandleStand.label>Candelabro arruinado</DankPyon_RuinedCandleStand.label>
+
+  <DankPyon_RuinedCandleStand.label>candelabro arruinado</DankPyon_RuinedCandleStand.label>
   <DankPyon_RuinedCandleStand.description>Un candelabro para evitar que la oscuridad invada tu habitación. Se puede recargar con sebo.</DankPyon_RuinedCandleStand.description>
-  <DankPyon_RuinedStewPot.label>Olla de estofado arruinada</DankPyon_RuinedStewPot.label>
+
+  <DankPyon_RuinedStewPot.label>olla para estofado arruinada</DankPyon_RuinedStewPot.label>
   <DankPyon_RuinedStewPot.description>Una olla vieja y oxidada, llena de los restos de criaturas irreconocibles.</DankPyon_RuinedStewPot.description>
-  <DankPyon_RuinedAnvil.label>Yunque arruinado</DankPyon_RuinedAnvil.label>
+
+  <DankPyon_RuinedAnvil.label>yunque arruinado</DankPyon_RuinedAnvil.label>
   <DankPyon_RuinedAnvil.description>Este yunque está roto y doblado y ha visto días mejores.</DankPyon_RuinedAnvil.description>
-  <DankPyon_RuinedHearth.label>Hogar destruido</DankPyon_RuinedHearth.label>
+
+  <DankPyon_RuinedHearth.label>fogón destruido</DankPyon_RuinedHearth.label>
   <DankPyon_RuinedHearth.description>Un fogón de piedra destruido.</DankPyon_RuinedHearth.description>
-  <DankPyon_RuinedMineShaft.label>Mina destruida</DankPyon_RuinedMineShaft.label>
+
+  <DankPyon_RuinedMineShaft.label>mina destruida</DankPyon_RuinedMineShaft.label>
   <DankPyon_RuinedMineShaft.description>Una mina abandonada sin mantenimiento que llevó al colapso de sus soportes, haciendo que la mina sea completamente inservible.</DankPyon_RuinedMineShaft.description>
-  <DankPyon_StoneDebris.label>Escombros de piedra</DankPyon_StoneDebris.label>
+
+  <DankPyon_StoneDebris.label>escombros de piedra</DankPyon_StoneDebris.label>
   <DankPyon_StoneDebris.description>Un trozo colapsado de ladrillo de piedra que recuerda a antiguas ruinas y mazmorras.\n\n Todavía contiene recursos útiles que puedes obtener al minar.</DankPyon_StoneDebris.description>
-  <DankPyon_StoneDebrisSmall.label>Escombros de piedra (pequeños)</DankPyon_StoneDebrisSmall.label>
+
+  <DankPyon_StoneDebrisSmall.label>escombros de piedra (pequeños)</DankPyon_StoneDebrisSmall.label>
   <DankPyon_StoneDebrisSmall.description>Un trozo colapsado de ladrillo de piedra que recuerda a antiguas ruinas y mazmorras.\n\n Todavía contiene recursos útiles que puedes obtener al minar.</DankPyon_StoneDebrisSmall.description>
+
+  <DankPyon_Cellar.label>celda</DankPyon_Cellar.label>
+
 </LanguageData>

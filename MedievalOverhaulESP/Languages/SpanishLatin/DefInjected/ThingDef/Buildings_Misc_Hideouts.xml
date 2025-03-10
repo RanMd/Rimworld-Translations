@@ -1,84 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_QuestFinder.label>Banco de trabajo del explorador</DankPyon_QuestFinder.label>
+
+  <DankPyon_QuestFinder.label>banco de trabajo del explorador</DankPyon_QuestFinder.label>
   <DankPyon_QuestFinder.description>Con la ayuda del banco de trabajo del explorador, un científico puede buscar lugares ocultos y piedras y minerales extraíbles, pero necesita notas rasgadas. Dependiendo de lo que esté vinculado al banco de trabajo del explorador, se pueden desbloquear diferentes lugares. Para más información, consulte el Tomo del Conocimiento</DankPyon_QuestFinder.description>
+
+  <!-- BookBase -->
+
   <DankPyon_CultBook.label>Tomo del Conocimiento</DankPyon_CultBook.label>
   <DankPyon_CultBook.description>Este libro contiene información valiosa sobre los requisitos para lugares ocultos y su contenido.
-  		
+
 Nivel 0: Grumos extraíbles
 Características:
-*) Las vetas minerales aparecen en el mapa
+- Las vetas minerales aparecen en el mapa
 
 Requisitos:
-*) Ninguno
---------------------------------------
+- Ninguno
+
 Nota: Cada escondite contiene 1 Archivo del Explorador.
 --------------------------------------
 Nivel 1: Pequeño escondite
 Características:
-*) 1 Podio antiguo
-*) 3 notas rasgadas
-*) 2 cofres rústicos
--) 60 % de probabilidad de dejar caer notas rasgadas adicionales
-*) Un libro extraño con un esquema de investigación garantizado:
--) Ballesta
--) Arco largo
--) Cocina avanzada
--) Espadas militares
--) Mazas militares
--) Armas de asta militares
+- 1 Podio antiguo
+- 3 notas rasgadas
+- 2 cofres rústicos
+- 60 % de probabilidad de dejar caer notas rasgadas adicionales
+- Un libro extraño con un esquema de investigación garantizado:
+- Ballesta
+- Arco largo
+- Cocina avanzada
+- Espadas militares
+- Mazas militares
+- Armas de asta militares
 
 Requisitos:
-*) 1 vinculable en total:
--) Este vinculable debe ser un pájaro de transporte motorizado
+- 1 vinculable en total:
+- Este vinculable debe ser un pájaro de transporte motorizado
 --------------------------------------
 Nivel 2: Escondite mediano
 Características:
-*) 1 Orbe antiguo
-*) 2 notas rasgadas
-*) 2 cofres rústicos
--) 60 % de probabilidad de dejar caer billetes rasgados adicionales
-*) 1 cofre real
--) 65 % de probabilidad de dejar caer billetes rasgados adicionales
-*) Un libro extraño con un plan de investigación garantizado:
--) Pólvora
--) Metalurgia
--) Alquitrán
+- 1 Orbe antiguo
+- 2 notas rasgadas
+- 2 cofres rústicos
+- 60 % de probabilidad de dejar caer billetes rasgados adicionales
+- 1 cofre real
+- 65 % de probabilidad de dejar caer billetes rasgados adicionales
+- Un libro extraño con un plan de investigación garantizado:
+- Pólvora
+- Metalurgia
+- Alquitrán
 
 Requisitos:
-*) 5 vinculables en total:
--) 1 debe ser el Podio antiguo
--) El resto puede ser uno de los siguientes:
---) 3 Archivos del Explorador y 1 Pájaro de correos
---) 4 Archivos del Explorador
+- 5 vinculables en total:
+- 1 debe ser el Podio antiguo
+- El resto puede ser uno de los siguientes:
+- 3 Archivos del Explorador y 1 Pájaro de correos
+- 4 Archivos del Explorador
 --------------------------------------
 Nivel 3: Gran escondite
 Características:
-*) 2 billetes rasgados
-*) 2 cofres rústicos
--) 60 % de probabilidad de dejar caer notas rasgadas adicionales
-*) 2 cofres reales
--) 65 % de probabilidad de dejar caer notas rasgadas adicionales
-*) Un libro extraño con un esquema de investigación garantizado:
--) Cocina avanzada
--) Repetidor de ballestas
--) Ballesta pesada
--) Espadas nobles
--) Mazas nobles
--) Armas de asta nobles
--) Arco de guerra
+- 2 billetes rasgados
+- 2 cofres rústicos
+- 60 % de probabilidad de dejar caer notas rasgadas adicionales
+- 2 cofres reales
+- 65 % de probabilidad de dejar caer notas rasgadas adicionales
+- Un libro extraño con un esquema de investigación garantizado:
+- Cocina avanzada
+- Repetidor de ballestas
+- Ballesta pesada
+- Espadas nobles
+- Mazas nobles
+- Armas de asta nobles
+- Arco de guerra
 
 Requisitos:
-*) 9 vinculables en total:
--) 1 debe ser el Orbe antiguo
--) El resto puede ser uno de los siguientes:
---) 6 Archivos del Explorador Y 1 Pájaro de correos Y 1 Podio antiguo
---) 7 Archivos del Explorador Y 1 Pájaro de correos O 1 Podio antiguo
---) 8 Archivos del Explorador</DankPyon_CultBook.description>
+- 9 vinculables en total:
+- 1 debe ser el Orbe antiguo
+- El resto puede ser uno de los siguientes:
+- 6 Archivos del Explorador Y 1 Pájaro de correos Y 1 Podio antiguo
+- 7 Archivos del Explorador Y 1 Pájaro de correos O 1 Podio antiguo
+- 8 Archivos del Explorador</DankPyon_CultBook.description>
+
   <DankPyon_CultPedestal.label>Pedestal antiguo</DankPyon_CultPedestal.label>
   <DankPyon_CultPedestal.description>Este pedestal antiguo está hecho de bloques de granito toscamente tallados y está adornado con marcas y símbolos misteriosos. Parece ser muy antiguo y probablemente ha sido utilizado por el culto de las sombras durante siglos. El pedestal parece haber sido colocado en lugares estratégicos en las ruinas, posiblemente como una marca o guía para los miembros del culto. Es posible que al examinar estos pedestales se puedan descubrir las ubicaciones de sitios de culto más grandes e importantes. El pedestal es pesado y no se puede mover.</DankPyon_CultPedestal.description>
+
   <DankPyon_CultOrb.label>Orbe antiguo</DankPyon_CultOrb.label>
   <DankPyon_CultOrb.description>Este artefacto antiguo es un orbe verde brillante, rodeado por un pedestal de granito de cuatro patas. La superficie del orbe es lisa y reflectante y parece pulsar con una energía de otro mundo. El pedestal está adornado con símbolos y grabados asociados con el culto de las sombras, y parece haber sido fabricado con gran cuidado y habilidad. El propósito y el poder de este misterioso artefacto no se conocen, pero está claro que es de gran importancia para el culto. Aquellos que posean este artefacto deben estar preparados para enfrentarse a la ira del culto de las sombras, que no se detendrá ante nada para protegerlo.</DankPyon_CultOrb.description>
+
   <DankPyon_CultShelf.label>Archivo del Explorador</DankPyon_CultShelf.label>
   <DankPyon_CultShelf.description>El Archivo del Explorador se puede vincular con el banco de trabajo del explorador./nDependiendo del nivel de los escondites que desees encontrar, es posible que deban vincularse hasta 8 elementos con el banco de trabajo./nTambién se puede usar para almacenar hasta 9 notas rasgadas.</DankPyon_CultShelf.description>
+
 </LanguageData>

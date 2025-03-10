@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Loot Books -->
+
+  <DankPyon_BookUnique_OrnateTome.label>tomo ornado</DankPyon_BookUnique_OrnateTome.label>
+  <DankPyon_BookUnique_OrnateTome.description>Esta es una serie de antiguos libros encuadernados con esmero, adornados con cubiertas ornamentadas y bordes dorados. Estos manuscritos detallan la historia del antiguo imperio subterráneo durante su reinado.\n\nSe pueden vender a coleccionistas interesados.</DankPyon_BookUnique_OrnateTome.description>
+
+  <!-- Unique Books -->
+
+  <DankPyon_BookUnique_OnEnglish.label>《Sur y Norte—De Dialectos a Inglés Medio 》</DankPyon_BookUnique_OnEnglish.label>
+  <DankPyon_BookUnique_OnEnglish.description>《Sur y Norte—De Dialectos a Inglés Medio 》\n\n“Un comerciante llamado Sheffield vino del norte de Inglaterra. Entró en una casa y le preguntó a la dueña si podía comprar algunos 'egges (huevos)'. Ella respondió que no hablaba francés, lo que enfureció al comerciante porque él tampoco hablaba francés. Afortunadamente, un espectador intervino y explicó a la dueña que el comerciante quería comprar 'eyren (huevos)', resolviendo así el malentendido.”\n\nEntonces, ¿cuál es la forma estándar de escribir huevo? ¿Debería usarse el 'egges' del norte o el 'eyren' del sur? Debido a la diversidad y el cambio del lenguaje, es difícil satisfacer a todos. Problemas como este tardaron muchos años en resolverse, pero gradualmente formaron lo que más tarde se conoció como 'Inglés Medio (Middle English)'.</DankPyon_BookUnique_OnEnglish.description>
+
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Drying Rack -->
+
+  <DankPyon_RawhideRack.label>estante de secado</DankPyon_RawhideRack.label>
+  <DankPyon_RawhideRack.description>Un estante utilizado para secar pieles crudas y convertirlas en cuero, solo puede producir cuero de poca utilidad.</DankPyon_RawhideRack.description>
+
+  <!-- Tanning Rack -->
+
+  <DankPyon_TanningRack.label>estante de curtido</DankPyon_TanningRack.label>
+  <DankPyon_TanningRack.description>Utilizado para procesar pieles crudas en cuero útil.</DankPyon_TanningRack.description>
+
+  <DankPyon_SilkBed.label>cama de seda</DankPyon_SilkBed.label>
+  <DankPyon_SilkBed.description>Una plataforma de madera diseñada para mantener a los gusanos de seda durante su ciclo de vida del capullo y cosechar la seda después de que hayan tejido completamente el capullo.</DankPyon_SilkBed.description>
+
+  <DankPyon_Smelter.label>fundidor</DankPyon_Smelter.label>
+  <DankPyon_Smelter.description>Un horno de piedra para refinar chatarra y materias primas.</DankPyon_Smelter.description>
+
+  <DankPyon_RusticFermentingBarrel.label>barril de fermentación</DankPyon_RusticFermentingBarrel.label>
+  <DankPyon_RusticFermentingBarrel.description>Un barril para fermentar todo tipo de mezclas frescas en varios tipos de alcohol. Sus propiedades de madera ayudan a crear elementos rústicos en el sabor.</DankPyon_RusticFermentingBarrel.description>
+
+  <!-- Windmill -->
+
+  <DankPyon_WindMill.label>molino de viento</DankPyon_WindMill.label>
+  <DankPyon_WindMill.description>Un molino impulsado por el viento para automatizar la molienda de productos. Requiere un gran espacio libre en la parte delantera y trasera para un flujo de aire óptimo.</DankPyon_WindMill.description>
+
+  <!-- Watermill -->
+
+  <DankPyon_WaterMill.label>molino de agua</DankPyon_WaterMill.label>
+  <DankPyon_WaterMill.description>Un tipo de motor primario que utiliza el flujo de agua para generar energía mecánica, puede usarse para moler granos y cortar troncos automáticamente. La rueda del molino debe colocarse en agua corriente. Si se colocan otros molinos de agua demasiado cerca, las turbulencias que generan interferirán entre sí.</DankPyon_WaterMill.description>
+
+  <!-- Ice Block Maker -->
+
+  <DankPyon_IceBlock_Maker.label>molde para bloques de hielo</DankPyon_IceBlock_Maker.label>
+  <DankPyon_IceBlock_Maker.description>Un molde de madera para congelar agua en hielo durante tiempos fríos.</DankPyon_IceBlock_Maker.description>
+
+</LanguageData>

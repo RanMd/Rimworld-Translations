@@ -1,21 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Turret_Scorpio.label>Escorpión</DankPyon_Turret_Scorpio.label>
+
+  <!-- Scorpio -->
+
+  <DankPyon_Turret_Scorpio.label>escorpión</DankPyon_Turret_Scorpio.label>
   <DankPyon_Turret_Scorpio.description>El Escorpión fue desarrollado en la antigüedad y es un poderoso arma de misiles que puede disparar grandes flechas a largas distancias. El diseño preciso es efectivo tanto en asedios como en defensa e infunde miedo en los enemigos, pero debe recargarse después de cada disparo.</DankPyon_Turret_Scorpio.description>
-  <DankPyon_Bullet_Scorpio.label>Flecha de Escorpión</DankPyon_Bullet_Scorpio.label>
-  <DankPyon_Gun_ScorpioTurret.label>Escorpión</DankPyon_Gun_ScorpioTurret.label>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelGizmoLabel>Perno de escorpión</DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelLabel>Perno de escorpión</DankPyon_Turret_Scorpio.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_Scorpio.comps.CompRefuelable.outOfFuelMessage>necesita pernos de escorpión</DankPyon_Turret_Scorpio.comps.CompRefuelable.outOfFuelMessage>
+
+  <DankPyon_Bullet_Scorpio.label>perno de escorpión</DankPyon_Bullet_Scorpio.label>
+
+  <DankPyon_Gun_ScorpioTurret.label>escorpión</DankPyon_Gun_ScorpioTurret.label>
   <DankPyon_Gun_ScorpioTurret.description>Una antigua máquina de asedio militar en forma de ballesta, montada en una estructura de madera.</DankPyon_Gun_ScorpioTurret.description>
-  <DankPyon_Turret_Ballista.label>Ballesta</DankPyon_Turret_Ballista.label>
-  <DankPyon_Turret_Ballista.description>La ballesta desarrollada en la antigüedad es un arma de misiles poderosa que puede disparar grandes flechas a largas distancias. El diseño preciso es efectivo tanto en asedios como en defensa e infunde miedo en los enemigos, pero debe recargarse después de cada disparo.</DankPyon_Turret_Ballista.description>
-  <DankPyon_Bullet_Ballista.label>Flecha de Ballesta</DankPyon_Bullet_Ballista.label>
-  <DankPyon_Gun_BallistaTurret.label>Ballesta</DankPyon_Gun_BallistaTurret.label>
+  <DankPyon_Gun_ScorpioTurret.verbs.Verb_Shoot.label>disparar escorpión</DankPyon_Gun_ScorpioTurret.verbs.Verb_Shoot.label>
+
+  <!-- Ballista -->
+
+  <DankPyon_Turret_Ballista.label>balista</DankPyon_Turret_Ballista.label>
+  <DankPyon_Turret_Ballista.description>La balista desarrollada en la antigüedad es un arma de misiles poderosa que puede disparar grandes flechas a largas distancias. El diseño preciso es efectivo tanto en asedios como en defensa e infunde miedo en los enemigos, pero debe recargarse después de cada disparo.</DankPyon_Turret_Ballista.description>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>perno de balista</DankPyon_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.fuelLabel>perno de balista</DankPyon_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>necesita pernos de balista</DankPyon_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+
+  <DankPyon_Bullet_Ballista.label>perno de balista</DankPyon_Bullet_Ballista.label>
+
+  <DankPyon_Gun_BallistaTurret.label>balista</DankPyon_Gun_BallistaTurret.label>
   <DankPyon_Gun_BallistaTurret.description>Una antigua máquina de asedio militar en forma de ballesta, montada en una estructura de madera.</DankPyon_Gun_BallistaTurret.description>
-  <DankPyon_Turret_Trebuchet.label>Trabuquete</DankPyon_Turret_Trebuchet.label>
+  <DankPyon_Gun_BallistaTurret.verbs.Verb_Shoot.label>disparar balista</DankPyon_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+
+  <!-- Trebuchet -->
+
+  <DankPyon_Turret_Trebuchet.label>trabuquete</DankPyon_Turret_Trebuchet.label>
   <DankPyon_Turret_Trebuchet.description>El trabuquete utiliza una fuerte torsión para lanzar piedras a gran distancia y con tal fuerza que puede destruir muros. Esto convierte al trabuquete en un arma de asedio aterradora que puede destruir defensas; donde los asaltantes de asedio solían escalar empalizadas bajo el fuego enemigo, ahora pueden crear aberturas antes de que la batalla comience. Si los defensores ven el gran trabuquete en los campos, deben intentar destruirlo rápidamente.</DankPyon_Turret_Trebuchet.description>
-  <DankPyon_Artillery_Trebuchet.label>Trabuquete</DankPyon_Artillery_Trebuchet.label>
+
+  <DankPyon_Artillery_Trebuchet.label>trabuquete</DankPyon_Artillery_Trebuchet.label>
   <DankPyon_Artillery_Trebuchet.description>Lanzador de morteros. Lanza bombas sobre muros. Muy inexacto, pero de largo alcance.</DankPyon_Artillery_Trebuchet.description>
-  <DankPyon_Turret_RepeaterBallista.label>Ballesta Repetidora</DankPyon_Turret_RepeaterBallista.label>
+  <DankPyon_Artillery_Trebuchet.verbs.Verb_Shoot.label>disparar trabuquete</DankPyon_Artillery_Trebuchet.verbs.Verb_Shoot.label>
+
+  <!-- Ballista Repeater -->
+
+  <DankPyon_Turret_RepeaterBallista.label>balista repetidora</DankPyon_Turret_RepeaterBallista.label>
   <DankPyon_Turret_RepeaterBallista.description>La ballesta repetidora desarrollada en la antigüedad es una cumbre de la ingeniería medieval. Es un arma de misiles poderosa que puede disparar varias grandes flechas en rápida sucesión. El diseño preciso es efectivo tanto en asedios como en defensa e infunde miedo en los enemigos, pero debe recargarse después de cada disparo.</DankPyon_Turret_RepeaterBallista.description>
-  <DankPyon_Gun_RepeaterBallistaTurret.label>Torreta de Ballesta Repetidora</DankPyon_Gun_RepeaterBallistaTurret.label>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelGizmoLabel>perno de balista</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelGizmoLabel>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelLabel>perno de balista</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.fuelLabel>
+  <DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.outOfFuelMessage>necesita pernos de escorpión</DankPyon_Turret_RepeaterBallista.comps.CompRefuelable.outOfFuelMessage>
+
+  <DankPyon_Gun_RepeaterBallistaTurret.label>torreta de balista repetidora</DankPyon_Gun_RepeaterBallistaTurret.label>
   <DankPyon_Gun_RepeaterBallistaTurret.description>Una antigua máquina de asedio militar en forma de ballesta, montada en una estructura de madera.</DankPyon_Gun_RepeaterBallistaTurret.description>
+  <DankPyon_Gun_RepeaterBallistaTurret.verbs.Verb_Shoot.label>disparar balista repetidora</DankPyon_Gun_RepeaterBallistaTurret.verbs.Verb_Shoot.label>
+
 </LanguageData>

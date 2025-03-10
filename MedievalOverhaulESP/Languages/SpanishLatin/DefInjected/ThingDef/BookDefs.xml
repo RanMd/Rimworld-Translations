@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_Schematic.label>Esquema Antiguo</DankPyon_Schematic.label>
+  <DankPyon_Schematic.label>esquema antiguo</DankPyon_Schematic.label>
   <DankPyon_Schematic.description>Un libro que describe tecnología y métodos, así como su uso. Leer esquemas puede ayudar a descubrir nuevas tecnologías.</DankPyon_Schematic.description>
+
+  <DankPyon_Tale.label>recopilación de cuentos medievales</DankPyon_Tale.label>
+  <DankPyon_Tale.description>Una colección de cuentos bellamente encuadernados que narran historias de aventuras y mitos. Cada libro lleva al lector a tierras lejanas y épocas pasadas. Estos libros, escritos a mano por escribas y adornados con decoraciones e ilustraciones, son muy apreciados por su contenido rico y la excelente artesanía en su elaboración. No solo entretienen a los lectores, sino que también preservan la historia.</DankPyon_Tale.description>
+
+  <DankPyon_Treatise.label>tomos medievales</DankPyon_Treatise.label>
+  <DankPyon_Treatise.description>Libros de tratados meticulosamente encuadernados que detallan conocimientos y técnicas sobre diversos temas. Cada libro ofrece explicaciones profundas y consejos prácticos, permitiendo a los lectores internalizar rápidamente lo aprendido. Estos tratados, escritos por expertos y generalmente acompañados de ilustraciones detalladas, son recursos valiosos para aprender y mejorar habilidades.</DankPyon_Treatise.description>
 
 </LanguageData>

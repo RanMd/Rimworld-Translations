@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_HatchedClutch.label>Gran nidada de huevos ya eclosionados</DankPyon_HatchedClutch.label>
+
+  <DankPyon_HatchedClutch.label>reserva de huevos ya eclosionados</DankPyon_HatchedClutch.label>
   <DankPyon_HatchedClutch.description>Un enorme huevo que ha eclosionado, lo que sea que estaba dentro, una enorme bestia.</DankPyon_HatchedClutch.description>
-  <DankPyon_HatchedClutchSmall.label>Pequeña nidada de huevos a punto de eclosionar</DankPyon_HatchedClutchSmall.label>
+
+  <DankPyon_HatchedClutchSmall.label>Pequeña reserva de huevos a punto de eclosionar</DankPyon_HatchedClutchSmall.label>
   <DankPyon_HatchedClutchSmall.description>Un grupo de huevos de serpiente que han sobrevivido lo suficiente como para eclosionar.</DankPyon_HatchedClutchSmall.description>
+
 </LanguageData>

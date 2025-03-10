@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DankPyon_Cauldron.label>caldero</DankPyon_Cauldron.label>
+  <DankPyon_Cauldron.description>Un gran caldero de hierro usado para preparar pociones, guisos y otros brebajes.</DankPyon_Cauldron.description>
+
+  <DankPyon_CharcoalPile.label>horno de carbón</DankPyon_CharcoalPile.label>
+  <DankPyon_CharcoalPile.description>Apila madera y cúbrela con tierra, dejándola quemar lentamente para carbonizarla en una sustancia que se puede usar como combustible o en la elaboración de metales.</DankPyon_CharcoalPile.description>
+
+  <!-- Rack -->
+
+  <DankPyon_DryingRack_Small.label>estante de secado (1x2)</DankPyon_DryingRack_Small.label>
+  <DankPyon_DryingRack_Small.description>Un estante de madera utilizado para secar carne y heno al sol, facilitando la conservación y el uso a largo plazo de los artículos.</DankPyon_DryingRack_Small.description>
+
+  <DankPyon_DryingRack_Big.label>estante de secado (2x2)</DankPyon_DryingRack_Big.label>
+  <DankPyon_DryingRack_Big.description>Un estante de madera utilizado para secar carne y heno al sol, facilitando la conservación y el uso a largo plazo de los artículos.</DankPyon_DryingRack_Big.description>
+
+  <!-- Smoker -->
+
+  <DankPyon_Smoker.label>ahumador</DankPyon_Smoker.label>
+  <DankPyon_Smoker.description>El humo generado por la madera apilada en la base del ahumador envuelve la carne, proporcionando calor indirecto y un rico sabor ahumado, además de una capa de protección contra la descomposición, permitiendo que la carne se conserve por más tiempo.</DankPyon_Smoker.description>
+
+  <!-- Presser -->
+
+  <DankPyon_Presser.label>prensa</DankPyon_Presser.label>
+  <DankPyon_Presser.description>Un dispositivo de madera utilizado para prensar artículos seleccionados. Se usa para exprimir frutas en pulpa o extraer el suero de la cuajada.</DankPyon_Presser.description>
+
+  <!-- Kiln -->
+
+  <DankPyon_Kiln.label>horno para arcilla</DankPyon_Kiln.label>
+  <DankPyon_Kiln.description>Un horno de piedra utilizado para cocer arcilla y convertirla en ladrillos de arcilla.</DankPyon_Kiln.description>
+
+  <!-- Paper Press -->
+
+  <DankPyon_Press_Paper.label>prensa de papel</DankPyon_Press_Paper.label>
+  <DankPyon_Press_Paper.description>Un dispositivo de madera utilizado para aplanar pulpa de papel y eliminar el exceso de agua. Los trabajadores del papel primero moldean la pulpa en hojas de papel a mano, luego las colocan en la prensa de papel, donde la fuerza axial generada por un mecanismo de tornillo pesado exprime el exceso de agua, asegurando que cada hoja de papel producida sea lisa y adecuada para escribir o dibujar.</DankPyon_Press_Paper.description>
+
+</LanguageData>

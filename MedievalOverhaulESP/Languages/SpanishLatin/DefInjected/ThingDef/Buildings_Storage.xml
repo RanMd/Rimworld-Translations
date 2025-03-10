@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_Bale1x2c.label>Fardo de heno</DankPyon_Bale1x2c.label>
   <DankPyon_Bale1x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_Bale1x2c.description>
   <DankPyon_StrawBale1x2c.label>Fardo de paja</DankPyon_StrawBale1x2c.label>
@@ -173,4 +174,5 @@
   <DankPyon_Storage_Cart_RawWood.label>Carro de madera en bruto</DankPyon_Storage_Cart_RawWood.label>
   <DankPyon_IceCellar.label>Sótano de hielo</DankPyon_IceCellar.label>
   <DankPyon_IceCellar.description>El sótano se utiliza para el almacenamiento adecuado de bloques de hielo y evita que se derritan.</DankPyon_IceCellar.description>
+
 </LanguageData>

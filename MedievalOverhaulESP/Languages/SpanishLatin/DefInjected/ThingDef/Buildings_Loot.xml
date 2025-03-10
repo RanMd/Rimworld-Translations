@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Building_ChaliceSilver.label>Cáliz de Plata</DankPyon_Building_ChaliceSilver.label>
-  <DankPyon_Building_ChaliceGold.label>Cáliz de Oro</DankPyon_Building_ChaliceGold.label>
-  <DankPyon_Building_BowlSilver.label>Cuenco de Plata</DankPyon_Building_BowlSilver.label>
-  <DankPyon_Building_BowlGold.label>Cuenco de Oro</DankPyon_Building_BowlGold.label>
-  <DankPyon_Building_SkullGold.label>Calavera de Oro</DankPyon_Building_SkullGold.label>
-  <DankPyon_Building_SkullEmerald.label>Calavera de Esmeralda</DankPyon_Building_SkullEmerald.label>
-  <DankPyon_Building_SkullSapphire.label>Calavera de Zafiro</DankPyon_Building_SkullSapphire.label>
-  <DankPyon_Building_SkullRuby.label>Calavera de Rubí</DankPyon_Building_SkullRuby.label>
-  <DankPyon_Building_AncientCodex.label>Códice Antiguo</DankPyon_Building_AncientCodex.label>
+
+  <!-- Chalice -->
+
+  <DankPyon_Building_ChaliceSilver.label>cáliz de plata</DankPyon_Building_ChaliceSilver.label>
+  <DankPyon_Building_ChaliceSilver.description>Una copa comúnmente utilizada para beber, hecha de plata, que ofrece una forma económica de mejorar la estética del salón.</DankPyon_Building_ChaliceSilver.description>
+
+  <DankPyon_Building_ChaliceGold.label>cáliz de oro</DankPyon_Building_ChaliceGold.label>
+  <DankPyon_Building_ChaliceGold.description>Una copa comúnmente utilizada para beber, hecha de oro, que añade un toque de lujo y esplendor.</DankPyon_Building_ChaliceGold.description>
+
+  <!-- Bowls -->
+
+  <DankPyon_Building_BowlSilver.label>cuenco de plata</DankPyon_Building_BowlSilver.label>
+  <DankPyon_Building_BowlSilver.description>Un tipo de cuenco elaborado con plata fina.</DankPyon_Building_BowlSilver.description>
+
+  <DankPyon_Building_BowlGold.label>cuenco de oro</DankPyon_Building_BowlGold.label>
+  <DankPyon_Building_BowlGold.description>Un tipo de cuenco elaborado con oro fino.</DankPyon_Building_BowlGold.description>
+
+  <!-- Skull -->
+
+  <DankPyon_Building_SkullGold.label>calavera de oro</DankPyon_Building_SkullGold.label>
+  <DankPyon_Building_SkullGold.description>Un cráneo dorado encontrado en las profundidades de las ruinas, revelando los ricos tesoros poseídos por los no-muertos.</DankPyon_Building_SkullGold.description>
+
+  <DankPyon_Building_SkullEmerald.label>calavera de esmeralda</DankPyon_Building_SkullEmerald.label>
+  <DankPyon_Building_SkullEmerald.description>Un cráneo hecho de materiales de gemas raras. Aunque es muy valioso, los saqueadores deben tener cuidado, ya que un tesoro tan rico no se deja sin vigilancia.</DankPyon_Building_SkullEmerald.description>
+
+  <DankPyon_Building_SkullSapphire.label>calavera de zafiro</DankPyon_Building_SkullSapphire.label>
+  <DankPyon_Building_SkullSapphire.description>Un cráneo hecho de zafiro, que brilla con una luz azul. Cada arco de la parte superior del cráneo emite un resplandor. Un tesoro como este seguramente puede cambiarse por una gran cantidad de riqueza, o también quedaría bien en el salón.</DankPyon_Building_SkullSapphire.description>
+
+  <DankPyon_Building_SkullRuby.label>calavera de rubí</DankPyon_Building_SkullRuby.label>
+  <DankPyon_Building_SkullRuby.description>El cráneo de rubí es un premio valioso que atrae la atención de nobles, guerreros, exploradores y comerciantes. También es una pieza preciada para los coleccionistas.</DankPyon_Building_SkullRuby.description>
+
+  <!-- Book -->
+
+  <DankPyon_Building_AncientCodex.label>códice antiguo</DankPyon_Building_AncientCodex.label>
+  <DankPyon_Building_AncientCodex.description>Un libro antiguo con adornos dorados y meticulosamente elaborado. Detalla la historia del imperio subterráneo.\n\nSe puede vender a coleccionistas interesados.</DankPyon_Building_AncientCodex.description>
+
 </LanguageData>

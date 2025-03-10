@@ -1,91 +1,205 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_RusticTorchLamp.label>Antorcha rústica</DankPyon_RusticTorchLamp.label>
+  <!-- Actual Furniture -->
+
+  <DankPyon_RusticTorchLamp.label>antorcha rústica</DankPyon_RusticTorchLamp.label>
   <DankPyon_RusticTorchLamp.description>Una antorcha de madera rústica para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_RusticTorchLamp.description>
-  <DankPyon_WallTorch.label>Antorcha de pared</DankPyon_WallTorch.label>
+
+  <DankPyon_WallTorch.label>antorcha de pared</DankPyon_WallTorch.label>
   <DankPyon_WallTorch.description>Una antorcha de pared para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_WallTorch.description>
-  <DankPyon_WallLamp.label>Lámpara de pared</DankPyon_WallLamp.label>
+
+  <DankPyon_WallLamp.label>lámpara de pared</DankPyon_WallLamp.label>
   <DankPyon_WallLamp.description>Una lámpara de pared de metal para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_WallLamp.description>
-  <DankPyon_LampPost.label>Poste de luz</DankPyon_LampPost.label>
+
+  <DankPyon_LampPost.label>poste de luz</DankPyon_LampPost.label>
   <DankPyon_LampPost.description>Un poste de luz para iluminar un área. Las personas necesitan luz para moverse y trabajar a plena velocidad. Puede ser reabastecida automáticamente con madera. Genera una pequeña cantidad de calor.</DankPyon_LampPost.description>
-  <DankPyon_LogTable1x2c.label>Mesa de troncos (1x2)</DankPyon_LogTable1x2c.label>
-  <DankPyon_LogTable1x3c.label>Mesa de troncos (1x3)</DankPyon_LogTable1x3c.label>
-  <DankPyon_LogTable1x4c.label>Mesa de troncos (1x4)</DankPyon_LogTable1x4c.label>
-  <DankPyon_LogTable2x4c.label>Mesa de troncos (2x4)</DankPyon_LogTable2x4c.label>
-  <DankPyon_LogChair.label>Silla de troncos</DankPyon_LogChair.label>
-  <DankPyon_LogChair.description>Una silla cómoda y atractiva. Puede ser utilizada en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogChair.description>
-  <DankPyon_LogBench1x2c.label>Banco de troncos (1x2)</DankPyon_LogBench1x2c.label>
+
+  <!-- Tribal Furniture -->
+
+  <DankPyon_LogTable1x2c.label>mesa de troncos (1x2)</DankPyon_LogTable1x2c.label>
+  <DankPyon_LogTable1x2c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_LogTable1x2c.description>
+
+  <DankPyon_LogTable1x3c.label>mesa de troncos (1x3)</DankPyon_LogTable1x3c.label>
+  <DankPyon_LogTable1x3c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_LogTable1x3c.description>
+
+  <DankPyon_LogTable1x4c.label>mesa de troncos (1x4)</DankPyon_LogTable1x4c.label>
+  <DankPyon_LogTable1x4c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_LogTable1x4c.description>
+
+  <DankPyon_LogTable2x4c.label>mesa de troncos (2x4)</DankPyon_LogTable2x4c.label>
+  <DankPyon_LogTable2x4c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_LogTable2x4c.description>
+
+  <DankPyon_LogChair.label>silla de troncos</DankPyon_LogChair.label>
+  <DankPyon_LogChair.description>Una silla rígida y minimalista. Puede ser utilizada en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogChair.description>
+
+  <DankPyon_LogBench1x2c.label>banco de troncos (1x2)</DankPyon_LogBench1x2c.label>
   <DankPyon_LogBench1x2c.description>Un banco cómodo y atractivo. Puede ser utilizado en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogBench1x2c.description>
-  <DankPyon_LogBench1x3c.label>Banco de troncos (1x3)</DankPyon_LogBench1x3c.label>
+
+  <DankPyon_LogBench1x3c.label>banco de troncos (1x3)</DankPyon_LogBench1x3c.label>
   <DankPyon_LogBench1x3c.description>Un banco cómodo y atractivo. Puede ser utilizado en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogBench1x3c.description>
-  <DankPyon_LogBench1x4c.label>Banco de troncos (1x4)</DankPyon_LogBench1x4c.label>
+
+  <DankPyon_LogBench1x4c.label>banco de troncos (1x4)</DankPyon_LogBench1x4c.label>
   <DankPyon_LogBench1x4c.description>Un banco cómodo y atractivo. Puede ser utilizado en mesas, estaciones de trabajo y otros lugares.</DankPyon_LogBench1x4c.description>
-  <DankPyon_RusticStool.label>Taburete rústico redondo</DankPyon_RusticStool.label>
+
+  <!-- Basic domestic furniture -->
+
+  <DankPyon_RusticStool.label>taburete rústico redondo</DankPyon_RusticStool.label>
   <DankPyon_RusticStool.description>Una plataforma simple para sentarse. No es muy cómoda, pero es mucho mejor que nada. Comúnmente vista en tabernas y posadas. Puede ser utilizada en mesas, estaciones de trabajo y otros lugares.</DankPyon_RusticStool.description>
-  <DankPyon_RusticChair.label>Silla de comedor rústica</DankPyon_RusticChair.label>
+
+  <DankPyon_RusticChair.label>silla de comedor rústica</DankPyon_RusticChair.label>
   <DankPyon_RusticChair.description>Una silla cómoda y atractiva. Puede usarse en mesas, estaciones de trabajo y otros lugares.</DankPyon_RusticChair.description>
-  <DankPyon_RusticNobleChair.label>Silla noble rústica</DankPyon_RusticNobleChair.label>
+
+  <DankPyon_RusticNobleChair.label>silla noble rústica</DankPyon_RusticNobleChair.label>
   <DankPyon_RusticNobleChair.description>Una silla cómoda y atractiva. Puede usarse en mesas, estaciones de trabajo y otros lugares.</DankPyon_RusticNobleChair.description>
-  <DankPyon_RusticEndTable.label>Mesita de noche</DankPyon_RusticEndTable.label>
+
+  <DankPyon_RusticEndTable.label>mesita de noche</DankPyon_RusticEndTable.label>
   <DankPyon_RusticEndTable.description>Una pequeña mesita de noche que hace las camas cercanas un poco más cómodas. Debe colocarse directamente al lado de la cabecera de la cama. Colocar más de una mesita de noche junto a la misma cama no tiene efecto.</DankPyon_RusticEndTable.description>
-  <DankPyon_RusticTallEndTable.label>Mesita de noche alta</DankPyon_RusticTallEndTable.label>
+
+  <DankPyon_RusticTallEndTable.label>mesita de noche alta</DankPyon_RusticTallEndTable.label>
   <DankPyon_RusticTallEndTable.description>Una pequeña mesita de noche que hace las camas cercanas un poco más cómodas. Debe colocarse directamente al lado de la cabecera de la cama. Colocar más de una mesita de noche junto a la misma cama no tiene efecto.</DankPyon_RusticTallEndTable.description>
-  <DankPyon_RusticTable1x1c.label>Mesa rústica (1x1)</DankPyon_RusticTable1x1c.label>
-  <DankPyon_ReinforcedRusticTable1x1c.label>Mesa reforzada (1x1)</DankPyon_ReinforcedRusticTable1x1c.label>
-  <DankPyon_RusticTable1x2c.label>Mesa rústica (1x2)</DankPyon_RusticTable1x2c.label>
-  <DankPyon_ReinforcedRusticTable1x2c.label>Mesa reforzada (1x2)</DankPyon_ReinforcedRusticTable1x2c.label>
-  <DankPyon_RusticTable2x2c.label>Mesa rústica (2x2)</DankPyon_RusticTable2x2c.label>
-  <DankPyon_ReinforcedRusticTable2x2c.label>Mesa reforzada (2x2)</DankPyon_ReinforcedRusticTable2x2c.label>
-  <DankPyon_RusticRoundTable2x2c.label>Mesa redonda rústica (2x2)</DankPyon_RusticRoundTable2x2c.label>
-  <DankPyon_Table2x4c.label>Mesa rústica (2x4)</DankPyon_Table2x4c.label>
-  <DankPyon_RusticCounter1x3c.label>Mostrador (1x1)</DankPyon_RusticCounter1x3c.label>
-  <DankPyon_ReinforcedTable2x4c.label>Mesa reforzada (2x4)</DankPyon_ReinforcedTable2x4c.label>
-  <DankPyon_Candles.label>Velas</DankPyon_Candles.label>
+
+  <DankPyon_RusticTable1x1c.label>mesa rústica (1x1)</DankPyon_RusticTable1x1c.label>
+  <DankPyon_RusticTable1x1c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_RusticTable1x1c.description>
+
+  <DankPyon_ReinforcedRusticTable1x1c.label>mesa reforzada (1x1)</DankPyon_ReinforcedRusticTable1x1c.label>
+  <DankPyon_ReinforcedRusticTable1x1c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_ReinforcedRusticTable1x1c.description>
+
+  <DankPyon_RusticTable1x2c.label>mesa rústica (1x2)</DankPyon_RusticTable1x2c.label>
+  <DankPyon_RoyalTable2x4c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_RoyalTable2x4c.description>
+
+  <DankPyon_ReinforcedRusticTable1x2c.label>mesa reforzada (1x2)</DankPyon_ReinforcedRusticTable1x2c.label>
+  <DankPyon_ReinforcedRusticTable1x2c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_ReinforcedRusticTable1x2c.description>
+
+  <DankPyon_RusticTable1x3c.label>mesa rústica (1x3)</DankPyon_RusticTable1x3c.label>
+  <DankPyon_RusticTable1x3c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_RusticTable1x3c.description>
+
+  <DankPyon_RusticTable2x2c.label>mesa rústica (2x2)</DankPyon_RusticTable2x2c.label>
+  <DankPyon_RusticTable2x2c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_RusticTable2x2c.description>
+
+  <DankPyon_ReinforcedRusticTable2x2c.label>mesa reforzada (2x2)</DankPyon_ReinforcedRusticTable2x2c.label>
+  <DankPyon_ReinforcedRusticTable2x2c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_ReinforcedRusticTable2x2c.description>
+
+  <DankPyon_RusticRoundTable2x2c.label>mesa redonda rústica (2x2)</DankPyon_RusticRoundTable2x2c.label>
+  <DankPyon_RusticRoundTable2x2c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_RusticRoundTable2x2c.description>
+
+  <DankPyon_Table2x4c.label>mesa rústica (2x4)</DankPyon_Table2x4c.label>
+  <DankPyon_Table2x4c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_Table2x4c.description>
+
+  <DankPyon_ReinforcedTable2x4c.label>mesa reforzada (2x4)</DankPyon_ReinforcedTable2x4c.label>
+  <DankPyon_ReinforcedTable2x4c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_ReinforcedTable2x4c.description>
+
+  <DankPyon_RusticCounter1x3c.label>mostrador (1x1)</DankPyon_RusticCounter1x3c.label>
+  <DankPyon_RusticCounter1x3c.description>Las personas comen de las mesas cuando se colocan sillas frente a ellas.</DankPyon_RusticCounter1x3c.description>
+
+  <!-- Lighting -->
+
+  <DankPyon_Candle.label>vela</DankPyon_Candle.label>
+  <DankPyon_Candle.description>Una vela que puede evitar que la oscuridad se infiltre en tu habitación. No es tan brillante como una antorcha normal, pero dura más tiempo. Necesita ser recargada periódicamente con aceite animal como combustible.</DankPyon_Candle.description>
+
+  <DankPyon_Candle_Beeswax.label>vela (cera de abeja)</DankPyon_Candle_Beeswax.label>
+  <DankPyon_Candle_Beeswax.description>Una vela que puede evitar que la oscuridad se infiltre en tu habitación. No es tan brillante como una antorcha normal, pero dura más tiempo. Necesita ser recargada periódicamente con aceite animal como combustible.</DankPyon_Candle_Beeswax.description>
+
+  <DankPyon_Candles.label>velas</DankPyon_Candles.label>
   <DankPyon_Candles.description>Una vela para evitar que la oscuridad invada tu habitación. Puede ser alimentada con sebo animal.</DankPyon_Candles.description>
-  <DankPyon_Candles_Beeswax.label>Velas</DankPyon_Candles_Beeswax.label>
-  <DankPyon_CandleStand.label>Candelabro (sebo)</DankPyon_CandleStand.label>
+
+  <DankPyon_Candles_Beeswax.label>velas</DankPyon_Candles_Beeswax.label>
+  <DankPyon_Candles_Beeswax.description>Varias velas para evitar que la oscuridad se filtre en tu habitación. Requiere recargas regulares de cera de abejas como combustible.</DankPyon_Candles_Beeswax.description>
+
+  <DankPyon_Candelabra.label>candelabro</DankPyon_Candelabra.label>
+  <DankPyon_Candelabra.description>Un pequeño candelabro que puede evitar que la oscuridad invada tu habitación. No es tan brillante como una antorcha normal, pero dura más tiempo encendido. Necesita ser recargado regularmente con aceite animal o cera de abejas como combustible.</DankPyon_Candelabra.description>
+
+  <DankPyon_CandleStand.label>candelabro (sebo)</DankPyon_CandleStand.label>
   <DankPyon_CandleStand.description>Un candelabro para evitar que la oscuridad invada tu habitación. Puede ser alimentado con sebo.</DankPyon_CandleStand.description>
-  <DankPyon_CandleStand_Beeswax.label>Candelabro (cera de abejas)</DankPyon_CandleStand_Beeswax.label>
-  <DankPyon_RusticLamp.label>Lámpara</DankPyon_RusticLamp.label>
-  <DankPyon_RusticLamp.description>Una vela para evitar que la oscuridad invada tu habitación.</DankPyon_RusticLamp.description>
-  <DankPyon_RusticChest.label>Cofre rústico</DankPyon_RusticChest.label>
+
+  <DankPyon_RusticLamp.label>lámpara</DankPyon_RusticLamp.label>
+  <DankPyon_RusticLamp.description>Una lamparita para evitar que la oscuridad invada tu habitación.</DankPyon_RusticLamp.description>
+
+  <!-- Storage (Chest) -->
+
+  <DankPyon_RusticChest.label>cofre rústico</DankPyon_RusticChest.label>
   <DankPyon_RusticChest.description>Un cofre de madera confiable para guardar tus pertenencias personales. Los objetos guardados en él no afectan la belleza de la habitación y no se deterioran al aire libre. Tener varios cofres no acumula bonificaciones de comodidad.</DankPyon_RusticChest.description>
-  <DankPyon_MetalStrongbox.label>Caja fuerte de metal</DankPyon_MetalStrongbox.label>
+
+  <DankPyon_MetalStrongbox.label>caja fuerte de metal</DankPyon_MetalStrongbox.label>
   <DankPyon_MetalStrongbox.description>Una caja fuerte de metal confiable para guardar tus pertenencias personales. Los objetos guardados en ella no afectan la belleza de la habitación y no se deterioran al aire libre. Tener varias cajas fuertes no acumula bonificaciones de comodidad.</DankPyon_MetalStrongbox.description>
-  <DankPyon_RoyalChest.label>Cofre real</DankPyon_RoyalChest.label>
+
+  <DankPyon_RoyalChest.label>cofre real</DankPyon_RoyalChest.label>
   <DankPyon_RoyalChest.description>Un cofre ricamente decorado de los nobles. Los objetos guardados en él no afectan la belleza de la habitación y no se deterioran al aire libre. Tener varios cofres no acumula bonificaciones de comodidad.</DankPyon_RoyalChest.description>
-  <DankPyon_RusticDresser.label>Cómoda</DankPyon_RusticDresser.label>
+
+  <!-- Dressers -->
+
+  <DankPyon_RusticDresser.label>cómoda</DankPyon_RusticDresser.label>
   <DankPyon_RusticDresser.description>Una cómoda. Otorga una pequeña bonificación de comodidad a todas las camas cercanas. Colocar más de una cómoda junto a la misma cama no tiene efecto adicional.</DankPyon_RusticDresser.description>
-  <DankPyon_RusticCloset.label>Armario</DankPyon_RusticCloset.label>
+
+  <!-- Closet -->
+
+  <DankPyon_RusticCloset.label>armario</DankPyon_RusticCloset.label>
   <DankPyon_RusticCloset.description>Un armario diseñado para almacenar ropa de manera eficiente y estética. Colócalo cerca de las camas para proporcionar una ligera mejora en la comodidad.</DankPyon_RusticCloset.description>
-  <DankPyon_RusticCloset1x2c.label>Armario (1x2)</DankPyon_RusticCloset1x2c.label>
+
+  <DankPyon_RusticCloset1x2c.label>armario (1x2)</DankPyon_RusticCloset1x2c.label>
   <DankPyon_RusticCloset1x2c.description>Un armario diseñado para almacenar ropa de manera eficiente y estética. Colócalo cerca de las camas para proporcionar una ligera mejora en la comodidad.</DankPyon_RusticCloset1x2c.description>
-  <DankPyon_RusticBookshelf.label>Pequeña estantería</DankPyon_RusticBookshelf.label>
+
+  <!-- Bookshelf -->
+
+  <DankPyon_RusticBookshelf.label>pequeña estantería</DankPyon_RusticBookshelf.label>
   <DankPyon_RusticBookshelf.description>Aumenta la velocidad de investigación cuando se coloca cerca de una mesa de investigación. Cada mesa de investigación puede beneficiarse de hasta dos pequeñas estanterías.</DankPyon_RusticBookshelf.description>
-  <DankPyon_RusticBookshelf1x2c.label>Gran estantería</DankPyon_RusticBookshelf1x2c.label>
+
+  <DankPyon_RusticBookshelf1x2c.label>gran estantería</DankPyon_RusticBookshelf1x2c.label>
   <DankPyon_RusticBookshelf1x2c.description>Aumenta la velocidad de investigación cuando se coloca cerca de una mesa de investigación. Cada mesa de investigación puede beneficiarse de una gran estantería.</DankPyon_RusticBookshelf1x2c.description>
-  <DankPyon_RusticEmptyShelf.label>Estante vacío</DankPyon_RusticEmptyShelf.label>
+
+  <DankPyon_RusticEmptyShelf.label>estante vacío</DankPyon_RusticEmptyShelf.label>
   <DankPyon_RusticEmptyShelf.description>Un estante vacío.</DankPyon_RusticEmptyShelf.description>
-  <DankPyon_RusticEmptyShelf1x2c.label>Gran estante vacío</DankPyon_RusticEmptyShelf1x2c.label>
-  <DankPyon_RusticEmptyShelf1x2c.description>Un gran estante vacío.</DankPyon_RusticEmptyShelf1x2c.description>
-  <DankPyon_BedLog.label>Cama de troncos</DankPyon_BedLog.label>
+
+  <DankPyon_RusticEmptyShelf1x2c.label>estante vacío grande</DankPyon_RusticEmptyShelf1x2c.label>
+  <DankPyon_RusticEmptyShelf1x2c.description>Un estante vacío grande.</DankPyon_RusticEmptyShelf1x2c.description>
+
+  <!-- Beds -->
+
+  <DankPyon_BedLog.label>cama de troncos</DankPyon_BedLog.label>
   <DankPyon_BedLog.description>Una cama de troncos simple y rápida de fabricar.</DankPyon_BedLog.description>
-  <DankPyon_BedWicker.label>Cama de mimbre</DankPyon_BedWicker.label>
+
+  <DankPyon_BedLogDouble.label>cama de troncos doble</DankPyon_BedLogDouble.label>
+  <DankPyon_BedLogDouble.description>Una cama doble de troncos, simple y rápida de hacer. Mejor que dormir en el suelo.</DankPyon_BedLogDouble.description>
+
+  <DankPyon_BedWicker.label>cama de mimbre</DankPyon_BedWicker.label>
   <DankPyon_BedWicker.description>Una cama de mimbre sencilla y rápida de fabricar.</DankPyon_BedWicker.description>
-  <DankPyon_BedWickerDouble.label>Cama doble de mimbre</DankPyon_BedWickerDouble.label>
-  <DankPyon_BedWickerDouble.description>Una cama doble de mimbre sencilla y rápida de fabricar.</DankPyon_BedWickerDouble.description>
-  <DankPyon_StrawBed.label>Cama de paja</DankPyon_StrawBed.label>
+
+  <DankPyon_BedWickerDouble.label>cama de mimbre doble</DankPyon_BedWickerDouble.label>
+  <DankPyon_BedWickerDouble.description>Una cama doble de mimbre, sencilla y rápida de fabricar.</DankPyon_BedWickerDouble.description>
+
+  <DankPyon_StrawBed.label>cama de paja</DankPyon_StrawBed.label>
   <DankPyon_StrawBed.description>Una cama de mimbre sencilla y rápida de fabricar, acolchada con paja para mayor comodidad.</DankPyon_StrawBed.description>
-  <DankPyon_StrawBedDouble.label>Cama doble de paja</DankPyon_StrawBedDouble.label>
-  <DankPyon_StrawBedDouble.description>Una cama doble de mimbre sencilla y rápida de fabricar, acolchada con paja para mayor comodidad.</DankPyon_StrawBedDouble.description>
-  <DankPyon_BedFur.label>Cama de piel</DankPyon_BedFur.label>
+
+  <DankPyon_StrawBedDouble.label>cama de paja doble</DankPyon_StrawBedDouble.label>
+  <DankPyon_StrawBedDouble.description>Una cama doble de mimbre, sencilla y rápida de fabricar, acolchada con paja para mayor comodidad.</DankPyon_StrawBedDouble.description>
+
+  <DankPyon_BedFur.label>cama de piel</DankPyon_BedFur.label>
   <DankPyon_BedFur.description>Una cama acogedora hecha con suaves y cómodas pieles.</DankPyon_BedFur.description>
-  <DankPyon_BedFurDouble.label>Cama doble de piel</DankPyon_BedFurDouble.label>
+
+  <DankPyon_BedFurDouble.label>cama de piel doble</DankPyon_BedFurDouble.label>
   <DankPyon_BedFurDouble.description>Una cama doble acogedora, hecha con suaves y cómodas pieles.</DankPyon_BedFurDouble.description>
-  <DankPyon_WoodBurningStove.label>Estufa de leña</DankPyon_WoodBurningStove.label>
+
+  <DankPyon_Bed_Rustic_Red.label>cama rústica (roja)</DankPyon_Bed_Rustic_Red.label>
+  <DankPyon_Bed_Rustic_Red.description>Una cama rústica y cómoda, con edredón bordado de seda y almohadas suaves.</DankPyon_Bed_Rustic_Red.description>
+
+  <DankPyon_Bed_Rustic_Green.label>cama rústica (verde)</DankPyon_Bed_Rustic_Green.label>
+  <DankPyon_Bed_Rustic_Green.description>Una cama rústica y cómoda, con edredón bordado de seda y almohadas suaves.</DankPyon_Bed_Rustic_Green.description>
+
+  <DankPyon_Bed_Rustic_Blue.label>cama rústica (azul)</DankPyon_Bed_Rustic_Blue.label>
+  <DankPyon_Bed_Rustic_Blue.description>Una cama rústica y cómoda, con edredón bordado de seda y almohadas suaves.</DankPyon_Bed_Rustic_Blue.description>
+
+  <DankPyon_Bed_RusticDouble_Red.label>cama doble rústica (roja)</DankPyon_Bed_RusticDouble_Red.label>
+  <DankPyon_Bed_RusticDouble_Red.description>Una cama doble rústica y cómoda, con edredón bordado de seda y almohadas suaves.</DankPyon_Bed_RusticDouble_Red.description>
+
+  <DankPyon_Bed_RusticDouble_Green.label>cama doble rústica (verde)</DankPyon_Bed_RusticDouble_Green.label>
+  <DankPyon_Bed_RusticDouble_Green.description>Una cama doble rústica y cómoda, con edredón bordado de seda y almohadas suaves.</DankPyon_Bed_RusticDouble_Green.description>
+
+  <DankPyon_Bed_RusticDouble_Blue.label>cama doble rústica (azul)</DankPyon_Bed_RusticDouble_Blue.label>
+  <DankPyon_Bed_RusticDouble_Blue.description>Una cama doble rústica y cómoda, con edredón bordado de seda y almohadas suaves.</DankPyon_Bed_RusticDouble_Blue.description>
+
+  <DankPyon_WoodBurningStove.label>estufa de leña</DankPyon_WoodBurningStove.label>
   <DankPyon_WoodBurningStove.description>Una pequeña estufa de leña para calentar una habitación pequeña.</DankPyon_WoodBurningStove.description>
-  <DankPyon_RusticHearth.label>Hogar rústico</DankPyon_RusticHearth.label>
+
+  <DankPyon_RusticHearth.label>hogar rústico</DankPyon_RusticHearth.label>
   <DankPyon_RusticHearth.description>Un hogar de piedra que proporciona calor y un ambiente acogedor.</DankPyon_RusticHearth.description>
 
 </LanguageData>
