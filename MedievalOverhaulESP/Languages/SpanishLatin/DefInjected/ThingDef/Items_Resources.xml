@@ -23,10 +23,10 @@
   <DankPyon_DarkWood.tools.0.label>tablón oscuro</DankPyon_DarkWood.tools.0.label>
   <DankPyon_DarkWood.stuffProps.stuffAdjective>tablón oscuro</DankPyon_DarkWood.stuffProps.stuffAdjective>
 
-  <DankPyon_Wood.label>tablones</DankPyon_Wood.label>
-  <DankPyon_Wood.description>Una madera dura procesada, cortada en tamaños más manejables, lo que facilita su uso en la construcción.</DankPyon_Wood.description>
-  <DankPyon_Wood.tools.0.label>tablón</DankPyon_Wood.tools.0.label>
-  <DankPyon_Wood.stuffProps.stuffAdjective>tablón</DankPyon_Wood.stuffProps.stuffAdjective>
+  <!-- Cambio el nombre para que coincida con lo demás -->
+
+  <WoodLog.label>tablones</WoodLog.label>
+  <WoodLog.stuffProps.stuffAdjective>tablón</WoodLog.stuffProps.stuffAdjective>
 
   <DankPyon_Coal.label>trozo de carbón</DankPyon_Coal.label>
   <DankPyon_Coal.description>El carbón es un trozo de roca negra y combustible, compuesto principalmente de carbono. Una buena fuente de combustible para hornos y estufas.</DankPyon_Coal.description>
