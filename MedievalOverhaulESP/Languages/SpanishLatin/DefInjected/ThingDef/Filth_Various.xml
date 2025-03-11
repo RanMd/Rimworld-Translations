@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Filth_Tar.label>Charco de alquitrán</DankPyon_Filth_Tar.label>
+
+  <DankPyon_Filth_Tar.label>charco de alquitrán</DankPyon_Filth_Tar.label>
   <DankPyon_Filth_Tar.description>Un charco de alquitrán inflamable.</DankPyon_Filth_Tar.description>
-  <DankPyon_Filth_AcidBlood.label>Sangre ácida dispersa</DankPyon_Filth_AcidBlood.label>
+
+  <DankPyon_Filth_AcidBlood.label>charco de sangre ácida</DankPyon_Filth_AcidBlood.label>
+
 </LanguageData>

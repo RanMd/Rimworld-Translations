@@ -1,27 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_ComponentBasic.label>Componente Básico</DankPyon_ComponentBasic.label>
+
+  <!-- Component Medieval -->
+
+  <DankPyon_ComponentBasic.label>componente básico</DankPyon_ComponentBasic.label>
   <DankPyon_ComponentBasic.description>Varios engranajes, ruedas, clavos. Necesario para ensamblar dispositivos complejos.</DankPyon_ComponentBasic.description>
-  <DankPyon_RepairTools.label>Herramientas de Reparación</DankPyon_RepairTools.label>
+
+  <!-- Repair Tools -->
+
+  <DankPyon_RepairTools.label>herramientas de reparación</DankPyon_RepairTools.label>
   <DankPyon_RepairTools.description>Varios artículos pequeños para reparar dispositivos.</DankPyon_RepairTools.description>
-  <DankPyon_Paper.label>Papel</DankPyon_Paper.label>
+
+  <!-- Papers please -->
+
+  <DankPyon_Paper.label>papel</DankPyon_Paper.label>
   <DankPyon_Paper.description>Una hoja de papel en blanco. Útil para garabatear o escribir notas.</DankPyon_Paper.description>
-  <DankPyon_TanningLiquor.label>Licor de Curtido</DankPyon_TanningLiquor.label>
+
+  <!-- Tannin Liquor -->
+
+  <DankPyon_TanningLiquor.label>licor de curtido</DankPyon_TanningLiquor.label>
   <DankPyon_TanningLiquor.description>En este líquido se han concentrado taninos obtenidos de varias fuentes naturales. Se utiliza para convertir pieles crudas en cuero curtido.</DankPyon_TanningLiquor.description>
-  <DankPyon_Tar.label>Alquitrán</DankPyon_Tar.label>
+
+  <DankPyon_Mixture_Paper.label>pulpa de papel</DankPyon_Mixture_Paper.label>
+  <DankPyon_Mixture_Paper.description>La pulpa de papel es la materia prima básica para hacer papel. Es una mezcla uniforme y viscosa obtenida al triturar y remojar materiales fibrosos en agua. La pulpa de papel se extiende, se prensa y se seca para producir papel resistente.</DankPyon_Mixture_Paper.description>
+
+  <!-- Tar -->
+
+  <DankPyon_Tar.label>alquitrán</DankPyon_Tar.label>
   <DankPyon_Tar.description>Un líquido negro y viscoso que se utiliza como adhesivo o fuente de material combustible para guerras de asedio.</DankPyon_Tar.description>
-  <DankPyon_Gunpowder.label>Pólvora</DankPyon_Gunpowder.label>
+
+  <!-- Gunpowder -->
+
+  <DankPyon_Gunpowder.label>pólvora</DankPyon_Gunpowder.label>
   <DankPyon_Gunpowder.description>Una sustancia negra y pulverulenta que es altamente explosiva y se utiliza típicamente en armas de fuego.</DankPyon_Gunpowder.description>
-  <DankPyon_ScorpioBolt.label>Perno de Escorpión</DankPyon_ScorpioBolt.label>
+
+  <!-- Scorpio Bolts -->
+
+  <DankPyon_ScorpioBolt.label>perno de escorpión</DankPyon_ScorpioBolt.label>
   <DankPyon_ScorpioBolt.description>Un perno pesado utilizado por escorpiones.</DankPyon_ScorpioBolt.description>
-  <DankPyon_BallistaBolt.label>Perno de Ballesta</DankPyon_BallistaBolt.label>
+
+  <!-- Ballista Bolts -->
+
+  <DankPyon_BallistaBolt.label>perno de ballesta</DankPyon_BallistaBolt.label>
   <DankPyon_BallistaBolt.description>Carne seca para conservación y prolongación de la vida útil.</DankPyon_BallistaBolt.description>
-  <DankPyon_StoneBoulder.label>Roca</DankPyon_StoneBoulder.label>
+
+  <!-- Stone Boulder -->
+
+  <DankPyon_StoneBoulder.label>pedrusco</DankPyon_StoneBoulder.label>
   <DankPyon_StoneBoulder.description>Un gran pedrusco, robusto y redondo.</DankPyon_StoneBoulder.description>
-  <DankPyon_Artillery_Boulder.label>Roca</DankPyon_Artillery_Boulder.label>
-  <DankPyon_StoneBoulderTarred.label>Roca Alquitranada</DankPyon_StoneBoulderTarred.label>
+
+  <DankPyon_Artillery_Boulder.label>pedrusco</DankPyon_Artillery_Boulder.label>
+
+  <!-- Stone Boulder covered with Tar -->
+
+  <DankPyon_StoneBoulderTarred.label>pedrusco alquitranada</DankPyon_StoneBoulderTarred.label>
   <DankPyon_StoneBoulderTarred.description>Un gran pedrusco, robusto y redondo. \n\nCubierto de alquitrán que puede encenderse cuando esté listo para ser lanzado.</DankPyon_StoneBoulderTarred.description>
-  <DankPyon_Artillery_BoulderTarred.label>Pedrusco Alquitranado</DankPyon_Artillery_BoulderTarred.label>
-  <DankPyon_HerbalExtract.label>Extracto de Hierbas</DankPyon_HerbalExtract.label>
+
+  <DankPyon_Artillery_BoulderTarred.label>pedrusco alquitranado</DankPyon_Artillery_BoulderTarred.label>
+
+  <!-- Alchemy -->
+
+  <DankPyon_HerbalExtract.label>extracto de hierbas</DankPyon_HerbalExtract.label>
   <DankPyon_HerbalExtract.description>Una mezcla concentrada de esencias de hierbas obtenidas al moler varias hierbas crudas. Es menos eficaz que los productos farmacéuticos industriales, pero mucho mejor que nada.</DankPyon_HerbalExtract.description>
+
 </LanguageData>

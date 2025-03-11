@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Rox horn -->
+
   <DankPyon_RoxHorn.label>Cuerno de Rox</DankPyon_RoxHorn.label>
   <DankPyon_RoxHorn.description>Un cuerno de Rox. Es pesado, duradero y valioso. Es demasiado voluminoso para ser usado como arma.</DankPyon_RoxHorn.description>
-  <!--=============== Daer Antler ====================-->
+  <DankPyon_RoxHorn.tools.0.label>Cuerno</DankPyon_RoxHorn.tools.0.label>
+  <DankPyon_RoxHorn.tools.1.label>Raíz</DankPyon_RoxHorn.tools.1.label>
+
+  <!-- Daer Antler -->
+
   <DankPyon_DaerAntler.label>Astas de Daer</DankPyon_DaerAntler.label>
   <DankPyon_DaerAntler.description>Las astas de un Daer. Son pesadas, duras como una roca e invaluables en la mayoría de los mercados. Este es un verdadero trofeo que infunde asombro a cualquiera que lo mire.</DankPyon_DaerAntler.description>
-  <!--=============== Dire Boar Tusk ====================-->
+  <DankPyon_RoxHorn.tools.0.label>Cuerno</DankPyon_RoxHorn.tools.0.label>
+  <DankPyon_RoxHorn.tools.1.label>Raíz</DankPyon_RoxHorn.tools.1.label>
+
+  <!-- Dire Boar Tusk -->
+
   <DankPyon_DireBoarTusk.label>Colmillo de Jabalí Terrible</DankPyon_DireBoarTusk.label>
   <DankPyon_DireBoarTusk.description>El colmillo de un jabalí terrible. Es muy duradero y valioso. Aunque es algo incómodo como arma cuerpo a cuerpo, puede ser mortal.</DankPyon_DireBoarTusk.description>
+  <DankPyon_DireBoarTusk.tools.0.label>Cuerno</DankPyon_DireBoarTusk.tools.0.label>
+  <DankPyon_DireBoarTusk.tools.1.label>Raíz</DankPyon_DireBoarTusk.tools.1.label>
+
 </LanguageData>

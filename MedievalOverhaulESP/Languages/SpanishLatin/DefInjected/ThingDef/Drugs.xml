@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_BattleElixir.label>Elixir de Batalla</DankPyon_BattleElixir.label>
+
+  <DankPyon_BattleElixir.label>elixir de batalla</DankPyon_BattleElixir.label>
   <DankPyon_BattleElixir.description>Un potente elixir que fortalece el cuerpo y la mente, otorgando una ventaja en combate. Su uso excesivo puede causar efectos secundarios impredecibles.</DankPyon_BattleElixir.description>
-  <DankPyon_HappyPowder.label>Polvo de la Felicidad</DankPyon_HappyPowder.label>
+  <DankPyon_BattleElixir.ingestible.ingestCommandString>Tomar {0}</DankPyon_BattleElixir.ingestible.ingestCommandString>
+  <DankPyon_BattleElixir.ingestible.ingestReportString>Tomando {0}.</DankPyon_BattleElixir.ingestible.ingestReportString>
+
+  <DankPyon_HappyPowder.label>júbilo</DankPyon_HappyPowder.label>
   <DankPyon_HappyPowder.description>Un polvo místico que induce una sensación de alegría y bienestar. Su uso excesivo puede generar dependencia.</DankPyon_HappyPowder.description>
-  <DankPyon_HornetHoney.label>Miel de Avispa</DankPyon_HornetHoney.label>
+  <DankPyon_HappyPowder.ingestible.ingestCommandString>Ingerir {0}</DankPyon_HappyPowder.ingestible.ingestCommandString>
+  <DankPyon_HappyPowder.ingestible.ingestReportString>Ingiriendo {0}.</DankPyon_HappyPowder.ingestible.ingestReportString>
+
+  <DankPyon_HornetHoney.label>miel de avispa</DankPyon_HornetHoney.label>
   <DankPyon_HornetHoney.description>Un líquido peligrosamente dulce secretado por las avispas negras. Su consumo adormece la sensación de dolor, agudiza los reflejos y mejora las habilidades de combate cuerpo a cuerpo y a distancia.</DankPyon_HornetHoney.description>
-  <DankPyon_Luhix.label>Luhix</DankPyon_Luhix.label>
+  <DankPyon_HornetHoney.ingestible.ingestCommandString>Ingerir {0}</DankPyon_HornetHoney.ingestible.ingestCommandString>
+  <DankPyon_HornetHoney.ingestible.ingestReportString>Ingiriendo {0}.</DankPyon_HornetHoney.ingestible.ingestReportString>
+
+  <DankPyon_KnowledgePotion.label>poción del conocimiento</DankPyon_KnowledgePotion.label>
+  <DankPyon_KnowledgePotion.description>Esta poción mágica fusiona varios elementos extraídos de monstruos, bosques y pesadillas. Al consumirla, puede invocar conocimiento desde las profundidades de la conciencia, e incluso desde el vacío. Aumenta una habilidad aleatoria del consumidor en 1 nivel.</DankPyon_KnowledgePotion.description>
+  <DankPyon_KnowledgePotion.comps.CompUsable.useLabel>Usar {0}</DankPyon_KnowledgePotion.comps.CompUsable.useLabel>
+
+  <DankPyon_Luhix.label>luhix</DankPyon_Luhix.label>
   <DankPyon_Luhix.description>Una sustancia exótica de origen desconocido. Se dice que otorga visiones y una fuerza sobrehumana por un corto tiempo, pero a un alto precio.</DankPyon_Luhix.description>
-  <DankPyon_Miracle.label>Milagro del Boticario</DankPyon_Miracle.label>
+  <DankPyon_Luhix.ingestible.ingestCommandString>Ingerir {0}</DankPyon_Luhix.ingestible.ingestCommandString>
+  <DankPyon_Luhix.ingestible.ingestReportString>Ingiriendo{0}.</DankPyon_Luhix.ingestible.ingestReportString>
+
+  <DankPyon_Miracle.label>miracle</DankPyon_Miracle.label>
   <DankPyon_Miracle.description>Una poción rara con propiedades curativas excepcionales. Se rumorea que puede sanar heridas graves y restaurar la vitalidad perdida.</DankPyon_Miracle.description>
-  <DankPyon_Paregoric.label>Paregórico</DankPyon_Paregoric.label>
+  <DankPyon_Miracle.ingestible.ingestCommandString>Ingerir {0}</DankPyon_Miracle.ingestible.ingestCommandString>
+  <DankPyon_Miracle.ingestible.ingestReportString>Ingiriendo {0}.</DankPyon_Miracle.ingestible.ingestReportString>
+
+  <DankPyon_Paregoric.label>paregórico</DankPyon_Paregoric.label>
   <DankPyon_Paregoric.description>Un potente analgésico utilizado para aliviar el dolor extremo. Su abuso puede causar letargo y dependencia.</DankPyon_Paregoric.description>
-  <DankPyon_Stardust.label>Polvo Estelar</DankPyon_Stardust.label>
+  <DankPyon_Paregoric.ingestible.ingestCommandString>Ingerir {0}</DankPyon_Paregoric.ingestible.ingestCommandString>
+  <DankPyon_Paregoric.ingestible.ingestReportString>Ingiriendo {0}.</DankPyon_Paregoric.ingestible.ingestReportString>
+
+  <DankPyon_Stardust.label>stardust</DankPyon_Stardust.label>
   <DankPyon_Stardust.description>Un polvo brillante con propiedades desconocidas. Algunos creen que otorga sueños lúcidos, mientras que otros lo ven como un portal a dimensiones olvidadas.</DankPyon_Stardust.description>
-  <DankPyon_VigorPill.label>Píldora de Vigor</DankPyon_VigorPill.label>
+  <DankPyon_Stardust.ingestible.ingestCommandString>Inhalar {0}</DankPyon_Stardust.ingestible.ingestCommandString>
+  <DankPyon_Stardust.ingestible.ingestReportString>Inhalando {0}.</DankPyon_Stardust.ingestible.ingestReportString>
+
+  <DankPyon_VigorPill.label>resurgir</DankPyon_VigorPill.label>
   <DankPyon_VigorPill.description>La píldora de vigor suprime la necesidad de descanso, permitiendo trabajar sin fatiga durante largos períodos. Sin embargo, su consumo prolongado conlleva un alto riesgo de adicción.\n\nEn las universidades más exigentes y en las sociedades competitivas de muchos reinos, aquellos con un rendimiento excepcional suelen ser apodados "hombres de vigor" debido a su asociación con esta sustancia.</DankPyon_VigorPill.description>
+  <DankPyon_VigorPill.ingestible.ingestCommandString>Tomar {0}</DankPyon_VigorPill.ingestible.ingestCommandString>
+  <DankPyon_VigorPill.ingestible.ingestReportString>Tomando {0}.</DankPyon_VigorPill.ingestible.ingestReportString>
+
 </LanguageData>

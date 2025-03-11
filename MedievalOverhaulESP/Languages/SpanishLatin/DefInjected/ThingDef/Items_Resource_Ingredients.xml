@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Fat.label>Grasa</DankPyon_Fat.label>
+
+  <!-- Fat -->
+
+  <DankPyon_Fat.label>grasa</DankPyon_Fat.label>
   <DankPyon_Fat.description>La grasa es una sustancia abundante y sirve para varios propósitos. La grasa añadida a los alimentos mejora las comidas y llena el estómago de un colono por más tiempo, pero demasiado aumenta la probabilidad de que el colono se enferme. En la supervivencia, la grasa puede ser añadida a las llamas, ya sea en una antorcha o una fogata, para mantener el calor por más tiempo. Finalmente, la grasa derretida puede ser moldeada en velas, jabones, esculturas y más.</DankPyon_Fat.description>
-  <DankPyon_Tallow.label>Sebo</DankPyon_Tallow.label>
+
+  <DankPyon_Tallow.label>sebo</DankPyon_Tallow.label>
   <DankPyon_Tallow.description>El sebo es una forma de grasa derretida que es sólida a temperatura ambiente y por lo tanto puede ser almacenada por un período más largo. Puede ser procesada en velas.</DankPyon_Tallow.description>
-  <DankPyon_Flour.label>Harina</DankPyon_Flour.label>
+
+  <DankPyon_Flour.label>harina</DankPyon_Flour.label>
   <DankPyon_Flour.description>La harina se utiliza para preparar muchas comidas diferentes y es muy duradera, pero no se puede comer cruda. Debido a su naturaleza, se puede almacenar de manera muy eficiente.</DankPyon_Flour.description>
-  <DankPyon_Straw.label>Paja</DankPyon_Straw.label>
+
+  <DankPyon_Straw.label>paja</DankPyon_Straw.label>
   <DankPyon_Straw.description>Tallos de cereales secos que se utilizan principalmente como alimento para animales, cosechados y compactados para su almacenamiento. La paja es un buen alimento para animales, pero no es comestible para los humanos.</DankPyon_Straw.description>
-  <DankPyon_Salt.label>Sal</DankPyon_Salt.label>
+
+  <DankPyon_Salt.label>sal</DankPyon_Salt.label>
   <DankPyon_Salt.description>La sal es un mineral muy común que se encuentra a menudo en depósitos de roca natural y en el mar. Se utiliza frecuentemente para conservar alimentos y como condimento para las comidas.</DankPyon_Salt.description>
-  <DankPyon_Sugar.label>Azúcar</DankPyon_Sugar.label>
+
+  <DankPyon_Sugar.label>azúcar</DankPyon_Sugar.label>
   <DankPyon_Sugar.description>Una sustancia blanca, dulce y en polvo que se obtiene de la planta de caña de azúcar.</DankPyon_Sugar.description>
-  <DankPyon_Spices.label>Especias</DankPyon_Spices.label>
+
+  <DankPyon_Spices.label>especias</DankPyon_Spices.label>
   <DankPyon_Spices.description>Una mezcla de especias secas y trituradas que proporciona un maravilloso aroma y sabor.</DankPyon_Spices.description>
-  <DankPyon_Sausages.label>Salchichas crudas</DankPyon_Sausages.label>
+
+  <DankPyon_Sausages.label>salchichas crudas</DankPyon_Sausages.label>
   <DankPyon_Sausages.description>Carne picada mezclada con hierbas y especias.</DankPyon_Sausages.description>
+
 </LanguageData>

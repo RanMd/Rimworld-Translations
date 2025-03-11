@@ -1,13 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_TableMarket_Meats.label>Puesto de carne</DankPyon_TableMarket_Meats.label>
+
+  <!-- Market Stall -->
+
+  <DankPyon_TableMarket_Meats.label>estante de carne</DankPyon_TableMarket_Meats.label>
   <DankPyon_TableMarket_Meats.description>Una mesa llena de carne para su presentación.</DankPyon_TableMarket_Meats.description>
-  <DankPyon_TableMarket_Dairy.label>Puesto de lácteos</DankPyon_TableMarket_Dairy.label>
+
+  <DankPyon_TableMarket_Dairy.label>estante de lácteos</DankPyon_TableMarket_Dairy.label>
   <DankPyon_TableMarket_Dairy.description>Una mesa llena de productos lácteos para su presentación.</DankPyon_TableMarket_Dairy.description>
-  <DankPyon_TableMarket_Bread.label>Puesto de pan</DankPyon_TableMarket_Bread.label>
+
+  <DankPyon_TableMarket_Bread.label>estante de pan</DankPyon_TableMarket_Bread.label>
   <DankPyon_TableMarket_Bread.description>Una mesa llena de productos de panadería para su presentación.</DankPyon_TableMarket_Bread.description>
-  <DankPyon_MarketTent_1c.label>Puesto de tienda</DankPyon_MarketTent_1c.label>
+
+  <DankPyon_TableMarket_Herb.label>estante de hierbas</DankPyon_TableMarket_Herb.label>
+  <DankPyon_TableMarket_Herb.description>Una mesa llena de productos de panadería para su presentación.</DankPyon_TableMarket_Herb.description>
+
+  <DankPyon_TableMarket_MeleeWeapons.label>estante de armas cuerpo a cuerpo</DankPyon_TableMarket_MeleeWeapons.label>
+  <DankPyon_TableMarket_MeleeWeapons.description>Una mesa llena de productos de panadería para su presentación.</DankPyon_TableMarket_MeleeWeapons.description>
+
+  <DankPyon_TableMarket_Bow.label>estante de arcos</DankPyon_TableMarket_Bow.label>
+  <DankPyon_TableMarket_Bow.description>Una mesa llena de productos de panadería para su presentación.</DankPyon_TableMarket_Bow.description>
+
+  <!-- Stalls -->
+
+  <DankPyon_Stall_Empty.label>gaveta vacío</DankPyon_Stall_Empty.label>
+  <DankPyon_Stall_Empty.description>Un estante de puesto con carpa, utilizado para exhibir varios productos.</DankPyon_Stall_Empty.description>
+
+  <DankPyon_Stall_Meats.label>gaveta de carnes</DankPyon_Stall_Meats.label>
+  <DankPyon_Stall_Meats.description>Un estante de puesto con carpa, utilizado para exhibir varios tipos de carne.</DankPyon_Stall_Meats.description>
+
+  <DankPyon_Stall_Dairy.label>gaveta de lácteos</DankPyon_Stall_Dairy.label>
+  <DankPyon_Stall_Dairy.description>Un estante de puesto con carpa, utilizado para exhibir varios productos lácteos.</DankPyon_Stall_Dairy.description>
+
+  <DankPyon_Stall_Bread.label>gaveta de pan</DankPyon_Stall_Bread.label>
+  <DankPyon_Stall_Bread.description>Un estante de puesto con carpa, utilizado para exhibir varios tipos de pan.</DankPyon_Stall_Bread.description>
+
+  <DankPyon_Stall_Herb.label>gaveta de hierbas</DankPyon_Stall_Herb.label>
+  <DankPyon_Stall_Herb.description>Un estante de puesto con carpa, utilizado para exhibir varias hierbas.</DankPyon_Stall_Herb.description>
+
+  <DankPyon_Stall_MeleeWeapons.label>gaveta de armas</DankPyon_Stall_MeleeWeapons.label>
+  <DankPyon_Stall_MeleeWeapons.description>Un estante de puesto con carpa, utilizado para exhibir varias armas.</DankPyon_Stall_MeleeWeapons.description>
+
+  <DankPyon_Stall_Bow.label>gaveta con arcos</DankPyon_Stall_Bow.label>
+  <DankPyon_Stall_Bow.description>Un estante de puesto con carpa, utilizado para exhibir varios arcos.</DankPyon_Stall_Bow.description>
+
+  <!-- Market Tent -->
+
+  <DankPyon_MarketTent_1c.label>carpa de mercado</DankPyon_MarketTent_1c.label>
   <DankPyon_MarketTent_1c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_1c.description>
-  <DankPyon_MarketTent_2c.label>Puesto de tienda (azul)</DankPyon_MarketTent_2c.label>
-  <DankPyon_MarketTent_3c.label>Puesto de tienda (amarillo)</DankPyon_MarketTent_3c.label>
+
+  <DankPyon_MarketTent_2c.label>carpa de mercado (azul)</DankPyon_MarketTent_2c.label>
+  <DankPyon_MarketTent_2c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_2c.description>
+
+  <DankPyon_MarketTent_3c.label>carpa de mercado (amarillo)</DankPyon_MarketTent_3c.label>
+  <DankPyon_MarketTent_3c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_3c.description>
+
+  <DankPyon_MarketTent_4c.label>carpa de mercado (negro y blanco)</DankPyon_MarketTent_4c.label>
+  <DankPyon_MarketTent_4c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_4c.description>
+
+  <DankPyon_MarketTent_5c.label>carpa de mercado (negro y amarillo)</DankPyon_MarketTent_5c.label>
+  <DankPyon_MarketTent_5c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_5c.description>
+
+  <DankPyon_MarketTent_6c.label>carpa de mercado (blanco)</DankPyon_MarketTent_6c.label>
+  <DankPyon_MarketTent_6c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_6c.description>
+
+  <DankPyon_MarketTent_7c.label>carpa de mercado (color sólido)</DankPyon_MarketTent_7c.label>
+  <DankPyon_MarketTent_7c.description>Una tienda para proteger tus productos de la luz solar.</DankPyon_MarketTent_7c.description>
+
 </LanguageData>

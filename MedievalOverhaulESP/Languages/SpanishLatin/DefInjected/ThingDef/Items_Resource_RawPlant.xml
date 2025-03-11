@@ -1,41 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_RawFlax.label>Lino</DankPyon_RawFlax.label>
+
+  <!-- Raw Plants Resource -->
+
+  <DankPyon_RawFlax.label>lino</DankPyon_RawFlax.label>
   <DankPyon_RawFlax.description>Tallos de fibras vegetales. Las fibras pueden ser utilizadas por sus propiedades hiladoras y son excelentes para la fabricación de telas.</DankPyon_RawFlax.description>
-  <DankPyon_Silkworm.label>Gusano de seda</DankPyon_Silkworm.label>
+
+  <DankPyon_Silkworm.label>gusano de seda</DankPyon_Silkworm.label>
   <DankPyon_Silkworm.description>Pequeños animales gusanos que producen seda para sus capullos, los cuales pueden ser cosechados para hacer seda fina.</DankPyon_Silkworm.description>
-  <DankPyon_RawCotton.label>Algodón</DankPyon_RawCotton.label>
+
+  <DankPyon_RawCotton.label>algodón</DankPyon_RawCotton.label>
   <DankPyon_RawCotton.description>Algodón.</DankPyon_RawCotton.description>
-  <DankPyon_RawWheat.label>Trigo</DankPyon_RawWheat.label>
+
+  <DankPyon_RawWheat.label>trigo</DankPyon_RawWheat.label>
   <DankPyon_RawWheat.description>El trigo es un cultivo vital para los agricultores, sus tallos dorados maduran bajo el sol y están listos para la cosecha para el sustento y el comercio. Cultivar en grandes campos asegura que los pueblos prosperen, la gente se mantenga bien alimentada y se garantice el sustento de los agricultores que trabajan duro.</DankPyon_RawWheat.description>
-  <DankPyon_RawGrapes.label>Uvas</DankPyon_RawGrapes.label>
+
+  <DankPyon_RawGrapes.label>uvas</DankPyon_RawGrapes.label>
   <DankPyon_RawGrapes.description>Deliciosas uvas que se pueden comer crudas. Útiles para la elaboración de vino.</DankPyon_RawGrapes.description>
-  <DankPyon_Sugarcane.label>Caña de azúcar</DankPyon_Sugarcane.label>
+
+  <DankPyon_Sugarcane.label>caña de azúcar</DankPyon_Sugarcane.label>
   <DankPyon_Sugarcane.description>Caña de azúcar cruda. Debe ser molida para obtener azúcar utilizable.</DankPyon_Sugarcane.description>
-  <DankPyon_RawHerb.label>Hierbas crudas</DankPyon_RawHerb.label>
+
+  <DankPyon_RawHerb.label>hierbas crudas</DankPyon_RawHerb.label>
   <DankPyon_RawHerb.description>Hierbas crudas.</DankPyon_RawHerb.description>
-  <DankPyon_RawTomatoes.label>Tomates</DankPyon_RawTomatoes.label>
+
+  <!-- Berry Food -->
+
+  <DankPyon_RawTomatoes.label>tomates</DankPyon_RawTomatoes.label>
   <DankPyon_RawTomatoes.description>Tomates crudos.</DankPyon_RawTomatoes.description>
-  <DankPyon_RawApples.label>Manzanas</DankPyon_RawApples.label>
+
+  <!-- Plants Food -->
+
+  <DankPyon_RawApples.label>manzanas</DankPyon_RawApples.label>
   <DankPyon_RawApples.description>Manzanas crudas.</DankPyon_RawApples.description>
-  <DankPyon_RawLemons.label>Limones</DankPyon_RawLemons.label>
+
+  <DankPyon_RawLemons.label>limones</DankPyon_RawLemons.label>
   <DankPyon_RawLemons.description>Limones crudos.</DankPyon_RawLemons.description>
-  <DankPyon_RawMulberry.label>Moras</DankPyon_RawMulberry.label>
+
+  <DankPyon_RawMulberry.label>moras</DankPyon_RawMulberry.label>
   <DankPyon_RawMulberry.description>Moras crudas.</DankPyon_RawMulberry.description>
-  <DankPyon_RawCabbages.label>Repollo</DankPyon_RawCabbages.label>
+
+  <DankPyon_RawCabbages.label>repollo</DankPyon_RawCabbages.label>
   <DankPyon_RawCabbages.description>Repollo crudo.</DankPyon_RawCabbages.description>
-  <DankPyon_RawCarrots.label>Zanahorias</DankPyon_RawCarrots.label>
+
+  <DankPyon_RawCarrots.label>zanahorias</DankPyon_RawCarrots.label>
   <DankPyon_RawCarrots.description>Zanahorias crudas.</DankPyon_RawCarrots.description>
-  <DankPyon_RawGarlic.label>Ajo</DankPyon_RawGarlic.label>
+
+  <DankPyon_RawGarlic.label>ajo</DankPyon_RawGarlic.label>
   <DankPyon_RawGarlic.description>Ajo crudo.</DankPyon_RawGarlic.description>
-  <DankPyon_RawOnions.label>Cebollas</DankPyon_RawOnions.label>
+
+  <DankPyon_RawOnions.label>cebollas</DankPyon_RawOnions.label>
   <DankPyon_RawOnions.description>Cebollas crudas.</DankPyon_RawOnions.description>
-  <DankPyon_RawPumpkins.label>Calabazas</DankPyon_RawPumpkins.label>
+
+  <DankPyon_RawPumpkins.label>calabazas</DankPyon_RawPumpkins.label>
   <DankPyon_RawPumpkins.description>Calabazas crudas.</DankPyon_RawPumpkins.description>
-  <DankPyon_RawLentils.label>Lentejas</DankPyon_RawLentils.label>
+
+  <DankPyon_RawLentils.label>lentejas</DankPyon_RawLentils.label>
   <DankPyon_RawLentils.description>Lentejas crudas.</DankPyon_RawLentils.description>
-  <DankPyon_GriffonBerry.label>Bayas de grifo</DankPyon_GriffonBerry.label>
+
+  <DankPyon_GriffonBerry.label>bayas de grifo</DankPyon_GriffonBerry.label>
   <DankPyon_GriffonBerry.description>Bayas de grifo crudas.</DankPyon_GriffonBerry.description>
-  <DankPyon_RawMacci.label>Macci</DankPyon_RawMacci.label>
+
+  <DankPyon_RawMacci.label>macci</DankPyon_RawMacci.label>
   <DankPyon_RawMacci.description>Macci crudo.</DankPyon_RawMacci.description>
+
 </LanguageData>

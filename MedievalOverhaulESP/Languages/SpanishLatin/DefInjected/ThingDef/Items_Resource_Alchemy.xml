@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Mindwort.label>Hierba Mental</DankPyon_Mindwort.label>
+
+  <!-- Raw Plants Resource -->
+
+  <DankPyon_Mindwort.label>hierba mental</DankPyon_Mindwort.label>
   <DankPyon_Mindwort.description>Una hierba rara conocida por sus efectos estimulantes en la mente. Se dice que su consumo mejora la claridad mental y la concentración.</DankPyon_Mindwort.description>
-  <DankPyon_Poppy.label>Amapola</DankPyon_Poppy.label>
+
+  <DankPyon_Poppy.label>amapola</DankPyon_Poppy.label>
   <DankPyon_Poppy.description>Una delicada flor de vivos colores. Sus semillas son utilizadas en infusiones y preparaciones medicinales, pero en grandes cantidades pueden tener efectos sedantes.</DankPyon_Poppy.description>
-  <DankPyon_Fleawort.label>Hierba Pulguera</DankPyon_Fleawort.label>
+
+  <DankPyon_Fleawort.label>hierba pulguera</DankPyon_Fleawort.label>
   <DankPyon_Fleawort.description>Una planta resistente que crece en suelos áridos. Tradicionalmente utilizada como remedio natural contra parásitos y problemas de la piel.</DankPyon_Fleawort.description>
+
+  <DankPyon_FlyAgaric.label>amanita muscaria</DankPyon_FlyAgaric.label>
+  <DankPyon_FlyAgaric.description>Hierba útil, se puede usar para hacer varias medicinas potentes.</DankPyon_FlyAgaric.description>
+
 </LanguageData>

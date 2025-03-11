@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_EggLargeForestCobraFertilized.label>Huevo Grande de Cobra del Bosque (fert.)</DankPyon_EggLargeForestCobraFertilized.label>
+
+  <!-- Large Cobra -->
+
+  <DankPyon_EggLargeForestCobraFertilized.label>huevo grande de cobra del bosque (fert.)</DankPyon_EggLargeForestCobraFertilized.label>
   <DankPyon_EggLargeForestCobraFertilized.description>Un huevo grande de cobra del bosque fertilizado. Si todo va bien, debería salir una pequeña cobra. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_EggLargeForestCobraFertilized.description>
-  <DankPyon_EggLargeCobraCaveFertilized.label>Huevo Grande de Cobra de Cueva (fert.)</DankPyon_EggLargeCobraCaveFertilized.label>
+
+  <DankPyon_EggLargeCobraCaveFertilized.label>huevo grande de cobra de cueva (fert.)</DankPyon_EggLargeCobraCaveFertilized.label>
   <DankPyon_EggLargeCobraCaveFertilized.description>Un huevo grande de cobra de cueva fertilizado. Si todo va bien, debería salir una pequeña cobra. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_EggLargeCobraCaveFertilized.description>
-  <DankPyon_EggConstrictorForestFertilized.label>Huevo de Serpiente Constrictora del Bosque (fert.)</DankPyon_EggConstrictorForestFertilized.label>
+
+  <!-- Giant Constrictor -->
+
+  <DankPyon_EggConstrictorForestFertilized.label>huevo de serpiente constrictora del bosque (fert.)</DankPyon_EggConstrictorForestFertilized.label>
   <DankPyon_EggConstrictorForestFertilized.description>Un huevo grande de serpiente constrictora del bosque fertilizado. Si todo va bien, debería salir una pequeña serpiente. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_EggConstrictorForestFertilized.description>
-  <DankPyon_EggConstrictorCaveFertilized.label>Huevo de Serpiente Constrictora de Cueva (fert.)</DankPyon_EggConstrictorCaveFertilized.label>
+
+  <DankPyon_EggConstrictorCaveFertilized.label>huevo de serpiente constrictora de cueva (fert.)</DankPyon_EggConstrictorCaveFertilized.label>
   <DankPyon_EggConstrictorCaveFertilized.description>Un huevo grande de serpiente constrictora de cueva fertilizado. Si todo va bien, debería salir una pequeña serpiente. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_EggConstrictorCaveFertilized.description>
-  <DankPyon_EggLindwurmForestFertilized.label>Huevo de Lindwurm del Bosque (fert.)</DankPyon_EggLindwurmForestFertilized.label>
+
+  <!-- Lindwurm -->
+
+  <DankPyon_EggLindwurmForestFertilized.label>huevo de lindwurm del bosque (fert.)</DankPyon_EggLindwurmForestFertilized.label>
   <DankPyon_EggLindwurmForestFertilized.description>Un huevo grande de lindwurm del bosque fertilizado. Si todo va bien, debería salir un lindwurm bebé. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_EggLindwurmForestFertilized.description>
-  <DankPyon_EggLindwurmCaveFertilized.label>Huevo de Lindwurm de Cueva (fert.)</DankPyon_EggLindwurmCaveFertilized.label>
+
+  <DankPyon_EggLindwurmCaveFertilized.label>huevo de lindwurm de cueva (fert.)</DankPyon_EggLindwurmCaveFertilized.label>
   <DankPyon_EggLindwurmCaveFertilized.description>Un gran huevo de Lindwurm del bosque fertilizado. Si todo va bien, debería eclosionar un bebé Lindwurm. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_EggLindwurmCaveFertilized.description>
-  <DankPyon_Webknecht_EggFertilized.label>Huevo de Webknecht (fert.)</DankPyon_Webknecht_EggFertilized.label>
+
+  <!-- Webknecht -->
+
+  <DankPyon_Webknecht_EggFertilized.label>huevo de webknecht (fert.)</DankPyon_Webknecht_EggFertilized.label>
   <DankPyon_Webknecht_EggFertilized.description>Un huevo de Webknecht fertilizado. Si todo va bien, debería salir una cría de Webknecht. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_Webknecht_EggFertilized.description>
-  <DankPyon_Griffon_EggFertilized.label>Huevo de grifo (fert.)</DankPyon_Griffon_EggFertilized.label>
+
+  <DankPyon_EggWebknechtFertilized.label>huevo de webknecht (fert.)</DankPyon_EggWebknechtFertilized.label>
+  <DankPyon_EggWebknechtFertilized.description>Huevo de Webknecht fertilizado. Si todo va bien, el huevo eclosionará en una cría de Webknecht. El huevo se puede comer crudo, pero sabe mejor cocinado.</DankPyon_EggWebknechtFertilized.description>
+
+  <!-- Griffon -->
+
+  <DankPyon_Griffon_EggFertilized.label>huevo de grifo (fert.)</DankPyon_Griffon_EggFertilized.label>
   <DankPyon_Griffon_EggFertilized.description>Un huevo de grifo fertilizado. Si todo va bien, debería salir una cría de grifo. Se puede comer crudo, pero es mucho mejor cocido.</DankPyon_Griffon_EggFertilized.description>
-  <DankPyon_HornetJelly.label>Jalea de Avispa</DankPyon_HornetJelly.label>
+
+  <DankPyon_HornetJelly.label>jalea de avispa</DankPyon_HornetJelly.label>
   <DankPyon_HornetJelly.description>Jalea almacenada por insectos gigantes y utilizada como alimento. Es suave, rica y satisface la necesidad de recuperación de quienes la consumen. Debido a sus propiedades biológicas únicas, puede nutrir a casi cualquier ser vivo y nunca se descompone.</DankPyon_HornetJelly.description>
+
 </LanguageData>

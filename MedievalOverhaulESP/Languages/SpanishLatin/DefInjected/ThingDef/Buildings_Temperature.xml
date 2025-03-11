@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_IceChest.label>Caja de Hielo</DankPyon_IceChest.label>
+
+  <DankPyon_IceChest.label>cofre de hielo</DankPyon_IceChest.label>
   <DankPyon_IceChest.description>Una caja aislada para almacenar hielo y enfriar pasivamente el entorno.</DankPyon_IceChest.description>
-  <DankPyon_Pyre.label>Gran Pira Cuadrada</DankPyon_Pyre.label>
+
+  <!-- bonfire -->
+
+  <DankPyon_Pyre.label>pira cuadrada grande</DankPyon_Pyre.label>
   <DankPyon_Pyre.description>Una gran hoguera que puede generar mucho calor y luz. Adecuada para quemar desechos y cadáveres, no apta para uso en interiores.</DankPyon_Pyre.description>
-  <DankPyon_PyreRound.label>Gran Pira Redonda</DankPyon_PyreRound.label>
+
+  <DankPyon_PyreRound.label>pira redonda grande</DankPyon_PyreRound.label>
   <DankPyon_PyreRound.description>Una gran hoguera que puede generar mucho calor y luz. Adecuada para quemar desechos y cadáveres, no apta para uso en interiores.</DankPyon_PyreRound.description>
+
 </LanguageData>

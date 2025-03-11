@@ -1,178 +1,402 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_Bale1x2c.label>Fardo de heno</DankPyon_Bale1x2c.label>
-  <DankPyon_Bale1x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_Bale1x2c.description>
-  <DankPyon_StrawBale1x2c.label>Fardo de paja</DankPyon_StrawBale1x2c.label>
-  <DankPyon_StrawBale1x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_StrawBale1x2c.description>
-  <DankPyon_FlaxBale1x2c.label>Fardo de lino</DankPyon_FlaxBale1x2c.label>
-  <DankPyon_FlaxBale1x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_FlaxBale1x2c.description>
-  <DankPyon_HayBale2x2c.label>Fardo de heno (2x2)</DankPyon_HayBale2x2c.label>
-  <DankPyon_HayBale2x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_HayBale2x2c.description>
-  <DankPyon_StrawBale2x2c.label>Fardo de paja (2x2)</DankPyon_StrawBale2x2c.label>
-  <DankPyon_FlaxBale2x2c.label>Fardo de lino (2x2)</DankPyon_FlaxBale2x2c.label>
-  <DankPyon_HayPile1x2c.label>Fardo de heno</DankPyon_HayPile1x2c.label>
-  <DankPyon_HayPile1x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_HayPile1x2c.description>
-  <DankPyon_StrawPile1x2c.label>Fardo de paja</DankPyon_StrawPile1x2c.label>
-  <DankPyon_StrawPile1x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_StrawPile1x2c.description>
-  <DankPyon_FlaxPile1x2c.label>Montón de lino</DankPyon_FlaxPile1x2c.label>
-  <DankPyon_FlaxPile1x2c.description>Un montón colectivo de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_FlaxPile1x2c.description>
-  <DankPyon_WoodLogs1x1c.label>Pila de troncos</DankPyon_WoodLogs1x1c.label>
+  <!-- Wood Logs -->
+
+  <DankPyon_WoodLogs1x1c.label>pila de troncos</DankPyon_WoodLogs1x1c.label>
   <DankPyon_WoodLogs1x1c.description>Troncos apilados de manera eficiente para ahorrar más espacio.</DankPyon_WoodLogs1x1c.description>
-  <DankPyon_WoodLogs1x2c.label>Troncos (1x2)</DankPyon_WoodLogs1x2c.label>
+
+  <!-- Wood Logs 1x2 -->
+
+  <DankPyon_WoodLogs1x2c.label>troncos (1x2)</DankPyon_WoodLogs1x2c.label>
   <DankPyon_WoodLogs1x2c.description>Troncos apilados de manera eficiente para ahorrar más espacio.</DankPyon_WoodLogs1x2c.description>
-  <DankPyon_WoodLogs2x2c.label>Troncos (2x2)</DankPyon_WoodLogs2x2c.label>
+
+  <!-- Wood Logs 2x2 -->
+
+  <DankPyon_WoodLogs2x2c.label>troncos (2x2)</DankPyon_WoodLogs2x2c.label>
   <DankPyon_WoodLogs2x2c.description>Troncos apilados de manera eficiente para ahorrar más espacio.</DankPyon_WoodLogs2x2c.description>
-  <DankPyon_Timber1x1c.label>Madera (1x1)</DankPyon_Timber1x1c.label>
+
+  <!-- Timber 1x1 -->
+
+  <DankPyon_Timber1x1c.label>madera (1x1)</DankPyon_Timber1x1c.label>
   <DankPyon_Timber1x1c.description>Madera apilada eficientemente para ahorrar más espacio.</DankPyon_Timber1x1c.description>
-  <DankPyon_Timber1x2c.label>Madera (1x2)</DankPyon_Timber1x2c.label>
+
+  <!-- Timber 1x2 -->
+
+  <DankPyon_Timber1x2c.label>madera (1x2)</DankPyon_Timber1x2c.label>
   <DankPyon_Timber1x2c.description>Madera apilada eficientemente para ahorrar más espacio.</DankPyon_Timber1x2c.description>
-  <DankPyon_Timber2x2c.label>Madera (2x2)</DankPyon_Timber2x2c.label>
+
+  <!-- Timber 2x2 -->
+
+  <DankPyon_Timber2x2c.label>madera (2x2)</DankPyon_Timber2x2c.label>
   <DankPyon_Timber2x2c.description>Madera apilada eficientemente para ahorrar más espacio.</DankPyon_Timber2x2c.description>
-  <DankPyon_Bricks1x1c.label>Ladrillos (1x1)</DankPyon_Bricks1x1c.label>
+
+  <!-- Bricks -->
+
+  <DankPyon_Bricks1x1c.label>ladrillos (1x1)</DankPyon_Bricks1x1c.label>
   <DankPyon_Bricks1x1c.description>Ladrillos apilados eficientemente para ahorrar más espacio.</DankPyon_Bricks1x1c.description>
-  <DankPyon_Bricks1x2c.label>Ladrillos (1x2)</DankPyon_Bricks1x2c.label>
+
+  <!-- Bricks 1x2 -->
+
+  <DankPyon_Bricks1x2c.label>ladrillos (1x2)</DankPyon_Bricks1x2c.label>
   <DankPyon_Bricks1x2c.description>Ladrillos apilados eficientemente para ahorrar más espacio.</DankPyon_Bricks1x2c.description>
-  <DankPyon_Bricks2x2c.label>Ladrillos (2x2)</DankPyon_Bricks2x2c.label>
+
+  <!-- Bricks 2x2 -->
+
+  <DankPyon_Bricks2x2c.label>ladrillos (2x2)</DankPyon_Bricks2x2c.label>
   <DankPyon_Bricks2x2c.description>Ladrillos apilados eficientemente para ahorrar más espacio.</DankPyon_Bricks2x2c.description>
-  <DankPyon_IronIngots1x1c.label>Pila de lingotes de hierro (1x1)</DankPyon_IronIngots1x1c.label>
-  <DankPyon_IronIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_IronIngots1x1c.description>
-  <DankPyon_IronIngots1x2c.label>Pila de lingotes de hierro (1x2)</DankPyon_IronIngots1x2c.label>
-  <DankPyon_IronIngots1x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_IronIngots1x2c.description>
-  <DankPyon_IronIngots2x2c.label>Pila de lingotes de hierro (2x2)</DankPyon_IronIngots2x2c.label>
-  <DankPyon_IronIngots2x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_IronIngots2x2c.description>
-  <DankPyon_SteelIngots1x1c.label>Pila de lingotes de acero (1x1)</DankPyon_SteelIngots1x1c.label>
-  <DankPyon_SteelIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SteelIngots1x1c.description>
-  <DankPyon_SteelIngots1x2c.label>Pila de lingotes de acero (1x2)</DankPyon_SteelIngots1x2c.label>
-  <DankPyon_SteelIngots1x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SteelIngots1x2c.description>
-  <DankPyon_SteelIngots2x2c.label>Pila de lingotes de acero (2x2)</DankPyon_SteelIngots2x2c.label>
-  <DankPyon_SteelIngots2x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SteelIngots2x2c.description>
-  <DankPyon_SilverIngots1x1c.label>Pila de lingotes de plata (1x1)</DankPyon_SilverIngots1x1c.label>
-  <DankPyon_SilverIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SilverIngots1x1c.description>
-  <DankPyon_SilverIngots1x2c.label>Pila de lingotes de plata (1x2)</DankPyon_SilverIngots1x2c.label>
-  <DankPyon_SilverIngots2x2c.label>Pila de lingotes de plata (2x2)</DankPyon_SilverIngots2x2c.label>
-  <DankPyon_GoldIngots1x1c.label>Pila de lingotes de oro (1x1)</DankPyon_GoldIngots1x1c.label>
-  <DankPyon_GoldIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_GoldIngots1x1c.description>
-  <DankPyon_GoldIngots1x2c.label>Pila de lingotes de oro (1x2)</DankPyon_GoldIngots1x2c.label>
-  <DankPyon_GoldIngots2x2c.label>Pila de lingotes de oro (2x2)</DankPyon_GoldIngots2x2c.label>
-  <DankPyon_Plasteel1x1c.label>Pila de plasteel (1x1)</DankPyon_Plasteel1x1c.label>
-  <DankPyon_Plasteel1x1c.description>Barras apiladas eficientemente para ahorrar más espacio.</DankPyon_Plasteel1x1c.description>
-  <DankPyon_Plasteel1x2c.label>Pila de Plasteel (1x2)</DankPyon_Plasteel1x2c.label>
-  <DankPyon_Plasteel2x2c.label>Pila de Plasteel (2x2)</DankPyon_Plasteel2x2c.label>
-  <DankPyon_RusticCupboardEmpty.label>Armario de Cocina</DankPyon_RusticCupboardEmpty.label>
-  <DankPyon_RusticCupboardEmpty.description>Un armario abierto para el almacenamiento y presentación eficiente de artículos.</DankPyon_RusticCupboardEmpty.description>
-  <DankPyon_RusticCupboardBread.label>Armario de Pan</DankPyon_RusticCupboardBread.label>
-  <DankPyon_RusticCupboardBread.description>Un armario abierto para el almacenamiento y presentación eficiente de artículos.</DankPyon_RusticCupboardBread.description>
-  <DankPyon_RusticCupboardCheese.label>Armario de Queso</DankPyon_RusticCupboardCheese.label>
-  <DankPyon_RusticCupboardWine.label>Estante de Vino</DankPyon_RusticCupboardWine.label>
-  <DankPyon_RusticBarrelBigClosed.label>Barril Grande</DankPyon_RusticBarrelBigClosed.label>
+
+  <!-- Cupboard -->
+
+  <DankPyon_RusticCupboardEmpty.label>armario de cocina</DankPyon_RusticCupboardEmpty.label>
+  <DankPyon_RusticCupboardEmpty.description>Un estante abierto que puede almacenar y exhibir artículos de manera eficiente.</DankPyon_RusticCupboardEmpty.description>
+
+  <DankPyon_RusticCupboardBread.label>armario para pan</DankPyon_RusticCupboardBread.label>
+  <DankPyon_RusticCupboardBread.description>Un estante abierto que puede almacenar y exhibir artículos de manera eficiente.</DankPyon_RusticCupboardBread.description>
+
+  <DankPyon_RusticCupboardCheese.label>armario para quesos</DankPyon_RusticCupboardCheese.label>
+  <DankPyon_RusticCupboardCheese.description>Un estante abierto que puede almacenar y exhibir artículos de manera eficiente.</DankPyon_RusticCupboardCheese.description>
+
+  <DankPyon_RusticCupboardWine.label>estante de vino</DankPyon_RusticCupboardWine.label>
+  <DankPyon_RusticCupboardWine.description>Un estante abierto que puede almacenar y exhibir artículos de manera eficiente.</DankPyon_RusticCupboardWine.description>
+
+  <!-- Barrels -->
+
+  <DankPyon_RusticBarrelBigClosed.label>barril grande</DankPyon_RusticBarrelBigClosed.label>
   <DankPyon_RusticBarrelBigClosed.description>Un barril cilíndrico para almacenamiento general. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RusticBarrelBigClosed.description>
-  <DankPyon_RusticBarrelBigGrape.label>Barril Grande de Uvas</DankPyon_RusticBarrelBigGrape.label>
+
+  <DankPyon_RusticBarrelBigGrape.label>barril grande de uvas</DankPyon_RusticBarrelBigGrape.label>
   <DankPyon_RusticBarrelBigGrape.description>Un barril cilíndrico para almacenamiento general. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RusticBarrelBigGrape.description>
-  <DankPyon_RusticBarrelBigClosedDown.label>Barril Grande</DankPyon_RusticBarrelBigClosedDown.label>
+
+  <DankPyon_RusticBarrelBigClosedDown.label>barril grande</DankPyon_RusticBarrelBigClosedDown.label>
   <DankPyon_RusticBarrelBigClosedDown.description>Un barril cilíndrico para almacenamiento general. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RusticBarrelBigClosedDown.description>
-  <DankPyon_RusticBarrelStack.label>Estante de Barriles</DankPyon_RusticBarrelStack.label>
+
+  <DankPyon_RusticBarrelStack.label>estante de barriles</DankPyon_RusticBarrelStack.label>
   <DankPyon_RusticBarrelStack.description>Un barril cilíndrico para almacenamiento general. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RusticBarrelStack.description>
-  <DankPyon_RusticBarrelClosed.label>Barril</DankPyon_RusticBarrelClosed.label>
+
+  <DankPyon_RusticBarrelClosed.label>barril</DankPyon_RusticBarrelClosed.label>
   <DankPyon_RusticBarrelClosed.description>Un barril cilíndrico para almacenamiento general. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RusticBarrelClosed.description>
-  <DankPyon_BarrelWoodLog.label>Barril de Madera</DankPyon_BarrelWoodLog.label>
+
+  <!-- WoodLog Barrel -->
+
+  <DankPyon_BarrelWoodLog.label>barril de madera</DankPyon_BarrelWoodLog.label>
   <DankPyon_BarrelWoodLog.description>Un barril cilíndrico reservado para madera para ahorrar espacio. Puede contener hasta 4 pilas de madera. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelWoodLog.description>
-  <DankPyon_BarrelIronOre.label>Barril de Mineral de Hierro</DankPyon_BarrelIronOre.label>
-  <DankPyon_BarrelIronOre.description>Un barril cilíndrico reservado para mineral de hierro para ahorrar espacio. Puede contener hasta 4 pilas de mineral de hierro. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelIronOre.description>
-  <DankPyon_BarrelSilverOre.label>Barril de Mineral de Plata</DankPyon_BarrelSilverOre.label>
-  <DankPyon_BarrelSilverOre.description>Un barril cilíndrico reservado para mineral de plata para ahorrar espacio. Puede contener hasta 4 pilas de mineral de plata. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelSilverOre.description>
-  <DankPyon_BarrelGoldOre.label>Barril de Mineral de Oro</DankPyon_BarrelGoldOre.label>
-  <DankPyon_BarrelGoldOre.description>Un barril cilíndrico reservado para mineral de oro para ahorrar espacio. Puede contener hasta 4 pilas de mineral de oro. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelGoldOre.description>
-  <DankPyon_BarrelRawPlasteel.label>Barril de Plasteel Crudo</DankPyon_BarrelRawPlasteel.label>
-  <DankPyon_BarrelRawPlasteel.description>Un barril cilíndrico reservado para plasteel crudo para ahorrar espacio. Puede contener hasta 4 pilas de plasteel crudo. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelRawPlasteel.description>
-  <DankPyon_BarrelCoalOre.label>Barril de Mineral de Carbón</DankPyon_BarrelCoalOre.label>
+
+  <!-- Iron Ore Barrel -->
+
+  <DankPyon_BarrelIronOre.label>barril para menas de hierro</DankPyon_BarrelIronOre.label>
+  <DankPyon_BarrelIronOre.description>Un barril cilíndrico reservado para almacenar menas de hierro para ahorrar espacio. Puede contener hasta 4 pilas de menas. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelIronOre.description>
+
+  <!-- Silver Ore Barrel -->
+
+  <DankPyon_BarrelSilverOre.label>Barril para menas de Plata</DankPyon_BarrelSilverOre.label>
+  <DankPyon_BarrelSilverOre.description>Un barril cilíndrico reservado para menas de plata para ahorrar espacio. Puede contener hasta 4 pilas de menas de plata. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelSilverOre.description>
+
+  <!-- Gold Ore Barrel -->
+
+  <DankPyon_BarrelGoldOre.label>barril para menas de oro</DankPyon_BarrelGoldOre.label>
+  <DankPyon_BarrelGoldOre.description>Un barril cilíndrico reservado para menas de oro para ahorrar espacio. Puede contener hasta 4 pilas de menas de oro. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelGoldOre.description>
+
+  <!-- Plasteel Ore Barrel -->
+
+  <DankPyon_BarrelRawPlasteel.label>barril para menas de plastiacero</DankPyon_BarrelRawPlasteel.label>
+  <DankPyon_BarrelRawPlasteel.description>Un barril cilíndrico reservado para menas de para ahorrar espacio. Puede contener hasta 4 pilas de plasteel crudo. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelRawPlasteel.description>
+
+  <!-- Coal Ore Barrel -->
+
+  <DankPyon_BarrelCoalOre.label>barril para carbón</DankPyon_BarrelCoalOre.label>
   <DankPyon_BarrelCoalOre.description>Un barril cilíndrico reservado para mineral de carbón para ahorrar espacio. Puede contener hasta 4 pilas de mineral de carbón. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelCoalOre.description>
-  <DankPyon_BarrelTextiles.label>Barril de Textiles</DankPyon_BarrelTextiles.label>
+
+  <!-- Textiles Barrel -->
+
+  <DankPyon_BarrelTextiles.label>barril para textiles</DankPyon_BarrelTextiles.label>
   <DankPyon_BarrelTextiles.description>Un barril cilíndrico reservado para textiles para ahorrar espacio. Puede contener hasta 4 pilas de textiles. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelTextiles.description>
-  <DankPyon_BarrelLeather.label>Barril de Cuero</DankPyon_BarrelLeather.label>
-  <DankPyon_BarrelLeather.description>Un barril cilíndrico reservado para cuero para ahorrar espacio. Puede contener hasta 4 pilas de cuero. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelLeather.description>
-  <DankPyon_BarrelComponentBasic.label>Barril de Componentes Básicos</DankPyon_BarrelComponentBasic.label>
+
+  <!-- Leather Barrel -->
+
+  <DankPyon_BarrelLeather.label>barril para cueros</DankPyon_BarrelLeather.label>
+  <DankPyon_BarrelLeather.description>Un barril cilíndrico reservado para cueros para ahorrar espacio. Puede contener hasta 4 pilas de cuero. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelLeather.description>
+
+  <!-- Basic Component -->
+
+  <DankPyon_BarrelComponentBasic.label>barril para componentes</DankPyon_BarrelComponentBasic.label>
   <DankPyon_BarrelComponentBasic.description>Un barril cilíndrico reservado para componentes básicos para ahorrar espacio. Puede contener hasta 4 pilas de componentes básicos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelComponentBasic.description>
-  <DankPyon_BarrelGrape.label>Barril de Uvas</DankPyon_BarrelGrape.label>
+
+  <!-- Grape Barrel -->
+
+  <DankPyon_BarrelGrape.label>barril de uvas</DankPyon_BarrelGrape.label>
   <DankPyon_BarrelGrape.description>Un barril cilíndrico reservado para uvas para ahorrar espacio. Puede contener hasta 4 pilas de uvas. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BarrelGrape.description>
-  <DankPyon_LargeShelfEmpty.label>Estante Grande Vacío</DankPyon_LargeShelfEmpty.label>
-  <DankPyon_LargeShelfEmpty.description>Una gran plataforma cuadrada para almacenar artículos, manteniéndolos limpios y fuera del suelo.</DankPyon_LargeShelfEmpty.description>
-  <DankPyon_LargeShelf_Bread.label>Estante Grande de Pan</DankPyon_LargeShelf_Bread.label>
-  <DankPyon_LargeShelf_Bread.description>Una gran plataforma cuadrada para almacenar artículos, manteniéndolos limpios y fuera del suelo.</DankPyon_LargeShelf_Bread.description>
-  <DankPyon_LargeShelf_Grain.label>Estante Grande de Granos</DankPyon_LargeShelf_Grain.label>
-  <DankPyon_Large_Meat_Shelf.label>Estante Grande de Carne</DankPyon_Large_Meat_Shelf.label>
-  <DankPyon_LargeShelf_Cheese.label>Estante Grande de Queso</DankPyon_LargeShelf_Cheese.label>
-  <DankPyon_LargeShelf_Wine.label>Estante Grande de Vino</DankPyon_LargeShelf_Wine.label>
-  <DankPyon_LargeShelf_Mead.label>Estante Grande de Hidromiel</DankPyon_LargeShelf_Mead.label>
-  <DankPyon_LargeShelf_Vegetables.label>Estante Grande de Verduras</DankPyon_LargeShelf_Vegetables.label>
-  <DankPyon_SackClosed.label>Saco</DankPyon_SackClosed.label>
+
+  <!-- Large Shelf -->
+
+  <DankPyon_LargeShelfEmpty.label>estante grande vacío</DankPyon_LargeShelfEmpty.label>
+  <DankPyon_LargeShelfEmpty.description>Un estante grande y cuadrado para almacenar artículos, manteniéndolos limpios y fuera del suelo.</DankPyon_LargeShelfEmpty.description>
+
+  <DankPyon_LargeShelf_Bread.label>estante grande para pan</DankPyon_LargeShelf_Bread.label>
+  <DankPyon_LargeShelf_Bread.description>Un estante grande y cuadrado para almacenar pan, manteniéndolo limpio y fuera del suelo.</DankPyon_LargeShelf_Bread.description>
+
+  <DankPyon_LargeShelf_Grain.label>estante grande para granos</DankPyon_LargeShelf_Grain.label>
+  <DankPyon_LargeShelf_Grain.description>Un estante grande y cuadrado para almacenar granos, manteniéndolos limpios y fuera del suelo.</DankPyon_LargeShelf_Grain.description>
+
+  <DankPyon_Large_Meat_Shelf.label>estante grande para carne</DankPyon_Large_Meat_Shelf.label>
+  <DankPyon_Large_Meat_Shelf.description>Un estante grande y cuadrado para almacenar carne, manteniéndola limpia y fuera del suelo.</DankPyon_Large_Meat_Shelf.description>
+
+  <DankPyon_LargeShelf_Cheese.label>estante grande para queso</DankPyon_LargeShelf_Cheese.label>
+  <DankPyon_LargeShelf_Cheese.description>Un estante grande y cuadrado para almacenar queso, manteniéndolo limpio y fuera del suelo.</DankPyon_LargeShelf_Cheese.description>
+
+  <DankPyon_LargeShelf_Wine.label>estante grande para vino</DankPyon_LargeShelf_Wine.label>
+  <DankPyon_LargeShelf_Wine.description>Un estante grande y cuadrado para almacenar vino, manteniéndolo limpio y fuera del suelo.</DankPyon_LargeShelf_Wine.description>
+
+  <DankPyon_LargeShelf_Mead.label>estante grande para hidromiel</DankPyon_LargeShelf_Mead.label>
+  <DankPyon_LargeShelf_Mead.description>Un estante grande y cuadrado para almacenar hidromiel, manteniéndola limpia y fuera del suelo.</DankPyon_LargeShelf_Mead.description>
+
+  <DankPyon_LargeShelf_Vegetables.label>estante grande para verduras</DankPyon_LargeShelf_Vegetables.label>
+  <DankPyon_LargeShelf_Vegetables.description>Un estante grande y cuadrado para almacenar verduras, manteniéndolas limpias y fuera del suelo.</DankPyon_LargeShelf_Vegetables.description>
+
+  <!-- Sack -->
+
+  <DankPyon_SackClosed.label>saco</DankPyon_SackClosed.label>
   <DankPyon_SackClosed.description>Una bolsa de tela resistente para un almacenamiento más eficiente de artículos.</DankPyon_SackClosed.description>
-  <DankPyon_SackFlour.label>Saco de Harina</DankPyon_SackFlour.label>
+
+  <DankPyon_SackFlour.label>saco de harina</DankPyon_SackFlour.label>
   <DankPyon_SackFlour.description>Una bolsa de tela resistente para un almacenamiento más eficiente de artículos.</DankPyon_SackFlour.description>
-  <DankPyon_SackWheat.label>Saco de Trigo</DankPyon_SackWheat.label>
+
+  <DankPyon_SackWheat.label>saco de trigo</DankPyon_SackWheat.label>
   <DankPyon_SackWheat.description>Una bolsa de tela resistente para un almacenamiento más eficiente de artículos.</DankPyon_SackWheat.description>
-  <DankPyon_SackPotato.label>Saco de Papas</DankPyon_SackPotato.label>
+
+  <DankPyon_SackPotato.label>saco de papas</DankPyon_SackPotato.label>
   <DankPyon_SackPotato.description>Una bolsa de tela resistente para un almacenamiento más eficiente de artículos.</DankPyon_SackPotato.description>
-  <DankPyon_SackApple.label>Saco de Manzanas</DankPyon_SackApple.label>
+
+  <DankPyon_SackApple.label>saco de manzanas</DankPyon_SackApple.label>
   <DankPyon_SackApple.description>Una bolsa de tela resistente para un almacenamiento más eficiente de artículos.</DankPyon_SackApple.description>
-  <DankPyon_BundledSack1x1c.label>Saco Agrupado</DankPyon_BundledSack1x1c.label>
+
+  <!-- Bundled Sack -->
+
+  <DankPyon_BundledSack1x1c.label>saco agrupado</DankPyon_BundledSack1x1c.label>
   <DankPyon_BundledSack1x1c.description>Una bolsa de tela resistente para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BundledSack1x1c.description>
-  <DankPyon_BundledSack2x2c.label>Saco Agrupado (2x2)</DankPyon_BundledSack2x2c.label>
+
+  <DankPyon_BundledSack2x2c.label>saco agrupado (2x2)</DankPyon_BundledSack2x2c.label>
   <DankPyon_BundledSack2x2c.description>Una bolsa de tela resistente para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_BundledSack2x2c.description>
-  <DankPyon_Crate1x1c.label>Caja (1x1)</DankPyon_Crate1x1c.label>
+
+  <!-- Crate -->
+
+  <DankPyon_Crate1x1c.label>caja (1x1)</DankPyon_Crate1x1c.label>
   <DankPyon_Crate1x1c.description>Una caja de madera hecha de tablas para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_Crate1x1c.description>
-  <DankPyon_Crate1x2c.label>Caja (1x2)</DankPyon_Crate1x2c.label>
+
+  <!-- Crate 1x2 -->
+
+  <DankPyon_Crate1x2c.label>caja (1x2)</DankPyon_Crate1x2c.label>
   <DankPyon_Crate1x2c.description>Una caja de madera hecha de tablas para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_Crate1x2c.description>
-  <DankPyon_Crate2x2c.label>Caja (2x2)</DankPyon_Crate2x2c.label>
+
+  <!-- Crate 2x2 -->
+
+  <DankPyon_Crate2x2c.label>caja (2x2)</DankPyon_Crate2x2c.label>
   <DankPyon_Crate2x2c.description>Una caja de madera hecha de tablas para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_Crate2x2c.description>
-  <DankPyon_Crate2x2_Bones.label>Caja Grande (Huesos)</DankPyon_Crate2x2_Bones.label>
+
+  <DankPyon_Crate2x2_Bones.label>caja grande (huesos)</DankPyon_Crate2x2_Bones.label>
   <DankPyon_Crate2x2_Bones.description>Una caja de madera hecha de tablas para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_Crate2x2_Bones.description>
-  <DankPyon_Crate2x2_Unhold.label>Caja Grande (Unhold)</DankPyon_Crate2x2_Unhold.label>
+
+  <DankPyon_Crate2x2_Unhold.label>caja grande (unhold)</DankPyon_Crate2x2_Unhold.label>
   <DankPyon_Crate2x2_Unhold.description>Una caja de madera hecha de tablas para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_Crate2x2_Unhold.description>
-  <DankPyon_Crate2x2_Lindwurm.label>Caja Grande (Lindwurm)</DankPyon_Crate2x2_Lindwurm.label>
+
+  <DankPyon_Crate2x2_Lindwurm.label>caja grande (lindwurm)</DankPyon_Crate2x2_Lindwurm.label>
   <DankPyon_Crate2x2_Lindwurm.description>Una caja de madera hecha de tablas para el almacenamiento eficiente de recursos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_Crate2x2_Lindwurm.description>
-  <DankPyon_RackEmpty.label>Estante Vacío</DankPyon_RackEmpty.label>
+
+  <!-- Weapon Rack -->
+
+  <DankPyon_RackEmpty.label>estante vacío</DankPyon_RackEmpty.label>
   <DankPyon_RackEmpty.description>Un estante para almacenar varios artículos. Los artículos almacenados en su interior no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RackEmpty.description>
-  <DankPyon_RackSword.label>Soporte para Espadas</DankPyon_RackSword.label>
+
+  <DankPyon_RackSword.label>soporte para espadas</DankPyon_RackSword.label>
   <DankPyon_RackSword.description>Un soporte para el almacenamiento ordenado de espadas. Los objetos almacenados en él no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RackSword.description>
-  <DankPyon_RackSpear.label>Soporte para lanzas</DankPyon_RackSpear.label>
+
+  <DankPyon_RackSpear.label>soporte para lanzas</DankPyon_RackSpear.label>
   <DankPyon_RackSpear.description>Un estante para el almacenamiento ordenado de lanzas. Los objetos almacenados en él no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RackSpear.description>
-  <DankPyon_RackMixed.label>Soporte para armas</DankPyon_RackMixed.label>
+
+  <DankPyon_RackMixed.label>soporte para armas</DankPyon_RackMixed.label>
   <DankPyon_RackMixed.description>Un estante para el almacenamiento ordenado de armas. Los objetos almacenados en él no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_RackMixed.description>
-  <DankPyon_ShelfEmpty.label>Estante vacío</DankPyon_ShelfEmpty.label>
-  <DankPyon_ShelfEmpty.description>Un estante para el almacenamiento de varios objetos. Los objetos almacenados en él no afectan la belleza de la habitación y no se deterioran al aire libre.</DankPyon_ShelfEmpty.description>
-  <DankPyon_ShelfFilled1c.label>Estante lleno</DankPyon_ShelfFilled1c.label>
+
+  <!-- Shelf -->
+
+  <DankPyon_ShelfEmpty.label>estante vacío</DankPyon_ShelfEmpty.label>
+  <DankPyon_ShelfEmpty.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfEmpty.description>
+
+  <DankPyon_ShelfFilled1c.label>estante lleno</DankPyon_ShelfFilled1c.label>
+  <DankPyon_ShelfFilled1c.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilled1c.description>
+
+  <DankPyon_ShelfFilled2c.label>estante para cosas</DankPyon_ShelfFilled2c.label>
   <DankPyon_ShelfFilled2c.description>Estante lleno</DankPyon_ShelfFilled2c.description>
-  <DankPyon_ShelfFilledEmerald.label>Estante con esmeraldas</DankPyon_ShelfFilledEmerald.label>
-  <DankPyon_ShelfFilledSapphire.label>Estante con zafiros</DankPyon_ShelfFilledSapphire.label>
-  <DankPyon_ShelfFilledRuby.label>Estante con rubíes</DankPyon_ShelfFilledRuby.label>
-  <DankPyon_ShelfFilledSilverware.label>Estante con platería</DankPyon_ShelfFilledSilverware.label>
-  <DankPyon_ShelfFilledGoldware.label>Estante con orfebrería</DankPyon_ShelfFilledGoldware.label>
-  <DankPyon_ShelfFilledChaliceSilver.label>Estante con cálices de plata</DankPyon_ShelfFilledChaliceSilver.label>
-  <DankPyon_ShelfFilledChaliceGold.label>Estante con cálices de oro</DankPyon_ShelfFilledChaliceGold.label>
-  <DankPyon_ShelfFilledWine.label>Estante con vino</DankPyon_ShelfFilledWine.label>
-  <DankPyon_ShelfFilledFood.label>Estante con alimentos</DankPyon_ShelfFilledFood.label>
-  <DankPyon_ShelfFilledIngot.label>Estante con lingotes</DankPyon_ShelfFilledIngot.label>
-  <DankPyon_ShelfFilledBook.label>Estante con libros</DankPyon_ShelfFilledBook.label>
-  <DankPyon_Shelf_AssortedHerbs.label>Estante (varias hierbas)</DankPyon_Shelf_AssortedHerbs.label>
-  <DankPyon_Shelf_GreenHerbs.label>Estante (hierbas verdes)</DankPyon_Shelf_GreenHerbs.label>
-  <DankPyon_Shelf_RedHerbs.label>Estante (hierbas rojas)</DankPyon_Shelf_RedHerbs.label>
-  <DankPyon_Shelf_BattleElixir.label>Estante (elixir de batalla)</DankPyon_Shelf_BattleElixir.label>
-  <DankPyon_Shelf_HappyPowder.label>Estante (polvo de la felicidad)</DankPyon_Shelf_HappyPowder.label>
-  <DankPyon_Shelf_VigorPill.label>Estante (píldora de vigor)</DankPyon_Shelf_VigorPill.label>
-  <DankPyon_Shelf_AssortedDrugsA.label>Estante (varios medicamentos a)</DankPyon_Shelf_AssortedDrugsA.label>
-  <DankPyon_Shelf_Stardust.label>Estante (polvo de estrellas)</DankPyon_Shelf_Stardust.label>
-  <DankPyon_Shelf_Luhix.label>Estante (Luhix)</DankPyon_Shelf_Luhix.label>
-  <DankPyon_Shelf_Paregoric.label>Estante (paregórico)</DankPyon_Shelf_Paregoric.label>
-  <DankPyon_Shelf_AssortedDrugsB.label>Estante (varios medicamentos b)</DankPyon_Shelf_AssortedDrugsB.label>
-  <DankPyon_Storage_Cart_Empty.label>Carro vacío</DankPyon_Storage_Cart_Empty.label>
+
+  <DankPyon_ShelfFilledEmerald.label>estante con esmeraldas</DankPyon_ShelfFilledEmerald.label>
+  <DankPyon_ShelfFilledEmerald.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledEmerald.description>
+
+  <DankPyon_ShelfFilledSapphire.label>estante con zafiros</DankPyon_ShelfFilledSapphire.label>
+  <DankPyon_ShelfFilledSapphire.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledSapphire.description>
+
+  <DankPyon_ShelfFilledRuby.label>estante con rubíes</DankPyon_ShelfFilledRuby.label>
+  <DankPyon_ShelfFilledRuby.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledRuby.description>
+
+  <DankPyon_ShelfFilledSilverware.label>estante con cubiertos</DankPyon_ShelfFilledSilverware.label>
+  <DankPyon_ShelfFilledSilverware.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledSilverware.description>
+
+  <DankPyon_ShelfFilledGoldware.label>estante con orfebrería</DankPyon_ShelfFilledGoldware.label>
+  <DankPyon_ShelfFilledGoldware.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledGoldware.description>
+
+  <DankPyon_ShelfFilledChaliceSilver.label>estante con cálices de plata</DankPyon_ShelfFilledChaliceSilver.label>
+  <DankPyon_ShelfFilledChaliceSilver.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledChaliceSilver.description>
+
+  <DankPyon_ShelfFilledChaliceGold.label>estante con cálices de oro</DankPyon_ShelfFilledChaliceGold.label>
+  <DankPyon_ShelfFilledChaliceGold.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledChaliceGold.description>
+
+  <DankPyon_ShelfFilledWine.label>estante con vino</DankPyon_ShelfFilledWine.label>
+  <DankPyon_ShelfFilledWine.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledWine.description>
+
+  <DankPyon_ShelfFilledFood.label>estante con alimentos</DankPyon_ShelfFilledFood.label>
+  <DankPyon_ShelfFilledFood.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledFood.description>
+
+  <DankPyon_ShelfFilledIngot.label>estante con lingotes</DankPyon_ShelfFilledIngot.label>
+  <DankPyon_ShelfFilledIngot.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledIngot.description>
+
+  <DankPyon_ShelfFilledBook.label>estante con libros</DankPyon_ShelfFilledBook.label>
+  <DankPyon_ShelfFilledBook.description>Un estante para almacenar varios objetos. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno circundante.</DankPyon_ShelfFilledBook.description>
+
+  <!-- Shelf Herbs -->
+
+  <DankPyon_Shelf_AssortedHerbs.label>estante (varias hierbas)</DankPyon_Shelf_AssortedHerbs.label>
+  <DankPyon_Shelf_AssortedHerbs.description>Estante para almacenar varias hierbas. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno.</DankPyon_Shelf_AssortedHerbs.description>
+
+  <DankPyon_Shelf_GreenHerbs.label>estante (hierbas verdes)</DankPyon_Shelf_GreenHerbs.label>
+  <DankPyon_Shelf_GreenHerbs.description>Estante para almacenar hierba de San Juan, llantén, hierbas y extractos de hierbas. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno.</DankPyon_Shelf_GreenHerbs.description>
+
+  <DankPyon_Shelf_RedHerbs.label>estante (hierbas rojas)</DankPyon_Shelf_RedHerbs.label>
+  <DankPyon_Shelf_RedHerbs.description>Estante para almacenar amapolas y amanitas muscarias. Los artículos almacenados en él no se deteriorarán incluso si están al aire libre y no afectarán la estética del entorno.</DankPyon_Shelf_RedHerbs.description>
+
+  <!-- Drugs -->
+
+  <DankPyon_Shelf_BattleElixir.label>estante (elixir de batalla)</DankPyon_Shelf_BattleElixir.label>
+  <DankPyon_Shelf_BattleElixir.description>Un estante para almacenar elixires de batalla. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno circundante.</DankPyon_Shelf_BattleElixir.description>
+
+  <DankPyon_Shelf_HappyPowder.label>estante (júbilo)</DankPyon_Shelf_HappyPowder.label>
+  <DankPyon_Shelf_HappyPowder.description>Un estante para almacenar polvo de la felicidad. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno circundante.</DankPyon_Shelf_HappyPowder.description>
+
+  <DankPyon_Shelf_VigorPill.label>estante (resurgir)</DankPyon_Shelf_VigorPill.label>
+  <DankPyon_Shelf_VigorPill.description>Un estante para almacenar píldoras vitales. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno circundante.</DankPyon_Shelf_VigorPill.description>
+
+  <DankPyon_Shelf_AssortedDrugsA.label>estante (varios medicamentos)</DankPyon_Shelf_AssortedDrugsA.label>
+  <DankPyon_Shelf_AssortedDrugsA.description>Un estante para almacenar varias drogas. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno circundante.</DankPyon_Shelf_AssortedDrugsA.description>
+
+  <DankPyon_Shelf_Stardust.label>estante (stardust)</DankPyon_Shelf_Stardust.label>
+  <DankPyon_Shelf_Stardust.description>Un estante para almacenar stardust. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno circundante.</DankPyon_Shelf_Stardust.description>
+
+  <DankPyon_Shelf_Luhix.label>estante (luhix)</DankPyon_Shelf_Luhix.label>
+  <DankPyon_Shelf_Luhix.description>Un estante para almacenar Luhix. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno.</DankPyon_Shelf_Luhix.description>
+
+  <DankPyon_Shelf_Paregoric.label>estante (paregórico)</DankPyon_Shelf_Paregoric.label>
+  <DankPyon_Shelf_Paregoric.description>Un estante para almacenar paregórico. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno.</DankPyon_Shelf_Paregoric.description>
+
+  <DankPyon_Shelf_AssortedDrugsB.label>estante (varios medicamentos)</DankPyon_Shelf_AssortedDrugsB.label>
+  <DankPyon_Shelf_AssortedDrugsB.description>Un estante para almacenar stardust, joyas y tintura de opio calmante. Los artículos almacenados en él no se deteriorarán incluso al aire libre y no afectarán la estética del entorno.</DankPyon_Shelf_AssortedDrugsB.description>
+
+  <DankPyon_Storage_Cart_Empty.label>carro vacío</DankPyon_Storage_Cart_Empty.label>
   <DankPyon_Storage_Cart_Empty.description>Un carro confiable que transporta novedades, artefactos y mercancías a través de las implacables fronteras. Puede usarse para almacenar objetos.</DankPyon_Storage_Cart_Empty.description>
-  <DankPyon_Storage_Cart_Assorted.label>Carro surtido</DankPyon_Storage_Cart_Assorted.label>
-  <DankPyon_Storage_Cart_Ore.label>Carro de mineral</DankPyon_Storage_Cart_Ore.label>
-  <DankPyon_Storage_Cart_PlantRaw.label>Carro con plantas crudas</DankPyon_Storage_Cart_PlantRaw.label>
-  <DankPyon_Storage_Cart_Textiles.label>Carro con textiles</DankPyon_Storage_Cart_Textiles.label>
-  <DankPyon_Storage_Cart_RawWood.label>Carro de madera en bruto</DankPyon_Storage_Cart_RawWood.label>
-  <DankPyon_IceCellar.label>Sótano de hielo</DankPyon_IceCellar.label>
+
+  <!-- Hay Pile -->
+
+  <DankPyon_Bale1x2c.label>fardo de heno</DankPyon_Bale1x2c.label>
+  <DankPyon_Bale1x2c.description>Un montón de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_Bale1x2c.description>
+
+  <DankPyon_StrawBale1x2c.label>fardo de paja</DankPyon_StrawBale1x2c.label>
+  <DankPyon_StrawBale1x2c.description>Un montón de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_StrawBale1x2c.description>
+
+  <DankPyon_StrawBale2x2c.label>fardo de paja (2x2)</DankPyon_StrawBale2x2c.label>
+  <DankPyon_StrawBale2x2c.description>Una pila de heno apilada para ahorrar espacio.</DankPyon_StrawBale2x2c.description>
+
+  <DankPyon_FlaxBale1x2c.label>fardo de lino</DankPyon_FlaxBale1x2c.label>
+  <DankPyon_FlaxBale1x2c.description>Un montón de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_FlaxBale1x2c.description>
+
+  <DankPyon_FlaxBale2x2c.label>fardo de lino (2x2)</DankPyon_FlaxBale2x2c.label>
+  <DankPyon_FlaxBale2x2c.description>Una pila de lino para ahorrar espacio.</DankPyon_FlaxBale2x2c.description>
+
+  <DankPyon_HayPile1x2c.label>fardo de heno</DankPyon_HayPile1x2c.label>
+  <DankPyon_HayPile1x2c.description>Un montón de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_HayPile1x2c.description>
+
+  <DankPyon_HayBale2x2c.label>fardo de heno (2x2)</DankPyon_HayBale2x2c.label>
+  <DankPyon_HayBale2x2c.description>Un montón de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_HayBale2x2c.description>
+
+  <DankPyon_StrawPile1x2c.label>fardo de paja</DankPyon_StrawPile1x2c.label>
+  <DankPyon_StrawPile1x2c.description>Un montón de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_StrawPile1x2c.description>
+
+  <DankPyon_FlaxPile1x2c.label>montón de lino</DankPyon_FlaxPile1x2c.label>
+  <DankPyon_FlaxPile1x2c.description>Un montón de paja, lino y heno, diseñado para ahorrar espacio.</DankPyon_FlaxPile1x2c.description>
+
+  <!-- Ingots -->
+
+  <DankPyon_IronIngots1x1c.label>pila de lingotes de hierro (1x1)</DankPyon_IronIngots1x1c.label>
+  <DankPyon_IronIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_IronIngots1x1c.description>
+
+  <DankPyon_IronIngots1x2c.label>pila de lingotes de hierro (1x2)</DankPyon_IronIngots1x2c.label>
+  <DankPyon_IronIngots1x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_IronIngots1x2c.description>
+
+  <DankPyon_IronIngots2x2c.label>pila de lingotes de hierro (2x2)</DankPyon_IronIngots2x2c.label>
+  <DankPyon_IronIngots2x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_IronIngots2x2c.description>
+
+  <DankPyon_SteelIngots1x1c.label>pila de lingotes de acero (1x1)</DankPyon_SteelIngots1x1c.label>
+  <DankPyon_SteelIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SteelIngots1x1c.description>
+
+  <DankPyon_SteelIngots1x2c.label>pila de lingotes de acero (1x2)</DankPyon_SteelIngots1x2c.label>
+  <DankPyon_SteelIngots1x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SteelIngots1x2c.description>
+
+  <DankPyon_SteelIngots2x2c.label>pila de lingotes de acero (2x2)</DankPyon_SteelIngots2x2c.label>
+  <DankPyon_SteelIngots2x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SteelIngots2x2c.description>
+
+  <DankPyon_SilverIngots1x1c.label>pila de lingotes de plata (1x1)</DankPyon_SilverIngots1x1c.label>
+  <DankPyon_SilverIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SilverIngots1x1c.description>
+
+  <DankPyon_SilverIngots1x2c.label>pila de lingotes de plata (1x2)</DankPyon_SilverIngots1x2c.label>
+  <DankPyon_SilverIngots1x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SilverIngots1x2c.description>
+
+  <DankPyon_SilverIngots2x2c.label>pila de lingotes de plata (2x2)</DankPyon_SilverIngots2x2c.label>
+  <DankPyon_SilverIngots2x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_SilverIngots2x2c.description>
+
+  <DankPyon_GoldIngots1x1c.label>pila de lingotes de oro (1x1)</DankPyon_GoldIngots1x1c.label>
+  <DankPyon_GoldIngots1x1c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_GoldIngots1x1c.description>
+
+  <DankPyon_GoldIngots1x2c.label>pila de lingotes de oro (1x2)</DankPyon_GoldIngots1x2c.label>
+  <DankPyon_GoldIngots1x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_GoldIngots1x2c.description>
+
+  <DankPyon_GoldIngots2x2c.label>pila de lingotes de oro (2x2)</DankPyon_GoldIngots2x2c.label>
+  <DankPyon_GoldIngots2x2c.description>Lingotes apilados eficientemente para ahorrar más espacio.</DankPyon_GoldIngots2x2c.description>
+
+  <DankPyon_Plasteel1x1c.label>pila de plastiacero (1x1)</DankPyon_Plasteel1x1c.label>
+  <DankPyon_Plasteel1x1c.description>Plastiacero apilado eficientemente para ahorrar más espacio.</DankPyon_Plasteel1x1c.description>
+
+  <DankPyon_Plasteel1x2c.label>pila de plastiacero (1x2)</DankPyon_Plasteel1x2c.label>
+  <DankPyon_Plasteel1x2c.description>Plastiacero apilado eficientemente para ahorrar más espacio.</DankPyon_Plasteel1x2c.description>
+
+  <DankPyon_Plasteel2x2c.label>pila de plastiacero (2x2)</DankPyon_Plasteel2x2c.label>
+  <DankPyon_Plasteel2x2c.description>Plastiacero apilado eficientemente para ahorrar más espacio.</DankPyon_Plasteel2x2c.description>
+
+  <!-- Carts -->
+
+  <DankPyon_Storage_Cart_Empty.label>carro vacío</DankPyon_Storage_Cart_Empty.label>
+  <DankPyon_Storage_Cart_Empty.description>Un carro que puede llevar curiosidades, artesanías y mercancías a través de la dura tierra del borde del mundo. Puede ser usado para almacenar objetos.</DankPyon_Storage_Cart_Empty.description>
+
+  <DankPyon_Storage_Cart_Assorted.label>carro surtido</DankPyon_Storage_Cart_Assorted.label>
+  <DankPyon_Storage_Cart_Assorted.description>Un carro que puede llevar curiosidades, artesanías y mercancías a través de la dura tierra del borde del mundo. Puede ser usado para almacenar objetos.</DankPyon_Storage_Cart_Assorted.description>
+
+  <DankPyon_Storage_Cart_Ore.label>carro de mineral</DankPyon_Storage_Cart_Ore.label>
+  <DankPyon_Storage_Cart_Ore.description>Un carro confiable que puede transportar minerales a través de esta tierra implacable del borde del mundo. Puede usarse para almacenar artículos.</DankPyon_Storage_Cart_Ore.description>
+
+  <DankPyon_Storage_Cart_PlantRaw.label>carro con plantas</DankPyon_Storage_Cart_PlantRaw.label>
+  <DankPyon_Storage_Cart_PlantRaw.description>Un carro confiable que puede transportar plantas crudas a través de esta tierra implacable del borde del mundo. Puede usarse para almacenar artículos.</DankPyon_Storage_Cart_PlantRaw.description>
+
+  <DankPyon_Storage_Cart_Textiles.label>carro con textiles</DankPyon_Storage_Cart_Textiles.label>
+  <DankPyon_Storage_Cart_Textiles.description>Un carro confiable que puede transportar textiles a través de esta tierra implacable del borde del mundo. Puede usarse para almacenar artículos.</DankPyon_Storage_Cart_Textiles.description>
+
+  <DankPyon_Storage_Cart_RawWood.label>carro de madera al por mayor</DankPyon_Storage_Cart_RawWood.label>
+  <DankPyon_Storage_Cart_RawWood.description>Un carro confiable que puede transportar madera en bruto a través de esta tierra implacable del borde del mundo. Puede usarse para almacenar artículos.</DankPyon_Storage_Cart_RawWood.description>
+
+  <DankPyon_IceCellar.label>sótano de hielo</DankPyon_IceCellar.label>
   <DankPyon_IceCellar.description>El sótano se utiliza para el almacenamiento adecuado de bloques de hielo y evita que se derritan.</DankPyon_IceCellar.description>
 
 </LanguageData>

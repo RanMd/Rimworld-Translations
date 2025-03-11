@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Leather_Rox.label>Cuero de Rox</DankPyon_Leather_Rox.label>
-  <DankPyon_Leather_Rox.description>El legendario cuero de un buey, hecho de la piel de uno de estos poderosos animales. Aunque en su forma cruda es algo áspero, nadie puede negar sus increíbles capacidades de aislamiento debido a la pura densidad del pelo de Rox. La misma densidad y la composición natural lo hacen sorprendentemente difícil de incendiar y evitan que el oxígeno llegue a las brasas ardientes en la piel. Sin embargo, es un material pesado con el que trabajar.</DankPyon_Leather_Rox.description>
-  <DankPyon_Leather_Griffon.label>Cuero de Grifo</DankPyon_Leather_Griffon.label>
-  <DankPyon_Leather_Griffon.description>El legendario cuero de un grifo, hecho de la piel de uno de estos poderosos animales. Posee una mezcla única de fuerza y flexibilidad, impregnada de la majestuosa aura de la criatura. Con sus patrones intrincados y su durabilidad excepcional, el cuero de grifo es apreciado por los artesanos por su capacidad para crear prendas y productos de calidad y prestigio incomparables.</DankPyon_Leather_Griffon.description>
-  <DankPyon_Leather_Direwolf.label>Cuero de lobo</DankPyon_Leather_Direwolf.label>
-  <DankPyon_Leather_Direwolf.description>Una piel fuerte y peluda, desollada de un lobo sombrío malvado. Más dura que la piel de lobo normal y bien aislada contra el frío.</DankPyon_Leather_Direwolf.description>
-  <DankPyon_Leather_DireBoar.label>Cuero de jabalí</DankPyon_Leather_DireBoar.label>
-  <DankPyon_Leather_DireBoar.description>Una piel fuerte y peluda, desollada de un jabalí sombrío malvado. Más dura que la piel de jabalí normal y bien aislada contra el frío.</DankPyon_Leather_DireBoar.description>
-  <DankPyon_Leather_Hyena.label>Piel de hiena</DankPyon_Leather_Hyena.label>
-  <DankPyon_Leather_Hyena.description>Una piel suave y peluda, tomada de una hiena. Es difícil de perforar y bien aislada contra el calor.</DankPyon_Leather_Hyena.description>
-  <DankPyon_Leather_Troll.label>Cuero de troll</DankPyon_Leather_Troll.label>
-  <DankPyon_Leather_Troll.description>Piel de troll curtida, seca y raspada.</DankPyon_Leather_Troll.description>
+
+  <!-- Super leathers -->
+
   <DankPyon_Leather_Daer.label>Cuero de Daer</DankPyon_Leather_Daer.label>
   <DankPyon_Leather_Daer.description>El legendario cuero de un Daer, hecho de la piel de uno de estos poderosos animales. Aunque en su forma cruda es algo áspero, nadie puede negar sus increíbles capacidades de aislamiento, que se deben a la pura densidad del pelo del Daer. La misma densidad y composición natural lo hacen sorprendentemente difícil de incendiar y evitan que el oxígeno llegue a las brasas ardientes en la piel. Sin embargo, es un material pesado con el que trabajar.</DankPyon_Leather_Daer.description>
+
   <DankPyon_Leather_Lindwurm.label>Escamas de lindworm</DankPyon_Leather_Lindwurm.label>
   <DankPyon_Leather_Lindwurm.description>Una amplia y grande escama verde que tiñe la luz reflejada de esmeralda. El material es tanto duradero como elegante y atrae miradas envidiosas.</DankPyon_Leather_Lindwurm.description>
+
+  <DankPyon_Leather_Rox.label>Cuero de Rox</DankPyon_Leather_Rox.label>
+  <DankPyon_Leather_Rox.description>El legendario cuero de un buey, hecho de la piel de uno de estos poderosos animales. Aunque en su forma cruda es algo áspero, nadie puede negar sus increíbles capacidades de aislamiento debido a la pura densidad del pelo de Rox. La misma densidad y la composición natural lo hacen sorprendentemente difícil de incendiar y evitan que el oxígeno llegue a las brasas ardientes en la piel. Sin embargo, es un material pesado con el que trabajar.</DankPyon_Leather_Rox.description>
+
+  <DankPyon_Leather_Griffon.label>Cuero de Grifo</DankPyon_Leather_Griffon.label>
+  <DankPyon_Leather_Griffon.description>El legendario cuero de un grifo, hecho de la piel de uno de estos poderosos animales. Posee una mezcla única de fuerza y flexibilidad, impregnada de la majestuosa aura de la criatura. Con sus patrones intrincados y su durabilidad excepcional, el cuero de grifo es apreciado por los artesanos por su capacidad para crear prendas y productos de calidad y prestigio incomparables.</DankPyon_Leather_Griffon.description>
+
+  <DankPyon_Leather_Direwolf.label>Cuero de lobo</DankPyon_Leather_Direwolf.label>
+  <DankPyon_Leather_Direwolf.description>Una piel fuerte y peluda, desollada de un lobo sombrío malvado. Más dura que la piel de lobo normal y bien aislada contra el frío.</DankPyon_Leather_Direwolf.description>
+
+  <DankPyon_Leather_DireBoar.label>Cuero de jabalí</DankPyon_Leather_DireBoar.label>
+  <DankPyon_Leather_DireBoar.description>Una piel fuerte y peluda, desollada de un jabalí sombrío malvado. Más dura que la piel de jabalí normal y bien aislada contra el frío.</DankPyon_Leather_DireBoar.description>
+
+  <DankPyon_Leather_Hyena.label>Piel de hiena</DankPyon_Leather_Hyena.label>
+  <DankPyon_Leather_Hyena.description>Una piel suave y peluda, tomada de una hiena. Es difícil de perforar y bien aislada contra el calor.</DankPyon_Leather_Hyena.description>
+
+  <DankPyon_Leather_Troll.label>Cuero de troll</DankPyon_Leather_Troll.label>
+  <DankPyon_Leather_Troll.description>Piel de troll curtida, seca y raspada.</DankPyon_Leather_Troll.description>
+
+  <!-- Wool -->
+
   <DankPyon_WoolRox.label>Lana de Rox</DankPyon_WoolRox.label>
   <DankPyon_WoolRox.description>Gruesa, áspera y muy bien aislada. La ropa de lana de Rox puede mantener el cuerpo caliente incluso en condiciones muy frías.</DankPyon_WoolRox.description>
+
 </LanguageData>

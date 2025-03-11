@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_AncientReliquaryEmpty.label>Reliquia Antigua Vacía</DankPyon_AncientReliquaryEmpty.label>
-  <DankPyon_AncientReliquaryEmpty.description>Un mueble ceremonial que protege y exhibe una reliquia.</DankPyon_AncientReliquaryEmpty.description>
-  <DankPyon_AncientReliquary.label>Reliquia Antigua</DankPyon_AncientReliquary.label>
+
+  <DankPyon_AncientReliquaryEmpty.label>reliquia antigua vacía</DankPyon_AncientReliquaryEmpty.label>
+  <DankPyon_AncientReliquaryEmpty.description>Un edificio sagrado para proteger y exhibir reliquias.</DankPyon_AncientReliquaryEmpty.description>
+
+  <DankPyon_AncientReliquary.label>reliquia antigua</DankPyon_AncientReliquary.label>
+  <DankPyon_AncientReliquary.description>Un edificio sagrado para proteger y exhibir reliquias.</DankPyon_AncientReliquary.description>
+
 </LanguageData>

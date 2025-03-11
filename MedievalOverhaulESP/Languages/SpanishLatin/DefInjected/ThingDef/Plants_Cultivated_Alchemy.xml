@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Plant_Mindwort.label>Hierba mental</DankPyon_Plant_Mindwort.label>
+
+  <!-- Flowers -->
+
+  <DankPyon_Plant_Mindwort.label>hierba mental</DankPyon_Plant_Mindwort.label>
   <DankPyon_Plant_Mindwort.description>Una planta rara conocida por sus propiedades estimulantes, utilizada en tónicos para mejorar la concentración y la claridad mental.</DankPyon_Plant_Mindwort.description>
-  <DankPyon_Plant_Poppy.label>Amapola</DankPyon_Plant_Poppy.label>
+
+  <DankPyon_Plant_Poppy.label>amapola</DankPyon_Plant_Poppy.label>
   <DankPyon_Plant_Poppy.description>Una flor vibrante con propiedades sedantes. Sus semillas se usan en remedios tradicionales para aliviar el dolor.</DankPyon_Plant_Poppy.description>
-  <DankPyon_Plant_Fleawort.label>Hierba pulguera</DankPyon_Plant_Fleawort.label>
+
+  <DankPyon_Plant_Fleawort.label>hierba pulguera</DankPyon_Plant_Fleawort.label>
   <DankPyon_Plant_Fleawort.description>Una planta resistente, comúnmente utilizada en preparaciones medicinales para aliviar picaduras y tratar afecciones de la piel.</DankPyon_Plant_Fleawort.description>
-  <DankPyon_Plant_FlyAgaric.label>Amanita muscaria</DankPyon_Plant_FlyAgaric.label>
+
+  <DankPyon_Plant_FlyAgaric.label>amanita muscaria</DankPyon_Plant_FlyAgaric.label>
   <DankPyon_Plant_FlyAgaric.description>Un hongo de colores brillantes con efectos alucinógenos. Puede ser venenoso si se consume sin el debido tratamiento.</DankPyon_Plant_FlyAgaric.description>
+
 </LanguageData>

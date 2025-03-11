@@ -1,81 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Headgear_RedBandana.label>Bandana Roja</DankPyon_Headgear_RedBandana.label>
+
+  <DankPyon_Headgear_RedBandana.label>bandana roja</DankPyon_Headgear_RedBandana.label>
   <DankPyon_Headgear_RedBandana.description>Un simple pañuelo atado con una larga tira de tela rojo oscuro. Proporciona un poco de calor y acolchado para la noche.</DankPyon_Headgear_RedBandana.description>
-  <DankPyon_Headgear_Hood.label>Capucha</DankPyon_Headgear_Hood.label>
+
+  <DankPyon_Headgear_Hood.label>capucha</DankPyon_Headgear_Hood.label>
   <DankPyon_Headgear_Hood.description>Una capucha drapeada que cubre la cabeza y las orejas.</DankPyon_Headgear_Hood.description>
-  <DankPyon_Headgear_coif.label>Gorro</DankPyon_Headgear_coif.label>
+
+  <DankPyon_Headgear_coif.label>gorro</DankPyon_Headgear_coif.label>
   <DankPyon_Headgear_coif.description>Un gorro ajustado y ligeramente acolchado, que a menudo se usa debajo de una cota de malla o un casco, o solo para calentarse en climas fríos.</DankPyon_Headgear_coif.description>
-  <DankPyon_Headgear_ArmingCap.label>Gorro Acolchado</DankPyon_Headgear_ArmingCap.label>
+
+  <DankPyon_Headgear_ArmingCap.label>gorro acolchado</DankPyon_Headgear_ArmingCap.label>
   <DankPyon_Headgear_ArmingCap.description>Un gorro grueso y acolchado que se usa más comúnmente debajo de cascos más pesados y proporciona una capa adicional de protección. Bastante aislante y proporciona un poco de protección contra impactos por sí solo.</DankPyon_Headgear_ArmingCap.description>
-  <DankPyon_Headgear_FullArmingCap.label>Gorro Completamente Acolchado</DankPyon_Headgear_FullArmingCap.label>
+
+  <DankPyon_Headgear_FullArmingCap.label>gorro completamente acolchado</DankPyon_Headgear_FullArmingCap.label>
   <DankPyon_Headgear_FullArmingCap.description>Una capucha gruesa y acolchada que se usa más comúnmente debajo de cascos más pesados y proporciona una capa adicional de protección. Muy aislante y proporciona un poco de protección contra impactos por sí solo.</DankPyon_Headgear_FullArmingCap.description>
-  <DankPyon_Headgear_CultistHood.label>Capucha de Cultista</DankPyon_Headgear_CultistHood.label>
+
+  <DankPyon_Headgear_CultistHood.label>capucha de cultista</DankPyon_Headgear_CultistHood.label>
   <DankPyon_Headgear_CultistHood.description>Un gorro grueso y acolchado que se usa más comúnmente debajo de cascos más pesados y proporciona una capa adicional de protección. Bastante aislante y proporciona un poco de protección contra impactos por sí solo.</DankPyon_Headgear_CultistHood.description>
-  <DankPyon_Headgear_ZweihandersHat.label>Sombrero de Zweihänder</DankPyon_Headgear_ZweihandersHat.label>
+
+  <DankPyon_Headgear_ZweihandersHat.label>sombrero de zweihänder</DankPyon_Headgear_ZweihandersHat.label>
   <DankPyon_Headgear_ZweihandersHat.description>Un sombrero grueso y adornado. Solo es protector debido a su tamaño y forma, pero se usa principalmente como decoración y símbolo de estatus.</DankPyon_Headgear_ZweihandersHat.description>
-  <!-- ==================== Cascos Acolchados ==================== -->
-  <DankPyon_Headgear_PaddedNasalHelmet.label>Casco Nasal Acolchado</DankPyon_Headgear_PaddedNasalHelmet.label>
+
+  <!-- Padded Helmets -->
+
+  <DankPyon_Headgear_PaddedNasalHelmet.label>casco nasal acolchado</DankPyon_Headgear_PaddedNasalHelmet.label>
   <DankPyon_Headgear_PaddedNasalHelmet.description>Un casco medieval robusto que cubre toda la cabeza. Aunque ofrece una protección fantástica, la visión está muy restringida y por lo tanto solo se recomienda para infantería de primera línea, especialmente para aquellos que no llevan escudos.</DankPyon_Headgear_PaddedNasalHelmet.description>
-  <DankPyon_Headgear_PaddedKettleHelmet.label>Casco de Tetera Acolchado</DankPyon_Headgear_PaddedKettleHelmet.label>
+
+  <DankPyon_Headgear_PaddedKettleHelmet.label>casco de tetera acolchado</DankPyon_Headgear_PaddedKettleHelmet.label>
   <DankPyon_Headgear_PaddedKettleHelmet.description>Un casco de tetera de ala ancha emparejado con un gorro grueso y acolchado que proporciona una buena protección para la cabeza.</DankPyon_Headgear_PaddedKettleHelmet.description>
-  <DankPyon_Headgear_PaddedFlatTopHelmet.label>Casco de Topo Plano Acolchado</DankPyon_Headgear_PaddedFlatTopHelmet.label>
+
+  <DankPyon_Headgear_PaddedFlatTopHelmet.label>casco de topo plano acolchado</DankPyon_Headgear_PaddedFlatTopHelmet.label>
   <DankPyon_Headgear_PaddedFlatTopHelmet.description>Un gorro grueso y acolchado, emparejado con un simple casco nasal plano. Proporciona una buena protección para la cabeza y también es muy aislante en climas fríos.</DankPyon_Headgear_PaddedFlatTopHelmet.description>
-  <!-- ==================== Cadena ==================== -->
-  <DankPyon_Headgear_ChainCoif.label>Gorro de Cadena</DankPyon_Headgear_ChainCoif.label>
+
+  <!-- Chain -->
+
+  <DankPyon_Headgear_ChainCoif.label>gorro de cadena</DankPyon_Headgear_ChainCoif.label>
   <DankPyon_Headgear_ChainCoif.description>Un gorro grueso forjado de cadenas de metal que protege excelentemente la cabeza contra ataques de corte y empuje.</DankPyon_Headgear_ChainCoif.description>
-  <DankPyon_Headgear_ChainCoifClosed.label>Gorro de Cadena Cerrado</DankPyon_Headgear_ChainCoifClosed.label>
+
+  <DankPyon_Headgear_ChainCoifClosed.label>gorro de cadena cerrado</DankPyon_Headgear_ChainCoifClosed.label>
   <DankPyon_Headgear_ChainCoifClosed.description>Un gorro grueso forjado de cadenas de metal con protección adicional que refuerza la parte inferior. Proporciona una excelente protección para toda la cabeza contra ataques de corte y empuje.</DankPyon_Headgear_ChainCoifClosed.description>
-  <DankPyon_Headgear_ChainCoifFull.label>Gorro de Cadena Completo</DankPyon_Headgear_ChainCoifFull.label>
+
+  <DankPyon_Headgear_ChainCoifFull.label>gorro de cadena completo</DankPyon_Headgear_ChainCoifFull.label>
   <DankPyon_Headgear_ChainCoifFull.description>Una capucha gruesa forjada de cadenas de metal con una protección adicional para la nariz hecha de una placa de metal, que protege casi completamente la cara y la cabeza. Hace que sea un poco difícil ver, pero por lo demás proporciona una excelente protección contra cortes.</DankPyon_Headgear_ChainCoifFull.description>
-  <!-- ==================== Casco Pesado ==================== -->
-  <DankPyon_Headgear_ChainNasalHelmet.label>Casco Nasal de Cadena</DankPyon_Headgear_ChainNasalHelmet.label>
-  <DankPyon_Headgear_ChainNasalHelmet.description>Una cofia de malla combinada con un simple casco nasal redondo, ofrece una excelente protección para la cabeza.</DankPyon_Headgear_ChainNasalHelmet.description>
-  <DankPyon_Headgear_ChainNasalRedHelmet.label>Casco Nasal de Cadena (Bandana)</DankPyon_Headgear_ChainNasalRedHelmet.label>
-  <DankPyon_Headgear_ChainNasalRedHelmet.description>Una variación del casco de malla, fabricado como una cofia de malla combinada con un casco nasal. Ofrece la misma protección para la cabeza, pero la banda roja alrededor de la frente denota autoridad.</DankPyon_Headgear_ChainNasalRedHelmet.description>
-  <DankPyon_Headgear_ChainKettleHelmet.label>Casco de Tetera de Cadena</DankPyon_Headgear_ChainKettleHelmet.label>
-  <DankPyon_Headgear_ChainKettleHelmet.description>Un casco de tetera con un borde ancho y una cofia de malla que ofrece una excelente protección para la cabeza y proporciona sombra agradable del sol.</DankPyon_Headgear_ChainKettleHelmet.description>
-  <DankPyon_Headgear_Chain_FlatTopHelmet.label>Casco de Cadena de Cima Plana</DankPyon_Headgear_Chain_FlatTopHelmet.label>
-  <DankPyon_Headgear_Chain_FlatTopHelmet.description>Un robusto casco medieval que cubre toda la cabeza. Aunque ofrece una protección fantástica, la visión está muy restringida y por lo tanto solo se recomienda para infantería de primera línea, especialmente para aquellos que no llevan escudos.</DankPyon_Headgear_Chain_FlatTopHelmet.description>
-  <DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>Casco de Cadena de Cima Plana Cerrado</DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>
-  <DankPyon_Headgear_ClosedChain_FlatTopHelmet.description>Un robusto casco medieval que cubre toda la cabeza. Aunque ofrece una protección fantástica, la visión está muy restringida y por lo tanto solo se recomienda para infantería de primera línea, especialmente para aquellos que no llevan escudos.</DankPyon_Headgear_ClosedChain_FlatTopHelmet.description>
-  <DankPyon_Headgear_ChainClosedFlatTopHelmet.label>Casco de Cadena de Cima Plana Cerrado Reforzado</DankPyon_Headgear_ChainClosedFlatTopHelmet.label>
-  <DankPyon_Headgear_ChainClosedFlatTopHelmet.description>Un diseño temprano del casco integral, compuesto por un casco de cima plana reforzado con una placa facial adicional y una cofia de malla. Ofrece una excelente protección para toda la cabeza, pero dificulta la visión y la respiración.</DankPyon_Headgear_ChainClosedFlatTopHelmet.description>
-  <DankPyon_Headgear_HeavyBarbrute.label>Barbuta Pesada</DankPyon_Headgear_HeavyBarbrute.label>
+
+  <!-- Heavy Helm -->
+
+  <DankPyon_Headgear_ChainNasalHelmet.label>yelmo nasal de malla</DankPyon_Headgear_ChainNasalHelmet.label>
+  <DankPyon_Headgear_ChainNasalHelmet.description>Una cofia de malla combinada con un simple yelmo nasal redondo, ofrece una excelente protección para la cabeza.</DankPyon_Headgear_ChainNasalHelmet.description>
+
+  <DankPyon_Headgear_ChainNasalRedHelmet.label>yelmo nasal de malla (bandana)</DankPyon_Headgear_ChainNasalRedHelmet.label>
+  <DankPyon_Headgear_ChainNasalRedHelmet.description>Una variación del yelmo de malla, fabricado como una cofia de malla combinada con un yelmo nasal. Ofrece la misma protección para la cabeza, pero la banda roja alrededor de la frente denota autoridad.</DankPyon_Headgear_ChainNasalRedHelmet.description>
+
+  <DankPyon_Headgear_ChainKettleHelmet.label>yelmo de tetera de malla</DankPyon_Headgear_ChainKettleHelmet.label>
+  <DankPyon_Headgear_ChainKettleHelmet.description>Un yelmo de tetera con un borde ancho y una cofia de malla que ofrece una excelente protección para la cabeza y proporciona sombra agradable del sol.</DankPyon_Headgear_ChainKettleHelmet.description>
+
+  <DankPyon_Headgear_Chain_FlatTopHelmet.label>yelmo de malla plano</DankPyon_Headgear_Chain_FlatTopHelmet.label>
+  <DankPyon_Headgear_Chain_FlatTopHelmet.description>Un robusto yelmo medieval que cubre toda la cabeza. Aunque ofrece una protección fantástica, la visión está muy restringida y por lo tanto solo se recomienda para infantería de primera línea, especialmente para aquellos que no llevan escudos.</DankPyon_Headgear_Chain_FlatTopHelmet.description>
+
+  <DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>yelmo de malla plano cerrado</DankPyon_Headgear_ClosedChain_FlatTopHelmet.label>
+  <DankPyon_Headgear_ClosedChain_FlatTopHelmet.description>Un robusto yelmo medieval que cubre toda la cabeza. Aunque ofrece una protección fantástica, la visión está muy restringida y por lo tanto solo se recomienda para infantería de primera línea, especialmente para aquellos que no llevan escudos.</DankPyon_Headgear_ClosedChain_FlatTopHelmet.description>
+
+  <DankPyon_Headgear_ChainClosedFlatTopHelmet.label>yelmo de malla plano cerrado reforzado</DankPyon_Headgear_ChainClosedFlatTopHelmet.label>
+  <DankPyon_Headgear_ChainClosedFlatTopHelmet.description>Un diseño temprano del yelmo integral, compuesto por un yelmo de cima plana reforzado con una placa facial adicional y una cofia de malla. Ofrece una excelente protección para toda la cabeza, pero dificulta la visión y la respiración.</DankPyon_Headgear_ChainClosedFlatTopHelmet.description>
+
+  <DankPyon_Headgear_HeavyBarbrute.label>barbuta pesada</DankPyon_Headgear_HeavyBarbrute.label>
   <DankPyon_Headgear_HeavyBarbrute.description>Una impresionante barbuta pesada, fabricada con acero robusto y pesado. Este diseño, conocido por su durabilidad excepcional, ofrece una protección significativa y mantiene una presencia imponente en el campo de batalla.</DankPyon_Headgear_HeavyBarbrute.description>
-  <DankPyon_Headgear_OpenBascinet.label>Barbuta Abierta</DankPyon_Headgear_OpenBascinet.label>
+
+  <DankPyon_Headgear_OpenBascinet.label>barbuta abierta</DankPyon_Headgear_OpenBascinet.label>
   <DankPyon_Headgear_OpenBascinet.description>La barbuta abierta tiene una forma cónica con una visera retráctil, lo que permite versatilidad en términos de protección y visión. Ofrece protección para la cabeza y al mismo tiempo mejora la respirabilidad y la visión en comparación con los cascos completamente cerrados. Aunque sacrifica algo de protección, su diseño abierto proporciona mayor comodidad y libertad de movimiento para el portador en escenarios de combate.</DankPyon_Headgear_OpenBascinet.description>
-  <DankPyon_Headgear_ZweihanderHelm.label>Casco de Zweihander</DankPyon_Headgear_ZweihanderHelm.label>
-  <DankPyon_Headgear_ZweihanderHelm.description>Un robusto casco de metal adornado con un gran sombrero de plumas en colores extravagantes para mostrar el estatus propio.</DankPyon_Headgear_ZweihanderHelm.description>
-  <DankPyon_Headgear_ZweihanderHelmAmboise.label>Casco de Zweihander (Amboise)</DankPyon_Headgear_ZweihanderHelmAmboise.label>
-  <DankPyon_Headgear_ZweihanderHelmSoren.label>Casco de Zweihander (Soren)</DankPyon_Headgear_ZweihanderHelmSoren.label>
-  <DankPyon_Headgear_ZweihanderHelmOswin.label>Casco de Zweihander (Oswin)</DankPyon_Headgear_ZweihanderHelmOswin.label>
-  <DankPyon_Headgear_ZweihanderHelmHesse.label>Casco de Zweihander (Hesse)</DankPyon_Headgear_ZweihanderHelmHesse.label>
-  <!-- ==================== Cascos de Placa ==================== -->
-  <DankPyon_Headgear_ClosedBascinetHelmet.label>Barbuta Cerrada</DankPyon_Headgear_ClosedBascinetHelmet.label>
+
+  <DankPyon_Headgear_ZweihanderHelm.label>yelmo de zweihander</DankPyon_Headgear_ZweihanderHelm.label>
+  <DankPyon_Headgear_ZweihanderHelm.description>Un robusto yelmo de metal adornado con un gran sombrero de plumas en colores extravagantes para mostrar el estatus propio.</DankPyon_Headgear_ZweihanderHelm.description>
+
+  <DankPyon_Headgear_ZweihanderHelmAmboise.label>yelmo de zweihander (amboise)</DankPyon_Headgear_ZweihanderHelmAmboise.label>
+  <DankPyon_Headgear_ZweihanderHelmAmboise.description>Un yelmo de metal resistente adornado con un gran sombrero de plumas coloridas para mostrar el estatus de una persona. Este yelmo proporciona una excelente protección para toda la cabeza, pero reduce significativamente la precisión al disparar.\n\nEl color del yelmo simboliza a la familia Amboise.</DankPyon_Headgear_ZweihanderHelmAmboise.description>
+
+  <DankPyon_Headgear_ZweihanderHelmSoren.label>yelmo de zweihander (soren)</DankPyon_Headgear_ZweihanderHelmSoren.label>
+  <DankPyon_Headgear_ZweihanderHelmSoren.description>Un yelmo de metal robusto adornado con un gran sombrero de plumas sueltas y coloridas para mostrar el estatus de una persona. Este yelmo proporciona una excelente protección para toda la cabeza, pero afecta significativamente la precisión del disparo.\n\nEl color del yelmo simboliza la familia Soren.</DankPyon_Headgear_ZweihanderHelmSoren.description>
+
+  <DankPyon_Headgear_ZweihanderHelmOswin.label>yelmo de zweihander (oswin)</DankPyon_Headgear_ZweihanderHelmOswin.label>
+  <DankPyon_Headgear_ZweihanderHelmOswin.description>Un yelmo de metal robusto adornado con un gran sombrero de plumas sueltas y coloridas para mostrar el estatus de una persona. Este yelmo proporciona una excelente protección para toda la cabeza, pero afecta significativamente la precisión del disparo.\n\nEl color del yelmo simboliza la familia Oswin.</DankPyon_Headgear_ZweihanderHelmOswin.description>
+
+  <DankPyon_Headgear_ZweihanderHelmHesse.label>yelmo de zweihander (hesse)</DankPyon_Headgear_ZweihanderHelmHesse.label>
+  <DankPyon_Headgear_ZweihanderHelmHesse.description>Un yelmo de metal robusto adornado con un gran sombrero de plumas sueltas y coloridas para mostrar el estatus de una persona. Este yelmo proporciona una excelente protección para toda la cabeza, pero afecta significativamente la precisión del disparo.\n\nEl color del yelmo simboliza la familia Hesse.</DankPyon_Headgear_ZweihanderHelmHesse.description>
+
+  <!-- Silver helm -->
+
+  <DankPyon_Headgear_ClosedBascinetHelmet.label>barbuta cerrada</DankPyon_Headgear_ClosedBascinetHelmet.label>
   <DankPyon_Headgear_ClosedBascinetHelmet.description>Una barbuta de placa gruesa, combinada con una visera redonda, una cofia de malla y acolchado. Ofrece protección completa para toda la cabeza, pero dificulta la visión y la respiración.</DankPyon_Headgear_ClosedBascinetHelmet.description>
-  <DankPyon_Headgear_WolfBascinet.label>Barbuta de Costillas de Lobo</DankPyon_Headgear_WolfBascinet.label>
+
+  <DankPyon_Headgear_WolfBascinet.label>barbuta de costillas de lobo</DankPyon_Headgear_WolfBascinet.label>
   <DankPyon_Headgear_WolfBascinet.description>Una barbuta de placa gruesa, combinada con una visera redonda, una cofia de malla y acolchado. Ofrece protección completa para toda la cabeza, pero dificulta la visión y la respiración.</DankPyon_Headgear_WolfBascinet.description>
-  <DankPyon_Headgear_KlappvisorBascinet.label>Barbuta con Visor Abatible</DankPyon_Headgear_KlappvisorBascinet.label>
+
+  <DankPyon_Headgear_KlappvisorBascinet.label>barbuta con visor</DankPyon_Headgear_KlappvisorBascinet.label>
   <DankPyon_Headgear_KlappvisorBascinet.description>Una barbuta de placa gruesa, combinada con una visera redonda, una cofia de malla y acolchado. Ofrece protección completa para toda la cabeza, pero dificulta la visión y la respiración.</DankPyon_Headgear_KlappvisorBascinet.description>
-  <DankPyon_Headgear_SalletHelmet.label>Casco Sallet</DankPyon_Headgear_SalletHelmet.label>
-  <DankPyon_Headgear_SalletHelmet.description>Un casco delgado de tres piezas, compuesto por la parte superior, la visera y el protector para la cabeza y la cara. Ligero y muy protector, pero afecta significativamente la visión.</DankPyon_Headgear_SalletHelmet.description>
-  <DankPyon_Headgear_SalletBellowFace.label>Sallet Cerrado</DankPyon_Headgear_SalletBellowFace.label>
-  <DankPyon_Headgear_SalletBellowFace.description>Un casco delgado de tres piezas, compuesto por la parte superior, la visera y el protector para la cabeza y la cara. Ligero y muy protector, pero afecta significativamente la visión.</DankPyon_Headgear_SalletBellowFace.description>
-  <DankPyon_Headgear_SalletGryphon.label>Sallet de Grifo</DankPyon_Headgear_SalletGryphon.label>
-  <DankPyon_Headgear_SalletGryphon.description>Un casco delgado de tres piezas, compuesto por la parte superior, la visera y el protector para la cabeza y la cara. Ligero y muy protector, pero afecta significativamente la visión.</DankPyon_Headgear_SalletGryphon.description>
-  <DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.label>Casco de Barbuta con Visor Abatible Cerrado</DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.label>
-  <DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.description>Un simple casco de barbuta con visor abatible. Ofrece buena protección para la cabeza y la cara, pero afecta la visión al usarlo.</DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.description>
-  <DankPyon_Headgear_GreatHelm.label>Gran Casco</DankPyon_Headgear_GreatHelm.label>
-  <DankPyon_Headgear_GreatHelm.description>Un diseño temprano del casco, que se lleva sobre una capucha de tela muy acolchada. Ofrece una excelente protección para toda la cabeza, pero como la mayoría de los cascos integrales, restringe el campo de visión y la respiración al usarlo.</DankPyon_Headgear_GreatHelm.description>
-  <DankPyon_Headgear_HeraldicGreatHelm1c.label>Gran Casco Heráldico (Amboise)</DankPyon_Headgear_HeraldicGreatHelm1c.label>
-  <DankPyon_Headgear_HeraldicGreatHelm2c.label>Gran Casco Heráldico (Soren)</DankPyon_Headgear_HeraldicGreatHelm2c.label>
-  <DankPyon_Headgear_HeraldicGreatHelm3c.label>Gran Casco Heráldico (Oswin)</DankPyon_Headgear_HeraldicGreatHelm3c.label>
-  <DankPyon_Headgear_HeraldicGreatHelm4c.label>Gran Casco Heráldico (Hesse)</DankPyon_Headgear_HeraldicGreatHelm4c.label>
-  <DankPyon_Headgear_Armet.label>Armet</DankPyon_Headgear_Armet.label>
-  <DankPyon_Headgear_Armet.description>Un casco de placa finamente trabajado y ergonómicamente diseñado que protege completamente la cabeza y la cara, y está diseñado para desviar los golpes directos de manera óptima.</DankPyon_Headgear_Armet.description>
-  <DankPyon_Headgear_ArmetGilded.label>Armet Dorado</DankPyon_Headgear_ArmetGilded.label>
+
+  <DankPyon_Headgear_SalletHelmet.label>yelmo sallet</DankPyon_Headgear_SalletHelmet.label>
+  <DankPyon_Headgear_SalletHelmet.description>Un yelmo delgado de tres piezas, compuesto por la parte superior, la visera y el protector para la cabeza y la cara. Ligero y muy protector, pero afecta significativamente la visión.</DankPyon_Headgear_SalletHelmet.description>
+
+  <DankPyon_Headgear_SalletBellowFace.label>yelmo sallet cerrado</DankPyon_Headgear_SalletBellowFace.label>
+  <DankPyon_Headgear_SalletBellowFace.description>Un yelmo delgado de tres piezas, compuesto por la parte superior, la visera y el protector para la cabeza y la cara. Ligero y muy protector, pero afecta significativamente la visión.</DankPyon_Headgear_SalletBellowFace.description>
+
+  <DankPyon_Headgear_SalletGryphon.label>yelmo sallet de grifo</DankPyon_Headgear_SalletGryphon.label>
+  <DankPyon_Headgear_SalletGryphon.description>Un yelmo delgado de tres piezas, compuesto por la parte superior, la visera y el protector para la cabeza y la cara. Ligero y muy protector, pero afecta significativamente la visión.</DankPyon_Headgear_SalletGryphon.description>
+
+  <DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.label>yelmo de barbuta con visor cerrado</DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.label>
+  <DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.description>Un simple yelmo de barbuta con visor abatible. Ofrece buena protección para la cabeza y la cara, pero afecta la visión al usarlo.</DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed.description>
+
+  <DankPyon_Headgear_GreatHelm.label>gran yelmo</DankPyon_Headgear_GreatHelm.label>
+  <DankPyon_Headgear_GreatHelm.description>Un diseño temprano de un yelmo, que se lleva sobre una capucha de tela muy acolchada. Ofrece una excelente protección para toda la cabeza, pero como la mayoría de los cascos integrales, restringe el campo de visión y la respiración al usarlo.</DankPyon_Headgear_GreatHelm.description>
+
+  <DankPyon_Headgear_HeraldicGreatHelm1c.label>gran yelmo heráldico (amboise)</DankPyon_Headgear_HeraldicGreatHelm1c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm1c.description>Un yelmo completo decorado exquisitamente, usualmente usado por lanceros, campeones de torneos y familias nobles con grandes logros militares. No solo muestra el alto estatus del portador, sino que también proporciona una excelente protección para toda la cabeza, aunque reduce significativamente la precisión al disparar; además, aumenta la tolerancia al dolor y la influencia social.\n\nLos colores en este yelmo representan a la familia Amboise.</DankPyon_Headgear_HeraldicGreatHelm1c.description>
+
+  <DankPyon_Headgear_HeraldicGreatHelm2c.label>gran yelmo heráldico (soren)</DankPyon_Headgear_HeraldicGreatHelm2c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm2c.description>Un yelmo completo decorado exquisitamente, usualmente usado por lanceros, campeones de torneos y familias nobles con grandes logros militares. No solo muestra el alto estatus del portador, sino que también proporciona una excelente protección para toda la cabeza, aunque reduce significativamente la precisión al disparar; además, aumenta la tolerancia al dolor y la influencia social.\n\nLos colores en este yelmo representan a la familia Soren.</DankPyon_Headgear_HeraldicGreatHelm2c.description>
+
+  <DankPyon_Headgear_HeraldicGreatHelm3c.label>gran yelmo heráldico (oswin)</DankPyon_Headgear_HeraldicGreatHelm3c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm3c.description>Un yelmo completo decorado exquisitamente, usualmente usado por lanceros, campeones de torneos y familias nobles con grandes logros militares. No solo muestra el alto estatus del portador, sino que también proporciona una excelente protección para toda la cabeza, aunque reduce significativamente la precisión al disparar; además, aumenta la tolerancia al dolor y la influencia social.\n\nLos colores en este yelmo representan a la familia Oswin.</DankPyon_Headgear_HeraldicGreatHelm3c.description>
+
+  <DankPyon_Headgear_HeraldicGreatHelm4c.label>gran yelmo heráldico (hesse)</DankPyon_Headgear_HeraldicGreatHelm4c.label>
+  <DankPyon_Headgear_HeraldicGreatHelm4c.description>Un yelmo completo decorado exquisitamente, usualmente usado por lanceros, campeones de torneos y familias nobles con grandes logros militares. No solo muestra el alto estatus del portador, sino que también proporciona una excelente protección para toda la cabeza, aunque reduce significativamente la precisión al disparar; además, aumenta la tolerancia al dolor y la influencia social.\n\nLos colores en este yelmo representan a la familia Hesse.</DankPyon_Headgear_HeraldicGreatHelm4c.description>
+
+  <!-- Super Helmets -->
+
+  <DankPyon_Headgear_Armet.label>armet</DankPyon_Headgear_Armet.label>
+  <DankPyon_Headgear_Armet.description>Un yelmo de placas finamente trabajado y ergonómicamente diseñado que protege completamente la cabeza y la cara, y está diseñado para desviar los golpes directos de manera óptima.</DankPyon_Headgear_Armet.description>
+
+  <DankPyon_Headgear_ArmetGilded.label>armet dorado</DankPyon_Headgear_ArmetGilded.label>
   <DankPyon_Headgear_ArmetGilded.description>Un casco de placa finamente trabajado y ergonómicamente diseñado que protege completamente la cabeza y la cara, y está diseñado para desviar los golpes directos de manera óptima.</DankPyon_Headgear_ArmetGilded.description>
-  <DankPyon_Headgear_ArmetNamed.label>Armet Decorado</DankPyon_Headgear_ArmetNamed.label>
+
+  <DankPyon_Headgear_ArmetNamed.label>armet decorado</DankPyon_Headgear_ArmetNamed.label>
   <DankPyon_Headgear_ArmetNamed.description>Un antiguo armet decorado, magistralmente forjado por los herreros del antiguo imperio. Ofrece una excelente protección para la cara y le otorga una impresionante gracia.</DankPyon_Headgear_ArmetNamed.description>
+
+  <DankPyon_Headgear_Lindwurm.label>yelmo de escamas de lindwurm</DankPyon_Headgear_Lindwurm.label>
+  <DankPyon_Headgear_Lindwurm.description>Un yelmo hecho de escamas de Lindwurm. Usar este casco es una muestra de poder, ya que demuestra que han matado a un peligroso Lindwurm.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt; Este casco protege al portador de los efectos corrosivos del ácido del Lindwurm.</DankPyon_Headgear_Lindwurm.description>
+
 </LanguageData>

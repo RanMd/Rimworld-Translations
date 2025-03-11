@@ -1,91 +1,196 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Rations -->
+
   <DankPyon_MealRations.label>Raciones Empaquetadas</DankPyon_MealRations.label>
   <DankPyon_MealRations.description>Una comida empaquetada sustanciosa y nutritiva, empaquetada para su uso en situaciones de supervivencia. Tarda mucho en pudrirse, pero aún puede estropearse si se deja afuera. Ideal para aventuras.</DankPyon_MealRations.description>
+
   <DankPyon_MealRationsVegetarian.label>Macci Empaquetado</DankPyon_MealRationsVegetarian.label>
   <DankPyon_MealRationsVegetarian.description>Un pan empaquetado sustancioso y nutritivo, normalmente preparado por guardabosques. Tarda mucho en pudrirse, pero aún puede estropearse si se deja afuera. Ideal para aventuras.</DankPyon_MealRationsVegetarian.description>
+
+  <!-- Dried Meats -->
+
   <DankPyon_DriedMeat.label>Carne Seca</DankPyon_DriedMeat.label>
   <DankPyon_DriedMeat.description>Carne seca para conservar y prolongar su vida útil.</DankPyon_DriedMeat.description>
+
   <DankPyon_DriedMeat_Human.label>Carne Seca Humana</DankPyon_DriedMeat_Human.label>
   <DankPyon_DriedMeat_Human.description>Carne humana seca para conservar y prolongar su vida útil. No se rehidrata muy bien y solo los verdaderos caníbales pueden soportarlo.</DankPyon_DriedMeat_Human.description>
+
   <DankPyon_DriedMeat_Insect.label>Carne Seca de Insecto</DankPyon_DriedMeat_Insect.label>
   <DankPyon_DriedMeat_Insect.description>Carne de insecto seca para conservar y prolongar su vida útil. No se rehidrata muy bien y no es tolerada por muchos.</DankPyon_DriedMeat_Insect.description>
+
+  <DankPyon_DriedFish.label>魚肉乾</DankPyon_DriedFish.label>
+  <DankPyon_DriedFish.description>經過脫水延長保質期的乾魚肉，利於保存。</DankPyon_DriedFish.description>
+
   <DankPyon_SmokedMeat.label>Carne Ahumada</DankPyon_SmokedMeat.label>
   <DankPyon_SmokedMeat.description>Carne seca para conservar y prolongar su vida útil.</DankPyon_SmokedMeat.description>
+
   <DankPyon_SmokedMeat_Human.label>Carne Ahumada Humana</DankPyon_SmokedMeat_Human.label>
   <DankPyon_SmokedMeat_Human.description>Carne humana ahumada para conservar y prolongar su vida útil.</DankPyon_SmokedMeat_Human.description>
+
   <DankPyon_SmokedMeat_Insect.label>Carne Ahumada de Insecto</DankPyon_SmokedMeat_Insect.label>
   <DankPyon_SmokedMeat_Insect.description>Carne seca para conservar y prolongar su vida útil.</DankPyon_SmokedMeat_Insect.description>
+
+  <DankPyon_SmokedFish.label>煙燻魚肉乾</DankPyon_SmokedFish.label>
+  <DankPyon_SmokedFish.description>經過煙燻烘乾水份延長保質期的乾魚肉，利於保存。</DankPyon_SmokedFish.description>
+
+  <!-- Milk -->
+
   <DankPyon_GoatMilk.label>Leche de Cabra</DankPyon_GoatMilk.label>
   <DankPyon_GoatMilk.description>Leche de una cabra.</DankPyon_GoatMilk.description>
+
+  <DankPyon_SheepMilk.label>綿羊奶</DankPyon_SheepMilk.label>
+  <DankPyon_SheepMilk.description>羊所產的奶。</DankPyon_SheepMilk.description>
+
+  <!-- Cheese -->
+
   <DankPyon_MealCheese.label>Queso</DankPyon_MealCheese.label>
   <DankPyon_MealCheese.description>Un queso con sabor picante, que se produce mediante un proceso especial de coagulación controlada de leche animal. Es tanto un manjar por sí solo como un ingrediente versátil en las comidas.</DankPyon_MealCheese.description>
+
   <DankPyon_MealGoatCheese.label>Queso de cabra</DankPyon_MealGoatCheese.label>
   <DankPyon_MealGoatCheese.description>Un queso con sabor picante, que se produce mediante un proceso especial de coagulación controlada de leche animal. Es tanto un manjar por sí solo como un ingrediente versátil en las comidas.</DankPyon_MealGoatCheese.description>
+
   <DankPyon_MealSheepCheese.label>Queso de oveja</DankPyon_MealSheepCheese.label>
   <DankPyon_MealSheepCheese.description>Un queso con sabor picante, que se produce mediante un proceso especial de coagulación controlada de leche animal. Es tanto un manjar por sí solo como un ingrediente versátil en las comidas.</DankPyon_MealSheepCheese.description>
-  <!--============== Tier 4 Meals ===============-->
+
   <!-- Rox Steak -->
+
   <DankPyon_MealRoxSteak.label>Filete de Rox</DankPyon_MealRoxSteak.label>
   <DankPyon_MealRoxSteak.description>Una gruesa losa de carne de Rox grasosa, asada a la parrilla para impartir sabores ahumados y robustos, sazonada con sal y estofada en cerveza. Un festín lujoso que cualquier rey desearía.</DankPyon_MealRoxSteak.description>
+
+  <!-- Griffon Berry Pie -->
+
   <DankPyon_MealGriffonBerryPie.label>Pastel de Bayas de Grifo</DankPyon_MealGriffonBerryPie.label>
   <DankPyon_MealGriffonBerryPie.description>Un delicioso pastel de frutas, compuesto por una capa de corteza de azúcar en polvo con un relleno de bayas de grifo trituradas, adornado con un ligero glaseado de limón.</DankPyon_MealGriffonBerryPie.description>
+
+  <!-- Steak with Wine -->
+
   <DankPyon_MealSteakWithWine.label>Filete en Salsa de Vino</DankPyon_MealSteakWithWine.label>
   <DankPyon_MealSteakWithWine.description>Una comida rica, compuesta por filete sazonado con cebollas picadas, salteado en un caldo ligero de vino. Una comida maravillosamente rica y sabrosa.</DankPyon_MealSteakWithWine.description>
+
+  <!-- Cheese Soup -->
+
   <DankPyon_MealCheeseSoup.label>Sopa de Queso</DankPyon_MealCheeseSoup.label>
   <DankPyon_MealCheeseSoup.description>Una sopa maravillosamente pegajosa, compuesta por trozos de cuajada de queso derretido, marinados en un caldo fuerte de cerveza sazonada con ajo. Un plato abundante que se sirve mejor caliente y es reconfortante para el cuerpo y el alma.</DankPyon_MealCheeseSoup.description>
-  <!--============== Tier 2 Meals ===============-->
+
   <!-- Bread Soup -->
+
   <DankPyon_MealBreadSoup.label>Sopa de Pan</DankPyon_MealBreadSoup.label>
   <DankPyon_MealBreadSoup.description>Una sopa espesa y lechosa en un tazón hecho de un trozo de pan agrio ahuecado. Una comida abundante y satisfactoria.</DankPyon_MealBreadSoup.description>
+
+  <!-- Apple Pie -->
+
   <DankPyon_MealApplePie.label>Pastel de Manzana</DankPyon_MealApplePie.label>
   <DankPyon_MealApplePie.description>Un pastel cuya principal ingrediente de relleno son rodajas de manzana mezcladas con especias fuertes. Típicamente cubierto con una corteza enrejada y espolvoreado con azúcar al final.</DankPyon_MealApplePie.description>
+
+  <!-- Hunters Stew -->
+
   <DankPyon_MealHuntersStew.label>Estofado del Cazador</DankPyon_MealHuntersStew.label>
   <DankPyon_MealHuntersStew.description>Un estofado abundante compuesto por salchicha cocida en un caldo de verduras con repollo picado.</DankPyon_MealHuntersStew.description>
+
+  <!-- Grilled Cheese -->
+
   <DankPyon_MealGrilledCheese.label>Queso a la Parrilla</DankPyon_MealGrilledCheese.label>
   <DankPyon_MealGrilledCheese.description>Un plato simple que consiste en un trozo rico de queso asado a la parrilla con fuego ahumado.</DankPyon_MealGrilledCheese.description>
+
+  <!-- Grilled Sausages -->
+
   <DankPyon_MealGrilledSausages.label>Salchichas a la Parrilla</DankPyon_MealGrilledSausages.label>
   <DankPyon_MealGrilledSausages.description>Carne sazonada con especias envueltas en forma cilíndrica. Asado a la parrilla sobre fuego abierto para resaltar los sabores ahumados.</DankPyon_MealGrilledSausages.description>
+
+  <!-- Quiche -->
+
   <DankPyon_MealQuiche.label>Quiche</DankPyon_MealQuiche.label>
   <DankPyon_MealQuiche.description>Un plato de desayuno similar a un pastel, compuesto por capas de huevos esponjosos, salpicado de deliciosos trozos de carne, horneado hasta convertirse en una comida abundante.</DankPyon_MealQuiche.description>
+
+  <!-- Sweet Pancakes -->
+
   <DankPyon_MealSweetPancakes.label>Panqueques Dulces</DankPyon_MealSweetPancakes.label>
   <DankPyon_MealSweetPancakes.description>Pilas de panqueques esponjosos fritos en sartén con un chorrito de jarabe dulce encima. Un delicioso, aunque no particularmente saludable, comienzo del día.</DankPyon_MealSweetPancakes.description>
+
+  <!-- Pumpkin Pie -->
+
   <DankPyon_MealPumpkinPie.label>Pastel de Calabaza</DankPyon_MealPumpkinPie.label>
   <DankPyon_MealPumpkinPie.description>Un pastel denso y rico hecho de puré de calabaza mezclado con especias fuertes, colocado sobre una corteza dulce y escamosa. Un postre favorito en otoño.</DankPyon_MealPumpkinPie.description>
+
+  <!-- Pumpkin Soup -->
+
   <DankPyon_MealPumpkinSoup.label>Sopa de Calabaza</DankPyon_MealPumpkinSoup.label>
   <DankPyon_MealPumpkinSoup.description>Una sopa cremosa hecha de calabaza finamente triturada y una ligera mezcla de especias.</DankPyon_MealPumpkinSoup.description>
+
+  <!-- Tomato Omelette -->
+
   <DankPyon_MealTomatoOmelette.label>Omelette de Tomate</DankPyon_MealTomatoOmelette.label>
   <DankPyon_MealTomatoOmelette.description>Un huevo frito y doblado, cubierto con una sabrosa combinación de yema líquida y tomates salteados.</DankPyon_MealTomatoOmelette.description>
-  <!--============== Tier 1 Meals ===============-->
+
   <!-- Bone Soup -->
+
   <DankPyon_MealBoneSoup.label>Sopa de Hueso</DankPyon_MealBoneSoup.label>
   <DankPyon_MealBoneSoup.description>Un caldo débil hecho de huesos de animales. No es muy saciante por sí solo.</DankPyon_MealBoneSoup.description>
+
+  <!-- Bread -->
+
   <DankPyon_MealBread.label>Pan</DankPyon_MealBread.label>
   <DankPyon_MealBread.description>Hecho de harina y agua. Un alimento básico clásico para comenzar el día.</DankPyon_MealBread.description>
+
+  <!-- Fried Eggs -->
+
   <DankPyon_MealFriedEggs.label>Huevos Fritos</DankPyon_MealFriedEggs.label>
   <DankPyon_MealFriedEggs.description>Una comida sencilla, hecha de huevos rápidamente cocinados, opcionalmente servidos con una pizca ligera de sal y/o pimienta.</DankPyon_MealFriedEggs.description>
+
+  <!-- Mashed Potatoes -->
+
   <DankPyon_MealMashedPotatoes.label>Puré de Papas</DankPyon_MealMashedPotatoes.label>
   <DankPyon_MealMashedPotatoes.description>Un plato sencillo hecho de papas cocidas y luego trituradas hasta obtener una mezcla suave, complementada con leche para una base cremosa.</DankPyon_MealMashedPotatoes.description>
+
+  <!-- Mushroom Soup -->
+
   <DankPyon_MealMushroomSoup.label>Sopa de Champiñones</DankPyon_MealMushroomSoup.label>
   <DankPyon_MealMushroomSoup.description>Una sopa fragante hecha de champiñones picados y salteados en un caldo de leche rico, proporcionando una comida sabrosa y algo sustanciosa.</DankPyon_MealMushroomSoup.description>
+
+  <!-- Vegetable Pot -->
+
   <DankPyon_MealVegetablePot.label>Olla de Verduras</DankPyon_MealVegetablePot.label>
   <DankPyon_MealVegetablePot.description>Un guiso rico hecho de verduras picadas, salteadas y cocidas en un caldo ligeramente sazonado. Una comida sustanciosa y saludable.</DankPyon_MealVegetablePot.description>
+
+  <!-- Pumpkin Fritters -->
+
   <DankPyon_MealPumpkinFritters.label>Buñuelos de Calabaza</DankPyon_MealPumpkinFritters.label>
   <DankPyon_MealPumpkinFritters.description>Una galleta dulce y densa hecha de calabaza y harina con un glaseado caramelizado.</DankPyon_MealPumpkinFritters.description>
+
+  <!-- Grilled Skewers -->
+
   <DankPyon_MealGrilledSkewers.label>Brochetas a la Parrilla</DankPyon_MealGrilledSkewers.label>
   <DankPyon_MealGrilledSkewers.description>Trozos gruesos de carne asada, dispuestos en un palo de madera, proporcionando una comida sabrosa y fácil de comer.</DankPyon_MealGrilledSkewers.description>
+
+  <!-- Boiled Bean and Onion -->
+
   <DankPyon_MealBoiledBeansAndOnion.label>Frijoles Hervidos y Cebolla</DankPyon_MealBoiledBeansAndOnion.label>
   <DankPyon_MealBoiledBeansAndOnion.description>Una comida sencilla pero sustanciosa, hecha de frijoles y cebollas picadas, cocidas en un caldo ligero de lentejas.</DankPyon_MealBoiledBeansAndOnion.description>
+
+  <!-- Winter Lentil Soup -->
+
   <DankPyon_MealWinterLentilSoup.label>Sopa de Lentejas de Invierno</DankPyon_MealWinterLentilSoup.label>
   <DankPyon_MealWinterLentilSoup.description>Una sopa ligera y reconfortante, hecha principalmente de lentejas y ligeramente espolvoreada con hierbas y especias. Un plato perfecto para una tarde fría de invierno.</DankPyon_MealWinterLentilSoup.description>
+
+  <!-- Slop Pot Meals -->
+
   <DankPyon_Slop.label>Comida de Cerdo</DankPyon_Slop.label>
   <DankPyon_Slop.description>Un cuenco de comida de cerdo, donde cada cucharada es una aventura en textura y sabor!</DankPyon_Slop.description>
   <DankPyon_Slop_Simple.label>Estofado</DankPyon_Slop_Simple.label>
   <DankPyon_Slop_Simple.description>Atrévete a sumergirte en las profundidades sombrías de un estofado curtido en batalla, donde el origen de sus ingredientes es tan misterioso como los enemigos a los que se enfrentan en el campo de batalla.</DankPyon_Slop_Simple.description>
   <DankPyon_Slop_Fine.label>Fondue de Queso</DankPyon_Slop_Fine.label>
   <DankPyon_Slop_Fine.description>Sumérgete en el caldero burbujeante de fondue, donde el queso derretido oculta los secretos de sus acompañantes sabrosos y te invita a un viaje culinario de descubrimiento.</DankPyon_Slop_Fine.description>
+
+  <!-- Carrot Cake -->
+
   <DankPyon_MealCarrotCake.label>Pastel de Zanahoria</DankPyon_MealCarrotCake.label>
   <DankPyon_MealCarrotCake.description>Un pastel jugoso y aromático hecho de zanahorias recién ralladas, enriquecido con especias cálidas y cubierto con un delicioso glaseado de queso crema. Un clásico placer, perfecto para cualquier ocasión.</DankPyon_MealCarrotCake.description>
+
+  <!-- Lemon Cake -->
+
   <DankPyon_MealLemonCake.label>Pastel de Limón</DankPyon_MealLemonCake.label>
   <DankPyon_MealLemonCake.description>Un pastel picante y jugoso con sabor a limón, complementado con una textura ligera y esponjosa. Un postre refrescante, perfecto para cualquier ocasión.</DankPyon_MealLemonCake.description>
+
 </LanguageData>

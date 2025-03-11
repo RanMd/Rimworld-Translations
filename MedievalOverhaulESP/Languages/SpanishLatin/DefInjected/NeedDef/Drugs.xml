@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_Need_BattleElixir.label>Elixir de Batalla</DankPyon_Need_BattleElixir.label>
+  <DankPyon_Need_BattleElixir.label>elixir de batalla</DankPyon_Need_BattleElixir.label>
   <DankPyon_Need_BattleElixir.description>Debido a una adicción al elixir de batalla, esta persona debe consumir el medicamento regularmente para evitar los síntomas de abstinencia.</DankPyon_Need_BattleElixir.description>
 
-  <DankPyon_Need_HappyPowder.label>Destello eufórico</DankPyon_Need_HappyPowder.label>
+  <DankPyon_Need_HappyPowder.label>destello eufórico</DankPyon_Need_HappyPowder.label>
   <DankPyon_Need_HappyPowder.description>Debido a una adicción al Destello eufórico, esta persona debe consumir el medicamento regularmente para evitar los síntomas de abstinencia.</DankPyon_Need_HappyPowder.description>
 
-  <DankPyon_Chemical_HornetHoney.label>Néctar de avispa</DankPyon_Chemical_HornetHoney.label>
+  <DankPyon_Chemical_HornetHoney.label>néctar de avispa</DankPyon_Chemical_HornetHoney.label>
   <DankPyon_Chemical_HornetHoney.description>Debido a una adicción a la Néctar de avispa, esta persona debe consumir el medicamento regularmente para evitar los síntomas de abstinencia.</DankPyon_Chemical_HornetHoney.description>
 
-  <DankPyon_Need_Luhix.label>Luhix</DankPyon_Need_Luhix.label>
+  <DankPyon_Need_Luhix.label>luhix</DankPyon_Need_Luhix.label>
   <DankPyon_Need_Luhix.description>Debido a una adicción al Luhix, esta persona debe consumir la droga regularmente para evitar los síntomas de abstinencia.</DankPyon_Need_Luhix.description>
 
-  <DankPyon_Need_Stardust.label>Startdust</DankPyon_Need_Stardust.label>
+  <DankPyon_Need_Stardust.label>stardust</DankPyon_Need_Stardust.label>
   <DankPyon_Need_Stardust.description>Debido a una adicción al Stardust, esta persona debe consumir el medicamento regularmente para evitar los síntomas de abstinencia.</DankPyon_Need_Stardust.description>
 
-  <DankPyon_Need_VigorPill.label>Píldora vital</DankPyon_Need_VigorPill.label>
-  <DankPyon_Need_VigorPill.description>Debido a una adicción a la Píldora vital, esta persona debe consumir el medicamento regularmente para evitar los síntomas de abstinencia.</DankPyon_Need_VigorPill.description>
+  <DankPyon_Need_VigorPill.label>resurgir</DankPyon_Need_VigorPill.label>
+  <DankPyon_Need_VigorPill.description>Debido a una adicción al resurgir, esta persona debe consumir el medicamento regularmente para evitar los síntomas de abstinencia.</DankPyon_Need_VigorPill.description>
 
 </LanguageData>

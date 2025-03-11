@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_UnfinishedHide.label>Piel Inacabada</DankPyon_UnfinishedHide.label>
+
+  <DankPyon_UnfinishedHide.label>piel sin terminar</DankPyon_UnfinishedHide.label>
   <DankPyon_UnfinishedHide.description>Un trozo de piel inacabado.</DankPyon_UnfinishedHide.description>
-  <DankPyon_UnfinishedHideArmor.label>Armadura de Piel Inacabada</DankPyon_UnfinishedHideArmor.label>
+
+  <DankPyon_UnfinishedRug.label>alfombra sin terminar</DankPyon_UnfinishedRug.label>
+  <DankPyon_UnfinishedRug.description>Una alfombra que no está terminada.</DankPyon_UnfinishedRug.description>
+
+  <DankPyon_UnfinishedHideArmor.label>armadura de piel sin terminar</DankPyon_UnfinishedHideArmor.label>
   <DankPyon_UnfinishedHideArmor.description>Un trozo de armadura de piel inacabado.</DankPyon_UnfinishedHideArmor.description>
-  <DankPyon_UnfinishedLivingShield.label>Escudo Viviente Inacabado</DankPyon_UnfinishedLivingShield.label>
+
+  <DankPyon_UnfinishedLivingShield.label>escudo viviente sin terminar</DankPyon_UnfinishedLivingShield.label>
   <DankPyon_UnfinishedLivingShield.description>Un escudo viviente inacabado.</DankPyon_UnfinishedLivingShield.description>
-  <DankPyon_UnfinishedLinduwrmShield.label>Escudo de Lindwurm Inacabado</DankPyon_UnfinishedLinduwrmShield.label>
+
+  <DankPyon_UnfinishedLinduwrmShield.label>escudo de lindwurm sin terminar</DankPyon_UnfinishedLinduwrmShield.label>
   <DankPyon_UnfinishedLinduwrmShield.description>Un escudo de lindwurm inacabado.</DankPyon_UnfinishedLinduwrmShield.description>
+
+  <DankPyon_UnfinishedBook.label>libro sin terminar</DankPyon_UnfinishedBook.label>
+  <DankPyon_UnfinishedBook.description>Un libro medieval inacabado.</DankPyon_UnfinishedBook.description>
+
+  <DankPyon_UnfinishedSculpture_Ice.label>escultura de hielo sin terminar</DankPyon_UnfinishedSculpture_Ice.label>
+  <DankPyon_UnfinishedSculpture_Ice.description>Una escultura de hielo inacabada.</DankPyon_UnfinishedSculpture_Ice.description>
+
 </LanguageData>

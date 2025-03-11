@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Leather_Rawhide.label>Cuero crudo</DankPyon_Leather_Rawhide.label>
+
+  <DankPyon_Leather_Rawhide.label>cuero crudo</DankPyon_Leather_Rawhide.label>
   <DankPyon_Leather_Rawhide.description>Un trozo de cuero débil que no ha sido curtido. En estado seco es duro e inflexible, pero muy susceptible al agua.</DankPyon_Leather_Rawhide.description>
+
+  <DankPyon_Hide_Leather_Hyena.label>cuero de hiena (sin curtir)</DankPyon_Hide_Leather_Hyena.label>
+
+  <DankPyon_Hide_Wolf_Timber.label>cuero de lobo gris (sin curtir)</DankPyon_Hide_Wolf_Timber.label>
+
+  <DankPyon_Hide_Wolf_Arctic.label>cuero de lobo ártico (sin curtir)</DankPyon_Hide_Wolf_Arctic.label>
+
+  <DankPyon_Hide_Cougar.label>cuero de puma (sin curtir)</DankPyon_Hide_Cougar.label>
+
+  <DankPyon_Hide_Panther.label>cuero de pantera (sin curtir)</DankPyon_Hide_Panther.label>
+
+  <DankPyon_Hide_Bear_Grizzly.label>cuero de oso grizzly (sin curtir)</DankPyon_Hide_Bear_Grizzly.label>
+
+  <DankPyon_Hide_Bear_Polar.label>cuero de oso polar (sin curtir)</DankPyon_Hide_Bear_Polar.label>
+
+  <DankPyon_Hide_Leather_Rox.label>cuero de rox (sin curtir)</DankPyon_Hide_Leather_Rox.label>
+
+  <DankPyon_Hide_Thrumbo.label>cuero de thrumbo (sin curtir)</DankPyon_Hide_Thrumbo.label>
+
+  <DankPyon_Hide_Leather_Daer.label>cuero de daer (sin curtir)</DankPyon_Hide_Leather_Daer.label>
+
 </LanguageData>

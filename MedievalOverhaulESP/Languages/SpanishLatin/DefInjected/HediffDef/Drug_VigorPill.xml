@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_High_VigorPill.label>Subidón de píldora vital</DankPyon_High_VigorPill.label>
-  <DankPyon_High_VigorPill.labelNoun>un subidón de píldora vital</DankPyon_High_VigorPill.labelNoun>
+
+  <DankPyon_High_VigorPill.label>subidón de resurgir</DankPyon_High_VigorPill.label>
+  <DankPyon_High_VigorPill.labelNoun>un subidón de resurgir</DankPyon_High_VigorPill.labelNoun>
   <DankPyon_High_VigorPill.description>Píldora vital en el torrente sanguíneo. Satisface la necesidad de descanso al estimular el cerebro, aumentando la concentración y permitiendo trabajar más rápido. También aumenta las ganancias de psicoenfoque a través de la meditación.</DankPyon_High_VigorPill.description>
-  <DankPyon_Addiction_VigorPill.label>Adicción a píldora vital</DankPyon_Addiction_VigorPill.label>
-  <DankPyon_Addiction_VigorPill.description>Una adicción química a la píldora vital. La presencia prolongada de la píldora ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares de píldora vital, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_VigorPill.description>
+  <DankPyon_Addiction_VigorPill.label>adicción al resurgir</DankPyon_Addiction_VigorPill.label>
+  <DankPyon_Addiction_VigorPill.description>Una adicción química al resurgir. La presencia prolongada de la píldora ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares de resurgir, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_VigorPill.description>
   <DankPyon_Addiction_VigorPill.stages.1.label>abstinencia</DankPyon_Addiction_VigorPill.stages.1.label>
-  <DankPyon_Tolerance_VigorPill.label>Tolerancia a la píldora vital</DankPyon_Tolerance_VigorPill.label>
-  <DankPyon_Tolerance_VigorPill.description>Una tolerancia desarrollada hacia la píldora vital. Cuanto mayor es esta tolerancia, más píldora vital se necesita para lograr el mismo efecto.</DankPyon_Tolerance_VigorPill.description>
+  <DankPyon_Tolerance_VigorPill.label>Tolerancia al resurgir</DankPyon_Tolerance_VigorPill.label>
+  <DankPyon_Tolerance_VigorPill.description>Una tolerancia desarrollada hacia el resurgir. Cuanto mayor es esta tolerancia, más resurgir se necesita para lograr el mismo efecto.</DankPyon_Tolerance_VigorPill.description>
   <DankPyon_Tolerance_VigorPill.stages.small.label>leve</DankPyon_Tolerance_VigorPill.stages.small.label>
   <DankPyon_Tolerance_VigorPill.stages.large.label>fuerte</DankPyon_Tolerance_VigorPill.stages.large.label>
   <DankPyon_Tolerance_VigorPill.stages.massive.label>muy fuerte</DankPyon_Tolerance_VigorPill.stages.massive.label>
+
 </LanguageData>
