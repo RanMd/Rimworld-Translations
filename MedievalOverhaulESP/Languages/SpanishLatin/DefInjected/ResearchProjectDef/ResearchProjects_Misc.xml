@@ -3,226 +3,226 @@
 
   <DankPyon_Lumber.label>Carpintería Básica</DankPyon_Lumber.label>
   <DankPyon_Lumber.description>Mejora las técnicas básicas de carpintería para transformar la madera en objetos avanzados. Al completar el proyecto, los peones podrán fabricar muebles complejos, arcos y piezas de madera, ampliando así su habilidad en la carpintería.</DankPyon_Lumber.description>
-  <DankPyon_Lumber.generalRules.rulesStrings.0>subject->carpintería</DankPyon_Lumber.generalRules.rulesStrings.0>
+  <DankPyon_Lumber.generalRules.rulesStrings.0>subject->la carpintería</DankPyon_Lumber.generalRules.rulesStrings.0>
 
   <!-- Rustic Furniture Group -->
 
   <DankPyon_RusticFurniture.label>Muebles rústicos</DankPyon_RusticFurniture.label>
   <DankPyon_RusticFurniture.description>Construye muebles rústicos simples como camas de heno, mesas auxiliares, cómodas y más.</DankPyon_RusticFurniture.description>
-  <DankPyon_RusticFurniture.generalRules.rulesStrings.0>subject->muebles rústicos</DankPyon_RusticFurniture.generalRules.rulesStrings.0>
+  <DankPyon_RusticFurniture.generalRules.rulesStrings.0>subject->los muebles rústicos</DankPyon_RusticFurniture.generalRules.rulesStrings.0>
 
   <DankPyon_RoyalRusticFurniture.label>Mobiliario real rústico</DankPyon_RoyalRusticFurniture.label>
   <DankPyon_RoyalRusticFurniture.description>Construye muebles elegantes y lujosos adornados con oro, adecuados para la nobleza.</DankPyon_RoyalRusticFurniture.description>
-  <DankPyon_RoyalRusticFurniture.generalRules.rulesStrings.0>subject->mobiliario real rústico</DankPyon_RoyalRusticFurniture.generalRules.rulesStrings.0>
+  <DankPyon_RoyalRusticFurniture.generalRules.rulesStrings.0>subject->el mobiliario real rústico</DankPyon_RoyalRusticFurniture.generalRules.rulesStrings.0>
 
   <DankPyon_RusticStorage.label>Almacenamiento rústico</DankPyon_RusticStorage.label>
   <DankPyon_RusticStorage.description>Crea edificios donde los objetos se puedan almacenar de manera más eficiente y ahorrando espacio.</DankPyon_RusticStorage.description>
-  <DankPyon_RusticStorage.generalRules.rulesStrings.0>subject->almacenamiento rústico</DankPyon_RusticStorage.generalRules.rulesStrings.0>
+  <DankPyon_RusticStorage.generalRules.rulesStrings.0>subject->el almacenamiento rústico</DankPyon_RusticStorage.generalRules.rulesStrings.0>
 
   <DankPyon_Presser.label>Prensa</DankPyon_Presser.label>
   <DankPyon_Presser.description>Construye una máquina de prensado para extraer jugo de frutas o suero de leche cuajada.</DankPyon_Presser.description>
-  <DankPyon_Presser.generalRules.rulesStrings.0>subject->prensa de alimentos</DankPyon_Presser.generalRules.rulesStrings.0>
+  <DankPyon_Presser.generalRules.rulesStrings.0>subject->la prensa de alimentos</DankPyon_Presser.generalRules.rulesStrings.0>
 
   <DankPyon_CarrierBirds.label>Aves mensajeras</DankPyon_CarrierBirds.label>
   <DankPyon_CarrierBirds.description>Entrena aves para transmitir mensajes, permitiéndote comunicarte con otras facciones.</DankPyon_CarrierBirds.description>
-  <DankPyon_CarrierBirds.generalRules.rulesStrings.0>subject->aves mensajeras</DankPyon_CarrierBirds.generalRules.rulesStrings.0>
+  <DankPyon_CarrierBirds.generalRules.rulesStrings.0>subject->las aves mensajeras</DankPyon_CarrierBirds.generalRules.rulesStrings.0>
 
   <DankPyon_Exploration.label>Exploración</DankPyon_Exploration.label>
   <DankPyon_Exploration.description>Explora el mundo y encuentra minerales valiosos o lugares ocultos.</DankPyon_Exploration.description>
-  <DankPyon_Exploration.generalRules.rulesStrings.0>subject->exploración</DankPyon_Exploration.generalRules.rulesStrings.0>
+  <DankPyon_Exploration.generalRules.rulesStrings.0>subject->la exploración</DankPyon_Exploration.generalRules.rulesStrings.0>
 
   <DankPyon_LeatherTanning.label>Curtido de cueros</DankPyon_LeatherTanning.label>
   <DankPyon_LeatherTanning.description>Aprende cómo procesar pieles de animales crudas para convertirlas en cuero.</DankPyon_LeatherTanning.description>
-  <DankPyon_LeatherTanning.generalRules.rulesStrings.0>subject->curtido de cueros</DankPyon_LeatherTanning.generalRules.rulesStrings.0>
+  <DankPyon_LeatherTanning.generalRules.rulesStrings.0>subject->el curtido de cueros</DankPyon_LeatherTanning.generalRules.rulesStrings.0>
 
   <DankPyon_TextileSpinning.label>Hilado textil</DankPyon_TextileSpinning.label>
   <DankPyon_TextileSpinning.description>Aprende cómo cultivar y cosechar algodón para fabricar ropa.</DankPyon_TextileSpinning.description>
-  <DankPyon_TextileSpinning.generalRules.rulesStrings.0>subject->hilado textil</DankPyon_TextileSpinning.generalRules.rulesStrings.0>
+  <DankPyon_TextileSpinning.generalRules.rulesStrings.0>subject->el hilado textil</DankPyon_TextileSpinning.generalRules.rulesStrings.0>
 
   <!-- </ResearchProjectDef> -->
 
   <DankPyon_Silk.label>Seda</DankPyon_Silk.label>
   <DankPyon_Silk.description>Cosecha material fino y filamentoso de los gusanos de seda.</DankPyon_Silk.description>
-  <DankPyon_Silk.generalRules.rulesStrings.0>subject->producción de Seda</DankPyon_Silk.generalRules.rulesStrings.0>
+  <DankPyon_Silk.generalRules.rulesStrings.0>subject->la producción de Seda</DankPyon_Silk.generalRules.rulesStrings.0>
 
   <DankPyon_CandleMaking.label>Fabricación de velas</DankPyon_CandleMaking.label>
   <DankPyon_CandleMaking.description>Fabrica velas para iluminar tu colonia y construye hermosos candelabros.</DankPyon_CandleMaking.description>
-  <DankPyon_CandleMaking.generalRules.rulesStrings.0>subject->fabricación de Velas</DankPyon_CandleMaking.generalRules.rulesStrings.0>
+  <DankPyon_CandleMaking.generalRules.rulesStrings.0>subject->la fabricación de velas</DankPyon_CandleMaking.generalRules.rulesStrings.0>
 
   <DankPyon_Jewelry.label>Joyería</DankPyon_Jewelry.label>
   <DankPyon_Jewelry.description>Refina gemas valiosas para convertirlas en accesorios hermosos.</DankPyon_Jewelry.description>
-  <DankPyon_Jewelry.generalRules.rulesStrings.0>subject->fabricación de joyería</DankPyon_Jewelry.generalRules.rulesStrings.0>
+  <DankPyon_Jewelry.generalRules.rulesStrings.0>subject->la fabricación de joyería</DankPyon_Jewelry.generalRules.rulesStrings.0>
 
   <!-- Engineering -->
 
   <DankPyon_Engineering.label>Ingeniería</DankPyon_Engineering.label>
   <DankPyon_Engineering.description>Investiga cómo fabricar componentes básicos para construir dispositivos complejos.</DankPyon_Engineering.description>
-  <DankPyon_Engineering.generalRules.rulesStrings.0>subject->ingeniería</DankPyon_Engineering.generalRules.rulesStrings.0>
+  <DankPyon_Engineering.generalRules.rulesStrings.0>subject->la ingeniería</DankPyon_Engineering.generalRules.rulesStrings.0>
 
   <DankPyon_Mining.label>Minería</DankPyon_Mining.label>
   <DankPyon_Mining.description>Aprende medidas de seguridad y la forma correcta de construir un pozo de mina para extraer recursos y piedras.</DankPyon_Mining.description>
-  <DankPyon_Mining.generalRules.rulesStrings.0>subject->minería</DankPyon_Mining.generalRules.rulesStrings.0>
+  <DankPyon_Mining.generalRules.rulesStrings.0>subject->la minería</DankPyon_Mining.generalRules.rulesStrings.0>
 
   <DankPyon_Windmill.label>Molino de viento</DankPyon_Windmill.label>
   <DankPyon_Windmill.description>Utiliza la fuerza del viento para automatizar la molienda de productos similares al trigo.</DankPyon_Windmill.description>
-  <DankPyon_Windmill.generalRules.rulesStrings.0>subject->construcción de molinos de viento</DankPyon_Windmill.generalRules.rulesStrings.0>
+  <DankPyon_Windmill.generalRules.rulesStrings.0>subject->la construcción de molinos de viento</DankPyon_Windmill.generalRules.rulesStrings.0>
 
   <DankPyon_Crossbow.label>Ballesta</DankPyon_Crossbow.label>
   <DankPyon_Crossbow.description>Fabrica un arco mecánico compacto. Su uso requiere menos habilidad, pero tarda mucho en recargarse.</DankPyon_Crossbow.description>
-  <DankPyon_Crossbow.generalRules.rulesStrings.0>subject->fabricación de ballestas</DankPyon_Crossbow.generalRules.rulesStrings.0>
+  <DankPyon_Crossbow.generalRules.rulesStrings.0>subject->la fabricación de ballestas</DankPyon_Crossbow.generalRules.rulesStrings.0>
 
-  <DankPyon_HeavyCrossbow.label>Arbalesta</DankPyon_HeavyCrossbow.label>
+  <DankPyon_HeavyCrossbow.label>Ballesta pesada</DankPyon_HeavyCrossbow.label>
   <DankPyon_HeavyCrossbow.description>Fabrica una versión más pesada de la ballesta para diezmar a tus enemigos.</DankPyon_HeavyCrossbow.description>
-  <DankPyon_HeavyCrossbow.generalRules.rulesStrings.0>subject->la fabricación de arbalestas</DankPyon_HeavyCrossbow.generalRules.rulesStrings.0>
+  <DankPyon_HeavyCrossbow.generalRules.rulesStrings.0>subject->la fabricación de ballestas pesadas</DankPyon_HeavyCrossbow.generalRules.rulesStrings.0>
 
   <DankPyon_Ballista.label>Balista</DankPyon_Ballista.label>
   <DankPyon_Ballista.description>Contruye una balista gigante. Dispara enormes pernos de balista a una velocidad decente.</DankPyon_Ballista.description>
-  <DankPyon_Ballista.generalRules.rulesStrings.0>subject->construcción de balistas</DankPyon_Ballista.generalRules.rulesStrings.0>
+  <DankPyon_Ballista.generalRules.rulesStrings.0>subject->la construcción de balistas</DankPyon_Ballista.generalRules.rulesStrings.0>
 
   <DankPyon_Trebuchet.label>Trabuquete</DankPyon_Trebuchet.label>
   <DankPyon_Trebuchet.description>Investiga cómo construir un trabuquete gigante. Poderoso y mortal, pero tarda mucho en recargarse.</DankPyon_Trebuchet.description>
-  <DankPyon_Trebuchet.generalRules.rulesStrings.0>subject->construcción de trabuquetes</DankPyon_Trebuchet.generalRules.rulesStrings.0>
+  <DankPyon_Trebuchet.generalRules.rulesStrings.0>subject->la construcción de trabuquetes</DankPyon_Trebuchet.generalRules.rulesStrings.0>
 
   <DankPyon_RepeaterBallista.label>Balista repetidora</DankPyon_RepeaterBallista.label>
   <DankPyon_RepeaterBallista.description>Investiga cómo construir una enorme balista repetidora. Dispara proyectiles poderosos y mortales en rápida sucesión, pero la recarga lleva mucho tiempo.</DankPyon_RepeaterBallista.description>
-  <DankPyon_RepeaterBallista.generalRules.rulesStrings.0>subject->construir balista repetidora</DankPyon_RepeaterBallista.generalRules.rulesStrings.0>
+  <DankPyon_RepeaterBallista.generalRules.rulesStrings.0>subject->la construcción de balistas repetidoras</DankPyon_RepeaterBallista.generalRules.rulesStrings.0>
 
   <!-- Alchemy -->
 
   <DankPyon_Alchemy.label>Alquimia</DankPyon_Alchemy.label>
   <DankPyon_Alchemy.description>WIP. Investigación para obtener una tabla de investigación avanzada</DankPyon_Alchemy.description>
-  <DankPyon_Alchemy.generalRules.rulesStrings.0>subject->alquimia</DankPyon_Alchemy.generalRules.rulesStrings.0>
+  <DankPyon_Alchemy.generalRules.rulesStrings.0>subject->la alquimia</DankPyon_Alchemy.generalRules.rulesStrings.0>
 
   <DankPyon_Steel.label>Acero</DankPyon_Steel.label>
   <DankPyon_Steel.description>Descubre nuevas técnicas de metalurgia y producción de acero.</DankPyon_Steel.description>
-  <DankPyon_Steel.generalRules.rulesStrings.0>subject->producción de acero</DankPyon_Steel.generalRules.rulesStrings.0>
+  <DankPyon_Steel.generalRules.rulesStrings.0>subject->la producción de acero</DankPyon_Steel.generalRules.rulesStrings.0>
 
   <DankPyon_Tar.label>Alquitrán</DankPyon_Tar.label>
   <DankPyon_Tar.description>Descubre cómo producir alquitrán.</DankPyon_Tar.description>
-  <DankPyon_Tar.generalRules.rulesStrings.0>subject->producción de alquitrán</DankPyon_Tar.generalRules.rulesStrings.0>
+  <DankPyon_Tar.generalRules.rulesStrings.0>subject->la producción de alquitrán</DankPyon_Tar.generalRules.rulesStrings.0>
 
   <DankPyon_Gunpowder.label>Pólvora</DankPyon_Gunpowder.label>
   <DankPyon_Gunpowder.description>Descubre la fórmula perfecta para usar pólvora en armas.</DankPyon_Gunpowder.description>
-  <DankPyon_Gunpowder.generalRules.rulesStrings.0>subject->pólvora</DankPyon_Gunpowder.generalRules.rulesStrings.0>
+  <DankPyon_Gunpowder.generalRules.rulesStrings.0>subject->la pólvora</DankPyon_Gunpowder.generalRules.rulesStrings.0>
 
   <DankPyon_Plasteel.label>Plastiacero</DankPyon_Plasteel.label>
   <DankPyon_Plasteel.description>Descubre técnicas avanzadas de metalurgia y producción de plastiacero.</DankPyon_Plasteel.description>
-  <DankPyon_Plasteel.generalRules.rulesStrings.0>subject->producción de plastiacero</DankPyon_Plasteel.generalRules.rulesStrings.0>
+  <DankPyon_Plasteel.generalRules.rulesStrings.0>subject->la producción de plastiacero</DankPyon_Plasteel.generalRules.rulesStrings.0>
 
   <!-- Apparel -->
 
   <DankPyon_Tailoring.label>Sastrería</DankPyon_Tailoring.label>
   <DankPyon_Tailoring.description>Aprende a coser ropa civil cotidiana.</DankPyon_Tailoring.description>
-  <DankPyon_Tailoring.generalRules.rulesStrings.0>subject->sastrería</DankPyon_Tailoring.generalRules.rulesStrings.0>
+  <DankPyon_Tailoring.generalRules.rulesStrings.0>subject->la sastrería</DankPyon_Tailoring.generalRules.rulesStrings.0>
 
   <DankPyon_ProtectiveClothing.label>Ropa protectora</DankPyon_ProtectiveClothing.label>
   <DankPyon_ProtectiveClothing.description>Aprende a coser ropa acolchada para proporcionar mejor protección contra amenazas físicas.</DankPyon_ProtectiveClothing.description>
-  <DankPyon_ProtectiveClothing.generalRules.rulesStrings.0>subject->ropa protectora</DankPyon_ProtectiveClothing.generalRules.rulesStrings.0>
+  <DankPyon_ProtectiveClothing.generalRules.rulesStrings.0>subject->la ropa protectora</DankPyon_ProtectiveClothing.generalRules.rulesStrings.0>
 
   <DankPyon_ChainArmor.label>Armadura de cota de malla</DankPyon_ChainArmor.label>
   <DankPyon_ChainArmor.description>Aprende las técnicas de enlazar cadenas para forjar impresionantes armaduras de cota de malla.</DankPyon_ChainArmor.description>
-  <DankPyon_ChainArmor.generalRules.rulesStrings.0>subject->armadura de cota de malla</DankPyon_ChainArmor.generalRules.rulesStrings.0>
+  <DankPyon_ChainArmor.generalRules.rulesStrings.0>subject->la armadura de cota de malla</DankPyon_ChainArmor.generalRules.rulesStrings.0>
 
   <DankPyon_AdornedArmor.label>Armadura adornada</DankPyon_AdornedArmor.label>
   <DankPyon_AdornedArmor.description>Armaduras adornadas con detalles ornamentales, que ofrecen tanto protección como un toque de elegancia y estilo.</DankPyon_AdornedArmor.description>
-  <DankPyon_AdornedArmor.generalRules.rulesStrings.0>subject->armadura adornada</DankPyon_AdornedArmor.generalRules.rulesStrings.0>
+  <DankPyon_AdornedArmor.generalRules.rulesStrings.0>subject->la armadura adornada</DankPyon_AdornedArmor.generalRules.rulesStrings.0>
 
   <!-- Ranged Weapons -->
 
   <DankPyon_HuntingBow.label>Arco de caza</DankPyon_HuntingBow.label>
   <DankPyon_HuntingBow.description>Construye un arco de caza, un arco fuerte utilizado para atrapar presas.</DankPyon_HuntingBow.description>
-  <DankPyon_HuntingBow.generalRules.rulesStrings.0>subject->arcos de caza</DankPyon_HuntingBow.generalRules.rulesStrings.0>
+  <DankPyon_HuntingBow.generalRules.rulesStrings.0>subject->los arcos de caza</DankPyon_HuntingBow.generalRules.rulesStrings.0>
 
   <DankPyon_WarBow.label>Arco de guerra</DankPyon_WarBow.label>
   <DankPyon_WarBow.description>Crea el arco largo definitivo, particularmente peligroso a largas distancias.</DankPyon_WarBow.description>
-  <DankPyon_WarBow.generalRules.rulesStrings.0>subject->arcos de guerra</DankPyon_WarBow.generalRules.rulesStrings.0>
+  <DankPyon_WarBow.generalRules.rulesStrings.0>subject->los arcos de guerra</DankPyon_WarBow.generalRules.rulesStrings.0>
 
   <!-- Melee Weapons -->
 
   <DankPyon_BasicPolearms.label>Lanzas simples</DankPyon_BasicPolearms.label>
   <DankPyon_BasicPolearms.description>Aprende a fabricar armas de asta simples.</DankPyon_BasicPolearms.description>
-  <DankPyon_BasicPolearms.generalRules.rulesStrings.0>subject->lanzas básicas</DankPyon_BasicPolearms.generalRules.rulesStrings.0>
+  <DankPyon_BasicPolearms.generalRules.rulesStrings.0>subject->las lanzas básicas</DankPyon_BasicPolearms.generalRules.rulesStrings.0>
 
   <DankPyon_MilitaryPolearms.label>Lanzas militares</DankPyon_MilitaryPolearms.label>
   <DankPyon_MilitaryPolearms.description>Aprende a fabricar armas de asta militares.</DankPyon_MilitaryPolearms.description>
-  <DankPyon_MilitaryPolearms.generalRules.rulesStrings.0>subject->lanzas militares</DankPyon_MilitaryPolearms.generalRules.rulesStrings.0>
+  <DankPyon_MilitaryPolearms.generalRules.rulesStrings.0>subject->las lanzas militares</DankPyon_MilitaryPolearms.generalRules.rulesStrings.0>
 
   <DankPyon_NoblePolearms.label>Lanzas nobles</DankPyon_NoblePolearms.label>
   <DankPyon_NoblePolearms.description>WIP. Pronto se producirán armas de asta nobles. Aprende a fabricar armas de asta nobles.</DankPyon_NoblePolearms.description>
-  <DankPyon_NoblePolearms.generalRules.rulesStrings.0>subject->lanzas nobles</DankPyon_NoblePolearms.generalRules.rulesStrings.0>
+  <DankPyon_NoblePolearms.generalRules.rulesStrings.0>subject->las lanzas nobles</DankPyon_NoblePolearms.generalRules.rulesStrings.0>
 
   <DankPyon_BasicMaces.label>Mazas básicas</DankPyon_BasicMaces.label>
   <DankPyon_BasicMaces.description>Aprende a fabricar mazas básicas.</DankPyon_BasicMaces.description>
-  <DankPyon_BasicMaces.generalRules.rulesStrings.0>subject->mazas básicas</DankPyon_BasicMaces.generalRules.rulesStrings.0>
+  <DankPyon_BasicMaces.generalRules.rulesStrings.0>subject->las mazas básicas</DankPyon_BasicMaces.generalRules.rulesStrings.0>
 
   <DankPyon_MilitaryMaces.label>Mazas Militares</DankPyon_MilitaryMaces.label>
   <DankPyon_MilitaryMaces.description>Aprende a fabricar mazas para el combate.</DankPyon_MilitaryMaces.description>
-  <DankPyon_MilitaryMaces.generalRules.rulesStrings.0>subject->mazas militares</DankPyon_MilitaryMaces.generalRules.rulesStrings.0>
+  <DankPyon_MilitaryMaces.generalRules.rulesStrings.0>subject->las mazas militares</DankPyon_MilitaryMaces.generalRules.rulesStrings.0>
 
   <DankPyon_NobleMaces.label>Mazas Nobles</DankPyon_NobleMaces.label>
   <DankPyon_NobleMaces.description>Aprende a fabricar mazas más fuertes y mejores, adecuadas para un noble.</DankPyon_NobleMaces.description>
-  <DankPyon_NobleMaces.generalRules.rulesStrings.0>subject->mazas nobles</DankPyon_NobleMaces.generalRules.rulesStrings.0>
+  <DankPyon_NobleMaces.generalRules.rulesStrings.0>subject->las mazas nobles</DankPyon_NobleMaces.generalRules.rulesStrings.0>
 
   <DankPyon_BasicBlades.label>Espadas Básicas</DankPyon_BasicBlades.label>
   <DankPyon_BasicBlades.description>Aprende a fabricar espadas básicas.</DankPyon_BasicBlades.description>
-  <DankPyon_BasicBlades.generalRules.rulesStrings.0>subject->espadas básicas</DankPyon_BasicBlades.generalRules.rulesStrings.0>
+  <DankPyon_BasicBlades.generalRules.rulesStrings.0>subject->las espadas básicas</DankPyon_BasicBlades.generalRules.rulesStrings.0>
 
   <DankPyon_MilitaryBlades.label>Espadas Militares</DankPyon_MilitaryBlades.label>
   <DankPyon_MilitaryBlades.description>Aprende a fabricar espadas para el combate.</DankPyon_MilitaryBlades.description>
-  <DankPyon_MilitaryBlades.generalRules.rulesStrings.0>subject->espadas militares</DankPyon_MilitaryBlades.generalRules.rulesStrings.0>
+  <DankPyon_MilitaryBlades.generalRules.rulesStrings.0>subject->las espadas militares</DankPyon_MilitaryBlades.generalRules.rulesStrings.0>
 
   <!-- Agriculture -->
 
   <DankPyon_BasicAgriculture.label>Agricultura básica</DankPyon_BasicAgriculture.label>
   <DankPyon_BasicAgriculture.description>Investiga cómo sembrar cultivos básicos.</DankPyon_BasicAgriculture.description>
-  <DankPyon_BasicAgriculture.generalRules.rulesStrings.0>subject->agricultura básica</DankPyon_BasicAgriculture.generalRules.rulesStrings.0>
+  <DankPyon_BasicAgriculture.generalRules.rulesStrings.0>subject->la agricultura básica</DankPyon_BasicAgriculture.generalRules.rulesStrings.0>
 
   <DankPyon_IntermediateAgriculture.label>Agricultura intermedia</DankPyon_IntermediateAgriculture.label>
   <DankPyon_IntermediateAgriculture.description>Aprende técnicas intermedias de agricultura para cultivar una mayor variedad de cultivos y optimizar el uso del suelo.</DankPyon_IntermediateAgriculture.description>
-  <DankPyon_IntermediateAgriculture.generalRules.rulesStrings.0>subject->agricultura intermedia</DankPyon_IntermediateAgriculture.generalRules.rulesStrings.0>
+  <DankPyon_IntermediateAgriculture.generalRules.rulesStrings.0>subject->la agricultura intermedia</DankPyon_IntermediateAgriculture.generalRules.rulesStrings.0>
 
   <DankPyon_AdvancedAgriculture.label>Agricultura avanzada</DankPyon_AdvancedAgriculture.label>
   <DankPyon_AdvancedAgriculture.description>Aprende técnicas avanzadas de siembra para cultivar cultivos más complejos y rentables.</DankPyon_AdvancedAgriculture.description>
-  <DankPyon_AdvancedAgriculture.generalRules.rulesStrings.0>subject->agricultura avanzada</DankPyon_AdvancedAgriculture.generalRules.rulesStrings.0>
+  <DankPyon_AdvancedAgriculture.generalRules.rulesStrings.0>subject->la agricultura avanzada</DankPyon_AdvancedAgriculture.generalRules.rulesStrings.0>
 
   <DankPyon_TreeGriffonBerry.label>Baya de grifo</DankPyon_TreeGriffonBerry.label>
   <DankPyon_TreeGriffonBerry.description>Una fruta rara y deliciosa que crece en pequeños árboles. Como su nombre indica, la fruta roja es una delicia para los grifos y generalmente está custodiada por ellos.</DankPyon_TreeGriffonBerry.description>
-  <DankPyon_TreeGriffonBerry.generalRules.rulesStrings.0>subject->cultivo de árboles de baya de grifo</DankPyon_TreeGriffonBerry.generalRules.rulesStrings.0>
+  <DankPyon_TreeGriffonBerry.generalRules.rulesStrings.0>subject->el cultivo de árboles de baya de grifo</DankPyon_TreeGriffonBerry.generalRules.rulesStrings.0>
 
   <!-- Cooking -->
 
   <DankPyon_BasicCooking.label>Cocina básica</DankPyon_BasicCooking.label>
   <DankPyon_BasicCooking.description>Aprende recetas básicas para cocinar platos.</DankPyon_BasicCooking.description>
-  <DankPyon_BasicCooking.generalRules.rulesStrings.0>subject->cocina básica</DankPyon_BasicCooking.generalRules.rulesStrings.0>
+  <DankPyon_BasicCooking.generalRules.rulesStrings.0>subject->la cocina básica</DankPyon_BasicCooking.generalRules.rulesStrings.0>
 
   <DankPyon_IntermediateCooking.label>Cocina intermedia</DankPyon_IntermediateCooking.label>
   <DankPyon_IntermediateCooking.description>Aprende recetas intermedias para cocinar platos más elaborados y sabrosos.</DankPyon_IntermediateCooking.description>
-  <DankPyon_IntermediateCooking.generalRules.rulesStrings.0>subject->cocina intermedia</DankPyon_IntermediateCooking.generalRules.rulesStrings.0>
+  <DankPyon_IntermediateCooking.generalRules.rulesStrings.0>subject->la cocina intermedia</DankPyon_IntermediateCooking.generalRules.rulesStrings.0>
 
   <DankPyon_AdvancedCooking.label>Cocina avanzada</DankPyon_AdvancedCooking.label>
   <DankPyon_AdvancedCooking.description>Aprende recetas avanzadas para cocinar platos.</DankPyon_AdvancedCooking.description>
-  <DankPyon_AdvancedCooking.generalRules.rulesStrings.0>subject->cocina avanzada</DankPyon_AdvancedCooking.generalRules.rulesStrings.0>
+  <DankPyon_AdvancedCooking.generalRules.rulesStrings.0>subject->la cocina avanzada</DankPyon_AdvancedCooking.generalRules.rulesStrings.0>
 
   <DankPyon_Smoker.label>Ahumado</DankPyon_Smoker.label>
   <DankPyon_Smoker.description>Aprende cómo ahumar carne fresca en cecina seca para extender su vida útil y agregar sabores rústicos a las comidas.</DankPyon_Smoker.description>
-  <DankPyon_Smoker.generalRules.rulesStrings.0>subject->construcción de ahumadores</DankPyon_Smoker.generalRules.rulesStrings.0>
+  <DankPyon_Smoker.generalRules.rulesStrings.0>subject->la construcción de ahumadores</DankPyon_Smoker.generalRules.rulesStrings.0>
 
   <!-- Food Production Tables -->
 
   <DankPyon_Grill.label>Parrilla</DankPyon_Grill.label>
   <DankPyon_Grill.description>Aprende cómo asar carne sobre fuego abierto, como salchichas a la parrilla y carne asada.</DankPyon_Grill.description>
-  <DankPyon_Grill.generalRules.rulesStrings.0>subject->asado de alimentos</DankPyon_Grill.generalRules.rulesStrings.0>
+  <DankPyon_Grill.generalRules.rulesStrings.0>subject->el asado de alimentos</DankPyon_Grill.generalRules.rulesStrings.0>
 
   <DankPyon_StewPot.label>Guisos</DankPyon_StewPot.label>
   <DankPyon_StewPot.description>Aprende a preparar guisos abundantes y nutritivos como sopas de calabaza y lentejas.</DankPyon_StewPot.description>
-  <DankPyon_StewPot.generalRules.rulesStrings.0>subject->producción de guisos</DankPyon_StewPot.generalRules.rulesStrings.0>
+  <DankPyon_StewPot.generalRules.rulesStrings.0>subject->la producción de guisos</DankPyon_StewPot.generalRules.rulesStrings.0>
 
   <DankPyon_Oven.label>Horneado</DankPyon_Oven.label>
   <DankPyon_Oven.description>Aprende cómo hornear comidas como pan o incluso postres lujosos como pastel de manzana.</DankPyon_Oven.description>
-  <DankPyon_Oven.generalRules.rulesStrings.0>subject->horneado</DankPyon_Oven.generalRules.rulesStrings.0>
+  <DankPyon_Oven.generalRules.rulesStrings.0>subject->el horneado</DankPyon_Oven.generalRules.rulesStrings.0>
 
   <DankPyon_Watermill.label>Molino de agua</DankPyon_Watermill.label>
   <DankPyon_Watermill.description>Aprende a construir un molino de agua medieval, utilizando la fuerza del agua para moler granos y cortar troncos automáticamente.</DankPyon_Watermill.description>
-  <DankPyon_Watermill.generalRules.rulesStrings.0>subject->construir un molino de agua medieval</DankPyon_Watermill.generalRules.rulesStrings.0>
+  <DankPyon_Watermill.generalRules.rulesStrings.0>subject->la construcción del molino de agua</DankPyon_Watermill.generalRules.rulesStrings.0>
 
 </LanguageData>

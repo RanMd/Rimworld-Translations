@@ -2,13 +2,13 @@
 <LanguageData>
 
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.0>subject->[subject_primary]</DankPyon_AncientLore_Description.rulePack.rulesStrings.0>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.1>desc->Un [writingQualityAdjective] [bookType], [exploresAncientTechOn] [subject_primary].\n[writingQualitySentence].\n[maybe_date]</DankPyon_AncientLore_Description.rulePack.rulesStrings.1>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.2>exploresAncientTechOn->Explora tecnologías antiguas sobre</DankPyon_AncientLore_Description.rulePack.rulesStrings.2>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.3>exploresAncientTechOn->Revela los secretos de las tecnologías antiguas sobre</DankPyon_AncientLore_Description.rulePack.rulesStrings.3>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.4>exploresAncientTechOn->Se sumerge en los secretos de la tecnología antigua sobre</DankPyon_AncientLore_Description.rulePack.rulesStrings.4>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.5>exploresAncientTechOn->Revela los avances de las tecnologías antiguas en relación con</DankPyon_AncientLore_Description.rulePack.rulesStrings.5>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.6>exploresAncientTechOn->Ilumina el uso de tecnologías antiguas para</DankPyon_AncientLore_Description.rulePack.rulesStrings.6>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.7>exploresAncientTechOn->Ofrece ideas sobre tecnologías antiguas utilizadas para</DankPyon_AncientLore_Description.rulePack.rulesStrings.7>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.1>desc->Un [writingQualityAdjective] [bookType] que [exploresAncientTechOn] [subject_primary].\n[writingQualitySentence].\n[maybe_date]</DankPyon_AncientLore_Description.rulePack.rulesStrings.1>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.2>exploresAncientTechOn->explora las tecnologías antiguas sobre</DankPyon_AncientLore_Description.rulePack.rulesStrings.2>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.3>exploresAncientTechOn->revela los secretos de las tecnologías antiguas sobre</DankPyon_AncientLore_Description.rulePack.rulesStrings.3>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.4>exploresAncientTechOn->se sumerge en los secretos de la tecnología antigua sobre</DankPyon_AncientLore_Description.rulePack.rulesStrings.4>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.5>exploresAncientTechOn->revela los avances de las tecnologías antiguas en relación con</DankPyon_AncientLore_Description.rulePack.rulesStrings.5>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.6>exploresAncientTechOn->ilumina el uso de tecnologías antiguas para</DankPyon_AncientLore_Description.rulePack.rulesStrings.6>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.7>exploresAncientTechOn->ofrece ideas sobre tecnologías antiguas utilizadas para</DankPyon_AncientLore_Description.rulePack.rulesStrings.7>
 
   <!-- Writing quality -->
 
@@ -33,7 +33,7 @@
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.23>excellentDesc->una visión fascinante de los avances tecnológicos del pasado</DankPyon_AncientLore_Description.rulePack.rulesStrings.23>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.24>excellentDesc->lleno de antiguos secretos que esperan ser descubiertos y revelar maravillas tecnológicas olvidadas</DankPyon_AncientLore_Description.rulePack.rulesStrings.24>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.25>excellentExtra->, donde cada pasaje refleja conocimiento atemporal</DankPyon_AncientLore_Description.rulePack.rulesStrings.25>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.26>excellentExtra->, entusiasma a los lectores con su profundidad y complejidad de conocimientos tecnológicos</DankPyon_AncientLore_Description.rulePack.rulesStrings.26>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.26>excellentExtra->, entusiasma a los lectores con su profundidad y complejidad de conocimientos</DankPyon_AncientLore_Description.rulePack.rulesStrings.26>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.27>excellentExtra->, ofrece ideas que desafían la comprensión convencional de las tecnologías antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.27>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.28>excellentExtra->, transporta al lector a la antigüedad con descripciones vívidas de maravillas técnicas</DankPyon_AncientLore_Description.rulePack.rulesStrings.28>
 
@@ -74,7 +74,7 @@
 
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.53>bookType->texto antiguo</DankPyon_AncientLore_Description.rulePack.rulesStrings.53>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.54>bookType->manuscrito</DankPyon_AncientLore_Description.rulePack.rulesStrings.54>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.55>bookType->inscripción</DankPyon_AncientLore_Description.rulePack.rulesStrings.55>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.55>bookType->registro</DankPyon_AncientLore_Description.rulePack.rulesStrings.55>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.56>bookType->códice</DankPyon_AncientLore_Description.rulePack.rulesStrings.56>
 
 </LanguageData>
