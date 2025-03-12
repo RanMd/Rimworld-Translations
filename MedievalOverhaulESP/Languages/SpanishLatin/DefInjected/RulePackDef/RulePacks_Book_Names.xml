@@ -3,17 +3,17 @@
 
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.0>subject->[subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.0>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.1>title->El secreto de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.1>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.2>title->Las Crónicas de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.2>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.2>title->Las crónicas de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.2>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.3>title->Secretos de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.3>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.4>title->Un Tratado sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.4>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.5>title->El Legado de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.5>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.6>title->Perspectivas Antiguas sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.6>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.4>title->Un tratado sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.4>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.5>title->El legado de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.5>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.6>title->Perspectivas antiguas sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.6>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.7>title->Exploración de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.7>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.8>title->Sabiduría de los Antiguos: [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.8>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.9>title->[subject_primary] y el Arte de [randAdjective]</DankPyon_AncientLore_Name.rulePack.rulesStrings.9>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.8>title->Sabiduría de los antiguos: [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.8>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.9>title->[subject_primary] y el arte de [randAdjective]</DankPyon_AncientLore_Name.rulePack.rulesStrings.9>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.10>title->[subject_primary] revelado</DankPyon_AncientLore_Name.rulePack.rulesStrings.10>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.11>title->[subject_primary] explorado</DankPyon_AncientLore_Name.rulePack.rulesStrings.11>
-  <DankPyon_AncientLore_Name.rulePack.rulesStrings.12>title->[subject_primary] y sus Aplicaciones</DankPyon_AncientLore_Name.rulePack.rulesStrings.12>
+  <DankPyon_AncientLore_Name.rulePack.rulesStrings.12>title->[subject_primary] y sus aplicaciones</DankPyon_AncientLore_Name.rulePack.rulesStrings.12>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.13>title->Crónicas de [subject_primary], Vol. [volNumeral]</DankPyon_AncientLore_Name.rulePack.rulesStrings.13>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.14>title->Perspectivas [randAdjective] sobre [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.14>
   <DankPyon_AncientLore_Name.rulePack.rulesStrings.15>title->Secretos [randAdjective] de [subject_primary]</DankPyon_AncientLore_Name.rulePack.rulesStrings.15>

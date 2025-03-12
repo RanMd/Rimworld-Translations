@@ -83,7 +83,7 @@
 
   <DankPyon_Bone.label>hueso</DankPyon_Bone.label>
   <DankPyon_Bone.description>Como material general, los huesos de animales, incluidos los humanos, pueden ser utilizados. Las armas y armaduras de hueso ofrecen poca durabilidad, pero una protección accesible. Los edificios y obras de arte incrustados con huesos adornan materiales que de otro modo serían pobres o aburridos. Aunque los huesos son fáciles de obtener, se debe tener precaución al usarlos como estructuras completas, como una pared o una puerta. El mejor uso de los huesos, ya sea para armaduras o obras de arte, debería ser la mejora de otros materiales.</DankPyon_Bone.description>
-  <DankPyon_Bone.stuffProps.stuffAdjective>de hueso</DankPyon_Bone.stuffProps.stuffAdjective>
+  <DankPyon_Bone.stuffProps.stuffAdjective>hueso</DankPyon_Bone.stuffProps.stuffAdjective>
 
   <!-- Fabric -->
 
