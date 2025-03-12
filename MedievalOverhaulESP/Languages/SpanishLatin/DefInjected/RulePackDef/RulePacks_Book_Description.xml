@@ -72,9 +72,9 @@
 
   <!-- Misc rules -->
 
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.53>bookType->Texto antiguo</DankPyon_AncientLore_Description.rulePack.rulesStrings.53>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.54>bookType->Manuscrito</DankPyon_AncientLore_Description.rulePack.rulesStrings.54>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.55>bookType->Inscripción</DankPyon_AncientLore_Description.rulePack.rulesStrings.55>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.56>bookType->Códice</DankPyon_AncientLore_Description.rulePack.rulesStrings.56>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.53>bookType->texto antiguo</DankPyon_AncientLore_Description.rulePack.rulesStrings.53>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.54>bookType->manuscrito</DankPyon_AncientLore_Description.rulePack.rulesStrings.54>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.55>bookType->inscripción</DankPyon_AncientLore_Description.rulePack.rulesStrings.55>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.56>bookType->códice</DankPyon_AncientLore_Description.rulePack.rulesStrings.56>
 
 </LanguageData>
