@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XSD_FILE_PATH">
+
   <StandaloneSettlementPreference_ModName>Preferencias de Asentamiento Independiente</StandaloneSettlementPreference_ModName>
   <StandaloneSettlementPreference_ResetSettings>Restablecer Configuraciones</StandaloneSettlementPreference_ResetSettings>
+
   <StandaloneSettlementPreference_Logging>Activar registros para las preferencias de asentamiento</StandaloneSettlementPreference_Logging>
   <StandaloneSettlementPreference_LoggingTooltip>Activa algunos registros para el parche Harmony de preferencias de asentamiento. Estos aparecen durante la creación del mundo, cuando las facciones colonizan el mundo, y pueden ayudar a diagnosticar problemas.</StandaloneSettlementPreference_LoggingTooltip>
   <StandaloneSettlementPreference_LoggingExtended>Activar registros adicionales para las preferencias de asentamiento</StandaloneSettlementPreference_LoggingExtended>
@@ -10,4 +12,7 @@
   <StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>Si esta opción está activada, es más probable que las facciones con la extensión de mod de preferencias de asentamiento se establezcan en ciertos lugares.\n\nEsto se puede cambiar en cualquier momento, pero obviamente requiere un nuevo mundo para ser efectivo.\n\nEsto afecta a:</StandaloneSettlementPreference_EnableSettlementPreferenceTooltip>
   <StandaloneSettlementPreference_Iterations>Número máximo de iteraciones para las preferencias de asentamiento</StandaloneSettlementPreference_Iterations>
   <StandaloneSettlementPreference_IterationsTooltip>Si la preferencia de asentamiento no puede encontrar un lugar deseado dentro de este número de iteraciones, el control volverá a RimWorld.\n\nReducir este valor puede acortar los tiempos de generación del mundo, mientras que aumentarlo puede permitir ubicaciones de asentamiento más deseables.</StandaloneSettlementPreference_IterationsTooltip>
+
+  <DankPyon_Settings_SettlementGeneration>Generación de Asentamientos de Facción</DankPyon_Settings_SettlementGeneration>
+
 </LanguageData>

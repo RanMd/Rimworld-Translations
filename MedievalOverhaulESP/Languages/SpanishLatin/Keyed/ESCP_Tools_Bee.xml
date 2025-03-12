@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- Trituración/Captura -->
+
+  <!-- Crushing/Catching -->
+
   <ESCP_Tools_Catching_Failed>{0} no pudo atrapar nada.</ESCP_Tools_Catching_Failed>
-  <ESCP_Tools_Catching_Special>{0} atrapa {1}!</ESCP_Tools_Catching_Special>
+  <ESCP_Tools_Catching_Special>{0} atrapó {1}!</ESCP_Tools_Catching_Special>
+
   <ESCP_Tools_Crushing_Failed>{0} no encontró nada.</ESCP_Tools_Crushing_Failed>
   <ESCP_Tools_Crushing_Special>{0} recibió {1}!</ESCP_Tools_Crushing_Special>
+
   <!-- Cosas de combustible -->
+
   <ESCP_Tools_FuelExtension_CurrentFuel>Tipo de combustible actual: {0}</ESCP_Tools_FuelExtension_CurrentFuel>
+
   <!-- Productor de cosas -->
+
   <ESCP_Tools_ThingProducer_Progress>{0} progreso hasta la próxima producción</ESCP_Tools_ThingProducer_Progress>
   <ESCP_Tools_ThingProducer_Message>{0} ha producido recursos!</ESCP_Tools_ThingProducer_Message>
   <ESCP_Tools_ThingProducer_Paused>El progreso se ha pausado. Razón: {0}</ESCP_Tools_ThingProducer_Paused>
@@ -17,4 +24,5 @@
   <ESCP_Tools_ThingProducer_Reason_roofed>estar bajo un techo</ESCP_Tools_ThingProducer_Reason_roofed>
   <ESCP_Tools_ThingProducer_Reason_fuel>sin combustible</ESCP_Tools_ThingProducer_Reason_fuel>
   <ESCP_Tools_ThingProducer_Reason_power>sin electricidad</ESCP_Tools_ThingProducer_Reason_power>
+
 </LanguageData>

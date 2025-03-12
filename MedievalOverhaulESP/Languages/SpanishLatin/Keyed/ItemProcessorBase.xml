@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- Generico -->
+
+  <!-- Generic -->
+
   <IP_InsertFirstItemDesc>Insertar</IP_InsertFirstItemDesc>
   <IP_InsertSecondItemDesc>Insertar</IP_InsertSecondItemDesc>
   <IP_InsertThirdItemDesc>Insertar</IP_InsertThirdItemDesc>
@@ -53,4 +55,5 @@
   <IP_WrongTemp>El proceso en esta máquina se interrumpirá debido a una temperatura inadecuada y pronto se echará a perder</IP_WrongTemp>
   <IP_SpoiledDueToWrongTemp>El producto en esta máquina se ha echado a perder debido a una temperatura inadecuada</IP_SpoiledDueToWrongTemp>
   <IP_TempRangeInThisMachine>. Este fermentador necesita una temperatura entre {0} y {1} grados {2}</IP_TempRangeInThisMachine>
+
 </LanguageData>

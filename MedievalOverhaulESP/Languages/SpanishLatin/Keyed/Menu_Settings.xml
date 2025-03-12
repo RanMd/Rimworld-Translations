@@ -1,22 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- Título del Menú -->
-  <MedievalOverhaul.ModNameShort>Revisión Medieval</MedievalOverhaul.ModNameShort>
+
+  <MedievalOverhaul.ModNameShort>Medieval Overhaul</MedievalOverhaul.ModNameShort>
+
   <!-- Opciones de Cadena de Producción -->
-  <DankPyon_Settings_ProductionChain>Opciones para la Cadena de Producción</DankPyon_Settings_ProductionChain>
-  <DankPyon_Settings_LeatherChain>Cadena de Producción de Cuero:</DankPyon_Settings_LeatherChain>
-  <DankPyon_Settings_WoodChain>Cadena de Producción de Madera:</DankPyon_Settings_WoodChain>
-  <DankPyon_Settings_ClothChain>Cadena de Producción de Tela:</DankPyon_Settings_ClothChain>
+
+  <DankPyon_Settings_ProductionChain>Opciones para las cadenas de producción (todas las configuraciones requieren reinicio)</DankPyon_Settings_ProductionChain>
+
+  <DankPyon_Settings_LeatherChain>Cadena de producción de cuero:</DankPyon_Settings_LeatherChain>
+  <DankPyon_Settings_LeatherChain_Tooltip>Habilita la cadena de producción del cuero, donde los animales dan pieles que deben ser procesadas en cuero.</DankPyon_Settings_LeatherChain_Tooltip>
+
+  <DankPyon_Settings_WoodChain>Cadena de producción de madera:</DankPyon_Settings_WoodChain>
+  <DankPyon_Settings_WoodChain_Tooltip>Habilita la cadena de producción de madera, donde los árboles dan troncos que deben ser cortados en tablones para más uso.</DankPyon_Settings_WoodChain_Tooltip>
+
+  <DankPyon_Settings_ClothChain>Cadena de producción de tela:</DankPyon_Settings_ClothChain>
+  <DankPyon_Settings_ClothChain_Tooltip>Habilita la cadena de producción de tela, donde las materias primas de las plantas deben ser hiladas en tela.</DankPyon_Settings_ClothChain_Tooltip>
+
+  <DankPyon_Settings_MetalChain>Cadena de producción de metal:</DankPyon_Settings_MetalChain>
+  <DankPyon_Settings_MetalChain_Tooltip>Habilita la cadena de producción de metal, donde los minerales deben ser fundidos en lingotes antes de su uso. Los minables de vainilla se forzarán si esto está inactivo.</DankPyon_Settings_MetalChain_Tooltip>
+
+  <!-- Agriculture Options -->
+
+  <DankPyon_Settings_Agriculture>Opciones de agricultura</DankPyon_Settings_Agriculture>
+
+  <DankPyon_Settings_SoilWear>Desgaste del suelo arado:</DankPyon_Settings_SoilWear>
+  <DankPyon_Settings_SoilWear_Tooltip>Habilita el desgaste del suelo arado y opciones adicionales para personalizar.</DankPyon_Settings_SoilWear_Tooltip>
+
+  <DankPyon_Settings_AutoPlow>Arado automático del suelo:</DankPyon_Settings_AutoPlow>
+  <DankPyon_Settings_AutoPlow_Tooltip>Habilita la configuración automática de planos para arar el suelo después de desgastarse.</DankPyon_Settings_AutoPlow_Tooltip>
+
+  <DankPyon_Settings_SoilWearChance>Probabilidad de desgaste:</DankPyon_Settings_SoilWearChance>
+  <DankPyon_Settings_SoilWearChance_Tooltip>Probabilidad de que el suelo se desgaste después de cosechar la planta.</DankPyon_Settings_SoilWearChance_Tooltip>
+
+  <DankPyon_Settings_SoilFertility>Fertilidad del suelo arado:</DankPyon_Settings_SoilFertility>
+  <DankPyon_Settings_SoilFertility_Tooltip>Cambia la fertilidad del suelo arado.</DankPyon_Settings_SoilFertility_Tooltip>
+
   <!-- Opciones de Generación de Mapas -->
-  <DankPyon_Settings_MapGen>Opciones para la Generación de Mapas</DankPyon_Settings_MapGen>
+
+  <DankPyon_Settings_MapGen>Opciones de la generación del mapa</DankPyon_Settings_MapGen>
+
   <DankPyon_Settings_IndustrialJunk>Eliminar basura industrial de Vanilla durante la generación de mapas:</DankPyon_Settings_IndustrialJunk>
+  <DankPyon_Settings_IndustrialJunk_Tooltip>Eliminar basura industrial de Vanilla durante la creación del mapa.</DankPyon_Settings_IndustrialJunk_Tooltip>
+
   <DankPyon_Settings_ExostriderRemains>Eliminar restos de Exostrider de Biotech durante la generación de mapas:</DankPyon_Settings_ExostriderRemains>
+  <DankPyon_Settings_ExostriderRemains_Tooltip>Eliminar restos de Exostrider de Biotech durante la creación del mapa.</DankPyon_Settings_ExostriderRemains_Tooltip>
+
   <DankPyon_Settings_HornetNest>Eliminar nidos de avispas durante la generación de mapas:</DankPyon_Settings_HornetNest>
+  <DankPyon_Settings_HornetNest_Tooltip>Eliminar nidos de avispas durante la creación del mapa.</DankPyon_Settings_HornetNest_Tooltip>
+
   <DankPyon_Settings_VanillaMine>Restaurar minerales de minería de Vanilla:</DankPyon_Settings_VanillaMine>
+  <DankPyon_Settings_VanillaMine_Tooltip>Restaurar minerales de minería de Vanilla. Los minerales de Medieval Overhaul seguirán estando disponibles.</DankPyon_Settings_VanillaMine_Tooltip>
+
   <!-- Configuraciones Variadas -->
-  <DankPyon_Settings_MiscOption>Configuraciones Variadas</DankPyon_Settings_MiscOption>
+
+  <DankPyon_Settings_MiscOption>Configuraciones variadas</DankPyon_Settings_MiscOption>
+
   <DankPyon_Settings_RefuelableTorch>Eliminar la necesidad de combustible de las antorchas:</DankPyon_Settings_RefuelableTorch>
+  <DankPyon_Settings_RefuelableTorch_Tooltip>Elimina el combustible y el calor de las antorchas de Vanilla y Medieval Overhaul.</DankPyon_Settings_RefuelableTorch_Tooltip>
+
   <DankPyon_Settings_BoomalopeTar>Reemplazar el combustible químico con alquitrán de Boomalopes y animales similares:</DankPyon_Settings_BoomalopeTar>
+  <DankPyon_Settings_BoomalopeTar_Tooltip>Reemplaza el combustible químico con alquitrán de Boomalopes y animales similares.</DankPyon_Settings_BoomalopeTar_Tooltip>
+
   <DankPyon_Settings_MealRetexture>Reemplazar las texturas de las comidas de Vanilla:</DankPyon_Settings_MealRetexture>
+  <DankPyon_Settings_MealRetexture_Tooltip>Reemplaza las texturas de las comidas de Vanilla con gráficos de estilo Medieval Overhaul.</DankPyon_Settings_MealRetexture_Tooltip>
+
   <DankPyon_Settings_SchematicRework>Reemplazar la creación de esquemas con un analizador al estilo Biotech:</DankPyon_Settings_SchematicRework>
+  <DankPyon_Settings_SchematicRework_Tooltip>Reemplaza los pergaminos de esquemas con un analizador al estilo Biotech.</DankPyon_Settings_SchematicRework_Tooltip>
+
+  <DankPyon_Settings_SlopDispenser>Dispensador de nutrientes Medieval:</DankPyon_Settings_SlopDispenser>
+  <DankPyon_Settings_SlopDispenser_Tooltip>Recomendado desactivar para partidas industriales.</DankPyon_Settings_SlopDispenser_Tooltip>
+
+  <DankPyon_Settings_ComponentRepair>Reparación de componentes medieval:</DankPyon_Settings_ComponentRepair>
+  <DankPyon_Settings_ComponentRepair_Tooltip>Reparará edificios de nivel tecnológico medieval con componentes básicos.</DankPyon_Settings_ComponentRepair_Tooltip>
+
+  <!-- Experimental Patches -->
+
+  <DankPyon_Settings_Experimental>Parches experimentales</DankPyon_Settings_Experimental>
+  <DankPyon_Settings_Experimental_Desc>Los parches a continuación son completamente experimentales y peligrosos. No se dará soporte para problemas relacionados con ellos.</DankPyon_Settings_Experimental_Desc>
+
+  <DankPyon_Settings_Chemfuel_Replace_Title>Reemplazo de combustible químico:</DankPyon_Settings_Chemfuel_Replace_Title>
+  <DankPyon_Settings_Chemfuel_Replace_Desc>Reemplaza todo el combustible químico en recetas y listas de costos con alquitrán.</DankPyon_Settings_Chemfuel_Replace_Desc>
+
+  <DankPyon_Settings_Component_Replace_Title>Reemplazo de componentes:</DankPyon_Settings_Component_Replace_Title>
+  <DankPyon_Settings_Component_Replace_Desc>Reemplaza todos los componentes en recetas y listas de costos con el componente de MO. Esto no cambia lo que se usa para repararlos.</DankPyon_Settings_Component_Replace_Desc>
+
 </LanguageData>

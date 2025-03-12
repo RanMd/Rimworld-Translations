@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- Presser -->
+
   <DankPyon_InsertResourceDesc>Agregar recurso a la prensa.</DankPyon_InsertResourceDesc>
   <DankPyon_InsertResource>Insertar recurso</DankPyon_InsertResource>
   <DankPyon_InsertResourceVariable>Insertar {0}</DankPyon_InsertResourceVariable>
@@ -21,11 +23,14 @@
   <DankPyon_ResourceImproperlyDefined>Este recurso no está definido correctamente para trabajar con la prensa. Contacta al autor del mod de recursos</DankPyon_ResourceImproperlyDefined>
   <DankPyon_RemoveProduct>Eliminar producto ({0})</DankPyon_RemoveProduct>
   <DankPyon_RemoveProductDesc>Elimina el producto de la prensa.</DankPyon_RemoveProductDesc>
+
   <DankPyon_PressEmpty>La prensa está vacía en este momento.</DankPyon_PressEmpty>
   <DankPyon_PressFilled>La prensa está llena con {0}</DankPyon_PressFilled>
   <DankPyon_PressWorking>La prensa está funcionando:</DankPyon_PressWorking>
   <DankPyon_ResourcePercentage>(llena con {0} de {1})</DankPyon_ResourcePercentage>
+
   <!-- Smoker -->
+
   <DankPyon_InsertMeatDesc>Insertar carne para ahumar.</DankPyon_InsertMeatDesc>
   <DankPyon_InsertMeat>Insertar carne</DankPyon_InsertMeat>
   <DankPyon_InsertMeatVariable>Insertar {0}</DankPyon_InsertMeatVariable>
@@ -43,11 +48,15 @@
   <DankPyon_SmokedMeatFinished>La carne ahumada está lista en el ahumador</DankPyon_SmokedMeatFinished>
   <DankPyon_SmokedMeatInProgress>{0} está siendo ahumada. Termina en {1}</DankPyon_SmokedMeatInProgress>
   <DankPyon_SmokedMeatReady>La carne está completamente ahumada y esperando ser recogida</DankPyon_SmokedMeatReady>
+  <DankPyon_MeatImproperlyDefined>Este ingrediente no ha sido definido adecuadamente. Si desea usar este ingrediente en el proceso de producción, por favor contacte al autor de este mod.</DankPyon_MeatImproperlyDefined>
   <DankPyon_RemoveSmokedMeat>Eliminar carne ahumada ({0})</DankPyon_RemoveSmokedMeat>
+
   <DankPyon_SmokerEmpty>El ahumador está vacío en este momento</DankPyon_SmokerEmpty>
   <DankPyon_SmokerFilled>El ahumador está lleno con {0}</DankPyon_SmokerFilled>
   <DankPyon_SmokerWorking>El ahumador está funcionando:</DankPyon_SmokerWorking>
+
   <!-- Drying Rack Meat -->
+
   <DankPyon_InsertMeatRackDesc>Insertar carne para secar.</DankPyon_InsertMeatRackDesc>
   <DankPyon_InsertRackMeat>Insertar carne</DankPyon_InsertRackMeat>
   <DankPyon_InsertMeatRackVariable>Insertar {0}</DankPyon_InsertMeatRackVariable>
@@ -60,11 +69,16 @@
   <DankPyon_DriedMeatFinished>La carne seca está lista en el estante de secado</DankPyon_DriedMeatFinished>
   <DankPyon_DriedMeatInProgress>{0} está siendo secada. Termina en {1}</DankPyon_DriedMeatInProgress>
   <DankPyon_DriedMeatRackReady>La carne está completamente seca y esperando ser recogida</DankPyon_DriedMeatRackReady>
+  <DankPyon_MeatRackImproperlyDefined>Este ingrediente no ha sido definido adecuadamente. Si desea usar este ingrediente en el proceso de producción, por favor contacte al autor de este mod.</DankPyon_MeatRackImproperlyDefined>
   <DankPyon_RemoveDriedMeat>Eliminar carne seca ({0})</DankPyon_RemoveDriedMeat>
+
   <DankPyon_DryingRackEmpty>El estante de secado está vacío en este momento</DankPyon_DryingRackEmpty>
   <DankPyon_DryingRackFilled>El estante de secado está lleno con {0}</DankPyon_DryingRackFilled>
   <DankPyon_DryingRackWorking>El estante de secado está funcionando:</DankPyon_DryingRackWorking>
+  <DankPyon_ResourcePercentage>(Completado {0}/{1})</DankPyon_ResourcePercentage>
+
   <!-- Hay Rack Meat -->
+
   <DankPyon_InsertHayDesc>Coloca heno para secar.</DankPyon_InsertHayDesc>
   <DankPyon_InsertHay>Colocar heno</DankPyon_InsertHay>
   <DankPyon_InsertHayVariable>Coloca {0}</DankPyon_InsertHayVariable>
@@ -83,33 +97,43 @@
   <DankPyon_StrawInProgress>{0} se está secando. Estará listo en {1}</DankPyon_StrawInProgress>
   <DankPyon_StrawReady>El heno está completamente seco y listo para ser recogido</DankPyon_StrawReady>
   <DankPyon_RemoveStraw>Eliminar heno ({0})</DankPyon_RemoveStraw>
+
   <!-- Ale -->
+
   <DankPyon_InsertAleOrMustDesc>Introduce mosto o mosto para fermentar</DankPyon_InsertAleOrMustDesc>
   <DankPyon_StartInsertionAleOrMust>Entrega mosto o mosto</DankPyon_StartInsertionAleOrMust>
   <DankPyon_StartInsertionAleOrMustDesc>Lleva mosto o mosto al barril de fermentación para iniciar la fermentación</DankPyon_StartInsertionAleOrMustDesc>
   <DankPyon_CancelBringingAleOrMust>Cancela la entrega de mosto o mosto</DankPyon_CancelBringingAleOrMust>
   <DankPyon_CancelBringingAleOrMustDesc>Cancela la entrega de mosto o mosto al barril de fermentación</DankPyon_CancelBringingAleOrMustDesc>
+
   <DankPyon_JuiceAppleMaturing>El jugo de manzana está madurando</DankPyon_JuiceAppleMaturing>
   <DankPyon_JuiceAppleCurrentlyFrozen>Este jugo de manzana sin fermentar está congelado y no madurará en sidra</DankPyon_JuiceAppleCurrentlyFrozen>
   <DankPyon_JuiceAppleCurrentlyRefrigerated>Este jugo de manzana sin fermentar está refrigerado y no madurará tan rápido en sidra como podría (madura en {0})</DankPyon_JuiceAppleCurrentlyRefrigerated>
   <DankPyon_JuiceAppleMaturingCorrectly>Este jugo de manzana sin fermentar está madurando en sidra (madura en {0})</DankPyon_JuiceAppleMaturingCorrectly>
-  <MO.EnableMultiTileMeleeAttacks>Habilitar ataques cuerpo a cuerpo en múltiples casillas</MO.EnableMultiTileMeleeAttacks>
+
   <!-- UI -->
+
   <DankPyon_GizmoSearch>Buscar botín</DankPyon_GizmoSearch>
+
   <!-- Production Chains -->
+
   <DankPyon_Hide_Description>Estas pieles y cueros crudos fueron obtenidos de un ser vivo y pueden ser procesados en cuero curtido con las habilidades y herramientas adecuadas.</DankPyon_Hide_Description>
   <DankPyon_Hide>{0} Pieles</DankPyon_Hide>
   <DankPyon_PlainHide>Piel simple</DankPyon_PlainHide>
   <DankPyon_Plank_Description>Útil para la construcción de estructuras y armas. Es un buen combustible para fogatas.</DankPyon_Plank_Description>
   <DankPyon_Log>{0} Tronco</DankPyon_Log>
   <DankPyon_Timber>{0} Tabla</DankPyon_Timber>
-  <DankPyon_Plank>Tabla</DankPyon_Plank>
-  <!-- Misceláneo -->
+  <DankPyon_Plank>Tablón</DankPyon_Plank>
+
+  <!-- Misc -->
+
   <DankPyon_Gossamer_Desc>Producción de telaraña muy fina:</DankPyon_Gossamer_Desc>
   <DankPyon_TrollSwallowDesc>¡El antiguo troll se ha tragado a uno de tus colonos! Asegúrate de matarlo a tiempo para recuperar al colono con vida.</DankPyon_TrollSwallowDesc>
   <DankPyon_TrollSwallLabel>¡Delicioso!</DankPyon_TrollSwallLabel>
   <DankPyon_StewMealAmount>Comidas disponibles</DankPyon_StewMealAmount>
-  <!-- Ollas de nutrientes medievales -->
+
+  <!-- Medieval Nutrient Pots -->
+
   <DankPyon_MealSlop_RefueledWithStat>reabastecido con nutrientes</DankPyon_MealSlop_RefueledWithStat>
   <DankPyon_MealSlop_CommandSetTargetFuelLevel>Establecer el nivel de combustible objetivo</DankPyon_MealSlop_CommandSetTargetFuelLevel>
   <DankPyon_CommandSetTargetFuelLevelDesc>Establece el nivel de combustible objetivo. Los colonos intentarán llenarlo hasta el nivel de comida objetivo.</DankPyon_CommandSetTargetFuelLevelDesc>
@@ -120,11 +144,28 @@
   <DankPyon_StewPot_NutritionStored>Nutrientes almacenados</DankPyon_StewPot_NutritionStored>
   <DankPyon_SlopRotting>Está empezando a pudrirse debido a la falta de combustible.</DankPyon_SlopRotting>
   <DankPyon_SlopFuel>Necesita una olla con combustible.</DankPyon_SlopFuel>
-  <!-- Cosas de hielo -->
+  <DankPyon_EmptyPot>vaciar olla</DankPyon_EmptyPot>
+  <DankPyon_EmptyPot_Cancel>cancelar vaciar olla</DankPyon_EmptyPot_Cancel>
+  <DankPyon_RetrieveSlopMeals>Recoger {0} comidas</DankPyon_RetrieveSlopMeals>
+  <DankPyon_RetrieveSlopMeals_Cancel>cancelar recoger comidas</DankPyon_RetrieveSlopMeals_Cancel>
+  <DankPyon_NoFood>No hay comida cocinada en la olla</DankPyon_NoFood>
+  <DankPyon_CannotUse>No se puede usar {0}</DankPyon_CannotUse>
+  <DankPyon_GetSlop>Consumir {0}</DankPyon_GetSlop>
+
+  <!-- Ice Stuff -->
+
   <DankPyon_Melted>Completamente derretido</DankPyon_Melted>
   <DankPyon_GatherIce>Recolectar hielo/agua</DankPyon_GatherIce>
   <DankPyon_GatherIceDesc>Recolecta hielo o agua de terrenos adecuados.</DankPyon_GatherIceDesc>
   <DankPyon_MustBeIce>El terreno debe ser de hielo o agua</DankPyon_MustBeIce>
   <DankPyon_MustBeOnSoil>El terreno debe ser de tierra</DankPyon_MustBeOnSoil>
   <DankPyon_MeltedAwayInStorage>{1_label} se ha derretido en el almacenamiento.</DankPyon_MeltedAwayInStorage>
+
+  <DankPyon_RequiredSchematic>Esquema Requerido</DankPyon_RequiredSchematic>
+
+  <!-- Alp Game Condition -->
+
+  <DankPyon_AlpAttackLetterLabel>Ataque de Alp avistado</DankPyon_AlpAttackLetterLabel>
+  <DankPyon_AlpAttackLetterText>Un grupo de pesadillas emergió de la oscuridad acompañado por el viento sombrío, y sus pálidas figuras avanzaron silenciosamente en la espesa niebla. Basta con echarle un vistazo para ver su rostro sin vida y sus dientes aterradores, lo que puede provocar un miedo profundo en las personas. Susurros de miedo se extendieron por el campamento junto con pesadillas, ansiando caos extremo y desesperación.</DankPyon_AlpAttackLetterText>
+
 </LanguageData>

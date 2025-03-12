@@ -26,7 +26,7 @@
   <!-- Cambio el nombre para que coincida con lo demás -->
 
   <WoodLog.label>tablones</WoodLog.label>
-  <WoodLog.stuffProps.stuffAdjective>tablón</WoodLog.stuffProps.stuffAdjective>
+  <WoodLog.stuffProps.stuffAdjective>madera</WoodLog.stuffProps.stuffAdjective>
 
   <DankPyon_Coal.label>trozo de carbón</DankPyon_Coal.label>
   <DankPyon_Coal.description>El carbón es un trozo de roca negra y combustible, compuesto principalmente de carbono. Una buena fuente de combustible para hornos y estufas.</DankPyon_Coal.description>
