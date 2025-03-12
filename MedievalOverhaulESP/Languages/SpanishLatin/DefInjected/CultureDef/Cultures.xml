@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_OldWorlder.label>Viejo Mundo</DankPyon_OldWorlder.label>
+  <DankPyon_OldWorlder.label>viejo mundo</DankPyon_OldWorlder.label>
   <DankPyon_OldWorlder.description>Una robusta cultura industrial, ampliamente difundida entre los forasteros del mundo del borde.</DankPyon_OldWorlder.description>
 
-  <DankPyon_Desert.label>Desierto</DankPyon_Desert.label>
+  <DankPyon_Desert.label>desierto</DankPyon_Desert.label>
   <DankPyon_Desert.description>Una cultura de bazar hecha de tela y seda, famosa por sus colores brillantes en el desierto del mundo del borde.</DankPyon_Desert.description>
 
 </LanguageData>

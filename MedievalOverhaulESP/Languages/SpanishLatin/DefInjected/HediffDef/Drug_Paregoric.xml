@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_High_Paregoric.label>Paregoricum</DankPyon_High_Paregoric.label>
-  <DankPyon_High_Paregoric.labelNoun>un subidón de paregoricum</DankPyon_High_Paregoric.labelNoun>
+
+  <DankPyon_High_Paregoric.label>paregorico</DankPyon_High_Paregoric.label>
+  <DankPyon_High_Paregoric.labelNoun>un subidón de paregorico</DankPyon_High_Paregoric.labelNoun>
   <DankPyon_High_Paregoric.description>Un estado temporal de alivio del dolor y aumento de la cicatrización.</DankPyon_High_Paregoric.description>
+
 </LanguageData>

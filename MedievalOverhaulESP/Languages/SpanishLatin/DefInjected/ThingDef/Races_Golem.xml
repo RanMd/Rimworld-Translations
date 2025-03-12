@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Golem_Iron.label>Golem de Hierro</DankPyon_Golem_Iron.label>
-  <DankPyon_Golem_Iron.description>Gigante torpe, tan grande como tres hombres, incluso los más grandes. Come ovejas enteras como bocadillo y vacía un estanque para enjuagarse.</DankPyon_Golem_Iron.description>
+
+  <!-- Iron Golem -->
+
+  <DankPyon_Golem_Iron.label>golem de hierro</DankPyon_Golem_Iron.label>
+  <DankPyon_Golem_Iron.description>Un coloso de hierro, brutal y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Iron.description>
   <DankPyon_Golem_Iron.tools.0.label>mano izquierda</DankPyon_Golem_Iron.tools.0.label>
   <DankPyon_Golem_Iron.tools.1.label>mano derecha</DankPyon_Golem_Iron.tools.1.label>
   <DankPyon_Golem_Iron.tools.2.label>cabeza</DankPyon_Golem_Iron.tools.2.label>
-  <DankPyon_Golem_Gold.label>Golem de Oro</DankPyon_Golem_Gold.label>
-  <DankPyon_Golem_Gold.description>Un golem de oro.</DankPyon_Golem_Gold.description>
+
+  <!-- Gold Golem -->
+
+  <DankPyon_Golem_Gold.label>golem de oro</DankPyon_Golem_Gold.label>
+  <DankPyon_Golem_Gold.description>Un coloso de oro, brutal y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Gold.description>
   <DankPyon_Golem_Gold.tools.0.label>mano izquierda</DankPyon_Golem_Gold.tools.0.label>
   <DankPyon_Golem_Gold.tools.1.label>mano derecha</DankPyon_Golem_Gold.tools.1.label>
   <DankPyon_Golem_Gold.tools.2.label>cabeza</DankPyon_Golem_Gold.tools.2.label>
-  <DankPyon_Golem_Steel.label>Golem de Acero</DankPyon_Golem_Steel.label>
-  <DankPyon_Golem_Steel.description>Un golem de acero.</DankPyon_Golem_Steel.description>
+
+  <!-- Steel Golem -->
+
+  <DankPyon_Golem_Steel.label>golem de acero</DankPyon_Golem_Steel.label>
+  <DankPyon_Golem_Steel.description>Un coloso de acero, brutal y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Steel.description>
   <DankPyon_Golem_Steel.tools.0.label>mano izquierda</DankPyon_Golem_Steel.tools.0.label>
   <DankPyon_Golem_Steel.tools.1.label>mano derecha</DankPyon_Golem_Steel.tools.1.label>
   <DankPyon_Golem_Steel.tools.2.label>cabeza</DankPyon_Golem_Steel.tools.2.label>
-  <DankPyon_Golem_Silver.label>Golem de Plata</DankPyon_Golem_Silver.label>
-  <DankPyon_Golem_Silver.description>Un golem de plata.</DankPyon_Golem_Silver.description>
+
+  <!-- Silver Golem -->
+
+  <DankPyon_Golem_Silver.label>golem de plata</DankPyon_Golem_Silver.label>
+  <DankPyon_Golem_Silver.description>Un coloso de plata, brutal y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Silver.description>
   <DankPyon_Golem_Silver.tools.0.label>mano izquierda</DankPyon_Golem_Silver.tools.0.label>
   <DankPyon_Golem_Silver.tools.1.label>mano derecha</DankPyon_Golem_Silver.tools.1.label>
   <DankPyon_Golem_Silver.tools.2.label>cabeza</DankPyon_Golem_Silver.tools.2.label>
+
 </LanguageData>

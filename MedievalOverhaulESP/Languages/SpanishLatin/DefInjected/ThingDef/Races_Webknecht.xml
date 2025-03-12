@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Webknecht.label>Opilión</DankPyon_Webknecht.label>
-  <DankPyon_Webknecht.description>El opilión es un gran arácnido que vive en grandes colonias en las áreas boscosas oscuras de todo el mundo de Battle Brothers. Allí tejen sus redes entre los árboles para atrapar todo, desde pájaros hasta ciervos y todo lo que hay en medio.</DankPyon_Webknecht.description>
-  <DankPyon_Webknecht.tools.0.label>Pata delantera izquierda</DankPyon_Webknecht.tools.0.label>
-  <DankPyon_Webknecht.tools.1.label>Pata delantera derecha</DankPyon_Webknecht.tools.1.label>
-  <DankPyon_Webknecht.tools.2.label>Cabeza</DankPyon_Webknecht.tools.2.label>
-  <DankPyon_Webknecht.tools.3.label>Mordedura de araña</DankPyon_Webknecht.tools.3.label>
+
+  <DankPyon_Webknecht.label>webknecht</DankPyon_Webknecht.label>
+  <DankPyon_Webknecht.description>El webknecht es un gran arácnido que vive en grandes colonias en las áreas boscosas oscuras de todo el mundo de Battle Brothers. Allí tejen sus redes entre los árboles para atrapar todo, desde pájaros hasta ciervos y todo lo que hay en medio.</DankPyon_Webknecht.description>
+  <DankPyon_Webknecht.verbs.0.label>disparo de telaraña</DankPyon_Webknecht.verbs.0.label>
+  <DankPyon_Webknecht.tools.0.label>pata delantera izquierda</DankPyon_Webknecht.tools.0.label>
+  <DankPyon_Webknecht.tools.1.label>pata delantera derecha</DankPyon_Webknecht.tools.1.label>
+  <DankPyon_Webknecht.tools.2.label>cabeza</DankPyon_Webknecht.tools.2.label>
+  <DankPyon_Webknecht.tools.3.label>mordedura de araña</DankPyon_Webknecht.tools.3.label>
+
 </LanguageData>

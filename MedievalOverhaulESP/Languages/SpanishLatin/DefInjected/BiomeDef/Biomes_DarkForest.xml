@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_DarkForest.label>Bosque Oscuro</DankPyon_DarkForest.label>
+
+  <DankPyon_DarkForest.label>bosque oscuro</DankPyon_DarkForest.label>
   <DankPyon_DarkForest.description>Una antigua naturaleza salvaje, tan grande como ninguna otra, un lugar con luz tenue y vegetación densa y abrumadora. A menudo se utiliza para contar una amplia gama de historias de advertencia a los niños traviesos. Y con razón. No muchos viven lo suficiente como para llevar este conocimiento fuera del bosque, ya que el bosque mismo quiere permanecer sin descubrir. Y resulta que este matorral particular tiene un arsenal de espinas nudosas y muchas patas con garras, listas para cumplir ese deseo.</DankPyon_DarkForest.description>
+
 </LanguageData>

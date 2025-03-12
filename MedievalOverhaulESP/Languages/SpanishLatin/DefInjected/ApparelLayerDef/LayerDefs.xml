@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_LegShell.label>Pierna exterior</DankPyon_LegShell.label>
-  <DankPyon_NecklaceLayer.label>Collar</DankPyon_NecklaceLayer.label>
-  <DankPyon_Ring1Layer.label>Anillo</DankPyon_Ring1Layer.label>
-  <DankPyon_ShellAttachment.label>Accesorio</DankPyon_ShellAttachment.label>
-  <DankPyon_Hood.label>Capucha</DankPyon_Hood.label>
+
+  <DankPyon_LegShell.label>pierna exterior</DankPyon_LegShell.label>
+  <DankPyon_NecklaceLayer.label>collar</DankPyon_NecklaceLayer.label>
+  <DankPyon_Ring1Layer.label>anillo</DankPyon_Ring1Layer.label>
+  <DankPyon_ShellAttachment.label>accesorio</DankPyon_ShellAttachment.label>
+  <DankPyon_Hood.label>capucha</DankPyon_Hood.label>
+
 </LanguageData>

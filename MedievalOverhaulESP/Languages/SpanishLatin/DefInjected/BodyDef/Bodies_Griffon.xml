@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <DankPyon_GriffonBody.label>cuadrúpedo con cola y pico</DankPyon_GriffonBody.label>
   <DankPyon_GriffonBody.corePart.parts.4.customLabel>Pulmón izquierdo</DankPyon_GriffonBody.corePart.parts.4.customLabel>
   <DankPyon_GriffonBody.corePart.parts.5.customLabel>Pulmón derecho</DankPyon_GriffonBody.corePart.parts.5.customLabel>
@@ -17,4 +18,5 @@
   <DankPyon_GriffonBody.corePart.parts.12.parts.0.customLabel>garra trasera izquierda</DankPyon_GriffonBody.corePart.parts.12.parts.0.customLabel>
   <DankPyon_GriffonBody.corePart.parts.13.customLabel>pata trasera derecha</DankPyon_GriffonBody.corePart.parts.13.customLabel>
   <DankPyon_GriffonBody.corePart.parts.13.parts.0.customLabel>garra trasera derecha</DankPyon_GriffonBody.corePart.parts.13.parts.0.customLabel>
+
 </LanguageData>

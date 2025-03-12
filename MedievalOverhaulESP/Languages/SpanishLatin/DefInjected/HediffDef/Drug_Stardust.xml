@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_High_Stardust.label>Subidón de stardust</DankPyon_High_Stardust.label>
+
+  <DankPyon_High_Stardust.label>subidón de stardust</DankPyon_High_Stardust.label>
   <DankPyon_High_Stardust.labelNoun>un subidón de stardust</DankPyon_High_Stardust.labelNoun>
   <DankPyon_High_Stardust.description>Stardust en el torrente sanguíneo. Mejora significativamente la memoria y la capacidad de aprendizaje y eleva ligeramente el psicoenfoque en la primera ingesta.</DankPyon_High_Stardust.description>
-  <DankPyon_Addiction_Stardust.label>Adicción al stardust</DankPyon_Addiction_Stardust.label>
+
+  <DankPyon_Addiction_Stardust.label>adicción al stardust</DankPyon_Addiction_Stardust.label>
   <DankPyon_Addiction_Stardust.description>Una adicción química al stardust. La presencia prolongada de stardust ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares de Polvo de Estrellas, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_Stardust.description>
   <DankPyon_Addiction_Stardust.stages.1.label>abstinencia</DankPyon_Addiction_Stardust.stages.1.label>
-  <DankPyon_Tolerance_Stardust.label>Tolerancia al stardust</DankPyon_Tolerance_Stardust.label>
+
+  <DankPyon_Tolerance_Stardust.label>tolerancia al stardust</DankPyon_Tolerance_Stardust.label>
   <DankPyon_Tolerance_Stardust.description>Una tolerancia desarrollada hacia stardust. Cuanto mayor es esta tolerancia, más stardust se necesita para lograr el mismo efecto.</DankPyon_Tolerance_Stardust.description>
   <DankPyon_Tolerance_Stardust.stages.small.label>leve</DankPyon_Tolerance_Stardust.stages.small.label>
   <DankPyon_Tolerance_Stardust.stages.large.label>fuerte</DankPyon_Tolerance_Stardust.stages.large.label>
   <DankPyon_Tolerance_Stardust.stages.massive.label>muy fuerte</DankPyon_Tolerance_Stardust.stages.massive.label>
+
 </LanguageData>

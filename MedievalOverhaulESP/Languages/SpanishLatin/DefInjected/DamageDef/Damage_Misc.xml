@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- Ballista Bolt Splash -->
-  <DankPyon_Damage_BallistaBolt.label>Fragmento de virote de ballesta</DankPyon_Damage_BallistaBolt.label>
-  <DankPyon_Damage_BallistaBolt.deathMessage>{0} fue atravesado por un virote de ballesta.</DankPyon_Damage_BallistaBolt.deathMessage>
+
+  <DankPyon_Damage_BallistaBolt.label>fragmento de perno de ballesta</DankPyon_Damage_BallistaBolt.label>
+  <DankPyon_Damage_BallistaBolt.deathMessage>{0} fue atravesado por un perno de ballesta.</DankPyon_Damage_BallistaBolt.deathMessage>
+
   <!-- Boulder Splash -->
-  <DankPyon_Boulder.label>Roca</DankPyon_Boulder.label>
+
+  <DankPyon_Boulder.label>roca</DankPyon_Boulder.label>
   <DankPyon_Boulder.deathMessage>{0} fue aplastado por una roca.</DankPyon_Boulder.deathMessage>
-  <DankPyon_BoulderTarred.label>Roca</DankPyon_BoulderTarred.label>
+
+  <DankPyon_BoulderTarred.label>roca</DankPyon_BoulderTarred.label>
   <DankPyon_BoulderTarred.deathMessage>{0} fue aplastado por una roca.</DankPyon_BoulderTarred.deathMessage>
-  <DankPyon_SchratCollapse.label>Colapso de Schrat</DankPyon_SchratCollapse.label>
+
+  <DankPyon_SchratCollapse.label>colapso de schrat</DankPyon_SchratCollapse.label>
   <DankPyon_SchratCollapse.deathMessage>{0} fue aplastado hasta la muerte por el tronco de un Schrat.</DankPyon_SchratCollapse.deathMessage>
-  <DankPyon_LindwurmAcid.label>Mordedura de Lindwurm</DankPyon_LindwurmAcid.label>
+
+  <DankPyon_LindwurmAcid.label>mordedura de lindwurm</DankPyon_LindwurmAcid.label>
   <DankPyon_LindwurmAcid.deathMessage>{0} murió debido a la mordedura de un Lindwurm.</DankPyon_LindwurmAcid.deathMessage>
-  <DankPyon_LindwurmAcidBurn.label>Quemadura de ácido de Lindwurm</DankPyon_LindwurmAcidBurn.label>
+
+  <DankPyon_LindwurmAcidBurn.label>quemadura de ácido</DankPyon_LindwurmAcidBurn.label>
   <DankPyon_LindwurmAcidBurn.deathMessage>{0} murió debido a la corrosión del ácido del Lindwurm.</DankPyon_LindwurmAcidBurn.deathMessage>
+
   <!-- Swallowing -->
+
   <DankPyon_Swallow.label>completamente tragado</DankPyon_Swallow.label>
   <DankPyon_Swallow.deathMessage>{0} fue mordido hasta la muerte.</DankPyon_Swallow.deathMessage>
-  <DankPyon_Daze.label>Aturdimiento</DankPyon_Daze.label>
-  <DankPyon_Daze.deathMessage>{0} murió debido a la explosión de una granada cegadora.</DankPyon_Daze.deathMessage>
-  <DankPyon_AlpSleep.label>Pesadilla</DankPyon_AlpSleep.label>
+
+  <!-- <DankPyon_Daze.label>aturdimiento</DankPyon_Daze.label> -->
+  <!-- <DankPyon_Daze.deathMessage>{0} murió debido a la explosión de una granada cegadora.</DankPyon_Daze.deathMessage> -->
+
+  <DankPyon_AlpSleep.label>pesadilla</DankPyon_AlpSleep.label>
   <DankPyon_AlpSleep.deathMessage>{0} murió en una pesadilla.</DankPyon_AlpSleep.deathMessage>
-  <DankPyon_AlpNightmare.label>Trauma de pesadilla</DankPyon_AlpNightmare.label>
+
+  <DankPyon_AlpNightmare.label>trauma de pesadilla</DankPyon_AlpNightmare.label>
   <DankPyon_AlpNightmare.deathMessage>{0} murió debido a un trauma de pesadilla.</DankPyon_AlpNightmare.deathMessage>
+
 </LanguageData>

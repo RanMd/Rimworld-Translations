@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_HornetHoneyHigh.label>Estimulado por la Néctar de Avispa</DankPyon_HornetHoneyHigh.label>
+
+  <DankPyon_HornetHoneyHigh.label>estimulado por el néctar de avispa</DankPyon_HornetHoneyHigh.label>
   <DankPyon_HornetHoneyHigh.labelNoun>un subidón de néctar de avispa</DankPyon_HornetHoneyHigh.labelNoun>
   <DankPyon_HornetHoneyHigh.description>Néctar de Avispa en el torrente sanguíneo. Aumenta las habilidades relacionadas con el combate y eleva inmediatamente el psicoenfoque en la primera ingesta.</DankPyon_HornetHoneyHigh.description>
-  <DankPyon_HornetHoneyAddiction.label>Adicción a la néctar de avispa</DankPyon_HornetHoneyAddiction.label>
-  <DankPyon_HornetHoneyAddiction.description>Una adicción química a la néctar de avispa. La presencia prolongada del néctar ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares de néctar de avispa, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_HornetHoneyAddiction.description>
+
+  <DankPyon_HornetHoneyAddiction.label>adicción al néctar de avispa</DankPyon_HornetHoneyAddiction.label>
+  <DankPyon_HornetHoneyAddiction.description>Una adicción química al néctar de avispa. La presencia prolongada del néctar ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares de néctar de avispa, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_HornetHoneyAddiction.description>
   <DankPyon_HornetHoneyAddiction.stages.1.label>abstinencia</DankPyon_HornetHoneyAddiction.stages.1.label>
-  <DankPyon_HornetHoneyTolerance.label>Tolerancia a la néctar de avispa</DankPyon_HornetHoneyTolerance.label>
-  <DankPyon_HornetHoneyTolerance.description>Una tolerancia desarrollada hacia la néctar de avispa. Cuanto mayor es esta tolerancia, más néctar de avispa se necesita para lograr el mismo efecto.</DankPyon_HornetHoneyTolerance.description>
+
+  <DankPyon_HornetHoneyTolerance.label>tolerancia al néctar de avispa</DankPyon_HornetHoneyTolerance.label>
+  <DankPyon_HornetHoneyTolerance.description>Una tolerancia desarrollada hacia el néctar de avispa. Cuanto mayor es esta tolerancia, más néctar de avispa se necesita para lograr el mismo efecto.</DankPyon_HornetHoneyTolerance.description>
   <DankPyon_HornetHoneyTolerance.stages.small.label>leve</DankPyon_HornetHoneyTolerance.stages.small.label>
   <DankPyon_HornetHoneyTolerance.stages.large.label>fuerte</DankPyon_HornetHoneyTolerance.stages.large.label>
   <DankPyon_HornetHoneyTolerance.stages.massive.label>muy fuerte</DankPyon_HornetHoneyTolerance.stages.massive.label>
+
 </LanguageData>

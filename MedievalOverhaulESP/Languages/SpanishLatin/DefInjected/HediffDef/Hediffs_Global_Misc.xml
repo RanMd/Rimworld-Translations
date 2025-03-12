@@ -1,59 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
   <!-- Dish -->
+
   <DankPyon_AteRoxSteak.label>comió Rox-Steak</DankPyon_AteRoxSteak.label>
   <DankPyon_AteRoxSteak.description>Un plato magistralmente preparado con sabores intensamente aromáticos.</DankPyon_AteRoxSteak.description>
+
   <DankPyon_AteGriffonBerryPie.label>comió pastel de bayas de grifo</DankPyon_AteGriffonBerryPie.label>
   <DankPyon_AteGriffonBerryPie.description>Un plato magistralmente preparado con sabores intensamente aromáticos.</DankPyon_AteGriffonBerryPie.description>
+
   <DankPyon_AteSteakWithWine.label>comió bistec con salsa de vino</DankPyon_AteSteakWithWine.label>
   <DankPyon_AteSteakWithWine.description>He comido bistec con salsa de vino y energizado el cuerpo. Aumenta significativamente la velocidad de trabajo y pone la sangre en movimiento.</DankPyon_AteSteakWithWine.description>
+
   <DankPyon_AteTomatoOmelette.label>comió tortilla de tomate</DankPyon_AteTomatoOmelette.label>
   <DankPyon_AteTomatoOmelette.description>Las tortillas de tomate son una comida saciante que satisface eficazmente el hambre.</DankPyon_AteTomatoOmelette.description>
+
   <DankPyon_AteSweetPancakes.label>comió panqueques dulces</DankPyon_AteSweetPancakes.label>
   <DankPyon_AteSweetPancakes.description>Los panqueques dulces tienen un jarabe denso y azucarado que energiza el cuerpo y en general conduce a una mayor velocidad de movimiento.</DankPyon_AteSweetPancakes.description>
+
   <DankPyon_AteFriedEggs.label>comió huevos fritos</DankPyon_AteFriedEggs.label>
   <DankPyon_AteFriedEggs.description>He comido huevos fritos y revitalizado el cuerpo. Aumenta ligeramente la velocidad de trabajo y pone la sangre en movimiento.</DankPyon_AteFriedEggs.description>
+
   <DankPyon_AteMashedPotatoes.label>comió puré de papas</DankPyon_AteMashedPotatoes.label>
   <DankPyon_AteMashedPotatoes.description>He comido puré de papas y energizado el cuerpo. Aumenta ligeramente la velocidad de trabajo y reduce la tasa de hambre.</DankPyon_AteMashedPotatoes.description>
+
   <DankPyon_AtePumpkinFritters.label>comió buñuelos de calabaza</DankPyon_AtePumpkinFritters.label>
   <DankPyon_AtePumpkinFritters.description>He comido buñuelos de calabaza que energizaron el cuerpo. Aumenta ligeramente la velocidad de trabajo y pone la sangre en movimiento.</DankPyon_AtePumpkinFritters.description>
+
   <!-- Tiers -->
+
   <DankPyon_AteBake.label>comió horneado</DankPyon_AteBake.label>
   <DankPyon_AteBake.description>He comido una comida horneada que energiza el cuerpo. Aumenta ligeramente la velocidad de trabajo y reduce la tasa de hambre.</DankPyon_AteBake.description>
+
   <DankPyon_AteBakeFine.label>comió horneado fino</DankPyon_AteBakeFine.label>
   <DankPyon_AteBakeFine.description>He comido una comida horneada fina que energiza el cuerpo. Aumenta la velocidad de trabajo y reduce la tasa de hambre.</DankPyon_AteBakeFine.description>
+
   <DankPyon_AteBakeLavish.label>comió horneado lujoso</DankPyon_AteBakeLavish.label>
   <DankPyon_AteBakeLavish.description>He comido una comida horneada lujosa que energiza el cuerpo. Aumenta significativamente la velocidad de trabajo y reduce la tasa de hambre.</DankPyon_AteBakeLavish.description>
+
   <DankPyon_AteGrill.label>comió comida a la parrilla</DankPyon_AteGrill.label>
   <DankPyon_AteGrill.description>He comido una comida a la parrilla y energizado el cuerpo. Aumenta ligeramente la velocidad de trabajo y pone la sangre en movimiento.</DankPyon_AteGrill.description>
+
   <DankPyon_AteGrillFine.label>comió comida a la parrilla fina</DankPyon_AteGrillFine.label>
   <DankPyon_AteGrillFine.description>He comido una comida a la parrilla fina y energizado el cuerpo. Aumenta la velocidad de trabajo y pone la sangre en movimiento.</DankPyon_AteGrillFine.description>
+
   <DankPyon_AteGrillLavish.label>comió comida a la parrilla lujosa</DankPyon_AteGrillLavish.label>
   <DankPyon_AteGrillLavish.description>He comido una comida a la parrilla lujosa que energiza el cuerpo. Aumenta significativamente la velocidad de trabajo y pone la sangre en movimiento.</DankPyon_AteGrillLavish.description>
+
   <DankPyon_AteSoup.label>comió sopa</DankPyon_AteSoup.label>
   <DankPyon_AteSoup.description>He comido una sopa que proporciona calor y nutrientes. Fortalece ligeramente el sistema inmunológico y pone la sangre en movimiento.</DankPyon_AteSoup.description>
+
   <DankPyon_AteSoupFine.label>comió sopa fina</DankPyon_AteSoupFine.label>
   <DankPyon_AteSoupFine.description>He comido una sopa fina llena de calor y nutrientes. Fortalece el sistema inmunológico y pone la sangre en movimiento.</DankPyon_AteSoupFine.description>
+
   <DankPyon_AteSoupLavish.label>comió sopa lujosa</DankPyon_AteSoupLavish.label>
   <DankPyon_AteSoupLavish.description>He comido una sopa lujosa llena de calor y nutrientes. Fortalece enormemente el sistema inmunológico y pone la sangre en movimiento.</DankPyon_AteSoupLavish.description>
-  <DankPyon_LindwurmAcid.label>ácido de lindworm</DankPyon_LindwurmAcid.label>
-  <DankPyon_LindwurmAcid.description>Ácido poderoso de la sangre de un lindworm. Corroe la durabilidad de la armadura.</DankPyon_LindwurmAcid.description>
+
+  <DankPyon_LindwurmAcid.label>mordida de lindwurm</DankPyon_LindwurmAcid.label>
+  <DankPyon_LindwurmAcid.description>Ácido poderoso de la sangre de un lindwurm. Corroe la durabilidad de la armadura.</DankPyon_LindwurmAcid.description>
+
   <!-- Daze -->
+
   <DankPyon_Daze.label>aturdido</DankPyon_Daze.label>
   <DankPyon_Daze.description>Un estado que provoca una reducción temporal en la eficacia del combate.</DankPyon_Daze.description>
+
   <!-- Apparel Added Hediffs -->
-  <DankPyon_LindwurmAcidImmune.label>inmunidad al ácido de lindworm</DankPyon_LindwurmAcidImmune.label>
+
+  <DankPyon_LindwurmAcidImmune.label>inmunidad al ácido de lindwurm</DankPyon_LindwurmAcidImmune.label>
   <DankPyon_LindwurmAcidImmune.description>Inmune al ácido de Lindwurm.</DankPyon_LindwurmAcidImmune.description>
+
   <DankPyon_StunImmune.label>inmunidad al aturdimiento</DankPyon_StunImmune.label>
   <DankPyon_StunImmune.description>Inmune a los efectos de aturdimiento.</DankPyon_StunImmune.description>
+
   <DankPyon_DazeImmune.label>inmunidad al deslumbramiento</DankPyon_DazeImmune.label>
   <DankPyon_DazeImmune.description>Inmune al deslumbramiento.</DankPyon_DazeImmune.description>
+
   <DankPyon_SigilMood.label>sigilo rúnico</DankPyon_SigilMood.label>
   <DankPyon_SigilMood.description>Aumento del estado de ánimo gracias al sigilo.</DankPyon_SigilMood.description>
+
   <DankPyon_AlpSleep.label>sueño magico</DankPyon_AlpSleep.label>
   <DankPyon_AlpSleep.description>Un estado mental temporal que dificulta la eficacia del combate.</DankPyon_AlpSleep.description>
+
   <DankPyon_NightmareDamage.label>trauma mental</DankPyon_NightmareDamage.label>
   <DankPyon_NightmareDamage.description>trauma mental</DankPyon_NightmareDamage.description>
+
   <DankPyon_NightmareDamage.labelNoun>trauma mental</DankPyon_NightmareDamage.labelNoun>
   <DankPyon_NightmareDamage.labelNounPretty>{1}interno{0}</DankPyon_NightmareDamage.labelNounPretty>
+
 </LanguageData>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Golem.label>Gólem</DankPyon_Golem.label>
+
+  <DankPyon_Golem.label>gólem</DankPyon_Golem.label>
   <DankPyon_Golem.corePart.parts.1.parts.0.customLabel>ojo de cristal izquierdo</DankPyon_Golem.corePart.parts.1.parts.0.customLabel>
   <DankPyon_Golem.corePart.parts.1.parts.1.customLabel>ojo de cristal derecho</DankPyon_Golem.corePart.parts.1.parts.1.customLabel>
   <DankPyon_Golem.corePart.parts.2.customLabel>hombro izquierdo</DankPyon_Golem.corePart.parts.2.customLabel>
@@ -23,4 +24,5 @@
   <DankPyon_Golem.corePart.parts.5.parts.0.customLabel>pie izquierdo</DankPyon_Golem.corePart.parts.5.parts.0.customLabel>
   <DankPyon_Golem.corePart.parts.6.customLabel>pierna derecha</DankPyon_Golem.corePart.parts.6.customLabel>
   <DankPyon_Golem.corePart.parts.6.parts.0.customLabel>pie derecho</DankPyon_Golem.corePart.parts.6.parts.0.customLabel>
+
 </LanguageData>

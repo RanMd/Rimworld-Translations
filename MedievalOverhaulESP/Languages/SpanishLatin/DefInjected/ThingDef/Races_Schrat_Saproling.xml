@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Schrat_Sapling.label>Retoño de Schrat</DankPyon_Schrat_Sapling.label>
+
+  <DankPyon_Schrat_Sapling.label>schrat</DankPyon_Schrat_Sapling.label>
   <DankPyon_Schrat_Sapling.description>Una maraña nudosa de ramas, raíces y barro, toscamente formada a semejanza de un humano. Equipados con una voluntad torcida y siniestra, los Schrats deambulan lentamente por el sotobosque en busca de los vivos. Se dice que los Schrats del bosque disfrutan de la sangre de los leñadores intrusos y cazadores demasiado entusiastas.</DankPyon_Schrat_Sapling.description>
-  <DankPyon_Schrat_Sapling.tools.0.label>puño izquierdo</DankPyon_Schrat_Sapling.tools.0.label>
-  <DankPyon_Schrat_Sapling.tools.1.label>puño derecho</DankPyon_Schrat_Sapling.tools.1.label>
-  <DankPyon_Schrat_Sapling.tools.2.label>cabeza</DankPyon_Schrat_Sapling.tools.2.label>
+  <DankPyon_Schrat_Sapling.tools.left_fist.label>puño izquierdo</DankPyon_Schrat_Sapling.tools.left_fist.label>
+  <DankPyon_Schrat_Sapling.tools.right_fist.label>puño derecho</DankPyon_Schrat_Sapling.tools.right_fist.label>
+  <DankPyon_Schrat_Sapling.tools.head.label>cabeza</DankPyon_Schrat_Sapling.tools.head.label>
+
+  <!-- Schrat Plains -->
+
+  <DankPyon_SchratPlain_Sapling.label>schrat</DankPyon_SchratPlain_Sapling.label>
+  <DankPyon_SchratPlain_Sapling.description>Una maraña nudosa de ramas, raíces y barro, toscamente formada a semejanza de un humano. Equipados con una voluntad torcida y siniestra, los Schrats deambulan lentamente por el sotobosque en busca de los vivos. Se dice que los Schrats del bosque disfrutan de la sangre de los leñadores intrusos y cazadores demasiado entusiastas.</DankPyon_SchratPlain_Sapling.description>
+  <DankPyon_SchratPlain_Sapling.tools.left_fist.label>puño izquierdo</DankPyon_SchratPlain_Sapling.tools.left_fist.label>
+  <DankPyon_SchratPlain_Sapling.tools.right_fist.label>puño derecho</DankPyon_SchratPlain_Sapling.tools.right_fist.label>
+  <DankPyon_SchratPlain_Sapling.tools.head.label>cabeza</DankPyon_SchratPlain_Sapling.tools.head.label>
+
 </LanguageData>

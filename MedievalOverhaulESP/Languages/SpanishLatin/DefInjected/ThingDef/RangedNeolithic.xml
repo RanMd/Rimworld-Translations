@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Bow_Hunting.label>Arco de caza</DankPyon_Bow_Hunting.label>
+
+  <DankPyon_Bow_Hunting.label>arco de caza</DankPyon_Bow_Hunting.label>
   <DankPyon_Bow_Hunting.description>El arco de caza es un arma simple y corta hecha de madera densa para el vientre y madera elástica para la parte delantera. Esto permite que la madera densa se doble, pero la madera siempre lucha por volver a su forma recta, desplazando así las flechas que se tiran con gran fuerza a lo largo de la cuerda. Más pequeño que el arco de guerra, lo que resulta en menor alcance y poder de penetración, pero en manos de un arquero o cazador experimentado, es mortal.</DankPyon_Bow_Hunting.description>
-  <DankPyon_Arrow_Hunting.label>Flecha de caza</DankPyon_Arrow_Hunting.label>
-  <DankPyon_Bow_War.label>Arco de guerra</DankPyon_Bow_War.label>
-  <DankPyon_Bow_War.description>Un arco largo, tallado en hermoso tejo, con puntas amortiguadas para permitir una ligera flexión, y pintado para evitar que el arco se rompa bajo tensión – y el arco realmente experimenta tensión, ya que el cuerpo largo permite que la cuerda de cáñamo se tire más lejos y con más tensión. Esto ayuda a que las flechas vuelen más lejos y penetren mejor las superficies, lo que convierte al arco de guerra en un arma mortal en combate.</DankPyon_Bow_War.description>
-  <DankPyon_Arrow_War.label>Flecha de guerra</DankPyon_Arrow_War.label>
+  <DankPyon_Bow_Hunting.tools.0.label>arco de caza</DankPyon_Bow_Hunting.tools.0.label>
+  <DankPyon_Bow_Hunting.verbs.Verb_Shoot.label>disparar arco</DankPyon_Bow_Hunting.verbs.Verb_Shoot.label>
+
+  <DankPyon_Arrow_Hunting.label>flecha</DankPyon_Arrow_Hunting.label>
+
+  <Bow_War.label>arco de guerra</Bow_War.label>
+  <Bow_War.description>Un arco largo, tallado en hermoso tejo, con puntas amortiguadas para permitir una ligera flexión, y pintado para evitar que el arco se rompa bajo tensión – y el arco realmente experimenta tensión, ya que el cuerpo largo permite que la cuerda de cáñamo se tire más lejos y con más tensión. esto ayuda a que las flechas vuelen más lejos y penetren mejor las superficies, lo que convierte al arco de guerra en un arma mortal en combate.</Bow_War.description>
+  <Bow_War.tools.0.label>arco de guerra</Bow_War.tools.0.label>
+  <Bow_War.verbs.Verb_Shoot.label>disparar arco</Bow_War.verbs.Verb_Shoot.label>
+
+  <DankPyon_Arrow_War.label>flecha</DankPyon_Arrow_War.label>
+
 </LanguageData>

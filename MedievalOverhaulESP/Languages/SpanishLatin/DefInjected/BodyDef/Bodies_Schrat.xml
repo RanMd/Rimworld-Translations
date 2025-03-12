@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_SchratBody.label>Schrat</DankPyon_SchratBody.label>
+
+  <DankPyon_SchratBody.label>schrat</DankPyon_SchratBody.label>
   <DankPyon_SchratBody.corePart.parts.0.parts.0.parts.0.customLabel>ojo izquierdo</DankPyon_SchratBody.corePart.parts.0.parts.0.parts.0.customLabel>
   <DankPyon_SchratBody.corePart.parts.0.parts.0.parts.1.customLabel>ojo derecho</DankPyon_SchratBody.corePart.parts.0.parts.0.parts.1.customLabel>
   <DankPyon_SchratBody.corePart.parts.1.customLabel>hombro izquierdo</DankPyon_SchratBody.corePart.parts.1.customLabel>
@@ -23,4 +24,5 @@
   <DankPyon_SchratBody.corePart.parts.4.parts.0.customLabel>pie de rama derecha</DankPyon_SchratBody.corePart.parts.4.parts.0.customLabel>
   <DankPyon_SchratBody.corePart.parts.6.customLabel>enredaderas mágicas</DankPyon_SchratBody.corePart.parts.6.customLabel>
   <DankPyon_SchratBody.corePart.parts.7.customLabel>enredaderas mágicas</DankPyon_SchratBody.corePart.parts.7.customLabel>
+
 </LanguageData>

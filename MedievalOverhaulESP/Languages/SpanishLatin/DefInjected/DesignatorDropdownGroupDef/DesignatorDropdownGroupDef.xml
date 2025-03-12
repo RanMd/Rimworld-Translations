@@ -6,34 +6,34 @@
     <label>barrels</label>
   </DesignatorDropdownGroupDef -->
 
-  <DankPyon_Beverages.label>Bebidas</DankPyon_Beverages.label>
-  <DankPyon_ScribeTools.label>Útiles de Escritura</DankPyon_ScribeTools.label>
-  <DankPyon_ResearchTools.label>Herramientas de Investigación</DankPyon_ResearchTools.label>
-  <DankPyon_Sack.label>Saco de Arpillera</DankPyon_Sack.label>
-  <DankPyon_Candles.label>Velas</DankPyon_Candles.label>
-  <DankPyon_Candle.label>Una Vela</DankPyon_Candle.label>
-  <DankPyon_IngotStack1x1c.label>Pila de Lingotes (1x1)</DankPyon_IngotStack1x1c.label>
-  <DankPyon_IngotStack1x2c.label>Pila de Lingotes (1x2)</DankPyon_IngotStack1x2c.label>
-  <DankPyon_IngotStack2x2c.label>Pila de Lingotes (2x2)</DankPyon_IngotStack2x2c.label>
-  <DankPyon_Bale1x2c.label>Fardo de Heno (1x2)</DankPyon_Bale1x2c.label>
-  <DankPyon_Bale2x2c.label>Fardo de Heno (2x2)</DankPyon_Bale2x2c.label>
-  <DankPyon_Pile1x2c.label>Pila de Heno (1x2)</DankPyon_Pile1x2c.label>
+  <DankPyon_Beverages.label>bebidas</DankPyon_Beverages.label>
+  <DankPyon_ScribeTools.label>útiles de escritura</DankPyon_ScribeTools.label>
+  <DankPyon_ResearchTools.label>herramientas de investigación</DankPyon_ResearchTools.label>
+  <DankPyon_Sack.label>saco de arpillera</DankPyon_Sack.label>
+  <DankPyon_Candles.label>velas</DankPyon_Candles.label>
+  <DankPyon_Candle.label>una vela</DankPyon_Candle.label>
+  <DankPyon_IngotStack1x1c.label>pila de lingotes (1x1)</DankPyon_IngotStack1x1c.label>
+  <DankPyon_IngotStack1x2c.label>pila de lingotes (1x2)</DankPyon_IngotStack1x2c.label>
+  <DankPyon_IngotStack2x2c.label>pila de lingotes (2x2)</DankPyon_IngotStack2x2c.label>
+  <DankPyon_Bale1x2c.label>fardo de heno (1x2)</DankPyon_Bale1x2c.label>
+  <DankPyon_Bale2x2c.label>fardo de heno (2x2)</DankPyon_Bale2x2c.label>
+  <DankPyon_Pile1x2c.label>pila de heno (1x2)</DankPyon_Pile1x2c.label>
 
   <!-- Floors -->
 
-  <DankPyon_Floor_RusticWoodFloor.label>Piso de Madera Rústica</DankPyon_Floor_RusticWoodFloor.label>
-  <DankPyon_Floor_Cobblestone.label>Piso de Piedra de Canto Rodado</DankPyon_Floor_Cobblestone.label>
-  <DankPyon_Floor_HerringboneTile.label>Piso de Azulejo en Espiga</DankPyon_Floor_HerringboneTile.label>
-  <DankPyon_Floor_WindmillTile.label>Piso de Azulejo de Molino de Viento</DankPyon_Floor_WindmillTile.label>
-  <DankPyon_Floor_CobblestoneTile.label>Piso de Azulejo de Canto Rodado</DankPyon_Floor_CobblestoneTile.label>
-  <DankPyon_Floor_VersaillesTile.label>Piso de Azulejo de Versalles</DankPyon_Floor_VersaillesTile.label>
-  <DankPyon_Floor_RuinedStoneTile.label>Piso de Azulejo de Piedra Deteriorada</DankPyon_Floor_RuinedStoneTile.label>
+  <DankPyon_Floor_RusticWoodFloor.label>piso de madera rústica</DankPyon_Floor_RusticWoodFloor.label>
+  <DankPyon_Floor_Cobblestone.label>piso de piedra de canto rodado</DankPyon_Floor_Cobblestone.label>
+  <DankPyon_Floor_HerringboneTile.label>piso de azulejo en espiga</DankPyon_Floor_HerringboneTile.label>
+  <DankPyon_Floor_WindmillTile.label>piso de azulejo de molino de viento</DankPyon_Floor_WindmillTile.label>
+  <DankPyon_Floor_CobblestoneTile.label>piso de azulejo de canto rodado</DankPyon_Floor_CobblestoneTile.label>
+  <DankPyon_Floor_VersaillesTile.label>piso de azulejo de versalles</DankPyon_Floor_VersaillesTile.label>
+  <DankPyon_Floor_RuinedStoneTile.label>piso de azulejo de piedra deteriorada</DankPyon_Floor_RuinedStoneTile.label>
 
   <!-- Pisos de cerámica -->
 
-  <DankPyon_Floor_Lys.label>Azulejo decorativo de lirio</DankPyon_Floor_Lys.label>
-  <DankPyon_Floor_DiamondLys.label>Azulejo decorativo de lirio con patrón de diamante</DankPyon_Floor_DiamondLys.label>
-  <DankPyon_Floor_CircleLys.label>Azulejo decorativo de lirio con patrón circular</DankPyon_Floor_CircleLys.label>
-  <DankPyon_Floor_CheckeredLysStar.label>Azulejo decorativo de lirio con patrón de tablero de ajedrez</DankPyon_Floor_CheckeredLysStar.label>
+  <DankPyon_Floor_Lys.label>azulejo decorativo de lirio</DankPyon_Floor_Lys.label>
+  <DankPyon_Floor_DiamondLys.label>azulejo decorativo de lirio con patrón de diamante</DankPyon_Floor_DiamondLys.label>
+  <DankPyon_Floor_CircleLys.label>azulejo decorativo de lirio con patrón circular</DankPyon_Floor_CircleLys.label>
+  <DankPyon_Floor_CheckeredLysStar.label>azulejo decorativo de lirio con patrón de ajedrez</DankPyon_Floor_CheckeredLysStar.label>
 
 </LanguageData>

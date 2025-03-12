@@ -3,7 +3,7 @@
 
   <!-- The Big Bad -->
 
-  <DankPyon_LargeCobraForest.label>Cobra gigante de bosque</DankPyon_LargeCobraForest.label>
+  <DankPyon_LargeCobraForest.label>cobra gigante de bosque</DankPyon_LargeCobraForest.label>
   <DankPyon_LargeCobraForest.labelPlural>cobra gigante de bosque</DankPyon_LargeCobraForest.labelPlural>
   <DankPyon_LargeCobraForest.lifeStages.0.label>cría de cobra gigante</DankPyon_LargeCobraForest.lifeStages.0.label>
   <DankPyon_LargeCobraForest.lifeStages.0.labelPlural>crías de cobra gigante</DankPyon_LargeCobraForest.lifeStages.0.labelPlural>
@@ -12,7 +12,7 @@
   <DankPyon_LargeCobraForest.lifeStages.2.label>cobra gigante de bosque</DankPyon_LargeCobraForest.lifeStages.2.label>
   <DankPyon_LargeCobraForest.lifeStages.2.labelPlural>cobras gigantes de bosque</DankPyon_LargeCobraForest.lifeStages.2.labelPlural>
 
-  <DankPyon_LargeCobraCave.label>Cobra gigante de cueva</DankPyon_LargeCobraCave.label>
+  <DankPyon_LargeCobraCave.label>cobra gigante de cueva</DankPyon_LargeCobraCave.label>
   <DankPyon_LargeCobraCave.labelPlural>cobra gigante de cueva</DankPyon_LargeCobraCave.labelPlural>
   <DankPyon_LargeCobraCave.lifeStages.0.label>cría de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.label>
   <DankPyon_LargeCobraCave.lifeStages.0.labelPlural>crías de cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.0.labelPlural>
@@ -21,7 +21,7 @@
   <DankPyon_LargeCobraCave.lifeStages.2.label>cobra gigante de cueva</DankPyon_LargeCobraCave.lifeStages.2.label>
   <DankPyon_LargeCobraCave.lifeStages.2.labelPlural>cobras gigantes de cueva</DankPyon_LargeCobraCave.lifeStages.2.labelPlural>
 
-  <DankPyon_GiantConstrictorForest.label>Constrictor gigante de bosque</DankPyon_GiantConstrictorForest.label>
+  <DankPyon_GiantConstrictorForest.label>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.label>
   <DankPyon_GiantConstrictorForest.labelPlural>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.labelPlural>
   <DankPyon_GiantConstrictorForest.lifeStages.0.label>cría de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.label>
   <DankPyon_GiantConstrictorForest.lifeStages.0.labelPlural>crías de constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.0.labelPlural>
@@ -30,7 +30,7 @@
   <DankPyon_GiantConstrictorForest.lifeStages.2.label>constrictor gigante de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.label>
   <DankPyon_GiantConstrictorForest.lifeStages.2.labelPlural>constrictores gigantes de bosque</DankPyon_GiantConstrictorForest.lifeStages.2.labelPlural>
 
-  <DankPyon_GiantConstrictorCave.label>Constrictor gigante de cueva</DankPyon_GiantConstrictorCave.label>
+  <DankPyon_GiantConstrictorCave.label>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.label>
   <DankPyon_GiantConstrictorCave.labelPlural>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.labelPlural>
   <DankPyon_GiantConstrictorCave.lifeStages.0.label>cría de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.label>
   <DankPyon_GiantConstrictorCave.lifeStages.0.labelPlural>crías de constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.0.labelPlural>
@@ -39,22 +39,22 @@
   <DankPyon_GiantConstrictorCave.lifeStages.2.label>constrictor gigante de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.label>
   <DankPyon_GiantConstrictorCave.lifeStages.2.labelPlural>constrictores gigantes de cueva</DankPyon_GiantConstrictorCave.lifeStages.2.labelPlural>
 
-  <DankPyon_LindwurmForest.label>Lindworm</DankPyon_LindwurmForest.label>
-  <DankPyon_LindwurmForest.labelPlural>lindworm</DankPyon_LindwurmForest.labelPlural>
-  <DankPyon_LindwurmForest.lifeStages.0.label>cría de lindworm</DankPyon_LindwurmForest.lifeStages.0.label>
-  <DankPyon_LindwurmForest.lifeStages.0.labelPlural>crías de lindworm</DankPyon_LindwurmForest.lifeStages.0.labelPlural>
-  <DankPyon_LindwurmForest.lifeStages.1.label>lindworm joven</DankPyon_LindwurmForest.lifeStages.1.label>
-  <DankPyon_LindwurmForest.lifeStages.1.labelPlural>lindworms jovenes</DankPyon_LindwurmForest.lifeStages.1.labelPlural>
-  <DankPyon_LindwurmForest.lifeStages.2.label>lindworm</DankPyon_LindwurmForest.lifeStages.2.label>
-  <DankPyon_LindwurmForest.lifeStages.2.labelPlural>lindworms</DankPyon_LindwurmForest.lifeStages.2.labelPlural>
+  <DankPyon_LindwurmForest.label>lindwurm</DankPyon_LindwurmForest.label>
+  <DankPyon_LindwurmForest.labelPlural>lindwurm</DankPyon_LindwurmForest.labelPlural>
+  <DankPyon_LindwurmForest.lifeStages.0.label>cría de lindwurm</DankPyon_LindwurmForest.lifeStages.0.label>
+  <DankPyon_LindwurmForest.lifeStages.0.labelPlural>crías de lindwurm</DankPyon_LindwurmForest.lifeStages.0.labelPlural>
+  <DankPyon_LindwurmForest.lifeStages.1.label>lindwurm joven</DankPyon_LindwurmForest.lifeStages.1.label>
+  <DankPyon_LindwurmForest.lifeStages.1.labelPlural>lindwurms jovenes</DankPyon_LindwurmForest.lifeStages.1.labelPlural>
+  <DankPyon_LindwurmForest.lifeStages.2.label>lindwurm</DankPyon_LindwurmForest.lifeStages.2.label>
+  <DankPyon_LindwurmForest.lifeStages.2.labelPlural>lindwurms</DankPyon_LindwurmForest.lifeStages.2.labelPlural>
 
-  <DankPyon_LindwurmCave.label>Lindworm de cueva</DankPyon_LindwurmCave.label>
-  <DankPyon_LindwurmCave.labelPlural>lindworm de cueva</DankPyon_LindwurmCave.labelPlural>
-  <DankPyon_LindwurmCave.lifeStages.0.label>cría de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.label>
-  <DankPyon_LindwurmCave.lifeStages.0.labelPlural>crías de lindworm de cueva</DankPyon_LindwurmCave.lifeStages.0.labelPlural>
-  <DankPyon_LindwurmCave.lifeStages.1.label>lindworm de cueva joven</DankPyon_LindwurmCave.lifeStages.1.label>
-  <DankPyon_LindwurmCave.lifeStages.1.labelPlural>lindworms de cueva jovenes</DankPyon_LindwurmCave.lifeStages.1.labelPlural>
-  <DankPyon_LindwurmCave.lifeStages.2.label>lindworm de cueva</DankPyon_LindwurmCave.lifeStages.2.label>
-  <DankPyon_LindwurmCave.lifeStages.2.labelPlural>lindworms de cueva</DankPyon_LindwurmCave.lifeStages.2.labelPlural>
+  <DankPyon_LindwurmCave.label>lindwurm de cueva</DankPyon_LindwurmCave.label>
+  <DankPyon_LindwurmCave.labelPlural>lindwurm de cueva</DankPyon_LindwurmCave.labelPlural>
+  <DankPyon_LindwurmCave.lifeStages.0.label>cría de lindwurm de cueva</DankPyon_LindwurmCave.lifeStages.0.label>
+  <DankPyon_LindwurmCave.lifeStages.0.labelPlural>crías de lindwurm de cueva</DankPyon_LindwurmCave.lifeStages.0.labelPlural>
+  <DankPyon_LindwurmCave.lifeStages.1.label>lindwurm de cueva joven</DankPyon_LindwurmCave.lifeStages.1.label>
+  <DankPyon_LindwurmCave.lifeStages.1.labelPlural>lindwurms de cueva jovenes</DankPyon_LindwurmCave.lifeStages.1.labelPlural>
+  <DankPyon_LindwurmCave.lifeStages.2.label>lindwurm de cueva</DankPyon_LindwurmCave.lifeStages.2.label>
+  <DankPyon_LindwurmCave.lifeStages.2.labelPlural>lindwurms de cueva</DankPyon_LindwurmCave.lifeStages.2.labelPlural>
 
 </LanguageData>

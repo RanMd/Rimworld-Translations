@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <DankPyon_SnakeCave_Faction.label>serpientes de cueva</DankPyon_SnakeCave_Faction.label>
+  <DankPyon_SnakeCave_Faction.description>Estas enormes criaturas reptilianas viven bajo tierra y se entierran para atacar cuando son atraídas por ruido o señales de feromonas.</DankPyon_SnakeCave_Faction.description>
+  <DankPyon_SnakeCave_Faction.fixedName>Serpientes de Cueva</DankPyon_SnakeCave_Faction.fixedName>
+  <DankPyon_SnakeCave_Faction.leaderTitle>líder de la serpicueva</DankPyon_SnakeCave_Faction.leaderTitle>
   <DankPyon_SnakeCave_Faction.pawnSingular>Serpiente de Cueva</DankPyon_SnakeCave_Faction.pawnSingular>
   <DankPyon_SnakeCave_Faction.pawnsPlural>Serpientes de Cueva</DankPyon_SnakeCave_Faction.pawnsPlural>
-  <DankPyon_SnakeCave_Faction.fixedName>Serpientes de Cueva</DankPyon_SnakeCave_Faction.fixedName>
-  <DankPyon_SnakeCave_Faction.label>Serpientes de Cueva</DankPyon_SnakeCave_Faction.label>
-  <DankPyon_SnakeCave_Faction.description>Estas enormes criaturas reptilianas viven bajo tierra y se entierran para atacar cuando son atraídas por ruido o señales de feromonas.</DankPyon_SnakeCave_Faction.description>
+
 </LanguageData>

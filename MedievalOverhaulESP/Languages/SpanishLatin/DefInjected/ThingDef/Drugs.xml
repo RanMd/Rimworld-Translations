@@ -30,7 +30,7 @@
   <DankPyon_Miracle.ingestible.ingestCommandString>Ingerir {0}</DankPyon_Miracle.ingestible.ingestCommandString>
   <DankPyon_Miracle.ingestible.ingestReportString>Ingiriendo {0}.</DankPyon_Miracle.ingestible.ingestReportString>
 
-  <DankPyon_Paregoric.label>paregórico</DankPyon_Paregoric.label>
+  <DankPyon_Paregoric.label>paregorico</DankPyon_Paregoric.label>
   <DankPyon_Paregoric.description>Un potente analgésico utilizado para aliviar el dolor extremo. Su abuso puede causar letargo y dependencia.</DankPyon_Paregoric.description>
   <DankPyon_Paregoric.ingestible.ingestCommandString>Ingerir {0}</DankPyon_Paregoric.ingestible.ingestCommandString>
   <DankPyon_Paregoric.ingestible.ingestReportString>Ingiriendo {0}.</DankPyon_Paregoric.ingestible.ingestReportString>
@@ -40,7 +40,7 @@
   <DankPyon_Stardust.ingestible.ingestCommandString>Inhalar {0}</DankPyon_Stardust.ingestible.ingestCommandString>
   <DankPyon_Stardust.ingestible.ingestReportString>Inhalando {0}.</DankPyon_Stardust.ingestible.ingestReportString>
 
-  <DankPyon_VigorPill.label>resurgir</DankPyon_VigorPill.label>
+  <DankPyon_VigorPill.label>píldora de vigor</DankPyon_VigorPill.label>
   <DankPyon_VigorPill.description>La píldora de vigor suprime la necesidad de descanso, permitiendo trabajar sin fatiga durante largos períodos. Sin embargo, su consumo prolongado conlleva un alto riesgo de adicción.\n\nEn las universidades más exigentes y en las sociedades competitivas de muchos reinos, aquellos con un rendimiento excepcional suelen ser apodados "hombres de vigor" debido a su asociación con esta sustancia.</DankPyon_VigorPill.description>
   <DankPyon_VigorPill.ingestible.ingestCommandString>Tomar {0}</DankPyon_VigorPill.ingestible.ingestCommandString>
   <DankPyon_VigorPill.ingestible.ingestReportString>Tomando {0}.</DankPyon_VigorPill.ingestible.ingestReportString>

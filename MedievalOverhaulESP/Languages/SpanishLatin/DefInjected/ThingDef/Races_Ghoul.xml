@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Ghoul_Stage_One.label>Ghul</DankPyon_Ghoul_Stage_One.label>
+
+  <!-- Ghoul Stage One -->
+
+  <DankPyon_Ghoul_Stage_One.label>ghoul</DankPyon_Ghoul_Stage_One.label>
   <DankPyon_Ghoul_Stage_One.description>Un ghoul suele describirse como un cadáver reanimado con un apetito insaciable por la carne humana. Según las leyendas, siente una atracción especial por los cementerios y los lugares abandonados.</DankPyon_Ghoul_Stage_One.description>
   <DankPyon_Golem_Iron.tools.0.label>garra izquierda</DankPyon_Golem_Iron.tools.0.label>
   <DankPyon_Golem_Iron.tools.1.label>garra derecha</DankPyon_Golem_Iron.tools.1.label>
   <DankPyon_Golem_Iron.tools.3.label>cabeza</DankPyon_Golem_Iron.tools.3.label>
-  <DankPyon_Ghoul_Stage_Two.label>Ghul</DankPyon_Ghoul_Stage_Two.label>
-  <DankPyon_Ghoul_Stage_Two.description>Un astuto depredador con rasgos tanto felinos como caninos. Es una criatura fácilmente subestimada por aquellos que confunden su extraño gorgoteo risueño con una señal de inofensividad. Mientras que una manada de hienas podría dudar en atacar a un grupo de humanos al aire libre, no mostrarán piedad ante un vagabundo solitario. Ser devorado vivo mientras se oye su risa satisfecha debe de ser un destino aterrador.</DankPyon_Ghoul_Stage_Two.description>
+
+  <!-- Ghoul Stage Two -->
+
+  <DankPyon_Ghoul_Stage_Two.label>ghoul</DankPyon_Ghoul_Stage_Two.label>
+  <DankPyon_Ghoul_Stage_Two.description>Un ghoul suele describirse como un cadáver reanimado con un apetito insaciable por la carne humana. Según las leyendas, siente una atracción especial por los cementerios y los lugares abandonados.</DankPyon_Ghoul_Stage_Two.description>
   <DankPyon_Ghoul_Stage_Two.tools.0.label>garra izquierda</DankPyon_Ghoul_Stage_Two.tools.0.label>
   <DankPyon_Ghoul_Stage_Two.tools.1.label>garra derecha</DankPyon_Ghoul_Stage_Two.tools.1.label>
   <DankPyon_Ghoul_Stage_Two.tools.3.label>cabeza</DankPyon_Ghoul_Stage_Two.tools.3.label>
-  <DankPyon_Ghoul_Stage_Three.label>Ghul</DankPyon_Ghoul_Stage_Three.label>
-  <DankPyon_Ghoul_Stage_Three.description>Un golem de acero.</DankPyon_Ghoul_Stage_Three.description>
+
+  <!-- Ghoul Stage Three -->
+
+  <DankPyon_Ghoul_Stage_Three.label>ghoul</DankPyon_Ghoul_Stage_Three.label>
+  <DankPyon_Ghoul_Stage_Three.description>Un ghoul suele describirse como un cadáver reanimado con un apetito insaciable por la carne humana. Según las leyendas, siente una atracción especial por los cementerios y los lugares abandonados.</DankPyon_Ghoul_Stage_Three.description>
   <DankPyon_Ghoul_Stage_Three.tools.0.label>garra izquierda</DankPyon_Ghoul_Stage_Three.tools.0.label>
   <DankPyon_Ghoul_Stage_Three.tools.1.label>garra derecha</DankPyon_Ghoul_Stage_Three.tools.1.label>
   <DankPyon_Ghoul_Stage_Three.tools.3.label>boca</DankPyon_Ghoul_Stage_Three.tools.3.label>
   <DankPyon_Ghoul_Stage_Three.tools.4.label>cabeza</DankPyon_Ghoul_Stage_Three.tools.4.label>
-  <DankPyon_Golem_Silver.label>Golem de Plata</DankPyon_Golem_Silver.label>
-  <DankPyon_Golem_Silver.description>Un golem de plata.</DankPyon_Golem_Silver.description>
-  <DankPyon_Golem_Silver.tools.0.label>mano izquierda</DankPyon_Golem_Silver.tools.0.label>
-  <DankPyon_Golem_Silver.tools.1.label>mano derecha</DankPyon_Golem_Silver.tools.1.label>
-  <DankPyon_Golem_Silver.tools.2.label>cabeza</DankPyon_Golem_Silver.tools.2.label>
+
 </LanguageData>

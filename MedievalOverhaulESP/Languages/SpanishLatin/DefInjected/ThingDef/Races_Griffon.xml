@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Griffon.label>Grifo</DankPyon_Griffon.label>
-  <DankPyon_Griffon.description>El grifo es una criatura majestuosa que combina las características de un águila y un león. Encapsula fuerza, agilidad e instintos depredadores, lo que lo convierte en una presencia impresionante en la naturaleza.</DankPyon_Griffon.description>
+
+  <!-- Griffon -->
+
+  <DankPyon_Griffon.label>grifo</DankPyon_Griffon.label>
+  <DankPyon_Griffon.description>Una criatura majestuosa que combina las características de un águila y un león. Encapsula fuerza, agilidad e instintos depredadores, lo que lo convierte en una presencia impresionante en la naturaleza.</DankPyon_Griffon.description>
   <DankPyon_Griffon.tools.0.label>garra izquierda</DankPyon_Griffon.tools.0.label>
   <DankPyon_Griffon.tools.1.label>garra derecha</DankPyon_Griffon.tools.1.label>
   <DankPyon_Griffon.tools.2.label>pico</DankPyon_Griffon.tools.2.label>
   <DankPyon_Griffon.tools.3.label>cabeza</DankPyon_Griffon.tools.3.label>
+
 </LanguageData>

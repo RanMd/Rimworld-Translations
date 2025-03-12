@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_High_BattleElixir.label>Estimulado por el elixir de batalla</DankPyon_High_BattleElixir.label>
+
+  <DankPyon_High_BattleElixir.label>estimulado por el elixir de batalla</DankPyon_High_BattleElixir.label>
   <DankPyon_High_BattleElixir.labelNoun>un subidón de elixir de batalla</DankPyon_High_BattleElixir.labelNoun>
   <DankPyon_High_BattleElixir.description>Elixir de batalla en el torrente sanguíneo. Mejora significativamente las habilidades relacionadas con el combate y aumenta inmediatamente el foco psíquico al primer trago.</DankPyon_High_BattleElixir.description>
-  <DankPyon_Addiction_BattleElixir.label>Adicción al elixir de batalla</DankPyon_Addiction_BattleElixir.label>
+
+  <DankPyon_Addiction_BattleElixir.label>adicción al elixir de batalla</DankPyon_Addiction_BattleElixir.label>
   <DankPyon_Addiction_BattleElixir.description>Una adicción química al elixir de batalla. \nLa presencia prolongada del elixir ha llevado a adaptaciones neurológicas a nivel celular, de modo que el cerebro ya no puede funcionar correctamente sin la droga. \nSin dosis regulares del Elixir de Batalla, se presentan síntomas de abstinencia. Sin embargo, una abstinencia prolongada obliga al cerebro a readaptarse a su estado normal, resolviendo así la adicción.</DankPyon_Addiction_BattleElixir.description>
   <DankPyon_Addiction_BattleElixir.stages.1.label>abstinencia</DankPyon_Addiction_BattleElixir.stages.1.label>
-  <DankPyon_Tolerance_BattleElixir.label>Tolerancia al elixir de batalla</DankPyon_Tolerance_BattleElixir.label>
+
+  <DankPyon_Tolerance_BattleElixir.label>tolerancia al elixir de batalla</DankPyon_Tolerance_BattleElixir.label>
   <DankPyon_Tolerance_BattleElixir.description>Una tolerancia desarrollada hacia el elixir de batalla. Cuanto más estricta sea esta tolerancia, más elixir de batalla se necesitará para lograr el mismo efecto.</DankPyon_Tolerance_BattleElixir.description>
   <DankPyon_Tolerance_BattleElixir.stages.small.label>leve</DankPyon_Tolerance_BattleElixir.stages.small.label>
   <DankPyon_Tolerance_BattleElixir.stages.large.label>fuerte</DankPyon_Tolerance_BattleElixir.stages.large.label>
   <DankPyon_Tolerance_BattleElixir.stages.massive.label>muy fuerte</DankPyon_Tolerance_BattleElixir.stages.massive.label>
+
 </LanguageData>

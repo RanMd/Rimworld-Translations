@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Unhold.label>Unhold</DankPyon_Unhold.label>
+
+  <DankPyon_Unhold.label>unhold</DankPyon_Unhold.label>
   <DankPyon_Unhold.description>Una gigantesca bestia deforme con una fuerza descomunal. Su piel gruesa y su resistencia extrema lo convierten en un oponente temible, capaz de arrasar con cualquier cosa a su paso.</DankPyon_Unhold.description>
-  <DankPyon_UnholdSnow.label>Unhold de las nieves</DankPyon_UnholdSnow.label>
+  <DankPyon_Unhold.race.meatLabel>carne de unhold</DankPyon_Unhold.race.meatLabel>
+  <DankPyon_Unhold.tools.left_claw.label>garra izquierda</DankPyon_Unhold.tools.left_claw.label>
+  <DankPyon_Unhold.tools.left_claw.labelNoLocation>garra</DankPyon_Unhold.tools.left_claw.labelNoLocation>
+  <DankPyon_Unhold.tools.left_fist.label>puño izquierdo</DankPyon_Unhold.tools.left_fist.label>
+  <DankPyon_Unhold.tools.left_fist.labelNoLocation>puño</DankPyon_Unhold.tools.left_fist.labelNoLocation>
+  <DankPyon_Unhold.tools.right_claw.label>garra derecha</DankPyon_Unhold.tools.right_claw.label>
+  <DankPyon_Unhold.tools.right_claw.labelNoLocation>garra</DankPyon_Unhold.tools.right_claw.labelNoLocation>
+  <DankPyon_Unhold.tools.right_fist.label>puño derecho</DankPyon_Unhold.tools.right_fist.label>
+  <DankPyon_Unhold.tools.right_fist.labelNoLocation>puño</DankPyon_Unhold.tools.right_fist.labelNoLocation>
+  <DankPyon_Unhold.tools.teeth.label>dientes</DankPyon_Unhold.tools.teeth.label>
+  <DankPyon_Unhold.tools.head.label>cabeza</DankPyon_Unhold.tools.head.label>
+
+  <DankPyon_UnholdSnow.label>unhold de las nieves</DankPyon_UnholdSnow.label>
   <DankPyon_UnholdSnow.description>Una variante del Unhold adaptada a climas fríos. Su pelaje blanco y espeso lo protege del frío extremo, mientras que su brutal fuerza sigue siendo una amenaza letal para cualquier incauto que se cruce en su camino.</DankPyon_UnholdSnow.description>
+  <DankPyon_UnholdSnow.tools.left_claw.label>garra izquierda</DankPyon_UnholdSnow.tools.left_claw.label>
+  <DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>garra</DankPyon_UnholdSnow.tools.left_claw.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.left_fist.label>puño izquierdo</DankPyon_UnholdSnow.tools.left_fist.label>
+  <DankPyon_UnholdSnow.tools.left_fist.labelNoLocation>puño</DankPyon_UnholdSnow.tools.left_fist.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.right_claw.label>garra derecha</DankPyon_UnholdSnow.tools.right_claw.label>
+  <DankPyon_UnholdSnow.tools.right_claw.labelNoLocation>garra</DankPyon_UnholdSnow.tools.right_claw.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.right_fist.label>puño derecho</DankPyon_UnholdSnow.tools.right_fist.label>
+  <DankPyon_UnholdSnow.tools.right_fist.labelNoLocation>puño</DankPyon_UnholdSnow.tools.right_fist.labelNoLocation>
+  <DankPyon_UnholdSnow.tools.teeth.label>dientes</DankPyon_UnholdSnow.tools.teeth.label>
+  <DankPyon_UnholdSnow.tools.head.label>cabeza</DankPyon_UnholdSnow.tools.head.label>
+
 </LanguageData>

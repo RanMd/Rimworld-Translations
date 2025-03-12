@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_AncientForest.label>Bosque Antiguo</DankPyon_AncientForest.label>
+
+  <DankPyon_AncientForest.label>bosque antiguo</DankPyon_AncientForest.label>
   <DankPyon_AncientForest.description>Llanura llena de árboles Lyls y Scara: el antiguo bioma es un lugar seco con cielo claro y árboles elfos de color verde brillante con flora de tonos otoñales. Aunque gran parte de la tierra es fértil, la botánica abarrotada hace que las grandes ciudades sean un desafío, mientras que al mismo tiempo oculta almacenes y granjas. Gracias a los diversos escondites en los árboles, la gran flora y las grietas que conducen a cuevas, una gran cantidad de animales se reúne en los antiguos biomas. Algunos pueden encontrar los biomas inquietantes, ya que los vientos nocturnos aulladores llevan los susurros de los antiguos dioses.</DankPyon_AncientForest.description>
+
 </LanguageData>

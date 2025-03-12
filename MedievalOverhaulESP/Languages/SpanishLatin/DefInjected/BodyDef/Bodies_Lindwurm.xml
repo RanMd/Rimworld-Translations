@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_LindwurmBody.label>Lindwurm</DankPyon_LindwurmBody.label>
+
+  <DankPyon_LindwurmBody.label>lindwurm</DankPyon_LindwurmBody.label>
+  <DankPyon_LindwurmBody.corePart.parts.4.customLabel>pulmón izquierdo</DankPyon_LindwurmBody.corePart.parts.4.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.5.customLabel>pulmón derecho</DankPyon_LindwurmBody.corePart.parts.5.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.6.customLabel>riñón izquierdo</DankPyon_LindwurmBody.corePart.parts.6.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.7.customLabel>riñón derecho</DankPyon_LindwurmBody.corePart.parts.7.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.9.parts.0.parts.1.customLabel>ojo izquierdo</DankPyon_LindwurmBody.corePart.parts.9.parts.0.parts.1.customLabel>
+  <DankPyon_LindwurmBody.corePart.parts.9.parts.0.parts.2.customLabel>ojo derecho</DankPyon_LindwurmBody.corePart.parts.9.parts.0.parts.2.customLabel>
   <DankPyon_LindwurmBody.corePart.parts.10.customLabel>hombro izquierdo</DankPyon_LindwurmBody.corePart.parts.10.customLabel>
   <DankPyon_LindwurmBody.corePart.parts.10.parts.0.customLabel>brazo izquierdo</DankPyon_LindwurmBody.corePart.parts.10.parts.0.customLabel>
   <DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.0.customLabel>parte superior del brazo izquierdo</DankPyon_LindwurmBody.corePart.parts.10.parts.0.parts.0.customLabel>
@@ -21,4 +28,5 @@
   <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.2.customLabel>tercera garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.2.customLabel>
   <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.3.customLabel>cuarta garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.3.customLabel>
   <DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.4.customLabel>quinta garra derecha</DankPyon_LindwurmBody.corePart.parts.11.parts.0.parts.2.parts.4.customLabel>
+
 </LanguageData>

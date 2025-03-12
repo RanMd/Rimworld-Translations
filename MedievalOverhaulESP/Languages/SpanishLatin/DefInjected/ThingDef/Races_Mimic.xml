@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_RusticMimic.label>Mímico</DankPyon_RusticMimic.label>
-  <DankPyon_RusticMimic.description>Mímico</DankPyon_RusticMimic.description>
-  <DankPyon_RusticMimic.tools.0.label>lado izquierdo</DankPyon_RusticMimic.tools.0.label>
-  <DankPyon_RusticMimic.tools.1.label>lado derecho</DankPyon_RusticMimic.tools.1.label>
-  <DankPyon_RusticMimic.tools.3.label>tapa</DankPyon_RusticMimic.tools.3.label>
-  <DankPyon_RusticMimic.tools.4.label>boca</DankPyon_RusticMimic.tools.4.label>
-  <DankPyon_RoyalMimic.label>Mímico Real</DankPyon_RoyalMimic.label>
-  <DankPyon_RoyalMimic.description>Mímico</DankPyon_RoyalMimic.description>
-  <DankPyon_RoyalMimic.tools.0.label>lado izquierdo</DankPyon_RoyalMimic.tools.0.label>
-  <DankPyon_RoyalMimic.tools.1.label>lado derecho</DankPyon_RoyalMimic.tools.1.label>
-  <DankPyon_RoyalMimic.tools.3.label>tapa</DankPyon_RoyalMimic.tools.3.label>
-  <DankPyon_RoyalMimic.tools.4.label>boca</DankPyon_RoyalMimic.tools.4.label>
+
+  <DankPyon_RusticMimic.label>mímo</DankPyon_RusticMimic.label>
+  <DankPyon_RusticMimic.description>Un cofre con dientes afilados y lengua viscosa, que espera pacientemente a los incautos para devorarlos cuando menos lo esperan.</DankPyon_RusticMimic.description>
+  <DankPyon_RusticMimic.tools.left_side.label>lado izquierdo</DankPyon_RusticMimic.tools.left_side.label>
+  <DankPyon_RusticMimic.tools.left_side.labelNoLocation>garra</DankPyon_RusticMimic.tools.left_side.labelNoLocation>
+  <DankPyon_RusticMimic.tools.right_side.label>lado derecho</DankPyon_RusticMimic.tools.right_side.label>
+  <DankPyon_RusticMimic.tools.right_side.labelNoLocation>garra</DankPyon_RusticMimic.tools.right_side.labelNoLocation>
+  <DankPyon_RusticMimic.tools.lid.label>tapa</DankPyon_RusticMimic.tools.lid.label>
+  <DankPyon_RusticMimic.tools.mouth.label>boca</DankPyon_RusticMimic.tools.mouth.label>
+
+  <DankPyon_RoyalMimic.label>mímo de la realeza</DankPyon_RoyalMimic.label>
+  <DankPyon_RoyalMimic.description>Un cofre con dientes afilados y lengua viscosa, pero fino, que espera pacientemente a los incautos para devorarlos cuando menos lo esperan.</DankPyon_RoyalMimic.description>
+  <DankPyon_RoyalMimic.tools.left_side.label>lado izquierdo</DankPyon_RoyalMimic.tools.left_side.label>
+  <DankPyon_RoyalMimic.tools.left_side.labelNoLocation>garra</DankPyon_RoyalMimic.tools.left_side.labelNoLocation>
+  <DankPyon_RoyalMimic.tools.right_side.label>lado derecho</DankPyon_RoyalMimic.tools.right_side.label>
+  <DankPyon_RoyalMimic.tools.right_side.labelNoLocation>garra</DankPyon_RoyalMimic.tools.right_side.labelNoLocation>
+  <DankPyon_RoyalMimic.tools.lid.label>tapa</DankPyon_RoyalMimic.tools.lid.label>
+  <DankPyon_RoyalMimic.tools.mouth.label>boca</DankPyon_RoyalMimic.tools.mouth.label>
+
 </LanguageData>

@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_NobleHouseFactionBase.pawnSingular>Subdito</DankPyon_NobleHouseFactionBase.pawnSingular>
-  <DankPyon_NobleHouseFactionBase.pawnsPlural>Subditos</DankPyon_NobleHouseFactionBase.pawnsPlural>
-  <DankPyon_NobleHouseCivil.label>Casa Noble Civil</DankPyon_NobleHouseCivil.label>
+
+  <!-- House Amboise -->
+
+  <DankPyon_NobleHouseCivil.label>casa noble civil</DankPyon_NobleHouseCivil.label>
   <DankPyon_NobleHouseCivil.description>Estas personas han estado aquí durante mucho tiempo. Tal vez sus antepasados se estrellaron aquí hace mil años. Tal vez sobrevivieron a una catástrofe que destruyó una civilización tecnológica aquí. En cualquier caso, la mayoría de los miembros de la tribu son pueblos nómadas que viven de la tierra y utilizan herramientas y armas primitivas.\n\nA pesar de su evidente debilidad tecnológica, los miembros de la tribu pueden ser enemigos peligrosos y amigos valiosos, ya que poseen habilidades en la guerra de baja tecnología, números y su resistencia.\n\nEsta tribu en particular sigue un estilo de vida pacífico donde puede. Están bastante abiertos al comercio y las alianzas, incluso con pueblos extranjeros.</DankPyon_NobleHouseCivil.description>
   <DankPyon_NobleHouseCivil.fixedName>Casa Amboise</DankPyon_NobleHouseCivil.fixedName>
-  <DankPyon_NobleHouseCivil2.label>Casa Noble Civil</DankPyon_NobleHouseCivil2.label>
+  <DankPyon_NobleHouseCivil.pawnSingular>subdito</DankPyon_NobleHouseCivil.pawnSingular>
+  <DankPyon_NobleHouseCivil.pawnsPlural>subditos</DankPyon_NobleHouseCivil.pawnsPlural>
+  <DankPyon_NobleHouseCivil.leaderTitle>duque</DankPyon_NobleHouseCivil.leaderTitle>
+
+  <!-- House Soren -->
+
+  <DankPyon_NobleHouseCivil2.label>casa noble civil</DankPyon_NobleHouseCivil2.label>
   <DankPyon_NobleHouseCivil2.description>Estas personas han estado aquí durante mucho tiempo. Tal vez sus antepasados se estrellaron aquí hace mil años. Tal vez sobrevivieron a una catástrofe que destruyó una civilización tecnológica aquí. En cualquier caso, la mayoría de los miembros de la tribu son pueblos nómadas que viven de la tierra y utilizan herramientas y armas primitivas.\n\nA pesar de su evidente debilidad tecnológica, los miembros de la tribu pueden ser enemigos peligrosos y amigos valiosos, ya que poseen habilidades en la guerra de baja tecnología, números y su resistencia.\n\nEsta tribu en particular sigue un estilo de vida pacífico donde puede. Están bastante abiertos al comercio y las alianzas, incluso con pueblos extranjeros.</DankPyon_NobleHouseCivil2.description>
   <DankPyon_NobleHouseCivil2.fixedName>Casa Soren</DankPyon_NobleHouseCivil2.fixedName>
-  <DankPyon_NobleHouseFierce.label>Casa Noble Feroz</DankPyon_NobleHouseFierce.label>
+  <DankPyon_NobleHouseCivil2.pawnSingular>subdito</DankPyon_NobleHouseCivil2.pawnSingular>
+  <DankPyon_NobleHouseCivil2.pawnsPlural>subditos</DankPyon_NobleHouseCivil2.pawnsPlural>
+  <DankPyon_NobleHouseCivil2.leaderTitle>duque</DankPyon_NobleHouseCivil2.leaderTitle>
+
+  <!-- House Oswin -->
+
+  <DankPyon_NobleHouseFierce.label>casa noble feroz</DankPyon_NobleHouseFierce.label>
   <DankPyon_NobleHouseFierce.description>Estas personas han estado aquí durante mucho tiempo. Tal vez sus antepasados se estrellaron aquí hace mil años. Tal vez sobrevivieron a una catástrofe que destruyó una civilización tecnológica aquí. En cualquier caso, la mayoría de los miembros de la tribu son pueblos nómadas que viven de la tierra y utilizan herramientas y armas primitivas.\n\nA pesar de su evidente debilidad tecnológica, los miembros de la tribu pueden ser enemigos peligrosos y amigos valiosos, ya que poseen habilidades en la guerra de baja tecnología, números y su resistencia.\n\nEsta tribu en particular sigue un estilo de vida pacífico donde puede. Están bastante abiertos al comercio y las alianzas, incluso con pueblos extranjeros.</DankPyon_NobleHouseFierce.description>
   <DankPyon_NobleHouseFierce.fixedName>Casa Oswin</DankPyon_NobleHouseFierce.fixedName>
-  <DankPyon_NobleHouseSavage.label>Casa Noble Cruel</DankPyon_NobleHouseSavage.label>
+  <DankPyon_NobleHouseFierce.pawnSingular>subdito</DankPyon_NobleHouseFierce.pawnSingular>
+  <DankPyon_NobleHouseFierce.pawnsPlural>subditos</DankPyon_NobleHouseFierce.pawnsPlural>
+  <DankPyon_NobleHouseFierce.leaderTitle>duque</DankPyon_NobleHouseFierce.leaderTitle>
+
+  <!-- House Hesse -->
+
+  <DankPyon_NobleHouseSavage.label>casa noble cruel</DankPyon_NobleHouseSavage.label>
   <DankPyon_NobleHouseSavage.description>Estas personas han estado aquí durante mucho tiempo. Tal vez sus antepasados se estrellaron aquí hace mil años. Tal vez sobrevivieron a una catástrofe que destruyó una civilización tecnológica aquí. En cualquier caso, la mayoría de los miembros de la tribu son pueblos nómadas que viven de la tierra y utilizan herramientas y armas primitivas.\n\nA pesar de su evidente debilidad tecnológica, los miembros de la tribu pueden ser enemigos peligrosos y amigos valiosos, ya que poseen habilidades en la guerra de baja tecnología, números y su resistencia.\n\nEsta tribu en particular sigue un estilo de vida pacífico donde puede. Están bastante abiertos al comercio y las alianzas, incluso con pueblos extranjeros.</DankPyon_NobleHouseSavage.description>
   <DankPyon_NobleHouseSavage.fixedName>Casa Hesse</DankPyon_NobleHouseSavage.fixedName>
+  <DankPyon_NobleHouseSavage.pawnSingular>subdito</DankPyon_NobleHouseSavage.pawnSingular>
+  <DankPyon_NobleHouseSavage.pawnsPlural>subditos</DankPyon_NobleHouseSavage.pawnsPlural>
+  <DankPyon_NobleHouseSavage.leaderTitle>duque</DankPyon_NobleHouseSavage.leaderTitle>
+
 </LanguageData>

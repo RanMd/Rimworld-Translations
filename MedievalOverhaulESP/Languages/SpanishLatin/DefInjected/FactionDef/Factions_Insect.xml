@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Hornets.pawnSingular>Insecto</DankPyon_Hornets.pawnSingular>
-  <DankPyon_Hornets.pawnsPlural>Insectos</DankPyon_Hornets.pawnsPlural>
-  <DankPyon_Hornets.fixedName>Avispones</DankPyon_Hornets.fixedName>
-  <DankPyon_Hornets.label>Avispones</DankPyon_Hornets.label>
+
+  <DankPyon_Hornets.pawnSingular>insecto</DankPyon_Hornets.pawnSingular>
+  <DankPyon_Hornets.pawnsPlural>insectos</DankPyon_Hornets.pawnsPlural>
+  <DankPyon_Hornets.fixedName>avispones</DankPyon_Hornets.fixedName>
+  <DankPyon_Hornets.label>avispones</DankPyon_Hornets.label>
   <DankPyon_Hornets.description>Estas enormes criaturas parecidas a insectos viven bajo tierra y se excavan para atacar cuando son atraídas por el ruido o las señales de feromonas.</DankPyon_Hornets.description>
+
 </LanguageData>

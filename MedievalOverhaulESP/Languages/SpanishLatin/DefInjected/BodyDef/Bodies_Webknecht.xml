@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_WebknechtBody.label>Cuerpo de Weberknecht</DankPyon_WebknechtBody.label>
+
+  <!-- Spiders -->
+
+  <DankPyon_WebknechtBody.label>cuerpo de webknecht</DankPyon_WebknechtBody.label>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.1.customLabel>primer ojo izquierdo</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.1.customLabel>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.2.customLabel>segundo ojo izquierdo</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.2.customLabel>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.3.customLabel>tercer ojo izquierdo</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.3.customLabel>
@@ -17,4 +20,5 @@
   <DankPyon_SchratBody.corePart.parts.9.customLabel>tercera pierna derecha</DankPyon_SchratBody.corePart.parts.9.customLabel>
   <DankPyon_SchratBody.corePart.parts.10.customLabel>cuarta pierna izquierda</DankPyon_SchratBody.corePart.parts.10.customLabel>
   <DankPyon_SchratBody.corePart.parts.11.customLabel>cuarta pierna derecha</DankPyon_SchratBody.corePart.parts.11.customLabel>
+
 </LanguageData>

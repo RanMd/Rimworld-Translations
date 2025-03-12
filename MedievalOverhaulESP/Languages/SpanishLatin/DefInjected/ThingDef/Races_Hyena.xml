@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Hyena.label>Hiena</DankPyon_Hyena.label>
+
+  <DankPyon_Hyena.label>hiena</DankPyon_Hyena.label>
   <DankPyon_Hyena.description>Un astuto depredador con rasgos tanto felinos como caninos. Es una criatura fácilmente subestimada por aquellos que confunden su extraño gorgoteo risueño con una señal de inofensividad. Mientras que una manada de hienas podría dudar en atacar a un grupo de humanos al aire libre, no mostrarán piedad ante un vagabundo solitario. Ser devorado vivo mientras se oye su risa satisfecha debe de ser un destino aterrador.</DankPyon_Hyena.description>
   <DankPyon_Hyena.tools.0.label>garra izquierda</DankPyon_Hyena.tools.0.label>
   <DankPyon_Hyena.tools.1.label>garra derecha</DankPyon_Hyena.tools.1.label>
   <DankPyon_Hyena.tools.3.label>cabeza</DankPyon_Hyena.tools.3.label>
+
 </LanguageData>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_UnpleasantAftermath.label>Intoxicación del sistema nervioso central</DankPyon_UnpleasantAftermath.label>
+
+  <DankPyon_UnpleasantAftermath.label>intoxicación del sistema nervioso central</DankPyon_UnpleasantAftermath.label>
   <DankPyon_UnpleasantAftermath.description>Retraso de síntomas desagradables de intoxicación por drogas.</DankPyon_UnpleasantAftermath.description>
+  <DankPyon_UnpleasantAftermath.labelNoun>una intoxicación del sistema nervioso central</DankPyon_UnpleasantAftermath.labelNoun>
   <DankPyon_UnpleasantAftermath.stages.0.label>leve</DankPyon_UnpleasantAftermath.stages.0.label>
   <DankPyon_UnpleasantAftermath.stages.1.label>fuerte</DankPyon_UnpleasantAftermath.stages.1.label>
   <DankPyon_UnpleasantAftermath.stages.2.label>muy fuerte</DankPyon_UnpleasantAftermath.stages.2.label>
-  <DankPyon_UnpleasantAftermath.labelNoun>una intoxicación del sistema nervioso central</DankPyon_UnpleasantAftermath.labelNoun>
+
 </LanguageData>

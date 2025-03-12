@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Weapon_PotFire.label>Granadas de fuego</DankPyon_Weapon_PotFire.label>
-  <DankPyon_Weapon_PotFire.description>Un explosivo tarro de barro, diseñado para incendiar un área con su carcasa llena de aceite.</DankPyon_Weapon_PotFire.description>
-  <DankPyon_Proj_PotFire.label>Granada de fuego</DankPyon_Proj_PotFire.label>
-  <!-- TODO: la descripcion no esta  -->
-  <DankPyon_Weapon_PotFlash.label>Granadas de destello</DankPyon_Weapon_PotFlash.label>
-  <DankPyon_Weapon_PotFlash.description>Un explosivo tarro de barro, diseñado para desorientar a las víctimas con un destello brillante y un sonido fuerte y agudo.</DankPyon_Weapon_PotFlash.description>
-  <DankPyon_Proj_PotFlash.label>Olla de destello</DankPyon_Proj_PotFlash.label>
-  <!-- TODO: la descripcion no esta  -->
-  <DankPyon_Weapon_PotFlashSmoke.label>Olla de humo</DankPyon_Weapon_PotFlashSmoke.label>
-  <DankPyon_Weapon_PotFlashSmoke.description>Un bote de arcilla explosivo que crea una pared de humo para proporcionar cobertura visual.</DankPyon_Weapon_PotFlashSmoke.description>
-  <DankPyon_Proj_PotSmoke.label>Olla de Humo</DankPyon_Proj_PotSmoke.label>
-  <!-- TODO: la descripcion no esta  -->
-  <DankPyon_Weapon_AcidFlask.label>Frasco de Ácido</DankPyon_Weapon_AcidFlask.label>
-  <DankPyon_Weapon_AcidFlask.description>Un frasco de vidrio sellado que contiene un líquido corrosivo altamente peligroso. Al romperse, libera el ácido, que puede disolver armaduras y causar graves quemaduras en la piel.</DankPyon_Weapon_AcidFlask.description>
-  <DankPyon_Weapon_AcidFlask.verbs.0.label>Lanzar frasco de ácido</DankPyon_Weapon_AcidFlask.verbs.0.label>
-  <!-- TODO: la descripcion no esta  -->
-  <DankPyon_Proj_AcidFlask.label>Frasco de Ácido</DankPyon_Proj_AcidFlask.label>
-  <!-- TODO: la descripcion no esta  -->
+
+  <!-- Crossbows -->
+
+  <DankPyon_Weapon_PotFire.label>tarro de fuego</DankPyon_Weapon_PotFire.label>
+  <DankPyon_Weapon_PotFire.description>Un explosivo tarro de arcilla, diseñado para incendiar un área con su carcasa llena de aceite.</DankPyon_Weapon_PotFire.description>
+  <DankPyon_Weapon_PotFire.verbs.0.label>lanzar tarro de fuego</DankPyon_Weapon_PotFire.verbs.0.label>
+
+  <DankPyon_Proj_PotFire.label>tarro de fuego</DankPyon_Proj_PotFire.label>
+
+  <!-- Flash Pot -->
+
+  <DankPyon_Weapon_PotFlash.label>tarro cegador</DankPyon_Weapon_PotFlash.label>
+  <DankPyon_Weapon_PotFlash.description>Un explosivo tarro de arcilla, diseñado para desorientar a las víctimas con un destello brillante y un sonido fuerte y agudo.</DankPyon_Weapon_PotFlash.description>
+  <DankPyon_Weapon_PotFlash.verbs.0.label>lanzar tarro cegador</DankPyon_Weapon_PotFlash.verbs.0.label>
+
+  <DankPyon_Proj_PotFlash.label>tarro cegador</DankPyon_Proj_PotFlash.label>
+
+  <!-- Smoke Pot -->
+
+  <DankPyon_Weapon_PotFlashSmoke.label>tarro de humo</DankPyon_Weapon_PotFlashSmoke.label>
+  <DankPyon_Weapon_PotFlashSmoke.description>Un tarro de arcilla explosivo que crea una pared de humo para proporcionar cobertura visual.</DankPyon_Weapon_PotFlashSmoke.description>
+  <DankPyon_Weapon_PotFlashSmoke.verbs.0.label>lanzar tarro de humo</DankPyon_Weapon_PotFlashSmoke.verbs.0.label>
+
+  <DankPyon_Proj_PotSmoke.label>tarro de humo</DankPyon_Proj_PotSmoke.label>
+
+  <!-- Acid Flask -->
+
+  <DankPyon_Weapon_AcidFlask.label>tarro de ácido</DankPyon_Weapon_AcidFlask.label>
+  <DankPyon_Weapon_AcidFlask.description>Un tarro de vidrio sellado que contiene un líquido corrosivo altamente peligroso. Al romperse, libera el ácido, que puede disolver armaduras y causar graves quemaduras en la piel.</DankPyon_Weapon_AcidFlask.description>
+  <DankPyon_Weapon_AcidFlask.verbs.0.label>lanzar tarro de ácido</DankPyon_Weapon_AcidFlask.verbs.0.label>
+
+  <DankPyon_Proj_AcidFlask.label>tarro de ácido</DankPyon_Proj_AcidFlask.label>
+
 </LanguageData>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Direwolf.label>Lobo Sombrío</DankPyon_Direwolf.label>
+
+  <!-- Warg -->
+
+  <DankPyon_Direwolf.label>lobo sombrío</DankPyon_Direwolf.label>
   <DankPyon_Direwolf.description>Una subespecie del gran lobo, endurecida por las implacables heladas del norte. Son agresivos y decididos y cazan en manadas bien coordinadas. En tiempos anteriores, los lobos sombríos preferían áreas frías. La falta de presas en inviernos extremadamente hostiles los obligó a trasladarse a regiones más cálidas, donde atacan caravanas y pequeños asentamientos.</DankPyon_Direwolf.description>
-  <DankPyon_Golem_Iron.tools.0.label>garra izquierda</DankPyon_Golem_Iron.tools.0.label>
-  <DankPyon_Golem_Iron.tools.1.label>garra derecha</DankPyon_Golem_Iron.tools.1.label>
-  <DankPyon_Golem_Iron.tools.2.label>dientes afilados</DankPyon_Golem_Iron.tools.2.label>
-  <DankPyon_Golem_Iron.tools.3.label>cabeza</DankPyon_Golem_Iron.tools.3.label>
+  <DankPyon_Direwolf.tools.0.label>garra izquierda</DankPyon_Direwolf.tools.0.label>
+  <DankPyon_Direwolf.tools.1.label>garra derecha</DankPyon_Direwolf.tools.1.label>
+  <DankPyon_Direwolf.tools.2.label>dientes afilados</DankPyon_Direwolf.tools.2.label>
+  <DankPyon_Direwolf.tools.3.label>cabeza</DankPyon_Direwolf.tools.3.label>
+
 </LanguageData>

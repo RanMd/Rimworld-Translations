@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Crossbow.label>Ballesta</DankPyon_Crossbow.label>
+
+  <!-- Crossbows -->
+
+  <DankPyon_Crossbow.label>ballesta</DankPyon_Crossbow.label>
   <DankPyon_Crossbow.description>Un arma para disparar proyectiles que, similar al arco, se basa en una cuerda tensada que, al soltarse, impulsa un proyectil. Sin embargo, la ballesta permite al portador mantener la tensión gracias al mecanismo de bloqueo, lo que hace que el arma de largo alcance sea accesible tanto para principiantes como poderosa en combate.</DankPyon_Crossbow.description>
-  <DankPyon_Arrow_Crossbow.label>Flecha de Ballesta</DankPyon_Arrow_Crossbow.label>
+  <DankPyon_Crossbow.tools.0.label>brazo</DankPyon_Crossbow.tools.0.label>
+  <DankPyon_Crossbow.verbs.Verb_Shoot.label>disparar</DankPyon_Crossbow.verbs.Verb_Shoot.label>
+
+  <DankPyon_Arrow_Crossbow.label>proyectil de ballesta</DankPyon_Arrow_Crossbow.label>
+
   <DankPyon_CrossbowHeavy.label>Ballesta Pesada</DankPyon_CrossbowHeavy.label>
   <DankPyon_CrossbowHeavy.description>Aunque la ballesta pesada es engorrosa de llevar, puede causar un gran daño y perforar enemigos blindados. Mayor alcance y daño que la ballesta, pero recargarla lleva más tiempo. Esto hace que la ballesta pesada sea un arma de defensa impresionante y sea más efectiva en un grupo.</DankPyon_CrossbowHeavy.description>
-  <DankPyon_Arrow_CrossbowHeavy.label>Flecha de Ballesta Pesada</DankPyon_Arrow_CrossbowHeavy.label>
-  <DankPyon_Handgonne.label>Cañón de Mano</DankPyon_Handgonne.label>
+  <DankPyon_CrossbowHeavy.tools.0.label>brazo</DankPyon_CrossbowHeavy.tools.0.label>
+  <DankPyon_CrossbowHeavy.verbs.Verb_Shoot.label>disparar</DankPyon_CrossbowHeavy.verbs.Verb_Shoot.label>
+
+  <DankPyon_Arrow_CrossbowHeavy.label>proyectil de ballesta pesada</DankPyon_Arrow_CrossbowHeavy.label>
+
+  <DankPyon_Handgonne.label>cañón de mano</DankPyon_Handgonne.label>
   <DankPyon_Handgonne.description>La guerra cambia cuando el cañón de mano entra en el campo; A través de pólvora y encendido, los guerreros disparan metralla caliente hacia adelante para perforar múltiples objetivos. El largo mango y el pesado cañón dificultan el transporte del arma, pero un disparo hábil puede cambiar el rumbo en un instante.</DankPyon_Handgonne.description>
-  <DankPyon_Bullet_Handgonne.label>Explosión de Cañón de Mano</DankPyon_Bullet_Handgonne.label>
+  <DankPyon_Handgonne.tools.0.label>culata</DankPyon_Handgonne.tools.0.label>
+  <DankPyon_Handgonne.tools.1.label>cañon</DankPyon_Handgonne.tools.1.label>
+  <DankPyon_Handgonne.verbs.Verb_Shoot.label>disparar</DankPyon_Handgonne.verbs.Verb_Shoot.label>
+
+  <DankPyon_Bullet_Handgonne.label>munición de cañon de mano</DankPyon_Bullet_Handgonne.label>
+
 </LanguageData>

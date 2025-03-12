@@ -1,52 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Remove the eyes and simplify the body, remove fingers? -->
+
   <DankPyon_AlpBody.label>humano</DankPyon_AlpBody.label>
+  <!--  EN: left lung  -->
   <DankPyon_AlpBody.corePart.parts.6.customLabel>pulmón izquierdo</DankPyon_AlpBody.corePart.parts.6.customLabel>
+  <!--  EN: right lung  -->
   <DankPyon_AlpBody.corePart.parts.7.customLabel>pulmón derecho</DankPyon_AlpBody.corePart.parts.7.customLabel>
+  <!--  EN: left kidney  -->
   <DankPyon_AlpBody.corePart.parts.8.customLabel>riñón izquierdo</DankPyon_AlpBody.corePart.parts.8.customLabel>
+  <!--  EN: right kidney  -->
   <DankPyon_AlpBody.corePart.parts.9.customLabel>riñón derecho</DankPyon_AlpBody.corePart.parts.9.customLabel>
+  <!--  EN: left eye  -->
   <DankPyon_AlpBody.corePart.parts.11.parts.0.parts.1.customLabel>ojo izquierdo</DankPyon_AlpBody.corePart.parts.11.parts.0.parts.1.customLabel>
+  <!--  EN: right eye  -->
   <DankPyon_AlpBody.corePart.parts.11.parts.0.parts.2.customLabel>ojo derecho</DankPyon_AlpBody.corePart.parts.11.parts.0.parts.2.customLabel>
+  <!--  EN: left ear  -->
   <DankPyon_AlpBody.corePart.parts.11.parts.0.parts.3.customLabel>oreja izquierda</DankPyon_AlpBody.corePart.parts.11.parts.0.parts.3.customLabel>
+  <!--  EN: right ear  -->
   <DankPyon_AlpBody.corePart.parts.11.parts.0.parts.4.customLabel>oreja derecha</DankPyon_AlpBody.corePart.parts.11.parts.0.parts.4.customLabel>
+  <!--  EN: left shoulder  -->
   <DankPyon_AlpBody.corePart.parts.12.customLabel>hombro izquierdo</DankPyon_AlpBody.corePart.parts.12.customLabel>
+  <!--  EN: left clavicle  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.0.customLabel>clavícula izquierda</DankPyon_AlpBody.corePart.parts.12.parts.0.customLabel>
+  <!--  EN: left arm  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.customLabel>brazo izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.customLabel>
+  <!--  EN: left humerus  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.0.customLabel>húmero izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.0.customLabel>
+  <!--  EN: left radius  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.1.customLabel>radio izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.1.customLabel>
+  <!--  EN: left hand  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.customLabel>mano izquierda</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.customLabel>
+  <!--  EN: left pinky  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>dedo meñique izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <!--  EN: left ring finger  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>dedo anular izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <!--  EN: left middle finger  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>dedo medio izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <!--  EN: left index finger  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>dedo índice izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+  <!--  EN: left thumb  -->
   <DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>pulgar izquierdo</DankPyon_AlpBody.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+  <!--  EN: right shoulder  -->
   <DankPyon_AlpBody.corePart.parts.13.customLabel>hombro derecho</DankPyon_AlpBody.corePart.parts.13.customLabel>
+  <!--  EN: right clavicle  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.0.customLabel>clavícula derecha</DankPyon_AlpBody.corePart.parts.13.parts.0.customLabel>
+  <!--  EN: right arm  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.customLabel>brazo derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.customLabel>
+  <!--  EN: right humerus  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.0.customLabel>húmero derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.0.customLabel>
+  <!--  EN: right radius  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.1.customLabel>radio derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.1.customLabel>
+  <!--  EN: right hand  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.customLabel>mano derecha</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.customLabel>
+  <!--  EN: right pinky  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>dedo meñique derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <!--  EN: right ring finger  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>dedo anular derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <!--  EN: right middle finger  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>dedo medio derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <!--  EN: right index finger  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>dedo índice derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <!--  EN: right thumb  -->
   <DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>pulgar derecho</DankPyon_AlpBody.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <!--  EN: left leg  -->
   <DankPyon_AlpBody.corePart.parts.14.customLabel>pierna izquierda</DankPyon_AlpBody.corePart.parts.14.customLabel>
+  <!--  EN: left femur  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.0.customLabel>muslo izquierdo</DankPyon_AlpBody.corePart.parts.14.parts.0.customLabel>
+  <!--  EN: left tibia  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.1.customLabel>tibia izquierda</DankPyon_AlpBody.corePart.parts.14.parts.1.customLabel>
+  <!--  EN: left foot  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.2.customLabel>pie izquierdo</DankPyon_AlpBody.corePart.parts.14.parts.2.customLabel>
+  <!--  EN: left little toe  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.2.parts.0.customLabel>dedo meñique del pie izquierdo</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.0.customLabel>
+  <!--  EN: left fourth toe  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.2.parts.1.customLabel>cuarto dedo del pie izquierdo</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.1.customLabel>
+  <!--  EN: left middle toe  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.2.parts.3.customLabel>dedo medio del pie izquierdo</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.3.customLabel>
+  <!--  EN: left second toe  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.2.parts.4.customLabel>segundo dedo del pie izquierdo</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.4.customLabel>
+  <!--  EN: left big toe  -->
   <DankPyon_AlpBody.corePart.parts.14.parts.2.parts.5.customLabel>dedo gordo del pie izquierdo</DankPyon_AlpBody.corePart.parts.14.parts.2.parts.5.customLabel>
+  <!--  EN: right leg  -->
   <DankPyon_AlpBody.corePart.parts.15.customLabel>pierna derecha</DankPyon_AlpBody.corePart.parts.15.customLabel>
+  <!--  EN: right femur  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.0.customLabel>muslo derecho</DankPyon_AlpBody.corePart.parts.15.parts.0.customLabel>
+  <!--  EN: right tibia  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.1.customLabel>tibia derecha</DankPyon_AlpBody.corePart.parts.15.parts.1.customLabel>
+  <!--  EN: right foot  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.2.customLabel>pie derecho</DankPyon_AlpBody.corePart.parts.15.parts.2.customLabel>
+  <!--  EN: right little toe  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.2.parts.0.customLabel>dedo meñique del pie derecho</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.0.customLabel>
+  <!--  EN: right fourth toe  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.2.parts.1.customLabel>cuarto dedo del pie derecho</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.1.customLabel>
+  <!--  EN: right middle toe  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.2.parts.3.customLabel>dedo medio del pie derecho</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.3.customLabel>
+  <!--  EN: right second toe  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.2.parts.4.customLabel>segundo dedo del pie derecho</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.4.customLabel>
+  <!--  EN: right big toe  -->
   <DankPyon_AlpBody.corePart.parts.15.parts.2.parts.5.customLabel>dedo gordo del pie derecho</DankPyon_AlpBody.corePart.parts.15.parts.2.parts.5.customLabel>
+
 </LanguageData>

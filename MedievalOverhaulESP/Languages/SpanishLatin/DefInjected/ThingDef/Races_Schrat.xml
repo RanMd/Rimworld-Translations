@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Schrat.label>Brotes de Schrat</DankPyon_Schrat.label>
+
+  <DankPyon_Schrat.label>schrat</DankPyon_Schrat.label>
   <DankPyon_Schrat.description>Una maraña nudosa de ramas, raíces y barro, toscamente formada a semejanza de un humano. Equipados con una voluntad torcida y siniestra, los Schraten deambulan lentamente por el sotobosque en busca de los vivos. Se dice que los Schraten del bosque disfrutan de la sangre de los leñadores intrusos y cazadores demasiado entusiastas.</DankPyon_Schrat.description>
   <DankPyon_Schrat.tools.0.label>puño izquierdo</DankPyon_Schrat.tools.0.label>
   <DankPyon_Schrat.tools.1.label>puño derecho</DankPyon_Schrat.tools.1.label>
+
+  <!-- Schrat Plains -->
+
+  <DankPyon_SchratPlain.label>schrat</DankPyon_SchratPlain.label>
+  <DankPyon_SchratPlain.description>Una maraña nudosa de ramas, raíces y barro, toscamente formada a semejanza de un humano. Equipados con una voluntad torcida y siniestra, los Schraten deambulan lentamente por el sotobosque en busca de los vivos. Se dice que los Schraten del bosque disfrutan de la sangre de los leñadores intrusos y cazadores demasiado entusiastas.</DankPyon_SchratPlain.description>
+  <DankPyon_SchratPlain.tools.0.label>puño izquierdo</DankPyon_SchratPlain.tools.0.label>
+  <DankPyon_SchratPlain.tools.1.label>puño derecho</DankPyon_SchratPlain.tools.1.label>
+
 </LanguageData>

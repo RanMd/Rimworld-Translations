@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Deathstinger.label>Aguijón de la Muerte</DankPyon_Deathstinger.label>
+
+  <DankPyon_Deathstinger.label>deathstinger</DankPyon_Deathstinger.label>
   <DankPyon_Deathstinger.description>Una avispa normalmente grande y maliciosa que caza presas en un enjambre colectivo. Su grueso caparazón y su aguijón mortal lo hacen peligroso en combate. Como es un ser eusocial, no puede reproducirse individualmente.</DankPyon_Deathstinger.description>
-  <DankPyon_Deathstinger.tools.0.label>Mandíbulas</DankPyon_Deathstinger.tools.0.label>
-  <DankPyon_Deathstinger.tools.1.label>Cabeza</DankPyon_Deathstinger.tools.1.label>
+  <DankPyon_Deathstinger.tools.0.label>mandíbulas</DankPyon_Deathstinger.tools.0.label>
+  <DankPyon_Deathstinger.tools.1.label>cabeza</DankPyon_Deathstinger.tools.1.label>
+
 </LanguageData>

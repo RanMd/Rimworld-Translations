@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: clay blocks -->
+  <DankPyon_BlocksClay.label>bloques de arcilla</DankPyon_BlocksClay.label>
+  <!-- EN: Blocks of solid clay. Clay is a relatively soft rock and chips easily. -->
+  <DankPyon_BlocksClay.description>Bloques de arcilla sólida. La arcilla es una roca relativamente blanda y se astilla fácilmente.</DankPyon_BlocksClay.description>
+  <DankPyon_BlocksClay.stuffProps.stuffAdjective>arcilla</DankPyon_BlocksClay.stuffProps.stuffAdjective>
+
+  <!-- EN: clay chunk -->
+  <DankPyon_ChunkClay.label>trozo de arcilla</DankPyon_ChunkClay.label>
+  <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
+  <DankPyon_ChunkClay.description>Un trozo de roca. Puede ser cortado en bloques de piedra utilizables.</DankPyon_ChunkClay.description>
+
+  <!-- EN: clay -->
+  <DankPyon_NaturalWall_Clay.label>arcilla</DankPyon_NaturalWall_Clay.label>
+  <!-- EN: A sedimentary rock composed of clay particles compressed together. -->
+  <DankPyon_NaturalWall_Clay.description>Una roca sedimentaria compuesta de partículas de arcilla comprimidas entre sí.</DankPyon_NaturalWall_Clay.description>
+
+  <!-- EN: smoothed clay -->
+  <DankPyon_SmoothedClay.label>arcilla suavizada</DankPyon_SmoothedClay.label>
+  <!-- EN: A sedimentary rock composed of clay particles compressed together. The clay layers have been polished to a flat, smooth surface. -->
+  <DankPyon_SmoothedClay.description>Una roca sedimentaria compuesta de partículas de arcilla comprimidas entre sí. \nLas capas de arcilla han sido pulidas hasta obtener una superficie plana y lisa.</DankPyon_SmoothedClay.description>
+
+</LanguageData>

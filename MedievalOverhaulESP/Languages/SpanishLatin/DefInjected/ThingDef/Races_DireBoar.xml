@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_DireBoar.label>Jabalí Aterrador</DankPyon_DireBoar.label>
-  <DankPyon_DireBoar.description>Un omnívoro feroz equipado con dos colmillos letales capaces de atravesar cualquier amenaza. Los jabalíes del terror suelen viajar en manadas y se teme que sean extremadamente peligrosos cuando se encuentran.\n\nEl cadáver de un jabalí del terror contiene colmillos que pueden obtenerse en la batalla.</DankPyon_DireBoar.description>
-  <DankPyon_Golem_Iron.tools.0.label>Colmillo</DankPyon_Golem_Iron.tools.0.label>
-  <DankPyon_Golem_Iron.tools.2.label>pezuña izquierda</DankPyon_Golem_Iron.tools.2.label>
-  <DankPyon_Golem_Iron.tools.3.label>pezuña derecha</DankPyon_Golem_Iron.tools.3.label>
-  <DankPyon_Golem_Iron.tools.4.label>cabeza</DankPyon_Golem_Iron.tools.4.label>
+
+  <!-- The Big Bad -->
+
+  <DankPyon_DireBoar.label>jabalí aterrador</DankPyon_DireBoar.label>
+  <DankPyon_DireBoar.description>Un omnívoro feroz equipado con dos colmillos letales capaces de atravesar cualquier amenaza. Los jabalíes aterradores suelen viajar en manadas y se teme que sean extremadamente peligrosos cuando se encuentran.\n\nEl cadáver de un jabalí del terror contiene colmillos que pueden obtenerse en la batalla.</DankPyon_DireBoar.description>
+  <DankPyon_DireBoar.tools.0.label>colmillo</DankPyon_DireBoar.tools.0.label>
+  <DankPyon_DireBoar.tools.2.label>pezuña izquierda</DankPyon_DireBoar.tools.2.label>
+  <DankPyon_DireBoar.tools.3.label>pezuña derecha</DankPyon_DireBoar.tools.3.label>
+  <DankPyon_DireBoar.tools.4.label>cabeza</DankPyon_DireBoar.tools.4.label>
+
 </LanguageData>

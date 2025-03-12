@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Rox.label>Rox</DankPyon_Rox.label>
+
+  <DankPyon_Rox.label>rox</DankPyon_Rox.label>
   <DankPyon_Rox.description>El Rox es una majestuosa criatura de gran tamaño, con un pelaje grueso y lujoso y dos impresionantes cuernos que coronan su cabeza. Este enorme animal es conocido por su temperamento dócil y proporciona una leche rica y cremosa, mientras que su lana, tras ser esquilada y tejida en finos hilos, es altamente valorada por su calidez y suavidad. Su imponente tamaño, combinado con su naturaleza benévola y sus distintivos cuernos, lo convierten en un elemento apreciado e indispensable en cualquier asentamiento.</DankPyon_Rox.description>
-  <DankPyon_Rox.tools.0.label>Cuerno</DankPyon_Rox.tools.0.label>
+  <DankPyon_Rox.tools.0.label>cuerno</DankPyon_Rox.tools.0.label>
   <DankPyon_Rox.tools.2.label>pie izquierdo</DankPyon_Rox.tools.2.label>
   <DankPyon_Rox.tools.3.label>pie derecho</DankPyon_Rox.tools.3.label>
   <DankPyon_Rox.tools.4.label>cabeza</DankPyon_Rox.tools.4.label>
+
 </LanguageData>

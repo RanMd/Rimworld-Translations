@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_High_Miracle.label>Bendición del Boticario</DankPyon_High_Miracle.label>
-  <DankPyon_High_Miracle.labelNoun>un subidón de "Bendición del Boticario"</DankPyon_High_Miracle.labelNoun>
+
+  <DankPyon_High_Miracle.label>miracle</DankPyon_High_Miracle.label>
+  <DankPyon_High_Miracle.labelNoun>un subidón de miracle</DankPyon_High_Miracle.labelNoun>
   <DankPyon_High_Miracle.description>Acelera rápidamente la curación y la inmunidad al tiempo que proporciona protección completa contra varias enfermedades importantes.</DankPyon_High_Miracle.description>
+
 </LanguageData>

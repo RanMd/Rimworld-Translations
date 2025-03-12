@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_Hampshire.label>Hampshire</DankPyon_Hampshire.label>
+
+  <!-- Pigs -->
+
+  <DankPyon_Hampshire.label>hampshire</DankPyon_Hampshire.label>
   <DankPyon_Hampshire.description>Los Hampshire son una raza de cerdos robusta y típicamente se crían por su carne magra y sabor. Son una fuente eficiente de carne y fáciles de alimentar, ya que comen casi cualquier cosa.</DankPyon_Hampshire.description>
-  <DankPyon_Hampshire.tools.0.label>Mordida</DankPyon_Hampshire.tools.0.label>
-  <DankPyon_Hampshire.tools.1.label>Cabeza</DankPyon_Hampshire.tools.1.label>
-  <DankPyon_Gloucestershire.label>Gloucestershire</DankPyon_Gloucestershire.label>
+  <DankPyon_Hampshire.tools.0.label>mordida</DankPyon_Hampshire.tools.0.label>
+  <DankPyon_Hampshire.tools.1.label>cabeza</DankPyon_Hampshire.tools.1.label>
+
+  <DankPyon_Gloucestershire.label>gloucestershire</DankPyon_Gloucestershire.label>
   <DankPyon_Gloucestershire.description>Los Gloucestershire prosperan en pastizales, son excelentes recolectores y pastores, lo que los hace conocidos por la calidad de su carne. Son una fuente eficiente de carne y fáciles de alimentar, ya que comen casi cualquier cosa.</DankPyon_Gloucestershire.description>
   <DankPyon_Gloucestershire.tools.1.label>Cabeza</DankPyon_Gloucestershire.tools.1.label>
-  <DankPyon_NorthernBoar.label>Jabalí</DankPyon_NorthernBoar.label>
+
+  <DankPyon_NorthernBoar.label>jabalí del norte</DankPyon_NorthernBoar.label>
   <DankPyon_NorthernBoar.description>Este omnívoro peludo desciende de cerdos escapados y ha sido desarrollado para vivir en los bosques del norte.\n\nSus colmillos lo convierten en un mejor luchador que sus parientes domésticos. Desafortunadamente, es demasiado indómito para ser entrenado en las tareas más complejas.</DankPyon_NorthernBoar.description>
-  <DankPyon_NorthernBoar.tools.0.label>Colmillo</DankPyon_NorthernBoar.tools.0.label>
-  <DankPyon_NorthernBoar.tools.2.label>Cabeza</DankPyon_NorthernBoar.tools.2.label>
-  <DankPyon_Ravelder.label>Ravelder</DankPyon_Ravelder.label>
+  <DankPyon_NorthernBoar.tools.0.label>colmillo</DankPyon_NorthernBoar.tools.0.label>
+  <DankPyon_NorthernBoar.tools.2.label>cabeza</DankPyon_NorthernBoar.tools.2.label>
+
+  <!-- Cows -->
+
+  <DankPyon_Ravelder.label>ravelder</DankPyon_Ravelder.label>
   <DankPyon_Ravelder.description>Las vacas son grandes animales ungulados domesticados y han sido criadas durante milenios para producir grandes cantidades de leche, carne y cuero. Son seres excepcionalmente dóciles y nunca buscarán venganza, sin importar cuántas veces se les haga daño. La mayoría de ellas están tan adaptadas a la vida en la granja que no pueden sobrevivir en la naturaleza.</DankPyon_Ravelder.description>
-  <DankPyon_Ravelder.tools.1.label>Cabeza</DankPyon_Ravelder.tools.1.label>
+  <DankPyon_Ravelder.tools.1.label>cabeza</DankPyon_Ravelder.tools.1.label>
   <DankPyon_Ravelder.tools.2.label>pezuña izquierda</DankPyon_Ravelder.tools.2.label>
   <DankPyon_Ravelder.tools.3.label>pezuña derecha</DankPyon_Ravelder.tools.3.label>
-  <DankPyon_Angus.label>Angus</DankPyon_Angus.label>
+
+  <DankPyon_Angus.label>angus</DankPyon_Angus.label>
   <DankPyon_Angus.description>El Angus es un gran animal ungulado domesticado que presenta un mejor marmoleo que una vaca típica y se cría para producir grandes cantidades de leche, carne y cuero. Son seres excepcionalmente dóciles y nunca buscarán venganza, sin importar cuántas veces se les haga daño. La mayoría de ellos están tan adaptados a la vida en la granja que no pueden sobrevivir en la naturaleza.</DankPyon_Angus.description>
-  <DankPyon_Angus.tools.1.label>Cabeza</DankPyon_Angus.tools.1.label>
+  <DankPyon_Angus.tools.1.label>cabeza</DankPyon_Angus.tools.1.label>
   <DankPyon_Angus.tools.2.label>pezuña izquierda</DankPyon_Angus.tools.2.label>
   <DankPyon_Angus.tools.3.label>pezuña derecha</DankPyon_Angus.tools.3.label>
+
 </LanguageData>

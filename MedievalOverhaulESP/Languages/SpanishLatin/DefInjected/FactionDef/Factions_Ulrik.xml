@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_UlrikFactionBase.pawnSingular>Caballero de Ulrik</DankPyon_UlrikFactionBase.pawnSingular>
-  <DankPyon_UlrikFactionBase.pawnsPlural>Caballeros de Ulrik</DankPyon_UlrikFactionBase.pawnsPlural>
-  <DankPyon_UlrikFactionBase.leaderTitle>Gran Maestro</DankPyon_UlrikFactionBase.leaderTitle>
-  <DankPyon_UlrikFaction.label>Caballeros de Ulrik</DankPyon_UlrikFaction.label>
+
+  <DankPyon_UlrikFaction.label>caballeros de ulrik</DankPyon_UlrikFaction.label>
   <DankPyon_UlrikFaction.description>Saqueadores y explotadores, las leyes no son para ellos. Es común que los bandidos con malas intenciones invadan asentamientos cercanos.</DankPyon_UlrikFaction.description>
+  <DankPyon_UlrikFaction.pawnSingular>caballero de ulrik</DankPyon_UlrikFaction.pawnSingular>
+  <DankPyon_UlrikFaction.pawnsPlural>caballeros de ulrik</DankPyon_UlrikFaction.pawnsPlural>
+  <DankPyon_UlrikFaction.leaderTitle>gran maestro</DankPyon_UlrikFaction.leaderTitle>
+
 </LanguageData>

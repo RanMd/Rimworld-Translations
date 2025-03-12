@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_GolemTorso.label>Torso</DankPyon_GolemTorso.label>
-  <DankPyon_GolemNeck.label>Cuello</DankPyon_GolemNeck.label>
-  <DankPyon_GolemHead.label>Cabeza</DankPyon_GolemHead.label>
-  <DankPyon_GolemCore.label>Núcleo del Golem</DankPyon_GolemCore.label>
-  <DankPyon_GolemEye.label>Ojo de Cristal</DankPyon_GolemEye.label>
-  <DankPyon_GolemShoulder.label>Hombro</DankPyon_GolemShoulder.label>
-  <DankPyon_GolemArm.label>Brazo</DankPyon_GolemArm.label>
-  <DankPyon_GolemHand.label>Mano</DankPyon_GolemHand.label>
-  <DankPyon_GolemFinger.label>Dedo</DankPyon_GolemFinger.label>
-  <DankPyon_GolemLeg.label>Pierna</DankPyon_GolemLeg.label>
-  <DankPyon_GolemFoot.label>Pie</DankPyon_GolemFoot.label>
+
+  <!-- Common to various mechanoids -->
+
+  <DankPyon_GolemTorso.label>torso</DankPyon_GolemTorso.label>
+  <DankPyon_GolemNeck.label>cuello</DankPyon_GolemNeck.label>
+  <DankPyon_GolemHead.label>cabeza</DankPyon_GolemHead.label>
+  <DankPyon_GolemCore.label>núcleo del golem</DankPyon_GolemCore.label>
+  <DankPyon_GolemEye.label>ojo de cristal</DankPyon_GolemEye.label>
+  <DankPyon_GolemShoulder.label>hombro</DankPyon_GolemShoulder.label>
+  <DankPyon_GolemArm.label>brazo</DankPyon_GolemArm.label>
+  <DankPyon_GolemHand.label>mano</DankPyon_GolemHand.label>
+  <DankPyon_GolemFinger.label>dedo</DankPyon_GolemFinger.label>
+  <DankPyon_GolemLeg.label>pierna</DankPyon_GolemLeg.label>
+  <DankPyon_GolemFoot.label>pie</DankPyon_GolemFoot.label>
+
 </LanguageData>

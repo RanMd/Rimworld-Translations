@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <EGG_AdvancedWell.label>Pozo</EGG_AdvancedWell.label>
+
+  <EGG_AdvancedWell.label>pozo</EGG_AdvancedWell.label>
   <EGG_AdvancedWell.description>Accede al agua subterránea que puede ser bombeada mediante bombas de agua. La presencia de aguas residuales u otras contaminaciones reduce la calidad del agua y puede llevar a contaminaciones.</EGG_AdvancedWell.description>
-  <DankPyon_LogBoiler.label>Caldera de Leña</DankPyon_LogBoiler.label>
+
+  <DankPyon_LogBoiler.label>caldera de leña</DankPyon_LogBoiler.label>
   <DankPyon_LogBoiler.description>Produce 2000 unidades de calor para radiadores y calentadores de agua. Calienta la habitación y los baños adyacentes. Requiere troncos de madera como combustible.</DankPyon_LogBoiler.description>
-  <DankPyon_HotWaterTank.label>Tanque de Agua Caliente</DankPyon_HotWaterTank.label>
+
+  <DankPyon_HotWaterTank.label>tanque de agua caliente</DankPyon_HotWaterTank.label>
   <DankPyon_HotWaterTank.description>Almacena agua caliente corriente para duchas y baños. Conectar a cualquier caldera para calefacción.</DankPyon_HotWaterTank.description>
-  <DankPyon_BurnPit.label>Fosa de Quema</DankPyon_BurnPit.label>
+
+  <DankPyon_BurnPit.label>fosa de quema</DankPyon_BurnPit.label>
   <DankPyon_BurnPit.description>Elimina lodo fecal mediante la quema como combustible. También se puede usar para deshacerse de cadáveres u otros desechos. Los colonos pueden enfermarse si permanecen demasiado tiempo cerca de los desechos en llamas.</DankPyon_BurnPit.description>
-  <DankPyon_SewageSepticTank.label>Fosa Séptica</DankPyon_SewageSepticTank.label>
+
+  <DankPyon_SewageSepticTank.label>foso séptica</DankPyon_SewageSepticTank.label>
   <DankPyon_SewageSepticTank.description>Limpia las aguas residuales lentamente con el tiempo. Las aguas residuales se dirigen primero a las fosas sépticas. Cuando se alcanza la capacidad máxima, el exceso de aguas residuales se dirige al tratamiento de aguas residuales.</DankPyon_SewageSepticTank.description>
+
 </LanguageData>

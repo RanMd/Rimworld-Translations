@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DankPyon_BrigandFactionBase.pawnSingular>Bandido</DankPyon_BrigandFactionBase.pawnSingular>
-  <DankPyon_BrigandFactionBase.pawnsPlural>Bandidos</DankPyon_BrigandFactionBase.pawnsPlural>
-  <DankPyon_BrigandFactionBase.leaderTitle>Líder de los Bandidos</DankPyon_BrigandFactionBase.leaderTitle>
-  <DankPyon_BrigandFaction.label>Bandido</DankPyon_BrigandFaction.label>
+
+  <DankPyon_BrigandFactionBase.pawnSingular>bandido</DankPyon_BrigandFactionBase.pawnSingular>
+  <DankPyon_BrigandFactionBase.pawnsPlural>bandidos</DankPyon_BrigandFactionBase.pawnsPlural>
+  <DankPyon_BrigandFactionBase.leaderTitle>líder de los bandidos</DankPyon_BrigandFactionBase.leaderTitle>
+  <DankPyon_BrigandFaction.label>bandidos</DankPyon_BrigandFaction.label>
   <DankPyon_BrigandFaction.description>Saqueadores y explotadores, las leyes no son para ellos. Es común que los bandidos con malas intenciones invadan asentamientos cercanos.</DankPyon_BrigandFaction.description>
+
 </LanguageData>
