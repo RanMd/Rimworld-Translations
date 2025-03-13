@@ -27,7 +27,7 @@
   <DankPyon_PressEmpty>La prensa está vacía en este momento.</DankPyon_PressEmpty>
   <DankPyon_PressFilled>La prensa está llena con {0}</DankPyon_PressFilled>
   <DankPyon_PressWorking>La prensa está funcionando:</DankPyon_PressWorking>
-  <DankPyon_ResourcePercentage>(llena con {0} de {1})</DankPyon_ResourcePercentage>
+  <DankPyon_ResourcePercentage>(Completado {0}/{1})</DankPyon_ResourcePercentage>
 
   <!-- Smoker -->
 
@@ -75,7 +75,6 @@
   <DankPyon_DryingRackEmpty>El estante de secado está vacío en este momento</DankPyon_DryingRackEmpty>
   <DankPyon_DryingRackFilled>El estante de secado está lleno con {0}</DankPyon_DryingRackFilled>
   <DankPyon_DryingRackWorking>El estante de secado está funcionando:</DankPyon_DryingRackWorking>
-  <DankPyon_ResourcePercentage>(Completado {0}/{1})</DankPyon_ResourcePercentage>
 
   <!-- Hay Rack Meat -->
 
