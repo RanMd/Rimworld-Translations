@@ -20,7 +20,7 @@
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.13>writingQualityAdjective(quality==1)->mal estructurado</DankPyon_AncientLore_Description.rulePack.rulesStrings.13>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.14>writingQualityAdjective(quality==0)->incoherente</DankPyon_AncientLore_Description.rulePack.rulesStrings.14>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.15>writingQualitySentence(quality[greater_than]4)->[excellentDesc] [excellentExtra]</DankPyon_AncientLore_Description.rulePack.rulesStrings.15>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.16>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->es [decentDesc] [decentExtra]</DankPyon_AncientLore_Description.rulePack.rulesStrings.16>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.16>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->[decentDesc] [decentExtra]</DankPyon_AncientLore_Description.rulePack.rulesStrings.16>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.17>writingQualitySentence(quality[less_than]2)->es [awfulDesc] [awfulExtra]</DankPyon_AncientLore_Description.rulePack.rulesStrings.17>
 
   <!-- Excellent writing description -->
@@ -46,20 +46,20 @@
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.33>decentDesc->ofrece una visión de las creencias de los pueblos antiguos en relación con la tecnología</DankPyon_AncientLore_Description.rulePack.rulesStrings.33>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.34>decentDesc->un recurso valioso para entender las tradiciones tecnológicas antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.34>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.35>decentExtra->, aunque carece de coherencia en su presentación</DankPyon_AncientLore_Description.rulePack.rulesStrings.35>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.36>decentExtra->, se ve obstaculizado por su estructura fragmentada</DankPyon_AncientLore_Description.rulePack.rulesStrings.36>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.36>decentExtra->, aunque se ve obstaculizado por su estructura fragmentada</DankPyon_AncientLore_Description.rulePack.rulesStrings.36>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.37>decentExtra->, aunque podría beneficiarse de un análisis más detallado de las tecnologías antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.37>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.38>decentExtra->, con un estilo de escritura algo seco, sin embargo, la información presentada es valiosa</DankPyon_AncientLore_Description.rulePack.rulesStrings.38>
 
   <!-- Awful writing description -->
 
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.39>awfulDesc->muy mal escrito, ya que no hace justicia a los temas técnicos antiguos</DankPyon_AncientLore_Description.rulePack.rulesStrings.39>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.40>awfulDesc->falta de profundidad y claridad, lo que dificulta descifrar conceptos tecnológicos antiguos</DankPyon_AncientLore_Description.rulePack.rulesStrings.40>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.39>awfulDesc->muy mal escrito, ya que no hace justicia a los temas que trata</DankPyon_AncientLore_Description.rulePack.rulesStrings.39>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.40>awfulDesc->tiene una falta de profundidad y claridad, lo que dificulta descifrar conceptos tecnológicos antiguos</DankPyon_AncientLore_Description.rulePack.rulesStrings.40>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.41>awfulDesc->difícil de entender, ya que está lleno de inexactitudes y suposiciones sobre tecnologías antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.41>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.42>awfulDesc->no logra armar una narrativa coherente, ya que está bloqueado por detalles irrelevantes sobre máquinas antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.42>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.43>awfulDesc->dominado por especulaciones en lugar de hechos, y cada capítulo es seco y aburrido</DankPyon_AncientLore_Description.rulePack.rulesStrings.43>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.44>awfulDesc->bizarro y sin originalidad, sin tema o significado reconocible en relación con las tecnologías antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.44>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.45>awfulExtra->, y la escritura es casi incoherente</DankPyon_AncientLore_Description.rulePack.rulesStrings.45>
-  <DankPyon_AncientLore_Description.rulePack.rulesStrings.46>awfulExtra->, y es extremadamente difícil de entender, especialmente con temas de tecnología antigua</DankPyon_AncientLore_Description.rulePack.rulesStrings.46>
+  <DankPyon_AncientLore_Description.rulePack.rulesStrings.46>awfulExtra->, y es extremadamente difícil de entender, especialmente con temas tan profundos</DankPyon_AncientLore_Description.rulePack.rulesStrings.46>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.47>awfulExtra->, y carece de cualquier sentido de tema o significado en el contexto de las tecnologías antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.47>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.48>awfulExtra->, y no presenta ideas interesantes sobre tecnologías antiguas</DankPyon_AncientLore_Description.rulePack.rulesStrings.48>
   <DankPyon_AncientLore_Description.rulePack.rulesStrings.49>awfulExtra->, y cada capítulo es seco y aburrido</DankPyon_AncientLore_Description.rulePack.rulesStrings.49>
