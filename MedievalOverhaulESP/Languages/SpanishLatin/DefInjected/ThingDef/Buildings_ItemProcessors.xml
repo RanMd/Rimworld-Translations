@@ -35,4 +35,9 @@
   <DankPyon_Press_Paper.label>prensa de papel</DankPyon_Press_Paper.label>
   <DankPyon_Press_Paper.description>Un dispositivo de madera utilizado para aplanar pulpa de papel y eliminar el exceso de agua. Los trabajadores del papel primero moldean la pulpa en hojas de papel a mano, luego las colocan en la prensa de papel, donde la fuerza axial generada por un mecanismo de tornillo pesado exprime el exceso de agua, asegurando que cada hoja de papel producida sea lisa y adecuada para escribir o dibujar.</DankPyon_Press_Paper.description>
 
+  <!-- Fermentation barrel -->
+
+  <BarrelProcessor.label>barril de fermentación</BarrelProcessor.label>
+  <BarrelProcessor.description>Un barril para fermentar diversos productos. No se limita a fermentar un producto específico, por lo que podría llamarse un "fermentador universal".</BarrelProcessor.description>
+
 </LanguageData>
