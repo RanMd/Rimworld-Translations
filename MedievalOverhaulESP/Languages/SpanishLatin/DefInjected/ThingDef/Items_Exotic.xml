@@ -14,6 +14,8 @@
   <DankPyon_DaerAntler.description>Las astas de un Daer. Son pesadas, duras como una roca e invaluables en la mayoría de los mercados. Este es un verdadero trofeo que infunde asombro a cualquiera que lo mire.</DankPyon_DaerAntler.description>
   <DankPyon_RoxHorn.tools.0.label>Cuerno</DankPyon_RoxHorn.tools.0.label>
   <DankPyon_RoxHorn.tools.1.label>Raíz</DankPyon_RoxHorn.tools.1.label>
+  <DankPyon_DaerAntler.tools.point.label>punto</DankPyon_DaerAntler.tools.point.label>
+  <DankPyon_DaerAntler.tools.base.label>base</DankPyon_DaerAntler.tools.base.label>
 
   <!-- Dire Boar Tusk -->
 

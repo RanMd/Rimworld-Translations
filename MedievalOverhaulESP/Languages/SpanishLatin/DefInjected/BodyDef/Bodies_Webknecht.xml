@@ -4,6 +4,14 @@
   <!-- Spiders -->
 
   <DankPyon_WebknechtBody.label>cuerpo de webknecht</DankPyon_WebknechtBody.label>
+  <DankPyon_WebknechtBody.corePart.parts.left_first_leg.customLabel>primera pierna izquierda</DankPyon_WebknechtBody.corePart.parts.left_first_leg.customLabel>
+  <DankPyon_WebknechtBody.corePart.parts.right_first_leg.customLabel>primera pierna derecha</DankPyon_WebknechtBody.corePart.parts.right_first_leg.customLabel>
+  <DankPyon_WebknechtBody.corePart.parts.left_second_leg.customLabel>segunda pierna izquierda</DankPyon_WebknechtBody.corePart.parts.left_second_leg.customLabel>
+  <DankPyon_WebknechtBody.corePart.parts.right_second_leg.customLabel>segunda pierna derecha</DankPyon_WebknechtBody.corePart.parts.right_second_leg.customLabel>
+  <DankPyon_WebknechtBody.corePart.parts.left_third_leg.customLabel>tercera pierna izquierda</DankPyon_WebknechtBody.corePart.parts.left_third_leg.customLabel>
+  <DankPyon_WebknechtBody.corePart.parts.right_third_leg.customLabel>tercera pierna derecha</DankPyon_WebknechtBody.corePart.parts.right_third_leg.customLabel>
+  <DankPyon_WebknechtBody.corePart.parts.left_fourth_leg.customLabel>cuarta pierna izquierda</DankPyon_WebknechtBody.corePart.parts.left_fourth_leg.customLabel>
+  <DankPyon_WebknechtBody.corePart.parts.right_fourth_leg.customLabel>cuarta pierna derecha</DankPyon_WebknechtBody.corePart.parts.right_fourth_leg.customLabel>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.1.customLabel>primer ojo izquierdo</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.1.customLabel>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.2.customLabel>segundo ojo izquierdo</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.2.customLabel>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.3.customLabel>tercer ojo izquierdo</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.3.customLabel>
@@ -12,13 +20,10 @@
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.6.customLabel>segundo ojo derecho</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.6.customLabel>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.7.customLabel>tercer ojo derecho</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.7.customLabel>
   <DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.8.customLabel>cuarto ojo derecho</DankPyon_WebknechtBody.corePart.parts.3.parts.0.parts.8.customLabel>
+
   <DankPyon_SchratBody.corePart.parts.4.customLabel>primer pierna izquierda</DankPyon_SchratBody.corePart.parts.4.customLabel>
   <DankPyon_SchratBody.corePart.parts.5.customLabel>primer pierna derecha</DankPyon_SchratBody.corePart.parts.5.customLabel>
   <DankPyon_SchratBody.corePart.parts.6.customLabel>segunda pierna izquierda</DankPyon_SchratBody.corePart.parts.6.customLabel>
   <DankPyon_SchratBody.corePart.parts.7.customLabel>segunda pierna derecha</DankPyon_SchratBody.corePart.parts.7.customLabel>
-  <DankPyon_SchratBody.corePart.parts.8.customLabel>tercera pierna izquierda</DankPyon_SchratBody.corePart.parts.8.customLabel>
-  <DankPyon_SchratBody.corePart.parts.9.customLabel>tercera pierna derecha</DankPyon_SchratBody.corePart.parts.9.customLabel>
-  <DankPyon_SchratBody.corePart.parts.10.customLabel>cuarta pierna izquierda</DankPyon_SchratBody.corePart.parts.10.customLabel>
-  <DankPyon_SchratBody.corePart.parts.11.customLabel>cuarta pierna derecha</DankPyon_SchratBody.corePart.parts.11.customLabel>
 
 </LanguageData>

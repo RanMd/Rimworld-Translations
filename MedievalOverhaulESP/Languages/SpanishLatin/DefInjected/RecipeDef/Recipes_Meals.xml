@@ -57,7 +57,7 @@
 
   <!-- Sausages Bulk -->
 
-  <DankPyon_MakeSausagesBulk.label>fabricar salchichas x10</DankPyon_MakeSausagesBulk.label>
+  <DankPyon_MakeSausagesBulk.label>hacer salchichas x10</DankPyon_MakeSausagesBulk.label>
   <DankPyon_MakeSausagesBulk.description>Elaborar salchichas a partir de carne cruda.</DankPyon_MakeSausagesBulk.description>
   <DankPyon_MakeSausagesBulk.jobString>Fabricando salchichas.</DankPyon_MakeSausagesBulk.jobString>
 
@@ -393,20 +393,24 @@
 
   <!-- Survival meal -->
 
-  <DankPyon_CookMealRations.label>cocinar raciones empaquetadas</DankPyon_CookMealRations.label>
+  <DankPyon_CookMealRations.label>cocinar provisiones</DankPyon_CookMealRations.label>
   <DankPyon_CookMealRations.description>Preparar una ración empaquetada con una combinación de ingredientes de carne y vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRations.description>
-  <DankPyon_CookMealRations.jobString>Cocinando raciones empaquetadas.</DankPyon_CookMealRations.jobString>
+  <DankPyon_CookMealRations.jobString>Cocinando provisiones.</DankPyon_CookMealRations.jobString>
 
-  <DankPyon_CookMealRationsBulk.label>cocinar raciones empaquetadas x5</DankPyon_CookMealRationsBulk.label>
+  <DankPyon_CookMealRationsBulk.label>cocinar provisiones x5</DankPyon_CookMealRationsBulk.label>
   <DankPyon_CookMealRationsBulk.description>Preparar una ración empaquetada con una combinación de ingredientes de carne y vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRationsBulk.description>
-  <DankPyon_CookMealRationsBulk.jobString>Cocinando raciones empaquetadas.</DankPyon_CookMealRationsBulk.jobString>
+  <DankPyon_CookMealRationsBulk.jobString>Cocinando provisiones.</DankPyon_CookMealRationsBulk.jobString>
 
-  <DankPyon_CookMealRationsVegan.label>cocinar raciones vegetarianas empaquetadas</DankPyon_CookMealRationsVegan.label>
+  <DankPyon_CookMealRationsVegan.label>cocinar provisiones vegetarianas </DankPyon_CookMealRationsVegan.label>
   <DankPyon_CookMealRationsVegan.description>Preparar una ración vegetariana empaquetada con ingredientes vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRationsVegan.description>
-  <DankPyon_CookMealRationsVegan.jobString>Cocinando raciones vegetarianas empaquetadas.</DankPyon_CookMealRationsVegan.jobString>
+  <DankPyon_CookMealRationsVegan.jobString>Cocinando provisiones vegetarianas.</DankPyon_CookMealRationsVegan.jobString>
 
-  <DankPyon_CookMealRationsVeganBulk.label>cocinar raciones vegetarianas empaquetadas x5</DankPyon_CookMealRationsVeganBulk.label>
+  <DankPyon_CookMealRationsVeganBulk.label>cocinar provisiones vegetarianas x5</DankPyon_CookMealRationsVeganBulk.label>
   <DankPyon_CookMealRationsVeganBulk.description>Preparar una ración vegetariana empaquetada con ingredientes vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRationsVeganBulk.description>
-  <DankPyon_CookMealRationsVeganBulk.jobString>Cocinando raciones vegetarianas empaquetadas.</DankPyon_CookMealRationsVeganBulk.jobString>
+  <DankPyon_CookMealRationsVeganBulk.jobString>Cocinando provisiones vegetarianas.</DankPyon_CookMealRationsVeganBulk.jobString>
+
+  <DankPyon_CookMealRationsVeganBulkier.label>cocinar provisiones vegetarianas x15</DankPyon_CookMealRationsVeganBulkier.label>
+  <DankPyon_CookMealRationsVeganBulkier.description>Preparar una ración vegetariana empaquetada con ingredientes vegetales. Se pierden muchos ingredientes durante la conservación.</DankPyon_CookMealRationsVeganBulkier.description>
+  <DankPyon_CookMealRationsVeganBulkier.jobString>Cocinando provisiones vegetarianas.</DankPyon_CookMealRationsVeganBulkier.jobString>
 
 </LanguageData>

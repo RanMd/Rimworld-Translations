@@ -3,6 +3,8 @@
 
   <!-- Linkables -->
 
+  <DankPyon_MinifiedIceThing.label>cosa minificada</DankPyon_MinifiedIceThing.label>
+
   <DankPyon_MiningTools.label>herramientas de minería</DankPyon_MiningTools.label>
   <DankPyon_MiningTools.description>Un conjunto de herramientas diseñadas específicamente para la extracción de recursos subterráneos. Cuando se colocan cerca de puntos de minería y excavación, pueden aumentar la velocidad de trabajo.</DankPyon_MiningTools.description>
 

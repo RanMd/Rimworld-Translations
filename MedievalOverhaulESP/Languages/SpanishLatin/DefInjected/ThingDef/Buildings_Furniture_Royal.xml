@@ -18,6 +18,7 @@
 
   <DankPyon_RoyalThrone.label>trono real</DankPyon_RoyalThrone.label>
   <DankPyon_RoyalThrone.description>Una gran silla lujosa diseñada para el rey y la reina, simbolizando su poder y estatus. Generalmente decorada con hermosas telas, metales preciosos y tallados.</DankPyon_RoyalThrone.description>
+  <DankPyon_RoyalThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>La posesión del trono requiere una persona con un título real.</DankPyon_RoyalThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
 
   <!-- Royal Tables -->
 

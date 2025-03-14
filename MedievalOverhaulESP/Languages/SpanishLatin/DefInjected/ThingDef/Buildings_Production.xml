@@ -24,14 +24,14 @@
 
   <!-- 1x3 Bench Base -->
 
-  <DankPyon_RusticCookingTable.label>mesa de cocina rústica</DankPyon_RusticCookingTable.label>
-  <DankPyon_RusticCookingTable.description>Un horno de leña con una encimera adjunta para preparar comidas.</DankPyon_RusticCookingTable.description>
+  <DankPyon_RusticCookingTable.label>cocina rústica</DankPyon_RusticCookingTable.label>
+  <DankPyon_RusticCookingTable.description>Una mesa de cocina con un horno de piedra diseñado para hornear comidas.</DankPyon_RusticCookingTable.description>
 
   <DankPyon_StoneOven.label>horno rústico</DankPyon_StoneOven.label>
-  <DankPyon_StoneOven.description>Una mesa de cocina con horno de piedra para hornear comidas.</DankPyon_StoneOven.description>
+  <DankPyon_StoneOven.description>Un horno de leña con una encimera adjunta para preparar comidas.</DankPyon_StoneOven.description>
 
   <DankPyon_StoneOvenLarge.label>horno grande</DankPyon_StoneOvenLarge.label>
-  <DankPyon_StoneOvenLarge.description>Una mesa de cocina con horno de piedra para hornear comidas.</DankPyon_StoneOvenLarge.description>
+  <DankPyon_StoneOvenLarge.description>Un horno de leña para preparar grandes cantidades de alimentos. Su tamaño y resistencia lo hacen ideal para trabajos pesados y continuos.</DankPyon_StoneOvenLarge.description>
 
   <DankPyon_Grill.label>parrilla</DankPyon_Grill.label>
   <DankPyon_Grill.description>Una parrilla de leña utilizada para preparar comidas al fuego abierto.</DankPyon_Grill.description>

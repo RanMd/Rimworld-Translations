@@ -162,8 +162,9 @@
 
   <!-- Cleaver -->
 
-  <DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>cuchillo de carnicero</DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>
+  <DankPyon_MeleeWeapon_ButcherCleaver.label>cuchillo de carnicero</DankPyon_MeleeWeapon_ButcherCleaver.label>
   <DankPyon_MeleeWeapon_ButcherCleaver.description>El cuchillo de carnicero es una hoja pesada utilizada para cortar carne y huesos, capaz de desempeñar funciones en la preparación de alimentos y el desmembramiento de animales. Tenga cuidado, el filo afilado del cuchillo de carnicero también lo convierte en un arma letal.</DankPyon_MeleeWeapon_ButcherCleaver.description>
+  <DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>cuchillo de carnicero</DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>
   <DankPyon_MeleeWeapon_ButcherCleaver.tools.0.label>mango</DankPyon_MeleeWeapon_ButcherCleaver.tools.0.label>
   <DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>hoja</DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>
 

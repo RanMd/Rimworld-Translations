@@ -5,9 +5,9 @@
 
   <DankPyon_Ghoul_Stage_One.label>ghoul</DankPyon_Ghoul_Stage_One.label>
   <DankPyon_Ghoul_Stage_One.description>Un ghoul suele describirse como un cadáver reanimado con un apetito insaciable por la carne humana. Según las leyendas, siente una atracción especial por los cementerios y los lugares abandonados.</DankPyon_Ghoul_Stage_One.description>
-  <DankPyon_Golem_Iron.tools.0.label>garra izquierda</DankPyon_Golem_Iron.tools.0.label>
-  <DankPyon_Golem_Iron.tools.1.label>garra derecha</DankPyon_Golem_Iron.tools.1.label>
-  <DankPyon_Golem_Iron.tools.3.label>cabeza</DankPyon_Golem_Iron.tools.3.label>
+  <DankPyon_Ghoul_Stage_One.tools.left_claw.label>garra izquierda</DankPyon_Ghoul_Stage_One.tools.left_claw.label>
+  <DankPyon_Ghoul_Stage_One.tools.right_claw.label>garra derecha</DankPyon_Ghoul_Stage_One.tools.right_claw.label>
+  <DankPyon_Ghoul_Stage_One.tools.head.label>cabeza</DankPyon_Ghoul_Stage_One.tools.head.label>
 
   <!-- Ghoul Stage Two -->
 

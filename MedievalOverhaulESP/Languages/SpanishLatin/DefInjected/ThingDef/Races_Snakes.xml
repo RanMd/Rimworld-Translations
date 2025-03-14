@@ -20,6 +20,7 @@
 
   <DankPyon_GiantConstrictorCave.label>constrictora gigante de cueva</DankPyon_GiantConstrictorCave.label>
   <DankPyon_GiantConstrictorCave.description>Una de las variantes más enormes de serpientes, esta criatura tiene una mandíbula capaz de abrirse lo suficiente como para tragarse a un hombre entero.</DankPyon_GiantConstrictorCave.description>
+  <DankPyon_GiantConstrictorCave.race.meatLabel>carne de constrictor</DankPyon_GiantConstrictorCave.race.meatLabel>
   <DankPyon_GiantConstrictorCave.tools.1.label>cabeza</DankPyon_GiantConstrictorCave.tools.1.label>
 
   <!-- Lindwurm -->
@@ -35,6 +36,7 @@
 
   <DankPyon_LindwurmCave.label>lindwurm de cueva</DankPyon_LindwurmCave.label>
   <DankPyon_LindwurmCave.description>Un reptil gigante, a medio camino entre serpientes y dragones. Una de las pocas criaturas vivientes que realmente no es capaz de sentir miedo. Cualquier temerario que logre pasar la poderosa pero ágil cola y perforar una escama robusta será rociado con sangre corrosiva. La sangre de Lindwurm es el ácido más fuerte que jamás haya existido: disuelve incluso el acero más grueso y atraviesa la carne en segundos.</DankPyon_LindwurmCave.description>
+  <DankPyon_LindwurmCave.race.meatLabel>carne de lindwurm</DankPyon_LindwurmCave.race.meatLabel>
   <DankPyon_LindwurmCave.tools.venomfangs.label>colmillos</DankPyon_LindwurmCave.tools.venomfangs.label>
   <DankPyon_LindwurmCave.tools.head.label>cabeza</DankPyon_LindwurmCave.tools.head.label>
   <DankPyon_LindwurmCave.tools.left_claw.label>garra izquierda</DankPyon_LindwurmCave.tools.left_claw.label>

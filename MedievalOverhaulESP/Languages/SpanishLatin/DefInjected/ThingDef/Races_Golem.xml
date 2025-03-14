@@ -13,24 +13,24 @@
 
   <DankPyon_Golem_Gold.label>golem de oro</DankPyon_Golem_Gold.label>
   <DankPyon_Golem_Gold.description>Un coloso de oro, brutal y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Gold.description>
-  <DankPyon_Golem_Gold.tools.0.label>mano izquierda</DankPyon_Golem_Gold.tools.0.label>
-  <DankPyon_Golem_Gold.tools.1.label>mano derecha</DankPyon_Golem_Gold.tools.1.label>
-  <DankPyon_Golem_Gold.tools.2.label>cabeza</DankPyon_Golem_Gold.tools.2.label>
+  <DankPyon_Golem_Gold.tools.left_hand-1.label>mano izquierda</DankPyon_Golem_Gold.tools.left_hand-1.label>
+  <DankPyon_Golem_Gold.tools.right_hand-1.label>mano derecha</DankPyon_Golem_Gold.tools.right_hand-1.label>
+  <DankPyon_Golem_Gold.tools.head-1.label>cabeza</DankPyon_Golem_Gold.tools.head-1.label>
 
   <!-- Steel Golem -->
 
   <DankPyon_Golem_Steel.label>golem de acero</DankPyon_Golem_Steel.label>
   <DankPyon_Golem_Steel.description>Un coloso de acero, brutal y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Steel.description>
-  <DankPyon_Golem_Steel.tools.0.label>mano izquierda</DankPyon_Golem_Steel.tools.0.label>
-  <DankPyon_Golem_Steel.tools.1.label>mano derecha</DankPyon_Golem_Steel.tools.1.label>
-  <DankPyon_Golem_Steel.tools.2.label>cabeza</DankPyon_Golem_Steel.tools.2.label>
+  <DankPyon_Golem_Steel.tools.left_hand-1.label>mano izquierda</DankPyon_Golem_Steel.tools.left_hand-1.label>
+  <DankPyon_Golem_Steel.tools.right_hand-1.label>mano derecha</DankPyon_Golem_Steel.tools.right_hand-1.label>
+  <DankPyon_Golem_Steel.tools.head-1.label>cabeza</DankPyon_Golem_Steel.tools.head-1.label>
 
   <!-- Silver Golem -->
 
   <DankPyon_Golem_Silver.label>golem de plata</DankPyon_Golem_Silver.label>
   <DankPyon_Golem_Silver.description>Un coloso de plata, brutal y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Silver.description>
-  <DankPyon_Golem_Silver.tools.0.label>mano izquierda</DankPyon_Golem_Silver.tools.0.label>
-  <DankPyon_Golem_Silver.tools.1.label>mano derecha</DankPyon_Golem_Silver.tools.1.label>
-  <DankPyon_Golem_Silver.tools.2.label>cabeza</DankPyon_Golem_Silver.tools.2.label>
+  <DankPyon_Golem_Silver.tools.left_hand-1.label>mano izquierda</DankPyon_Golem_Silver.tools.left_hand-1.label>
+  <DankPyon_Golem_Silver.tools.right_hand-1.label>mano derecha</DankPyon_Golem_Silver.tools.right_hand-1.label>
+  <DankPyon_Golem_Silver.tools.head-1.label>cabeza</DankPyon_Golem_Silver.tools.head-1.label>
 
 </LanguageData>

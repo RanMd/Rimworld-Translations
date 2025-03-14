@@ -59,11 +59,6 @@
   <DankPyon_LindwurmAcid.label>mordida de lindwurm</DankPyon_LindwurmAcid.label>
   <DankPyon_LindwurmAcid.description>Ácido poderoso de la sangre de un lindwurm. Corroe la durabilidad de la armadura.</DankPyon_LindwurmAcid.description>
 
-  <!-- Daze -->
-
-  <DankPyon_Daze.label>aturdido</DankPyon_Daze.label>
-  <DankPyon_Daze.description>Un estado que provoca una reducción temporal en la eficacia del combate.</DankPyon_Daze.description>
-
   <!-- Apparel Added Hediffs -->
 
   <DankPyon_LindwurmAcidImmune.label>inmunidad al ácido de lindwurm</DankPyon_LindwurmAcidImmune.label>

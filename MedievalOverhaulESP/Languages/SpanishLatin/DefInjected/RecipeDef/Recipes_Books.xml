@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Treatise -->
+
+  <DankPyon_TreatiseShooting.label>escribir tomo de construcción</DankPyon_TreatiseShooting.label>
+  <DankPyon_TreatiseShooting.description>Escribe un tomo encantado de construcción</DankPyon_TreatiseShooting.description>
+  <DankPyon_TreatiseShooting.jobString>escribiendo tomo encantado.</DankPyon_TreatiseShooting.jobString>
+  <DankPyon_TreatiseMelee.label>escribir tomo de combate cuerpo a cuerpo</DankPyon_TreatiseMelee.label>
+  <DankPyon_TreatiseMelee.description>Escribe un tomo encantado de combate cuerpo a cuerpo</DankPyon_TreatiseMelee.description>
+  <DankPyon_TreatiseMelee.jobString>escribiendo tomo encantado.</DankPyon_TreatiseMelee.jobString>
+  <DankPyon_TreatiseConstruction.label>escribir tomo de construcción</DankPyon_TreatiseConstruction.label>
+  <DankPyon_TreatiseConstruction.description>Escribe un tomo encantado de construcción</DankPyon_TreatiseConstruction.description>
+  <DankPyon_TreatiseConstruction.jobString>escribiendo tomo encantado.</DankPyon_TreatiseConstruction.jobString>
+  <DankPyon_TreatiseMining.label>escribir tomo de minería</DankPyon_TreatiseMining.label>
+  <DankPyon_TreatiseMining.description>Escribe un tomo encantado de minería</DankPyon_TreatiseMining.description>
+  <DankPyon_TreatiseMining.jobString>escribiendo tomo encantado.</DankPyon_TreatiseMining.jobString>
+  <DankPyon_TreatiseCooking.label>escribir tomo de cocina</DankPyon_TreatiseCooking.label>
+  <DankPyon_TreatiseCooking.description>Escribe un tomo encantado de cocina</DankPyon_TreatiseCooking.description>
+  <DankPyon_TreatiseCooking.jobString>escribiendo tomo encantado.</DankPyon_TreatiseCooking.jobString>
+  <DankPyon_TreatiseGrowing.label>escribir tomo de cultivo</DankPyon_TreatiseGrowing.label>
+  <DankPyon_TreatiseGrowing.description>Escribe un tomo encantado de cultivo</DankPyon_TreatiseGrowing.description>
+  <DankPyon_TreatiseGrowing.jobString>escribiendo tomo encantado.</DankPyon_TreatiseGrowing.jobString>
+  <DankPyon_TreatiseAnimals.label>escribir tomo de manejo de animales</DankPyon_TreatiseAnimals.label>
+  <DankPyon_TreatiseAnimals.description>Escribe un tomo encantado de manejo de animales</DankPyon_TreatiseAnimals.description>
+  <DankPyon_TreatiseAnimals.jobString>escribiendo tomo encantado.</DankPyon_TreatiseAnimals.jobString>
+  <DankPyon_TreatiseCrafting.label>escribir tomo de artesanía</DankPyon_TreatiseCrafting.label>
+  <DankPyon_TreatiseCrafting.description>Escribe un tomo encantado de artesanía</DankPyon_TreatiseCrafting.description>
+  <DankPyon_TreatiseCrafting.jobString>escribiendo tomo encantado.</DankPyon_TreatiseCrafting.jobString>
+  <DankPyon_TreatiseArt.label>escribir tomo de arte</DankPyon_TreatiseArt.label>
+  <DankPyon_TreatiseArt.description>Escribe un tomo encantado de arte</DankPyon_TreatiseArt.description>
+  <DankPyon_TreatiseArt.jobString>escribiendo tomo encantado.</DankPyon_TreatiseArt.jobString>
+  <DankPyon_TreatiseMedical.label>escribir tomo de medicina</DankPyon_TreatiseMedical.label>
+  <DankPyon_TreatiseMedical.description>Escribe un tomo encantado de medicina</DankPyon_TreatiseMedical.description>
+  <DankPyon_TreatiseMedical.jobString>escribiendo tomo encantado.</DankPyon_TreatiseMedical.jobString>
+  <DankPyon_TreatiseSocial.label>escribir tomo de habilidades sociales</DankPyon_TreatiseSocial.label>
+  <DankPyon_TreatiseSocial.description>Escribe un tomo encantado de habilidades sociales</DankPyon_TreatiseSocial.description>
+  <DankPyon_TreatiseSocial.jobString>escribiendo tomo encantado.</DankPyon_TreatiseSocial.jobString>
+  <DankPyon_TreatiseIntellectual.label>escribir tomo de habilidades intelectuales</DankPyon_TreatiseIntellectual.label>
+  <DankPyon_TreatiseIntellectual.description>Escribe un tomo encantado de habilidades intelectuales</DankPyon_TreatiseIntellectual.description>
+  <DankPyon_TreatiseIntellectual.jobString>escribiendo tomo encantado.</DankPyon_TreatiseIntellectual.jobString>
+
+</LanguageData>

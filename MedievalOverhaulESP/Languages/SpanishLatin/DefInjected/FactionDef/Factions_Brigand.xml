@@ -3,5 +3,8 @@
 
   <DankPyon_BrigandFaction.label>bandidos</DankPyon_BrigandFaction.label>
   <DankPyon_BrigandFaction.description>Saqueadores y explotadores, las leyes no son para ellos. Es común que los bandidos con malas intenciones invadan asentamientos cercanos.</DankPyon_BrigandFaction.description>
+  <DankPyon_BrigandFaction.pawnSingular>bandido</DankPyon_BrigandFaction.pawnSingular>
+  <DankPyon_BrigandFaction.pawnsPlural>bandidos</DankPyon_BrigandFaction.pawnsPlural>
+  <DankPyon_BrigandFaction.leaderTitle>líder de los bandidos</DankPyon_BrigandFaction.leaderTitle>
 
 </LanguageData>

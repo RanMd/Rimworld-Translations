@@ -33,12 +33,16 @@
 
   <!-- Hangover -->
 
-  <DankPyon_UnpleasantAftermathThought.stages.1.label>efectos secundarios leves</DankPyon_UnpleasantAftermathThought.stages.1.label>
-  <DankPyon_UnpleasantAftermathThought.stages.1.description>El dolor de cabeza casi ha desaparecido.</DankPyon_UnpleasantAftermathThought.stages.1.description>
-  <DankPyon_UnpleasantAftermathThought.stages.2.label>efectos secundarios graves</DankPyon_UnpleasantAftermathThought.stages.2.label>
-  <DankPyon_UnpleasantAftermathThought.stages.2.description>¡Qué chuchaqui!</DankPyon_UnpleasantAftermathThought.stages.2.description>
-  <DankPyon_UnpleasantAftermathThought.stages.3.label>martilleantes efectos secundarios desagradables</DankPyon_UnpleasantAftermathThought.stages.3.label>
-  <DankPyon_UnpleasantAftermathThought.stages.3.description>Se siente como si una bandada de gansos estuviera picoteando mi cráneo.</DankPyon_UnpleasantAftermathThought.stages.3.description>
+  <DankPyon_UnpleasantAftermathThought.stages.mild_unpleasant_aftermath.label>efectos secundarios leves</DankPyon_UnpleasantAftermathThought.stages.mild_unpleasant_aftermath.label>
+  <DankPyon_UnpleasantAftermathThought.stages.mild_unpleasant_aftermath.description>El dolor de cabeza casi ha desaparecido.</DankPyon_UnpleasantAftermathThought.stages.mild_unpleasant_aftermath.description>
+  <DankPyon_UnpleasantAftermathThought.stages.1.label>efectos secundarios graves
+  </DankPyon_UnpleasantAftermathThought.stages.2.label>
+  <DankPyon_UnpleasantAftermathThought.stages.1.description>¡Qué chuchaqui!
+  </DankPyon_UnpleasantAftermathThought.stages.2.description>
+  <DankPyon_UnpleasantAftermathThought.stages.2.label>martilleantes efectos secundarios desagradables
+  </DankPyon_UnpleasantAftermathThought.stages.3.label>
+  <DankPyon_UnpleasantAftermathThought.stages.2.description>Se siente como si una bandada de gansos estuviera picoteando mi cráneo.
+  </DankPyon_UnpleasantAftermathThought.stages.3.description>
 
   <!-- Luhix -->
 

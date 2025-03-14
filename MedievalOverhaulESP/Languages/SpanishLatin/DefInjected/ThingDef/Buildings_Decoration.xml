@@ -135,4 +135,9 @@
   <DankPyon_Sign_Scribe.label>cartel "Escribanía"</DankPyon_Sign_Scribe.label>
   <DankPyon_Sign_Scribe.description>Un cartel colgante de madera que simboliza el propósito de una habitación.</DankPyon_Sign_Scribe.description>
 
+  <!-- Columns -->
+
+  <DankPyon_DividerColumn.label>columna divisoria alta (1x2)</DankPyon_DividerColumn.label>
+  <DankPyon_DividerColumn.description>Una columna capaz de sostener un techo. No obstruye la vista ni el movimiento y tiene un aspecto muy atractivo.</DankPyon_DividerColumn.description>
+
 </LanguageData>
