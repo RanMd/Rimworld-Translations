@@ -17,8 +17,13 @@
   <DankPyon_Smelter.label>fundidor</DankPyon_Smelter.label>
   <DankPyon_Smelter.description>Un horno de piedra para refinar chatarra y materias primas.</DankPyon_Smelter.description>
 
-  <DankPyon_RusticFermentingBarrel.label>barril de fermentación</DankPyon_RusticFermentingBarrel.label>
-  <DankPyon_RusticFermentingBarrel.description>Un barril para fermentar todo tipo de mezclas frescas en varios tipos de alcohol. Sus propiedades de madera ayudan a crear elementos rústicos en el sabor.</DankPyon_RusticFermentingBarrel.description>
+  <!-- <DankPyon_RusticFermentingBarrel.label>barril de fermentación</DankPyon_RusticFermentingBarrel.label> -->
+  <!-- <DankPyon_RusticFermentingBarrel.description>Un barril para fermentar todo tipo de mezclas frescas en varios tipos de alcohol. Sus propiedades de madera ayudan a crear elementos rústicos en el sabor.</DankPyon_RusticFermentingBarrel.description> -->
+
+  <!-- Fermentation barrel -->
+
+  <BarrelProcessor.label>barril de fermentación</BarrelProcessor.label>
+  <BarrelProcessor.description>Un barril para fermentar diversos productos. No se limita a fermentar un producto específico, por lo que podría llamarse un "fermentador universal".</BarrelProcessor.description>
 
   <!-- Windmill -->
 

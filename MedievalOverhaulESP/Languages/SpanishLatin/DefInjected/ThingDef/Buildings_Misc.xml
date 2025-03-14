@@ -43,8 +43,8 @@
   <DankPyon_Stack_Paper.label>pila de papel</DankPyon_Stack_Paper.label>
   <DankPyon_Stack_Paper.description>Una pila de papel de escritura de fácil acceso. Colocarla cerca de la mesa de copia puede aumentar la velocidad de trabajo.</DankPyon_Stack_Paper.description>
 
-  <DankPyon_RusticCupboard.label>estante con utensilios</DankPyon_RusticCupboard.label>
-  <DankPyon_RusticCupboard.description>Un estante de pared lleno de utensilios. Colocarlo cerca de la mesa de cocina puede aumentar la velocidad de trabajo.</DankPyon_RusticCupboard.description>
+  <!-- <DankPyon_RusticCupboard.label>estante con utensilios</DankPyon_RusticCupboard.label> -->
+  <!-- <DankPyon_RusticCupboard.description>Un estante de pared lleno de utensilios. Colocarlo cerca de la mesa de cocina puede aumentar la velocidad de trabajo.</DankPyon_RusticCupboard.description> -->
 
   <DankPyon_RusticCookingTools.label>utensilios de cocina</DankPyon_RusticCookingTools.label>
   <DankPyon_RusticCookingTools.description>Una mesa llena de útiles utensilios de cocina. Aumenta la velocidad de trabajo cuando se coloca cerca de una mesa de cocina rústica.</DankPyon_RusticCookingTools.description>

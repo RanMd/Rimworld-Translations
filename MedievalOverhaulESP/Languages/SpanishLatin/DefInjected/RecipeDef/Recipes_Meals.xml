@@ -75,15 +75,15 @@
 
   <!-- Weak Stew -->
 
-  <DankPyon_CookMealWeakStew.label>cocinar estofado ligero x4</DankPyon_CookMealWeakStew.label>
-  <DankPyon_CookMealWeakStew.description>Cocinar un estofado ligero con pocos ingredientes.</DankPyon_CookMealWeakStew.description>
-  <DankPyon_CookMealWeakStew.jobString>Cocinando estofado ligero.</DankPyon_CookMealWeakStew.jobString>
+  <!-- <DankPyon_CookMealWeakStew.label>cocinar estofado ligero x4</DankPyon_CookMealWeakStew.label> -->
+  <!-- <DankPyon_CookMealWeakStew.description>Cocinar un estofado ligero con pocos ingredientes.</DankPyon_CookMealWeakStew.description> -->
+  <!-- <DankPyon_CookMealWeakStew.jobString>Cocinando estofado ligero.</DankPyon_CookMealWeakStew.jobString> -->
 
   <!-- Weak Stew Bulk -->
 
-  <DankPyon_CookMealWeakStewBulk.label>cocinar estofado ligero x8</DankPyon_CookMealWeakStewBulk.label>
-  <DankPyon_CookMealWeakStewBulk.description>Cocinar un estofado ligero con pocos ingredientes.</DankPyon_CookMealWeakStewBulk.description>
-  <DankPyon_CookMealWeakStewBulk.jobString>Cocinando estofado ligero.</DankPyon_CookMealWeakStewBulk.jobString>
+  <!-- <DankPyon_CookMealWeakStewBulk.label>cocinar estofado ligero x8</DankPyon_CookMealWeakStewBulk.label> -->
+  <!-- <DankPyon_CookMealWeakStewBulk.description>Cocinar un estofado ligero con pocos ingredientes.</DankPyon_CookMealWeakStewBulk.description> -->
+  <!-- <DankPyon_CookMealWeakStewBulk.jobString>Cocinando estofado ligero.</DankPyon_CookMealWeakStewBulk.jobString> -->
 
   <!-- Fried Eggs -->
 
@@ -183,15 +183,15 @@
 
   <!-- Hearty Stew -->
 
-  <DankPyon_CookMealHeartyStew.label>cocinar estofado nutritivo</DankPyon_CookMealHeartyStew.label>
-  <DankPyon_CookMealHeartyStew.description>Usa carne y vegetales para cocinar un plato algo complejo.</DankPyon_CookMealHeartyStew.description>
-  <DankPyon_CookMealHeartyStew.jobString>Cocinando estofado nutritivo.</DankPyon_CookMealHeartyStew.jobString>
+  <!-- <DankPyon_CookMealHeartyStew.label>cocinar estofado nutritivo</DankPyon_CookMealHeartyStew.label> -->
+  <!-- <DankPyon_CookMealHeartyStew.description>Usa carne y vegetales para cocinar un plato algo complejo.</DankPyon_CookMealHeartyStew.description> -->
+  <!-- <DankPyon_CookMealHeartyStew.jobString>Cocinando estofado nutritivo.</DankPyon_CookMealHeartyStew.jobString> -->
 
   <!-- Hearty Stew Bulk -->
 
-  <DankPyon_CookMealHeartyStewBulk.label>cocinar estofado nutritivo x8</DankPyon_CookMealHeartyStewBulk.label>
-  <DankPyon_CookMealHeartyStewBulk.description>Usa carne y vegetales para cocinar un plato algo complejo.</DankPyon_CookMealHeartyStewBulk.description>
-  <DankPyon_CookMealHeartyStewBulk.jobString>Cocinando estofado nutritivo.</DankPyon_CookMealHeartyStewBulk.jobString>
+  <!-- <DankPyon_CookMealHeartyStewBulk.label>cocinar estofado nutritivo x8</DankPyon_CookMealHeartyStewBulk.label> -->
+  <!-- <DankPyon_CookMealHeartyStewBulk.description>Usa carne y vegetales para cocinar un plato algo complejo.</DankPyon_CookMealHeartyStewBulk.description> -->
+  <!-- <DankPyon_CookMealHeartyStewBulk.jobString>Cocinando estofado nutritivo.</DankPyon_CookMealHeartyStewBulk.jobString> -->
 
   <!-- Bread Soup -->
 

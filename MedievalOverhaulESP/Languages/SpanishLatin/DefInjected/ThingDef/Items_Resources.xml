@@ -37,9 +37,9 @@
   <DankPyon_IceBlock.description>Agua congelada en bloques de hielo. Se derrite a temperaturas por encima del punto de congelación.</DankPyon_IceBlock.description>
 
   <DankPyon_Waterskin.label>bote de agua</DankPyon_Waterskin.label>
-  <DankPyon_Waterskin.description>Agua recogida y puesta en un recipiente hecho de piel animal.</DankPyon_Waterskin.description>
-  <DankPyon_Waterskin.ingestible.ingestCommandString>Beber {0}</DankPyon_Waterskin.ingestible.ingestCommandString>
-  <DankPyon_Waterskin.ingestible.ingestReportString>Bebiendo {0}.</DankPyon_Waterskin.ingestible.ingestReportString>
+  <DankPyon_Waterskin.description>Agua recogida y puesta en una bolsa.</DankPyon_Waterskin.description>
+  <!-- <DankPyon_Waterskin.ingestible.ingestCommandString>Beber {0}</DankPyon_Waterskin.ingestible.ingestCommandString> -->
+  <!-- <DankPyon_Waterskin.ingestible.ingestReportString>Bebiendo {0}.</DankPyon_Waterskin.ingestible.ingestReportString> -->
 
   <!-- Beekeeping -->
 
@@ -93,8 +93,8 @@
   <DankPyon_Silk.label>seda</DankPyon_Silk.label>
   <DankPyon_Silk.description>Una tela suave y lujosa que se utiliza frecuentemente para confeccionar ropa elegante.</DankPyon_Silk.description>
 
-  <DankPyon_Spider_Silk.label>seda de araña</DankPyon_Spider_Silk.label>
-  <DankPyon_Spider_Silk.description>Tejido hecho de seda de araña, que posee una durabilidad y elasticidad extraordinarias, proporcionando a los mercenarios una protección resistente en un mundo hostil sin obstaculizar el movimiento.</DankPyon_Spider_Silk.description>
+  <!-- <DankPyon_Spider_Silk.label>seda de araña</DankPyon_Spider_Silk.label> -->
+  <!-- <DankPyon_Spider_Silk.description>Tejido hecho de seda de araña, que posee una durabilidad y elasticidad extraordinarias, proporcionando a los mercenarios una protección resistente en un mundo hostil sin obstaculizar el movimiento.</DankPyon_Spider_Silk.description> -->
 
   <!-- Citrine -->
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_HoodBase.description>Haz una capucha de piel de un animal.</DankPyon_HoodBase.description>
-  <DankPyon_HoodBase.jobString>Fabricación de una capucha de piel.</DankPyon_HoodBase.jobString>
+  <!-- <DankPyon_HoodBase.description>Haz una capucha de piel de un animal.</DankPyon_HoodBase.description> -->
+  <!-- <DankPyon_HoodBase.jobString>Fabricación de una capucha de piel.</DankPyon_HoodBase.jobString> -->
 
   <DankPyon_MakeHeadgear_WolfTimber.label>Fabricar capucha de lobo (Timber)</DankPyon_MakeHeadgear_WolfTimber.label>
   <DankPyon_MakeHeadgear_WolfTimber.description>Fabricar capucha de piel de lobo.</DankPyon_MakeHeadgear_WolfTimber.description>

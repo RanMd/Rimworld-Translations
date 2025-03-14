@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FloorPlasteel.label>Suelo de plastiacero</FloorPlasteel.label>
-  <FloorPlasteel.description>Este suelo hecho de un metal misterioso nunca se ensucia, por lo que es adecuado para su uso en entornos estériles. También es muy agradable a la vista (con un brillo limpio y plateado). Es caro de construir y requiere bastante tiempo para hacerlo.</FloorPlasteel.description>
+  <!-- <FloorPlasteel.label>suelo de plastiacero</FloorPlasteel.label> -->
+  <!-- <FloorPlasteel.description>Este suelo hecho de un metal misterioso nunca se ensucia, por lo que es adecuado para su uso en entornos estériles. También es muy agradable a la vista (con un brillo limpio y plateado). Es caro de construir y requiere bastante tiempo para hacerlo.</FloorPlasteel.description> -->
 
 </LanguageData>

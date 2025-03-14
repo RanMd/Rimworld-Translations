@@ -17,9 +17,9 @@
 
   <!-- Coal -->
 
-  <DankPyon_MakeChunk_Coal.label>Hacer carbón</DankPyon_MakeChunk_Coal.label>
-  <DankPyon_MakeChunk_Coal.description>Produce carbón quemando madera.</DankPyon_MakeChunk_Coal.description>
-  <DankPyon_MakeChunk_Coal.jobString>produciendo carbón</DankPyon_MakeChunk_Coal.jobString>
+  <!-- <DankPyon_MakeChunk_Coal.label>Hacer carbón</DankPyon_MakeChunk_Coal.label> -->
+  <!-- <DankPyon_MakeChunk_Coal.description>Produce carbón quemando madera.</DankPyon_MakeChunk_Coal.description> -->
+  <!-- <DankPyon_MakeChunk_Coal.jobString>produciendo carbón</DankPyon_MakeChunk_Coal.jobString> -->
 
   <!-- Smelt any ore -->
 
@@ -55,13 +55,13 @@
   <DankPyon_MakeIngots_SilverExtraBulk.description>Funde menas en lingotes utilizables.</DankPyon_MakeIngots_SilverExtraBulk.description>
   <DankPyon_MakeIngots_SilverExtraBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeIngots_SilverExtraBulk.jobString>
 
-  <DankPyon_MakeCoins_SilverBulk.label>Fundir mena de plata en monedas x30</DankPyon_MakeCoins_SilverBulk.label>
-  <DankPyon_MakeCoins_SilverBulk.description>Funde menas de plata para hacer monedas.</DankPyon_MakeCoins_SilverBulk.description>
-  <DankPyon_MakeCoins_SilverBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeCoins_SilverBulk.jobString>
-
-  <DankPyon_MakeCoin_SilverExtraBulk.label>Fundir mena de plata en monedas x60</DankPyon_MakeCoin_SilverExtraBulk.label>
-  <DankPyon_MakeCoin_SilverExtraBulk.description>Funde menas de plata para hacer monedas.</DankPyon_MakeCoin_SilverExtraBulk.description>
-  <DankPyon_MakeCoin_SilverExtraBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeCoin_SilverExtraBulk.jobString>
+  <!-- <DankPyon_MakeCoins_SilverBulk.label>Fundir mena de plata en monedas x30</DankPyon_MakeCoins_SilverBulk.label> -->
+  <!-- <DankPyon_MakeCoins_SilverBulk.description>Funde menas de plata para hacer monedas.</DankPyon_MakeCoins_SilverBulk.description> -->
+  <!-- <DankPyon_MakeCoins_SilverBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeCoins_SilverBulk.jobString> -->
+  <!---->
+  <!-- <DankPyon_MakeCoin_SilverExtraBulk.label>Fundir mena de plata en monedas x60</DankPyon_MakeCoin_SilverExtraBulk.label> -->
+  <!-- <DankPyon_MakeCoin_SilverExtraBulk.description>Funde menas de plata para hacer monedas.</DankPyon_MakeCoin_SilverExtraBulk.description> -->
+  <!-- <DankPyon_MakeCoin_SilverExtraBulk.jobString>Fundiendo menas de plata.</DankPyon_MakeCoin_SilverExtraBulk.jobString> -->
 
   <!-- Gold Ingots -->
 

@@ -3,27 +3,41 @@
 
   <!-- Lecturn -->
 
-  <DankPyon_Lecturn.label>Atril</DankPyon_Lecturn.label>
+  <DankPyon_Lecturn.label>atril</DankPyon_Lecturn.label>
   <DankPyon_Lecturn.description>Un atril simple para colocar escritos o libros de manera que sean fáciles de leer.</DankPyon_Lecturn.description>
 
   <!-- Books -->
 
-  <DankPyon_BookBuildingBase.description>Los planos son importantes esquemas que le permiten investigar ciertos proyectos de investigación en Medieval Overhaul. Para conectarlos con una mesa de investigación, simplemente colóquelos alrededor de ella. Una vez establecida la conexión, puede comenzar a investigar el proyecto correspondiente. ¿Cómo obtengo planos? COMPRA La forma más sencilla es forjar alianzas con una de las cuatro casas (Oswin, Hesse, Amboisse, Soren). Una vez que haya alcanzado el estado de aliado, puede solicitar una caravana de eruditos utilizando las aves mensajeras y la mesa del escriba. Estas caravanas siempre ofrecen planos. SAQUEO Alternativamente, puede obtener planos saqueando ruinas. Ocasionalmente, recibirá misiones para asaltar pequeños puestos avanzados o ruinas. Estos lugares a menudo contienen botines valiosos, incluidos planos. Con un poco de suerte, puede encontrar planos durante estas expediciones. Recuerde que debe buscar activamente en los muebles de estas ruinas para encontrarlos.</DankPyon_BookBuildingBase.description>
-  <DankPyon_Book_MilitaryBlades.label>Plano de hojas militares</DankPyon_Book_MilitaryBlades.label>
-  <DankPyon_Book_NobleBlades.label>Plano de hojas nobles</DankPyon_Book_NobleBlades.label>
-  <DankPyon_Book_MilitaryMaces.label>Plano de un mazo militar</DankPyon_Book_MilitaryMaces.label>
-  <DankPyon_Book_NobleMaces.label>Plano de un mazo noble</DankPyon_Book_NobleMaces.label>
-  <DankPyon_Book_MilitaryPolearms.label>Plano de armas de asta militares</DankPyon_Book_MilitaryPolearms.label>
-  <DankPyon_Book_NoblePolearms.label>Plano de armas de asta nobles</DankPyon_Book_NoblePolearms.label>
-  <DankPyon_Book_Crossbow.label>Plano de una ballesta</DankPyon_Book_Crossbow.label>
-  <DankPyon_Book_HeavyCrossbow.label>Plano de una ballesta pesada</DankPyon_Book_HeavyCrossbow.label>
-  <DankPyon_Book_Steel.label>Planos de metalurgia</DankPyon_Book_Steel.label>
-  <DankPyon_Book_Gunpowder.label>Plano de pólvora</DankPyon_Book_Gunpowder.label>
-  <DankPyon_Book_Tar.label>Plano de alquitrán</DankPyon_Book_Tar.label>
-  <DankPyon_Book_GreatBow.label>Plano de un arco largo</DankPyon_Book_GreatBow.label>
-  <DankPyon_Book_WarBow.label>Planos de arcos de guerra</DankPyon_Book_WarBow.label>
-  <DankPyon_Book_IntermediateCooking.label>Recetas de cocina intermedia</DankPyon_Book_IntermediateCooking.label>
-  <DankPyon_Book_AdvancedCooking.label>Recetas de cocina avanzada</DankPyon_Book_AdvancedCooking.label>
-  <DankPyon_Book_BallistaRepeater.label>Plano de una ballesta repetidora</DankPyon_Book_BallistaRepeater.label>
+  <!-- <DankPyon_Book_MilitaryBlades.label>plano de hojas militares</DankPyon_Book_MilitaryBlades.label> -->
+  <!---->
+  <!-- <DankPyon_Book_NobleBlades.label>plano de hojas nobles</DankPyon_Book_NobleBlades.label> -->
+  <!---->
+  <!-- <DankPyon_Book_MilitaryMaces.label>plano de un mazo militar</DankPyon_Book_MilitaryMaces.label> -->
+  <!---->
+  <!-- <DankPyon_Book_NobleMaces.label>plano de un mazo noble</DankPyon_Book_NobleMaces.label> -->
+  <!---->
+  <!-- <DankPyon_Book_MilitaryPolearms.label>plano de armas de asta militares</DankPyon_Book_MilitaryPolearms.label> -->
+  <!---->
+  <!-- <DankPyon_Book_NoblePolearms.label>plano de armas de asta nobles</DankPyon_Book_NoblePolearms.label> -->
+  <!---->
+  <!-- <DankPyon_Book_Crossbow.label>plano de una ballesta</DankPyon_Book_Crossbow.label> -->
+  <!---->
+  <!-- <DankPyon_Book_HeavyCrossbow.label>plano de una ballesta pesada</DankPyon_Book_HeavyCrossbow.label> -->
+  <!---->
+  <!-- <DankPyon_Book_Steel.label>planos de metalurgia</DankPyon_Book_Steel.label> -->
+  <!---->
+  <!-- <DankPyon_Book_Gunpowder.label>plano de pólvora</DankPyon_Book_Gunpowder.label> -->
+  <!---->
+  <!-- <DankPyon_Book_Tar.label>plano de alquitrán</DankPyon_Book_Tar.label> -->
+  <!---->
+  <!-- <DankPyon_Book_GreatBow.label>plano de un arco largo</DankPyon_Book_GreatBow.label> -->
+  <!---->
+  <!-- <DankPyon_Book_WarBow.label>planos de arcos de guerra</DankPyon_Book_WarBow.label> -->
+  <!---->
+  <!-- <DankPyon_Book_IntermediateCooking.label>recetas de cocina intermedia</DankPyon_Book_IntermediateCooking.label> -->
+  <!---->
+  <!-- <DankPyon_Book_AdvancedCooking.label>recetas de cocina avanzada</DankPyon_Book_AdvancedCooking.label> -->
+  <!---->
+  <!-- <DankPyon_Book_BallistaRepeater.label>plano de una ballesta repetidora</DankPyon_Book_BallistaRepeater.label> -->
 
 </LanguageData>
