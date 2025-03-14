@@ -116,8 +116,8 @@
 
   <!-- Production Chains -->
 
+  <DankPyon_Hide>{0}</DankPyon_Hide>
   <DankPyon_Hide_Description>Estas pieles y cueros crudos fueron obtenidos de un ser vivo y pueden ser procesados en cuero curtido con las habilidades y herramientas adecuadas.</DankPyon_Hide_Description>
-  <DankPyon_Hide>{0} Pieles</DankPyon_Hide>
   <DankPyon_PlainHide>Piel simple</DankPyon_PlainHide>
   <DankPyon_Plank_Description>Útil para la construcción de estructuras y armas. Es un buen combustible para fogatas.</DankPyon_Plank_Description>
   <DankPyon_Log>{0} Tronco</DankPyon_Log>

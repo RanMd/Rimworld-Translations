@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.0>questName->El [bandit] [camp]</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.0>
-  <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.1>questName->[bandit][camp]</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.1>
+  <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.0>questName->El [bandit] de [camp]</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.0>
+  <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.1>questName->[camp] de [bandit]</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.1>
   <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.2>questName->[asker_nameDef] y el [camp]</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.2>
+
   <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.3>camp->Campamento</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.3>
   <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.4>camp->Naufragio</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.4>
   <DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.5>camp->Escondite</DankPyon_OpportunitySite_Snake_BigRuin.questNameRules.rulesStrings.5>

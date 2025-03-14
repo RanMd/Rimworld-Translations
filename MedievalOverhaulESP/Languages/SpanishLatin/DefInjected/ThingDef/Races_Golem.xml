@@ -27,13 +27,9 @@
 
   <!-- Silver Golem -->
 
-  <DankPyon_Golem_Silver.label>golem de plata</DankPyon_Golem_S
-  ilver.label>
-  
-  <DankPyon_Golem_Silver.description>Un coloso de plata, bruta
-  l y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Silver.description>
-  <DankPyon_Golem_Silver.tools.left_hand-0.label>m
-  ano izquierda</DankPyon_Golem_Silver.tools.left_hand-0.label>
+  <DankPyon_Golem_Silver.label>golem de plata</DankPyon_Golem_Silver.label>
+  <DankPyon_Golem_Silver.description>Un coloso de plata, bruta l y poderoso, que aplasta todo a su paso con fuerza imparable.</DankPyon_Golem_Silver.description>
+  <DankPyon_Golem_Silver.tools.left_hand-0.label>mano izquierda</DankPyon_Golem_Silver.tools.left_hand-0.label>
   <DankPyon_Golem_Silver.tools.right_hand-0.label>mano derecha</DankPyon_Golem_Silver.tools.right_hand-0.label>
   <DankPyon_Golem_Silver.tools.head-0.label>cabeza</DankPyon_Golem_Silver.tools.head-0.label>
 
