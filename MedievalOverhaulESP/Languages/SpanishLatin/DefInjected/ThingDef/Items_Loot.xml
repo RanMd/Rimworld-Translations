@@ -119,9 +119,9 @@
   <DankPyon_Treatise_Intellectual.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Intellectual.description>
   <DankPyon_Treatise_Intellectual.comps.CompUsable.useLabel>Leer tomo</DankPyon_Treatise_Intellectual.comps.CompUsable.useLabel>
 
-  <DankPyon_Treatise_Social.label>tomo encantado (plantas)</DankPyon_Treatise_Social.label>
-  <DankPyon_Treatise_Social.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Social.description>
-  <DankPyon_Treatise_Social.comps.CompUsable.useLabel>Leer tomo</DankPyon_Treatise_Social.comps.CompUsable.useLabel>
+  <DankPyon_Treatise_Plants.label>tomo encantado (plantas)</DankPyon_Treatise_Plants.label>
+  <DankPyon_Treatise_Plants.description>Un tomo encantado de la Edad de Oro. Cada página parece estar inmensamente impregnada de ambigüedad y de signos de magia. Sus frases incomprensibles se transforman lentamente en un lenguaje reconocible al mirarlas. Sin embargo, pronunciar sus palabras seguramente provocará un cambio y hará que el libro sea inútil.</DankPyon_Treatise_Plants.description>
+  <DankPyon_Treatise_Plants.comps.CompUsable.useLabel>Leer tomo</DankPyon_Treatise_Plants.comps.CompUsable.useLabel>
 
   <!-- Tornnote -->
 
