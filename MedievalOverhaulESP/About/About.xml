@@ -4,7 +4,6 @@
   <packageId>PerroMojado.medievalOverhaulSpanish</packageId>
   <author>PerroMojado</author>
   <supportedVersions>
-    <li>1.4</li>
     <li>1.5</li>
   </supportedVersions>
   <modDependencies>
@@ -14,7 +13,8 @@
       <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=3219596926</steamWorkshopUrl>
     </li>
   </modDependencies>
-  <loadBefore><!-- No mods to load before so far --></loadBefore>
+  <loadBefore><!-- No mods to load before so far -->
+  </loadBefore>
   <loadAfter>
     <li>DankPyon.Medieval.Overhaul</li>
   </loadAfter>

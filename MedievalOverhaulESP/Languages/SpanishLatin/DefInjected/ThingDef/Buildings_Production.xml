@@ -17,7 +17,7 @@
   <DankPyon_ButchersBlock.description>Un tronco de madera utilizado para desmembrar criaturas muertas y obtener carne cruda, huesos y otros materiales.</DankPyon_ButchersBlock.description>
 
   <DankPyon_Well.label>pozo</DankPyon_Well.label>
-  <DankPyon_Well.description>Se ha cavado un pequeño agujero fortificado en el suelo para acceder al agua.</DankPyon_Well.description>
+  <DankPyon_Well.description>Un pequeño agujero fortificado cavado en el suelo para acceder al agua.</DankPyon_Well.description>
 
   <DankPyon_WaterSpot.label>pozo de agua/hielo</DankPyon_WaterSpot.label>
   <DankPyon_WaterSpot.description>Un lugar donde se puede obtener agua o hielo, necesita estar ubicado en un terreno de agua o hielo. Debido a la falta de herramientas, la velocidad de producción aquí es muy lenta.</DankPyon_WaterSpot.description>
