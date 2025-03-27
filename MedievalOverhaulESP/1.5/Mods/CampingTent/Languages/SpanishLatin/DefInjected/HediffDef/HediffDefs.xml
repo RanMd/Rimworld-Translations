@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TENT_ComfyBothbutlesser.label>bajo una tienda</TENT_ComfyBothbutlesser.label>
+  <TENT_ComfyBothbutlesser.description>Después de todo, al menos puede mantener la temperatura</TENT_ComfyBothbutlesser.description>
+
+  <TENT_ComfyBoth.label>tienda cómoda</TENT_ComfyBoth.label>
+  <TENT_ComfyBoth.description>La tecnología textil avanzada hace que la tienda sea cómoda a cualquier temperatura</TENT_ComfyBoth.description>
+
+  <TENT_ComfyCold.label>tienda cálida</TENT_ComfyCold.label>
+  <TENT_ComfyCold.description>Un saco de dormir está dentro en la tienda</TENT_ComfyCold.description>
+
+  <TENT_ComfyHot.label>tienda fresca</TENT_ComfyHot.label>
+  <TENT_ComfyHot.description>La tienda tiene un ambiente fresco</TENT_ComfyHot.description>
+
+</LanguageData>

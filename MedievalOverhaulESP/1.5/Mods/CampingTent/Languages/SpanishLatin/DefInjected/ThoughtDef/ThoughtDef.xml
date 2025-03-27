@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Canopybuff.stages.0.label>bajo un toldo</Canopybuff.stages.0.label>
+  <Canopybuff.stages.0.description>Al menos tengo un lugar para dormir.</Canopybuff.stages.0.description>
+
+  <Teepeebuff.stages.0.label>bajo un tipi</Teepeebuff.stages.0.label>
+  <Teepeebuff.stages.0.description>¡Como en los viejos tiempos!</Teepeebuff.stages.0.description>
+
+  <Tentbuff.stages.0.label>bajo una tienda</Tentbuff.stages.0.label>
+  <Tentbuff.stages.0.description>No está mal.</Tentbuff.stages.0.description>
+
+  <VikingTentbuff.stages.0.label>bajo una tienda vikinga</VikingTentbuff.stages.0.label>
+  <VikingTentbuff.stages.0.description>Hace calor en la tienda, ufff...</VikingTentbuff.stages.0.description>
+
+  <ModernTentbuff.stages.0.label>bajo una tienda moderna</ModernTentbuff.stages.0.label>
+  <ModernTentbuff.stages.0.description>Es muy cómoda.</ModernTentbuff.stages.0.description>
+
+</LanguageData>

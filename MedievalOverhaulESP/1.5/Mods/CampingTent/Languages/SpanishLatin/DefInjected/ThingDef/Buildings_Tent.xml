@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tent -->
+
+  <Canopy.label>toldo</Canopy.label>
+  <Canopy.description>Es mejor que nada si necesitas pasar la noche al aire libre.</Canopy.description>
+
+  <Teepee.label>tipi</Teepee.label>
+  <Teepee.description>Así vivían nuestros ancestros.</Teepee.description>
+
+  <Tent.label>tienda</Tent.label>
+  <Tent.description>Una tienda simple: unos palos y un trozo de tela. ¿Qué podría salir mal?</Tent.description>
+
+  <VikingTent.label>tienda vikinga</VikingTent.label>
+  <VikingTent.description>Una tienda con un marco de madera reforzado, común en regiones frías.</VikingTent.description>
+
+  <ModernTent.label>tienda moderna</ModernTent.label>
+  <ModernTent.description>Una tienda fabricada con tecnología moderna que no la hace más pesada que un saco de dormir.</ModernTent.description>
+
+</LanguageData>
