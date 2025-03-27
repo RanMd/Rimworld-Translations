@@ -17,6 +17,8 @@
   </loadBefore>
   <loadAfter>
     <li>DankPyon.Medieval.Overhaul</li>
+    <li>dubwise.dubsbadhygiene</li>
+    <li>Aoba.Tent</li>
   </loadAfter>
   <description>Traducción al spanish del mod Medieval Overhaul</description>
 </ModMetaData>
