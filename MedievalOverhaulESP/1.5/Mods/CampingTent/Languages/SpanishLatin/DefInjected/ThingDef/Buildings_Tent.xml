@@ -18,4 +18,16 @@
   <ModernTent.label>tienda moderna</ModernTent.label>
   <ModernTent.description>Una tienda fabricada con tecnología moderna que no la hace más pesada que un saco de dormir.</ModernTent.description>
 
+  <WoodenCanopy.label>dosel de madera</WoodenCanopy.label>
+  <WoodenCanopy.description>Un dosel de madera, no esperes dormir cómodamente dentro de él.</WoodenCanopy.description>
+
+  <FoldingTent.label>tienda plegable</FoldingTent.label>
+  <FoldingTent.description>Una tienda de campaña ligera, ligera pero un poco incómoda.</FoldingTent.description>
+
+  <CampingLuggages.label>equipaje de campamento</CampingLuggages.label>
+  <CampingLuggages.description>Equipaje que hace que las tiendas cercanas sean más cómodas. Colocar más de una tienda cerca de la misma no tiene ningún efecto.</CampingLuggages.description>
+
+  <WoodPile.label>pila de madera</WoodPile.label>
+  <WoodPile.description>Una pila de leña que hace que las tiendas cercanas sean más cómodas. Colocar varias cerca de la misma tienda no tiene ningún efecto.</WoodPile.description>
+
 </LanguageData>

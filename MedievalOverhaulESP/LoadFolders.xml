@@ -14,6 +14,7 @@
     <!-- <li IfModActive="vanillaexpanded.vmemese">1.5/Mods/VanillaMemesExpanded</li> -->
     <li IfModActive="dubwise.dubsbadhygiene">1.5/Mods/DubsBadHygiene</li>
     <li IfModActive="dubwise.dubsbadhygiene.lite">1.5/Mods/DubsBadHygieneLite</li>
+    <li IfModActive="Aoba.Tent">1.5/Mods/CampingTent</li>
     <!-- <li IfModActive="regrowth.botr.core">1.5/Mods/ReGrowth</li> -->
     <!-- <li IfModActive="divinederivative.autowool">1.5/Mods/BetterWoolProduction</li> -->
     <!-- <li IfModActive="swablu.ambience">1.5/Mods/AmbientRim</li> -->
